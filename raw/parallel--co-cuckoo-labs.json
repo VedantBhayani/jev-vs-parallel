@@ -1,0 +1,101 @@
+{
+ "seconds": 0.97,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.8860569648472691
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.00555527768165053
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.9978221250017707
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.005128709404624418
+   }
+  },
+  "usage": {
+   "input_tokens": 3961,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://www.ycombinator.com/companies/cuckoo-labs",
+    "title": "Cuckoo Labs: Real-time AI translator for global sales and marketing | Y Combinator",
+    "excerpts": [
+     "Cuckoo Labs\nReal-time AI translator for global sales and marketing\nWinter 2025\nActive\nB2B Sales Marketing AI\nCompany\nJobs 0\nhttps://www.cuckoo.so/\nReal-time AI translator for global sales and marketing\nCuckoo is a real-time AI translator for global sales, marketing, and support. Companies like Snowflake and PagerDuty use Cuckoo in Zoom and in-person meetings for even the most technical discussions.\nCuckoo instantly learns the technical details of your conversation from your keywords and documents and interprets into over 20 languages—customized for your specific industry and organization.\nActive Founders\nGunwoo Kim\nGunwoo Kim\nFounder/CEO\nCo-founder & CTO at Cuckoo, real-time AI translator for global sales & marketing.\nCo-founder & CEO at Cuckoo, real-time AI translator for global sales and marketing Cuckoo helps companies like Snowflake and Cognition build on their U.S. momentum and scale globally, reaching more customers without language barriers.\nYong Hee Lee\nYong Hee Lee\nTwitter account\nFounder/COO\nCo-founder & CEO at Cuckoo, real-time AI translator for global sales and marketing Cuckoo helps companies like Snowflake and Cognition build on their U.S. momentum and scale globally, reaching more customers without language barriers.\nCompany Launches\nCuckoo: Real-time AI translator for global sales, marketing, and support\nSee original launch post\nGunwoo and Yong Hee first met in 2015 through a student club at KAIST, where we organized an annual international conference for undergraduate students. Since then, we have been talking about starting a company together.\nuploaded image\nYC Winter 2025 Application Video\nCuckoo Labs\nCuckoo Labs\nFounded: 2024\nBatch: Winter 2025\nTeam Size: 2\nStatus: Active\nLocation: Seoul, South Korea\nX (Twitter) logo"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/cuckoo-labs/jobs",
+    "title": "Jobs at Cuckoo Labs | Y Combinator",
+    "excerpts": [
+     "Cuckoo Labs\nReal-time AI translator for global sales and marketing\nCompany\nJobs 0\nhttps://www.cuckoo.so/\nJobs at Cuckoo Labs\nNo jobs at Cuckoo Labs are currently posted on the YC platform.\nCuckoo Labs\nCuckoo Labs\nFounded: 2024\nBatch: W25\nTeam Size: 2\nStatus: Active\nLocation: Seoul, South Korea\nX (Twitter) logo\nFounders\nGunwoo Kim\nGunwoo Kim\nCEO\nGunwoo Kim\nGunwoo Kim\nCEO\nYong Hee Lee\nYong Hee Lee\nTwitter account\nCOO\nYong Hee Lee\nYong Hee Lee\nTwitter account\nCOO\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "http://www.cuckoo.so/",
+    "title": "Cuckoo — Real-time AI translator for global teams",
+    "excerpts": [
+     "Y Combinator Backed by Y Combinator\nReal-time\nAI translator for global teams\nMeet Cuckoo, AI live translator for global sales, marketing, and support. Connect with your customers and teams effortlessly across regions and languages. Connect with your customers and teams effortlessly across languages.\nWeights & Biases Snowflake PagerDuty Grafana Labs KKday ClickHouse Deloitte\nWeights & Biases\nSnowflake\nPagerDuty\nGrafana Labs\nKKday\nClickHouse\nDeloitte\ndbt Labs\nWeights & Biases\nSnowflake\nPagerDuty\nGrafana Labs\nKKday\nClickHouse\nDeloitte\ndbt Labs\nWeights & Biases\nSnowflake\nPagerDuty\nGrafana Labs\nKKday\nClickHouse\nDeloitte\ndbt Labs\nWeights & Biases\nSnowflake\nPagerDuty\nGrafana Labs\nKKday\nClickHouse\nDeloitte\ndbt Labs\nQ1 Global Review — APAC Team Sync\nAbout Context Ask Summary\nShare\nen ja ko All languages\nJ\nJohn\n0:00\nGood morning everyone. Let's kick off the Q1 review.\n皆さん、おはようございます。Q1レビューを始めましょう。\n안녕하세요 여러분. Q1 리뷰를 시작하겠습니다.\nY\nYuki\n0:12\nはい、日本市場の数字を共有します。前四半期比で35%の成長がありました。\nYes, I'll share the Japan market numbers. We saw 35% growth quarter over quarter.\n네, 일본 시장 수치를 공유하겠습니다. 전 분기 대비 35% 성장했습니다.\nY\nYong Hee\n0:28\n한국에서도 비슷한 추세입니다. 엔터프라이즈 고객이 크게 늘었습니다.\nWe're seeing a similar trend in Korea. Enterprise customers have grown significantly.\n韓国でも同様のトレンドです。エンタープライズ顧客が大幅に増加しました。\nContext\nCuckoo captures your voice and translates it into selected languages while preserving context.\nSpeak any language\nIntelligent, multilingual,\nPagerDuty Grafana Labs opened its Japan office with Cuckoo Building a new region, fully connected from Day 1 Grafana Labs\nTalk beyond borders\nwith Cuckoo today\nInvite Cuckoo to your next meeting and speak the language of the world.\nTry it free ›\nCuckoo\nReal-time AI translator for global teams\nhello@cuckoo.so\nPrivacy & Terms\n© 2026Cuckoo Labs. All rights reserved"
+    ]
+   },
+   {
+    "url": "http://ycombinator.com/launches/Mjg-cuckoo-real-time-ai-translator-for-global-sales-marketing-and-support",
+    "title": "Launch YC: Cuckoo: Real-time AI translator for global sales, marketing, and support | Y Combinator",
+    "excerpts": [
+     "164\nCuckoo: Real-time AI translator for global sales, marketing, and support\nCuckoo helps companies like Snowflake and PagerDuty talk to their global customers, even in the most technical discussions.\nYong Hee Lee\nCuckoo Labs\nover 1 year ago\nEmbed\nhttps://www.cuckoo.so/\n#b2b #sales #marketing #artificial_intelligence\nTLDR\nCuckoo is a real-time AI translator for global sales, marketing, and support. Companies like Snowflake and PagerDuty use Cuckoo in Zoom and in-person meetings for even the most technical discussions.\nHere an example of us having a product, sales, and partner meeting with our W25 batchmates and one of our partners in Japan: https://youtu.be/7fq7wr_S8p0\n—\nHey everyone! We are Yong Hee and Gunwoo and we are building Cuckoo to help global teams talk to their customers worldwide. Give it a try in your next global meeting 🌏\nWhy?\nLanguage barriers are a big challenge even for global companies. We experienced this firsthand in Korea, where we hosted community meetups, inviting product leaders around the world.\nOn the one hand, many nuances and details can get lost between languages, especially during technical conversations.\nCuckoo provides real-time translation tailored for you and your customers. It instantly learns technical details from your documents—pitch decks, meeting notes, API docs—and delivers context-aware translation in 20+ languages.\nHow it works\nA bit about us\nGunwoo and Yong Hee first met in 2015 through a student club at KAIST, where we organized an annual international conference for undergraduate students. Since then, we have been talking about starting a company together.\nuploaded image\nSee All Launches ›\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "http://pitchbook.com/profiles/company/732060-19",
+    "title": "Cuckoo Labs 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "excerpts": [
+     "The company's technology learns the technical details of conversations from documents and interprets them into various languages, customized for specific industries and organizations, enabling clients to instantly adapt to conversations.\nContact Information\nWebsite\nwww.cuckoo.so\nOwnership Status\nPrivately Held (backing)\nFinancing Status\nVenture Capital-Backed\nCorporate Office\n* San Francisco, CA\n* United States\n  \n  \n  Primary Industry\n  Business/Productivity Software\n  Vertical(s)\n  SaaS , Artificial Intelligence & Machine Learning\nCorporate Office\n* San Francisco, CA\n* United States\n  "
+    ]
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/cuckoo-27e2",
+    "title": "Cuckoo - Crunchbase Company Profile & Funding",
+    "excerpts": [
+     "Resources Advanced Search\nStart Free Trial Talk With Sales Pricing Log In\nLog In Cuckoo Growth Score 70 CB Rank 63411 Heat Score 37\nSave Actions\nAI interpreter for global teams\nFounded obfuscated\nobfuscation Private Seed San Francisco , California , United States 1-10 www.cuckoo.so\nArtificial Intelligence (AI) SaaS Software\nCuckoo\nFounded obfuscated\nobfuscation Private Seed San Francisco , California , United States 1-10 www.cuckoo.so\nArtificial Intelligence (AI) SaaS Software ## Funding Rounds\nSeed obfuscated\nOBF in obfuscated\nobfuscation\nPre-Seed obfuscated\nOBF in obfuscated\nobfuscation\nView all 2 rounds ## Key People\n* Photo of Gunwoo Kim\nGunwoo Kim: CEO\n* Photo of Yong Hee Lee\nYong Hee Lee: COO ## Details\nLegal Name Cuckoo Labs Inc. Also Known As Cuckoo Labs Operating Status Active Company Type For-profit Founders Gunwoo Kim , Yong Hee Lee\nAbout the Company\nCuckoo is an always-available, in-house realtime translator.\nValuation Intelligence\nCurrent Valuation\n$123\nPost-Money Valuation\n$123 Track how this company's value is changing\nData source: Lists Featuring This Company\nLists Featuring This Company\n9,694 Number of Organizations  • $799.1B Total Funding Amount  • 48,988 Number of Investors\nTrack\nUnited States Software Companies with Seed Funding (Top 10K)\n9,903 Number of Organizations  • $25.3B Total Funding Amount  • 28,721 Number of Investors\nTrack\nView All Sub-Organizations Frequently Asked Questions\nWhere is Cuckoo 's headquarters?\nCuckoo is located in San Francisco , California , United States . Who invested in Cuckoo ? Cuckoo has 7 investors including Mashup Ventures and Schmidt . When was the last funding round for Cuckoo ? Cuckoo closed its last funding round on obfuscated\nobfuscation from a Seed round. Who are Cuckoo 's competitors?"
+    ]
+   },
+   {
+    "url": "https://cuckoo.so/desktop",
+    "title": "Cuckoo — Real-time AI translator right on your desktop",
+    "excerpts": [
+     "Cuckoo learns your industry and team context to deliver translations.\nTeam context translations\nCuckoo\n© 2026 Cuckoo Labs"
+    ]
+   },
+   {
+    "url": "https://standout.work/companies/cuckoo-labs",
+    "title": "Cuckoo Labs | B2B | Standout | Standout",
+    "excerpts": [
+     "Standout Standout\nTalk to Standout\nBack to companies\nCuckoo Labs\nCuckoo Labs\nReal-time AI translator for global sales and marketing\nSan Francisco, CA, USA\n2 employees\nB2B\nSeed · $1.8M\nWebsite X / Twitter\nAbout Cuckoo Labs\nCuckoo is on a mission to break down language barriers for global teams using AI.\nStarting with our real-time AI translator and AI Video Localization, we help leading sales, marketing, and GTM teams at global companies connect seamlessly with their customers worldwide.\nCuckoo is trusted by Snowflake, PagerDuty, Weights & Biases, ClickHouse, and more.\nCompany details\nTeam Size 2\nLocation San Francisco, CA, USA\nIndustry B2B\nFunding\nTotal raised\n$1.8M\nLast stage\nSeed\nInvestors\nY Combinator\nS Smilegate Investment\nM Mashup Ventures\nB Base Ventures\nB BonAngels Venture Partners\nFounders\nGunwoo Kim\nGunwoo Kim\nCo-founder & CTO at Cuckoo, real-time AI translator for global sales & marketing. Before Cuckoo, I built South Korea's fastest-growing ride-hailing app at (1M users in 9 months), which was faster than Uber Korea. Studied CS at KAIST.\nLinkedIn\nYong Hee Lee\nYong Hee Lee\nCo-founder & CEO, GTM at Cuckoo, AI interpreter for global teams. Before Cuckoo, I was the first GTM at two startups in Korea—one focused on online programming and the other on AI infrastructure—where I also led event marketing involving international speakers. I studied Electrical Engineering and Science & Technology Policy at KAIST.\nLinkedIn\nIf they’re a yes, I book the chat. You show up — that’s the whole job-hunt.\nStandout Standout Y Backed by Y Combinator · P26\n“LeBron has an agent. Why don’t you?”\n— Now you have one too.\nEarn $3,000\nProduct How it works For talent For companies Browse jobs Browse companies Docs\nCompany About Blog Careers\nConnect Twitter / X LinkedIn\nStandout."
+    ]
+   },
+   {
+    "url": "https://tracxn.com/d/companies/cuckoo/___7b_UI8SsuwUH3SF9eV61FoRVKknFBMPtASvy3nYOLs",
+    "title": "Cuckoo - 2026 Company Profile, Funding, Competitors & Financials - Tracxn",
+    "excerpts": [
+     "1. Discover\n2. Companies Cuckoo\n  Logo for Cuckoo\nCuckoo - Company Profile\nLast updated: September 11, 2026\nClaim Profile Suggest Edits\nCuckoo is an acquired company based in London (United Kingdom), founded in 2010. It operates as a Provider of residential broadband internet services with fibre optic technology. Cuckoo has raised $6.58M in funding from investors like RTP Global , GrowthInvest and Work.fund , with last known valuation of £***** .\nCompany Details\nLegal entities associated with Cuckoo\nCuckoo is associated with 2 legal entities given below:\nWhen was Cuckoo founded?\nCuckoo was"
+    ]
+   },
+   {
+    "url": "https://www.preqin.com/data/profile/asset/cuckoo-labs-inc-/721119",
+    "title": "Cuckoo Labs Inc. Asset Profile | Preqin",
+    "excerpts": [
+     "Cuckoo Labs Inc.\nCuckoo Labs Inc. - overview\nEstablished\n2024\nLocation\nSan Francisco, CA-California, US\nPrimary Industry\nSoftware\nAbout\nBased in California, US, and founded in 2024 by co-founders Gunwoo Kim (CEO) and Yong Hee Lee (COO), Cuckoo Labs Inc.\noperates as a provider of AI-powered real-time interpretation services to global teams and organizations, helping them communicate effectively across multiple languages in professional settings. In January 2025, Cuckoo Labs Inc. raised an undisclosed amount of venture funding from Y Combinator.\nCuckoo offers an AI interpretation service intended to facilitate communication in multilingual environments. Its core product functions as a real-time interpreter that learns from ongoing conversations, enabling users to convey complex details across more than ten languages.\nThe service integrates with communication platforms such as Zoom, Google Meet, Slack, and Teams, making it accessible for both mobile and desktop users. The product serves global teams and organizations planning events, meetings, and webinars, enabling seamless discussions without language barriers.\nThe solution is aimed primarily at international markets, especially North America, Europe, and Asia-Pacific. Cuckoo Labs generates revenue through subscription-based packages. The Professional Plan is priced at USD 100 per user per month, offering unlimited interpretation, platform integration, and priority support.\nCurrent Investors\nY Combinator, BonAngels Venture Partners, Smilegate Investment\nRequest a demo\nPrimary Industry\nSoftware\nSub Industries\nWeb Applications, Application Integration Software, Analytics & Performance Software\nWebsite\nwww.cuckoo.so/\nVerticals\nArtificial Intelligence, Cloud Computing\nCompany Stage\nAngel & Seed\nTotal Amount Raised"
+    ]
+   }
+  ],
+  "decision_id": "decisions_896b330986166fd72f5d427ca22c0b89"
+ }
+}

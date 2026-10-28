@@ -1,0 +1,101 @@
+{
+ "seconds": 0.928,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.9864777267551927
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.04769180298060015
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.727347435699443
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.03513902588185106
+   }
+  },
+  "usage": {
+   "input_tokens": 3760,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://www.ycombinator.com/companies/phone-harness",
+    "title": "Phone Harness: Let your agent control your phone | Y Combinator",
+    "excerpts": [
+     "Phone Harness\nLet your agent control your phone\nFall 2026\nActive\nOpen Source API Automation AI San Francisco\nCompany\nJobs 0\nhttps://phone-harness.com/\nLet your agent control your phone\nPhone Harness is the most popular open-source harness for phone automation with 3,800+ GitHub stars. We enable agents to tap, type, and scroll on your personal phone or cloud-hosted phones. Supports iPhone and Android. No jailbreak, API, or app installation needed.\nActive Founders\nShawn Pana\nShawn Pana\nFounder/CEO\nFounder/CEO at Phone Harness (YC F26). Previously Head of Growth at Browser Use, leading product launches and developer partnerships. Studied Mathematics and Computer Science at UC San Diego.\nShawn Pana\nShawn Pana\nFounder/CEO\nFounder/CEO at Phone Harness (YC F26).\nPreviously Head of Growth at Browser Use, leading product launches and developer partnerships. Studied Mathematics and Computer Science at UC San Diego.\nPhone Harness\nPhone Harness\nFounded: 2026\nBatch: Fall 2026\nTeam Size: 1\nStatus: Active\nLocation: San Francisco\nPrimary Partner: Andrew Miklas\nX (Twitter) logo\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/phone-harness/jobs",
+    "title": "Jobs at Phone Harness | Y Combinator",
+    "excerpts": [
+     "Jobs at Phone Harness | Y Combinator\nPhone Harness Founded:2026 Batch:F26 Team Size:1 Status:Active Location:San Francisco Founders Shawn Pana CEO Shawn Pana CEO"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/founders/2048642-shawn-pana",
+    "title": "Shawn Pana - Y Combinator Founder of Phone Harness",
+    "excerpts": [
+     "Shawn Pana - Y Combinator Founder of Phone Harness\nFounder/CEO at Phone Harness (YC F26). Previously Head of Growth at Browser Use, leading product launches and developer partnerships."
+    ]
+   },
+   {
+    "url": "https://www.harness.io/company/jobs?openings=true",
+    "title": "Careers at Harness: Open Positions & Job Opportunities",
+    "excerpts": [
+     "You can also find additional information about this type of scam and report any fraudulent employment offers via the Federal Trade Commission website, or you can contact your local law enforcement agency.\n{\n\"@context\": \"https://schema.org\",\n\"@type\": \"WebPage\",\n\"name\": \"Careers at Harness: Open Positions & Job Opportunities\",\n\"description\": \"Join Harness in taking software delivery into the future. We're always on the lookout for exceptional talent to join our fast growing global team.\",\n\"url\": \"https://harness.io/company/jobs\",\n\"about\": {\"@id\": \"https://www.harness.io/#organization\"}\n}\n{\n\"@context\": \"https://schema.org\",\n\"@graph\": [\n{\n\"@type\": \"WebSite\",\n\"urlTemplate\": \"https://www.harness.io/search-results?query={search_term_string}\"\n},\n\"query-input\": \"required name=search_term_string\"\n}\n},\n{\n\"@type\": \"Organization\",\n\"@id\": \"https://www.harness.io/#organization\",\n\"name\": \"Harness\",\n\"legalName\": \"Harness Inc.\",\n\"alternateName\": \"Harness.io\",\n\"url\": \"https://www.harness.io\",\n\"description\": \"AI-native software delivery platform automating CI/CD, infrastructure as code, testing, security and cloud cost management with AI agents.\",\n\"slogan\": \"AI for everything after code\",\n\"foundingDate\": \"2017-10-24\",\n\"foundingLocation\": {\n\"@type\": \"Place\",\n\"address\": {\n\"@type\": \"PostalAddress\",\n\"addressLocality\": \"San Francisco\",\n\"addressRegion\": \"CA\",\n\"addressCountry\": \"US\"\n}\n},\n\"founder\": [\n{\n\"@type\": \"Person\",\n\"@id\": \"https://www.harness.io/#/schema/person/jyoti-bansal\",\n\"name\": \"Jyoti Bansal\",\n\"jobTitle\": \"Co-Founder & CEO\",\n\"sameAs\": [\n\"https://en.wikipedia.org/wiki/Jyoti_Bansal\",\n\"https://www.wikidata.org/wiki/Q37993236\",\n\"https://www.linkedin.com/in/jyotibansal\"\n]\n}"
+    ]
+   },
+   {
+    "url": "https://www.cbinsights.com/company/harness",
+    "title": "Harness - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "excerpts": [
+     "Harness focuses on improving the software delivery process with artificial intelligence (AI) technology in the software development lifecycle. The company's solutions serve different sectors within the software development and information technology (IT) operations domains. It was founded in 2017 and is based in San Francisco, California.\nHeadquarters Location\n55 Stockton Street 8th Floor\nSan Francisco, California, 94108,\nUnited States\n855-879-7727\nLoading...\nESPs containing Harness\nHarness Shows Why LLM Security Scanning Needs a Repeatable Verdict\nOct 14, 2026\nHarness's LLMScanBench Q3 2026 found that large language model (LLM) security scanners can return different results on unchanged code, and Harness lets customers configure an LLM scan to block a build.\nThe News: On September 28, 2026, Harness published LLMScanBench Q3 2026.\nHarness, which sells “AI for everything after code,” is positioning its pipeline to make that decision, and its STO step “can be configured to block the build” on an LLM scan's findings. For the CIO and head of Engineering, the release gate carries more than a tool's verdict.\nIn The Futurum Group's 2H 2026 Software Lifecycle Engineering Global Enterprise Decision Maker Survey (n=839, fielded June 2026), 40% of organizations said AI generated or substantially modified most of the production code they merged in the previous 90 days, yet only 39% require security scanning specific to AI-generated code.\n* When was Harness founded?\nHarness was founded in 2017.\n* Where is Harness's headquarters?\nHarness's headquarters is located at 55 Stockton Street, San Francisco.\n* What is Harness's latest funding round?\nHarness's latest funding round is Secondary Market.\n* How much did Harness raise?\nHarness raised a total of $775.35M."
+    ]
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/harness-c342",
+    "title": "Harness - Crunchbase Company Profile & Funding",
+    "excerpts": [
+     "Resources Advanced Search\nStart Free Trial Talk With Sales Pricing Log In\nLog In Harness CB Rank 304613 Heat Score 69\nSave Actions\nHarness connects communities through conversation to inspire action and power change.\nFounded obfuscated\nobfuscation Private Los Angeles , California , United States 11-50 iwillharness.com/\nAssociation Communities Internet of Things Non Profit\nHarness\nSection: Overview Actions\nOverview\nHarness\nHeat Score 69 Unlock best-in-class private company insights with Crunchbase Pro\nSee more interactive data and historical milestones on desktop for the best experience ## About Harness\nCB Rank 304613\nHarness connects communities through conversation to inspire action and power change.\nFounded obfuscated\nobfuscation Private Los Angeles , California , United States 11-50 iwillharness.com/\n* Photo of America Ferrera\nAmerica Ferrera: Co-Founder ## Details\nOperating Status Active Company Type Non-profit Founders America Ferrera\nDiversity Spotlight Women Founded Predictions & Insights\nUnlock More with Crunchbase Pro\n* Full access to financial & funding data on unlimited profiles\n* Export up to 2k results/month for analysis\n* Topic | Surge Score\n* Business Insider Logo Business Insider | 69\n* Cost of Living Logo Cost of Living | 68\n* Google (GOOG) Logo Google (GOOG) | 67\nData source: ## Active Website Tech Count\n41 Harness is actively using 41 technologies for its website, according to BuiltWith .\nThese include LetsEncrypt , Content Delivery Network , and Google Analytics .\nData source: Lists Featuring This Company\nWhere is Harness 's headquarters? Harness is located in Los Angeles , California , United States . Who are Harness 's competitors? Alternatives and possible competitors to Harness may include Helicon , Edge Media Network , and Meaws .\nWho We Are"
+    ]
+   },
+   {
+    "url": "https://www.harness.io/legal/modern-slavery-statement",
+    "title": "Modern Slavery Statement | Harness Legal",
+    "excerpts": [
+     "The Statement is provided on behalf of Harness Inc. and the listed subsidiary entities (collectively, “Harness,” “we,” “our” or the “Company”) located in the Americas, Europe, and APAC, and describes the actions taken by Harness during the period from February 1, 2025, to January 31, 2026.\nHarness is a privately-held Delaware corporation headquartered in San Francisco, California, with subsidiaries in Argentina, Australia, Brazil, Canada, France, Germany, India, Israel, Serbia, and the United Kingdom.\n\"@context\": \"https://schema.org\",\n\"@type\": \"WebPage\",\n\"name\": \"Modern Slavery Statement\",\n\"description\": \"Modern Slavery Statement - Legal documentation for Harness\",\n\"url\": \"/legal/modern-slavery-statement\",\n\"dateModified\": \"2026-08-24T11:47:28.706Z\",\n\"datePublished\": \"2026-08-24T20:40:15.841Z\",\n\"inLanguage\": \"en\",\n\"isPartOf\": {\n\"item\": \"https://www.harness.io/legal/modern-slavery-statement\"\n}\n]\n},\n\"publisher\": {\"@id\": \"https://www.harness.io/#organization\"}\n}\n{\n\"@context\": \"https://schema.org\",\n\"@graph\": [\n{\n\"@type\": \"WebSite\",\n\"@id\": \"https://www.harness.io/#website\",\n\"url\": \"https://www.harness.io\",\n\"name\": \"Harness\",\n\"alternateName\": \"Harness.io\",\n\"query-input\": \"required name=search_term_string\"\n}\n},\n{\n\"@type\": \"Organization\",\n\"@id\": \"https://www.harness.io/#organization\",\n\"name\": \"Harness\",\n\"legalName\": \"Harness Inc.\",\n\"alternateName\": \"Harness.io\",\n\"url\": \"https://www.harness.io\",\n\"description\": \"AI-native software delivery platform automating CI/CD, infrastructure as code, testing, security and cloud cost management with AI agents.\",\n\"slogan\": \"The Autonomous SDLC Platform\",\n\"foundingDate\": \"2017-10-24\",\n\"foundingLocation\": {\n\"@type\": \"Place\",\n\"address\": {\n\"@type\": \"PostalAddress\",\n\"addressLocality\": \"San Francisco\","
+    ]
+   },
+   {
+    "url": "https://www.harness.io/company/jobs",
+    "title": "Careers at Harness: Open Positions & Job Opportunities",
+    "excerpts": [
+     "We are a company that strives to be the best in the industry, while remaining an enjoyable place to work. We are fortunate to have the opportunity to come together virtually and in-person across the globe.\nWe have become aware that there may be fraudulent recruiting attempts being made by people posing as representatives of Harness. These scams may involve fake job postings, unsolicited emails, or messages claiming to be from our recruiters or hiring managers.\nPlease note, we do not ask for sensitive or financial information via chat, text, or social media, and any email communications will come from the domain @harness.io. Additionally, Harness will never ask for any payment, fee to be paid, or purchases to be made by a job applicant.\nAll applicants are encouraged to apply directly to our open jobs via our website. Interviews are generally conducted via Zoom video conference unless the candidate requests other accommodations.\nIf you believe that you have been the target of an interview/offer scam by someone posing as a representative of Harness, please do not provide any personal or financial information and contact us immediately at security@harness.io.\nYou can also find additional information about this type of scam and report any fraudulent employment offers via the Federal Trade Commission website, or you can contact your local law enforcement agency."
+    ]
+   },
+   {
+    "url": "https://seedtable.com/companies/harness",
+    "title": "Harness — Funding, Investors & Team | Seedtable",
+    "excerpts": [
+     "Verified by Seedtable Editors\n#6 San Francisco Cloud Infrastructure of 554 #26 startup in San Francisco of 5,686 #81 startup in United States of 34,445 #4 in Cloud computing of 538\n🇺🇸 San Francisco , United States Cloud Infrastructure · Developer Tools · Robotics · SaaS & Cloud · Technology    79views · 60d Updated 20 Aug 2026\nHarness sells a software delivery platform covering what it calls everything after code.\nThe pitch is consolidation: replacing a stack of separate DevOps tools with one governed pipeline, with over 100 integrations across AWS, Azure, GCP, OCI and Kubernetes. Founded in 2016 and based in San Francisco, its customers include Citi, United Airlines, Home Depot, VMware and Ancestry.\n87 Seedtable Score\n0\n0votes\nFollow 1follower\nSave to list\nAcquisitions (1)\n* Company | Type | Value | Date\n* ARMORY, Inc. | Acquisition | — | 1 Apr 2024\nExecutives (10)\nProducts and services built by Harness\nAI SRE\nAI-driven incident triage and contextual reliability insights.\nAI Security\nDiscovers AI assets and defends against AI-specific threats.\nAI Test Automation\nAI-authored, self-healing end-to-end test automation.\nApplication Security Testing\nVulnerability identification and remediation from code to runtime.\nBuild automation supporting any source code, language and operating system.\nDatabase DevOps\nBrings database schema changes into deployment pipelines.\nFeature Management & Experimentation\nFeature flags and impact-driven release experimentation.\nSee all 15 products from Harness\nPatents (4)\nPatents filed by or assigned to Harness\n* Title | Granted\n* Continuous system service monitoring using real-time short-term and long-term analysis techniques | 16 Aug 2022\n* Service regression detection using real-time anomaly detection of log data | 10 Aug 2021\nRelated Companies"
+    ]
+   },
+   {
+    "url": "https://www.zoominfo.com/c/harness/447677595",
+    "title": "Harness - Overview, News & Similar companies | ZoomInfo.com",
+    "excerpts": [
+     "Harness Likely to Engage tag. Highly Engaged Employees\nEngineering Software · California, United States · 1K - 5K Employees\nView Company Info for Free ## Overview\nHeadquarters\n55 Stockton St Fl 8, San Francisco, Cali...\nPhone Number\n(855) 879-7727\nWebsite\nwww.harness.io\nRevenue\n$252.1 Million\nIndustry\nEngineering Software Software\n* About\n* Org Chart\n* Similar Companies ## About Harness\nHarness is an AI-driven DevOps platform that helps engineering teams build, test, and deliver software more efficiently and securely.\nSIC Code 73,737 NAICS Code 51,513 Show more ## Harness Org Chart\nView Full"
+    ]
+   }
+  ],
+  "decision_id": "decisions_b3d19f2d3a8ceccd85fe9743c38ec411"
+ }
+}

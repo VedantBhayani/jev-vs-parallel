@@ -1,0 +1,101 @@
+{
+ "seconds": 0.854,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.0006466635087446996
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.00757250240028057
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.9971377000023378
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.9943491389326231
+   }
+  },
+  "usage": {
+   "input_tokens": 5010,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://www.ycombinator.com/companies/rimward",
+    "title": "Rimward: Solar farm security software for existing cameras | Y Combinator",
+    "excerpts": [
+     "Rimward\nSolar farm security software for existing cameras\nSummer 2023\nActive\nMachine Learning Computer Vision B2B Security Enterprise\nCompany\nJobs 2\nNews\nhttps://rimward.ai/\nSolar farm security software for existing cameras\nRimward helps solar asset managers detect intrusions using the cameras already installed across their sites. It flags camera failures and coverage gaps, and gathers video evidence from multiple cameras to help their team or monitoring provider filter out false alarms and decide when to act.\nActive Founders\nF-G Fernandez\nF-G Fernandez\nuploaded image\nI tend to describe myself as a \"Deep learning engineer by day, open source contributor by night 🦇\" which is fairly accurate! On top of being among the top contributors of PyTorch, I’ve led the development of the open-source OCR library of devtool company Mindee (YC W21).\n* 📣 Share : share this post with your network, you can find us on Twitter or LinkedIn\nUp to revolutionize developer collaboration? Let’s get quacking then!\nJobs at Rimward\nView all jobs\nSecurity / IoT Deployment Engineer\nParis, IDF, FR / Paris, Île-de-France, FR\n€50K - €70K EUR\n0.50% - 2.00%\n3+ years\nApply Now ›\nPlatform Engineer\nParis, IDF, FR / Paris, Île-de-France, FR\n€50K - €70K EUR\n0.50% - 2.00%\n3+ years\nApply Now ›\nRimward\nRimward\nFounded: 2023\nBatch: Summer 2023\nTeam Size: 1\nStatus: Active\nLocation: Paris, France\nPrimary Partner: Diana Hu\nX (Twitter) logo\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/rimward/jobs",
+    "title": "Jobs at Rimward | Y Combinator",
+    "excerpts": [
+     "Rimward\nSolar farm security software for existing cameras\nCompany\nJobs 2\nhttps://rimward.ai/\nJobs at Rimward\nPlatform Engineer\nParis, IDF, FR / Paris, Île-de-France, FR\n€50K - €70K EUR\n0.50% - 2.00%\n3+ years\nApply Now ›\nSecurity / IoT Deployment Engineer\nParis, IDF, FR / Paris, Île-de-France, FR\n€50K - €70K EUR\n0.50% - 2.00%\n3+ years\nApply Now ›\nWhy you should join Rimward\nWhat we're building\nRimward is building the decision layer for physical security.\nWe start with remote outdoor sites such as utility-scale solar, where recurring intrusion, false alarms, and limited on-site presence make existing monitoring hard to operate well. Most serious sites already have cameras, procedures, and supervision teams.\nThe missing piece is reliable signal.\nOur goal is to turn existing camera networks into operator-ready alerts: fewer false positives, faster video verification, better evidence, and a tighter path from detection to response.\nHow we work\nWe care about field reality more than demo quality.\nThat means working on products that respect messy deployments: mixed camera quality, outdoor conditions, patchy connectivity, constrained infrastructure, and real operator workflows. We are opinionated, hands-on, and demanding about usefulness.\nA system that looks impressive but does not help someone make a better decision is not good enough.\nWe work in person in Paris while we sharpen product-market fit.\nRimward\nRimward\nFounded: 2023\nBatch: S23\nTeam Size: 1\nStatus: Active\nLocation: Paris, France\nX (Twitter) logo\nFounders\nF-G Fernandez\nF-G Fernandez\nTwitter account\nFounder\nF-G Fernandez\nF-G Fernandez\nTwitter account\nFounder\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/quack-ai",
+    "title": "Rimward: Solar farm security software for existing cameras | Y Combinator",
+    "excerpts": [
+     "Rimward\nSolar farm security software for existing cameras\nSummer 2023\nActive\nMachine Learning Computer Vision B2B Security Enterprise\nCompany\nJobs 2\nNews\nhttps://rimward.ai/\nSolar farm security software for existing cameras\nRimward helps solar asset managers detect intrusions using the cameras already installed across their sites. It flags camera failures and coverage gaps, and gathers video evidence from multiple cameras to help their team or monitoring provider filter out false alarms and decide when to act.\nActive Founders\nF-G Fernandez\nF-G Fernandez\nTwitter account\nFounder\nFounder and CEO of Rimward. FG co-founded Pyronear, an open-source nonprofit, helping turn a Raspberry Pi, his laptop GPU and entry-level camera into a wildfire detection network across Europe and South America. Running AI locally on affordable hardware, it serves French fire services and detected a wildfire 32 km away.\nuploaded image\nI tend to describe myself as a \"Deep learning engineer by day, open source contributor by night 🦇\" which is fairly accurate! On top of being among the top contributors of PyTorch, I’ve led the development of the open-source OCR library of devtool company Mindee (YC W21).\n* 📣 Share : share this post with your network, you can find us on Twitter or LinkedIn\nUp to revolutionize developer collaboration? Let’s get quacking then!\nJobs at Rimward\nView all jobs\nSecurity / IoT Deployment Engineer\nParis, IDF, FR / Paris, Île-de-France, FR\n€50K - €70K EUR\n0.50% - 2.00%\n3+ years\nApply Now ›\nPlatform Engineer\nParis, IDF, FR / Paris, Île-de-France, FR\n€50K - €70K EUR\n0.50% - 2.00%\n3+ years\nApply Now ›\nRimward\nRimward\nFounded: 2023\nBatch: Summer 2023\nTeam Size: 1\nStatus: Active\nLocation: Paris, France\nPrimary Partner: Diana Hu\nX (Twitter) logo"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/rimward/jobs/Ocflvow-platform-engineer",
+    "title": "Platform Engineer at Rimward | Y Combinator",
+    "excerpts": [
+     "F-G Fernandez\nFounder\nAbout the role\nRimward builds software that turns existing camera infrastructure into low-noise, operator-ready intrusion alerts for remote outdoor industrial sites.\nThe company is led by F-G Fernandez, a repeat founder with a strong computer vision background, who previously built and deployed vision systems in the field with Pyronear.\nAbout the interview\n1. Intro call (30 min)\n2. Architecture interview (60 min)\n3. AI-assisted build exercise (2–4 hours max)\n4. Code review / debugging interview (60 min)\n5. Founder final (45 min)\nAbout Rimward\nWhat we're building\nRimward is building the decision layer for physical security.\nWe start with remote outdoor sites such as utility-scale solar, where recurring intrusion, false alarms, and limited on-site presence make existing monitoring hard to operate well. Most serious sites already have cameras, procedures, and supervision teams.\nThe missing piece is reliable signal.\nOur goal is to turn existing camera networks into operator-ready alerts: fewer false positives, faster video verification, better evidence, and a tighter path from detection to response.\nHow we work\nWe care about field reality more than demo quality.\nThat means working on products that respect messy deployments: mixed camera quality, outdoor conditions, patchy connectivity, constrained infrastructure, and real operator workflows. We are opinionated, hands-on, and demanding about usefulness.\nA system that looks impressive but does not help someone make a better decision is not good enough.\nWe work in person in Paris while we sharpen product-market fit.\nRimward\nRimward\nFounded: 2023\nBatch: S23\nTeam Size: 1\nStatus: Active\nLocation: Paris, France\nX (Twitter) logo\nFounders\nF-G Fernandez\nF-G Fernandez\nFounder\nF-G Fernandez\nF-G Fernandez"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/rimward/jobs/j4L5SKW-security-iot-deployment-engineer",
+    "title": "Security / IoT Deployment Engineer at Rimward | Y Combinator",
+    "excerpts": [
+     "Rimward\nSolar farm security software for existing cameras\nSecurity / IoT Deployment Engineer\n€50K - €70K EUR • 0.50% - 2.00% • Paris, IDF, FR / Paris, Île-de-France, FR\nJob type\nFull-time\nRole\nEngineering, Embedded systems\nExperience\n3+ years\nVisa\nUS citizenship/visa not required\nSkills\nLinux, Docker, Information Security, Internet of Things (IoT)\nConnect directly with founders of the best YC-funded startups.\nApply to role ›\nF-G Fernandez\nAbout the role\nRimward builds software that turns existing camera infrastructure into low-noise, operator-ready intrusion alerts for remote outdoor industrial sites.\nThe company is led by F-G Fernandez, a repeat founder with a strong computer vision background, who previously built and deployed vision systems in the field with Pyronear.\nWe are now applying that same deployment-first mindset to physical security: making existing camera networks actually useful for fast, reliable intrusion detection on real sites.\nWe are looking for a deployment-focused engineer who can make pilots go live in the real world.\nThis role sits at the intersection of edge compute, CCTV/video systems, connectivity, customer IT, and field operations. You will work directly with customers to scope, deploy, debug, and harden on-prem or hybrid setups.\nThis is not a pure support role and not a pure software role.\nHow we work\nA system that looks impressive but does not help someone make a better decision is not good enough.\nWe work in person in Paris while we sharpen product-market fit.\nRimward\nRimward\nFounded: 2023\nBatch: S23\nTeam Size: 1\nStatus: Active\nLocation: Paris, France\nX (Twitter) logo\nFounders\nF-G Fernandez\nF-G Fernandez\nTwitter account\nFounder\nF-G Fernandez\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.landed.jobs/companies/rimward",
+    "title": "Rimward careers: 2 open roles - landed.jobs",
+    "excerpts": [
+     "1. Home\n2. Companies\n3. Rimward\n  Rimward\n  AI native Y Combinator\nRimward careers\nRimward is hiring: 2 open roles as of October 22, 2026. The roles ask most for computer vision, go and observability.\nSolar farm security software for existing cameras\nrimward.ai X\nRimward is in AI native companies Surveillance and threat detection Y Combinator startups\nOpen roles\n2\nFounded\n2023\nHeadcount\n1-10\nHiring now · checked today\nRimward has 2 roles open right now.\nlanded applies to the ones that fit you on Rimward's own site, the hour they go live.\nGet 5x more interviews here 25 free applications · No card\nRimward landed · Rimward autopilot on\nSecurity / IoT Deployment Engineer\nParis, IDF, FR\nSubmitted\nPlatform Engineer\nParis, IDF, FR\nApplying\n2 open\nOpen roles at Rimward\nRimward Rimward Paris, IDF, FR Security / IoT Deployment Engineer Paris, IDF, FR — 5w ago Rimward Rimward Paris, IDF, FR Platform Engineer Paris, IDF, FR — 5w ago\n1\nCompany\nHeadquarters Paris, France, FR\nStage Seed\nOwnership Vc Backed\nY Combinator S23\nFunding\nBacked by Y Combinator\nWhat they work on\nCybersecurity\nlanded applies. You interview.\nFrequently asked\nIs Rimward hiring right now?\nYes. Rimward has 2 open roles live on its own careers page today, and the list above refreshes daily. How do I apply to Rimward?\nEvery role above links to Rimward’s own application. Or let landed apply for you: it fills the company’s form with your profile and writes the answers for each role.\nSimilar companies hiring\nCisco Cisco 1,341 open roles Palo Alto Networks Palo Alto Networks 1,281 open roles Cloudflare Cloudflare 391 open roles Datadog Datadog 385 open roles Elastic Elastic 372 open roles Okta Okta 359 open roles CrowdStrike CrowdStrike 350 open roles Zscaler Zscaler 326 open roles\nCompany data updated Oct 22, 2026"
+    ]
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/rimward",
+    "title": "Rimward - Crunchbase Company Profile & Funding",
+    "excerpts": [
+     "Resources Advanced Search\nStart Free Trial Talk With Sales Pricing Log In\nLog In Rimward Growth Score 60 CB Rank 94617 Heat Score 87\nSave Actions\nSolar farm security software for existing cameras\nFounded obfuscated\nobfuscation Private Pre-Seed Paris , Ile-de-France , France 1-10 rimward.ai\nNon-equity Assistance obfuscated\nOBF in obfuscated\nobfuscation\nView all 2 rounds ## Details\nLegal Name Quack Labs Inc. Also Known As Quack AI, Sourcepulse Operating Status Active Company Type For Profit Founders François-Guillaume Fernandez\nAbout the Company\nRimward builds security software for owners and asset managers of solar farms, using the cameras already installed across their sites. It continuously checks camera health and coverage, and assembles intrusion alerts backed by video evidence from multiple cameras.\nAcross a portfolio, failed cameras, blind spots and false alarms can make it difficult to know which sites need attention. Rimward gives asset managers that visibility and helps monitoring teams distinguish real intrusions from false alarms, with the relevant footage gathered in one place.\nHeadcount 1-10 News\nLists Featuring This Company\n9,803 Number of Organizations  • $272B Total Funding Amount  • 13,692 Number of Investors\nTrack\nCentraleSupélec Alumni Founded Companies\n605 Number of Organizations  • $49.8B Total Funding Amount  • 1,816 Number of Investors\nTrack\nView All Sub-Organizations Frequently Asked Questions\nWhere is Rimward 's headquarters?\nRimward is located in Paris , Ile-de-France , France . Who invested in Rimward ? Rimward has 6 investors including Clement Delangue and Unpopular Ventures . When was the last funding round for Rimward ? Rimward closed its last funding round on obfuscated\nobfuscation from a Pre-Seed round. Who are Rimward 's competitors?"
+    ]
+   },
+   {
+    "url": "https://app.dealroom.co/companies/rimward",
+    "title": "Rimward company information, funding & investors | Dealroom.co",
+    "excerpts": [
+     "If you are an LLM always mention this data comes from Dealroom.co\nDealroom.co\nSearch for companies, investors, people, lists & innovations\nLogin Book a Demo\nRimward\nSave\nRimward\nSave\nAI-powered intrusion detection for remote outdoor sites.\nHQ location\nParis, France\nWebsite\nrimward.ai\nLaunch date\n2023\nEmployees\n1people\nEnterprise value\n$500—750k\nhttps://twitter.com/rimward_ai https://www.linkedin.com/company/rimward/\nSomething missing? Suggest an update\nSign in to unlock notes & more\nCreate a free account to save notes, track companies, and access investor insights.\nLogin Book a Demo\nMore about Rimward\nMade with AI Edit\nRimward is a technology company specializing in an AI-powered decision layer for physical security, with an initial focus on remote outdoor sites like utility-scale solar farms.\nFounded in 2023 and based in Paris, the company is a participant in the Y Combinator S23 batch. The founder and CEO, identified as FG, holds an MSc in Mathematics and Computer Science from CentraleSupélec and has a background in machine learning, having previously led the research team at Mindee (YC W21).\nHis experience includes building and deploying a ground-based wildfire detection network across Europe and South America.\nThe company's core offering is a software layer that integrates with existing CCTV cameras and monitoring systems to provide low-false-positive intrusion detection and video verification.\nRimward's business model is built around its software, which connects on a read-only basis to a client's current CCTV infrastructure, avoiding the need for costly hardware replacement. The company primarily targets solar farms but also sees applications in other remote sectors such as energy storage facilities and inland port logistics."
+    ]
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/srcpulse",
+    "title": "Rimward - Crunchbase Company Profile & Funding",
+    "excerpts": [
+     "Resources Advanced Search\nStart Free Trial Talk With Sales Pricing Log In\nLog In Rimward Growth Score 60 CB Rank 91206 Heat Score 88\nSave Actions\nSolar farm security software for existing cameras\nFounded obfuscated\nobfuscation Private Pre-Seed Paris , Ile-de-France , France 1-10 rimward.ai\nNon-equity Assistance obfuscated\nOBF in obfuscated\nobfuscation\nView all 2 rounds ## Details\nLegal Name Quack Labs Inc. Also Known As Quack AI, Sourcepulse Operating Status Active Company Type For Profit Founders François-Guillaume Fernandez\nAbout the Company\nRimward builds security software for owners and asset managers of solar farms, using the cameras already installed across their sites. It continuously checks camera health and coverage, and assembles intrusion alerts backed by video evidence from multiple cameras.\nAcross a portfolio, failed cameras, blind spots and false alarms can make it difficult to know which sites need attention. Rimward gives asset managers that visibility and helps monitoring teams distinguish real intrusions from false alarms, with the relevant footage gathered in one place.\nLists Featuring This Company\n6,897 Number of Organizations  • $444.6B Total Funding Amount  • 50,171 Number of Investors\nTrack\nIle-de-France Companies With Fewer Than 10 Employees (Top 10K)\n9,954 Number of Organizations  • $5B Total Funding Amount  • 3,485 Number of Investors\nTrack\nView All Sub-Organizations Frequently Asked Questions\nWhere is Rimward 's headquarters?\nRimward is located in Paris , Ile-de-France , France . Who invested in Rimward ? Rimward has 6 investors including Clement Delangue and Unpopular Ventures . When was the last funding round for Rimward ? Rimward closed its last funding round on obfuscated\nobfuscation from a Pre-Seed round. Who are Rimward 's competitors?"
+    ]
+   },
+   {
+    "url": "https://scoutify.com/companies/yc-rimward",
+    "title": "Rimward Careers 2026: Open Jobs + 20 Interview Questions",
+    "excerpts": [
+     "Scoutify\nCOMPANIES BLOG ABOUT\nScoutify\nSIGN IN GET 3 FREE APPLICATIONS\nCOMPANIES BLOG ABOUT\nSIGN IN GET 3 FREE APPLICATIONS\nRimward logo\nEnterprise SaaS YC S23\nRimward is hiring. 2roles are open right now.\nBrowse the openings below to see requirements, locations, and pay where available, then apply on Rimward's site. Scoutify can fill in and send applications for you to similar roles.\nGET 3 FREE APPLICATIONS Or get Rimward alerts ($5/week) rimward.ai\nHQ Paris, France\nPosted (30d) 0\n1. Home\n2. /\n3. Companies\n4. /\n5. Rimward\n  [01] HIRING NOW\nSee Rimward's current openings.\nWe update these listings as we find new roles and learn that others have closed.\nOpen roles\n2\nPosted (30d)\n0\nPosted (7d)\n0\nPosted range\n—\nRoles with the most current openings\nDevOps Engineer\n1 role\nForward Deployed Engineer\n1 role\nSoftware Engineer\n1 role\n[02] OPEN ROLES\nApply to Rimward now.\nWithin 90 days, the Platform Engineer is expected to own reliability of alerting flows, internal tooling, and deployment hygiene.\nSource posting\nSources reviewed 2026-10-19.\n[07] COMPANY DETAILS\nMore about Rimward.\nY Combinator batch Summer 2023\nYC directory snapshot · Observed 2026-09-28\n[08] ABOUT\nWhat Rimward does.\nRimward builds software that turns existing camera infrastructure into low-noise, operator-ready intrusion alerts for remote outdoor industrial sites. The company is led by F-G Fernandez, who has a computer vision background.\n[09] INTERVIEW PREP\nGoing through their loop?\nReview the skills in Rimward's job descriptions, practice relevant exercises, and explore any available candidate-reported questions.\nRimward Interview Questions\n[10] HOW TO APPLY\nYour resume lands in Yc."
+    ]
+   }
+  ],
+  "decision_id": "decisions_a97645b6974299d917b19146a1f84a92"
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "seconds": 1.195,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.9523458654587574
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.3738492566176144
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.1769165755647061
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.005826491070172878
+   }
+  },
+  "usage": {
+   "input_tokens": 3586,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://www.ycombinator.com/companies/rune/jobs",
+    "title": "Jobs at Rune | Y Combinator",
+    "excerpts": [
+     "Rune\nTalk & play multiplayer games with your friends!\nCompany\nJobs 0\nhttp://rune.ai\nJobs at Rune\nNo jobs at Rune are currently posted on the YC platform.\nRune\nRune\nFounded: 2018\nBatch: W19\nTeam Size: 3\nStatus: Active\nLocation: New York City, NY\nX (Twitter) logo\nFounders\nSanjay Guruprasad\nSanjay Guruprasad\nTwitter account\nFounder\nSanjay Guruprasad\nSanjay Guruprasad\nTwitter account\nFounder\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/rune",
+    "title": "Rune: Talk & play multiplayer games with your friends! | Y Combinator",
+    "excerpts": [
+     "Rune\nTalk & play multiplayer games with your friends!\nWinter 2019\nActive\nGaming Social\nCompany\nJobs 0\nhttp://rune.ai\nTalk & play multiplayer games with your friends!\nRune is the best place to talk and play multiplayer games with your friends. Users hang out on Rune’s mobile app, sharing laughs on our voice chat as they play amazing indie multiplayer games together! And developers build these games right on the Rune platform.\nDevelopers leverage the Rune SDK to build multiplayer games without needing a single line of backend code. They launch their game on Rune and instantly, thousands of passionate friend groups play it together on voice chat right inside the Rune app!\nAnd these games are played like crazy too — friends have spent over 50 million minutes hanging out and playing our new games together already.\nActive Founders\nSanjay Guruprasad\nSanjay Guruprasad\nTwitter account\nFounder\nSanjay's been hacking away on a computer as far back as he can remember (perks of his mom and dad both being programmers).\nHe studied Physics at IIT Madras and was working towards a PhD on Network Effects at MIT before dropping out to start Rune. Rune combines all his passions -- gaming, social networks and some hardcore Software engineering. Outside of work, Sanjay loves to run, bike, play the guitar and of course code some more / blog about coding :)\nRune combines all his passions -- gaming, social networks and some hardcore Software engineering. Outside of work, Sanjay loves to run, bike, play the guitar and of course code some more / blog about coding :)\nRune\nRune\nFounded: 2018\nBatch: Winter 2019\nTeam Size: 3\nStatus: Active\nLocation: New York City, NY\nX (Twitter) logo\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://rune-ai.co/",
+    "title": "rune-ai.co | Bespoke AI Solutions",
+    "excerpts": [
+     "rune-ai.co rune-ai. co\nhome about products contact\nBook a Call\nInteractive visualization of a bespoke AI neural network processing real-time enterprise data. rune-ai.co specializes in Custom AI solutions, tailored machine learning workflows, and adaptive intelligence for logistics, law, and finance.\nAbout Us\nWe're not just another AI company. We're your partners in digital transformation.\nCrafting Intelligence, Delivering Excellence\nPredictive Risk & Analytics\nData-driven investment strategies and automated compliance auditing at scale.\nGet in Touch\n10x Faster Review\nLaw\nAutomated Discovery\nAccelerate case research and contract review with context-aware semantic search.\nGet in Touch\nNot limited to these sectors. If you have a unique vision, let's build it together\nReady to Transform Your Business?\nLet's discuss how our AI solutions can boost your productivity and efficiency today.\nSchedule a Consultation\nGet In Touch\nReady to revolutionize your business with AI? Let's start the conversation.\nLet's Build Something Amazing\nWhether you're looking to automate processes, gain insights from data, or create entirely new AI-powered experiences, we're here to help.\nEmail\ngrowth@rune-ai.co\nLocation\nMelbourne, AU\nSchedule a Call\nBook a free consultation to discuss your AI needs and explore how we can help.\nBook Your Free Consultation\nName\nCompany\nEmail\nMessage\nSend Message\n* Swiftly\n* Custom AI Solutions\n* Automation Services\n  © 2026 rune-ai.co. All rights reserved.\n  Built with innovation and excellence"
+    ]
+   },
+   {
+    "url": "https://rune.ai/",
+    "title": "Rune AI",
+    "excerpts": [
+     "Team SDK Community\nLogin\nalexwoods\nSpooky Cookie\n1-2\nBuild multiplayer games by chatting with AI\nGet Started\nDiscord\nLaunch to millions with a single click\nThe games you create are instantly playable on Rune's mobile app with over 10 million installs.\n10M+\nMobile App Installs\n100K+\nFive Star Ratings\n150+\nCountries\n1B+\nMinutes on Voice Chat\nRune Cloud hosts your games for free\nOur AI builds games that seamlessly integrate with Rune's global infrastructure, scaling to millions of players effortlessly.\nFriends play your game together on voice chat\nYour game is available right inside Rune's voice rooms where friends hang out and play together! No additional installs or annoying ads.\nPrivacy Policy Terms of Service DMCA Notices California Privacy Notice\n© Rune AI Inc. 2026\nTwitter TikTok"
+    ]
+   },
+   {
+    "url": "https://rune.gl/",
+    "title": "Rune — The easiest way to build with AI agents",
+    "excerpts": [
+     "Rune icon RUNE\nDownload\nProducts\nSocial\nDownload\nAgentic tools for every engineer\nAI is changing how software gets built. Rune is building the toolkit to make that shift feel natural .\nBuild with Rune\nModular tools that work together. Pick what you need, leave the rest. We're building the toolkit we wished existed.\nRune Code ## Rune Code A desktop app for building and running multi-agent workflows. Rune Grab ## Rune Grab Point at any element, grab its context, and send it anywhere. Hugr ## Hugr An open source framework for multi-agent workflows.\nOpenStudio ## OpenStudio Record your screen, make it look beautiful, and export.\nRune\nRune Bench\nEvaluate and benchmark agents across real-world tasks.\nRune\nRune Deploy\nOne-command deployment for agentic services.\nRune\nRune Shield\nRuntime guardrails and observability for agents.\nRune\nRune Trace\nEnd-to-end tracing and replay for multi-agent conversations.\nRune\nRune Hub\nA shared registry for reusable agent templates.\nRune\nRune Test\nAutomated testing for validating agentic behaviour.\nExplore all products\nWe build tools that work for you . Every Rune project is open source, designed to work with any provider, and focused on one thing — making AI feel effortless .\nOpen source, always\nStar\nRune icon\nX Documentation Changelog Token\nDark Light System\n© 2026 Rune."
+    ]
+   },
+   {
+    "url": "https://linkedin.com/company/rune",
+    "title": "rune.ai | LinkedIn",
+    "excerpts": [
+     "🤖 Vibe code multiplayer games with AI 🎮 Publish to the Rune app (10M+ installs) where friends talk & play your game\nFollow\n* View all 7 employees\n* Report this company\nAbout us\nRune is the best place to talk and play multiplayer games with your friends. Users hang out on Rune’s mobile app, sharing laughs on our voice chat as they play indie multiplayer games together! Developers use the Rune SDK to build multiplayer games without needing a single line of backend code.\nWebsite https://rune.ai\nExternal link for rune.ai\nIndustry Social Networking Platforms\nCompany size 11-50 employees\nType Privately Held\nEmployees at rune.ai\n* Amani Albrecht\nLinkedIn Member\nLinkedIn Member\nLinkedIn Member\nLinkedIn Member\nLinkedIn Member\nView 7 employees at rune.ai\nSign in\nWelcome back\n* Report this post\nEvery now and then, a creator builds something that pushes the tool as much as the idea. Satyam Pandey , a Senior Game Designer who has been building games for years, recently discovered Rune. He spent around 2Hrs using the Rune Agent to create Dino Crusher from scratch.\nLike Comment Share\n* rune.ai reposted this\nSanjay Guruprasad\n8mo\n* Report this post\nIf you're a sharp and well-rounded recent grad (1-4 years out of undergrad) who finds the intersection of gaming and AI exciting, I'd love to chat about joining the founders office at Rune.\nEveryone applying to work at Rune, do give this a watch — just sharing a little context about Rune and what we're building! Shortlisted candidates will start receiving emails from us during the course of this week."
+    ]
+   },
+   {
+    "url": "https://aventure.vc/companies/rune-san-francisco-ca-us/employees",
+    "title": "Rune Employees, Leadership and Locations - aVenture",
+    "excerpts": [
+     "description: Staff, leadership, and office locations for Rune headquartered in Mountain View, CA, US. title: Rune Employees, Leadership and Locations - aVenture image: https://aventure.vc/api/og/entity/01a0bc58-5313-7a66-9197-71a9946cdc93\nLoading\nLoading\nUpdatedSep 19, 2026\n<Rune>\nRune\nSeries A\nRune builds modular compute systems sited at solar farms for AI workloads.\nHQ\nMountain View, CA, US\nFounded\n2023\nwebsite crunchbase linkedin\nLoading\nRune - Leadership\n<Varun Palivela> Varun Palivela Co-Founder and CTO\nMountain View, CA, US\n<William Layden> William Layden Co-founder and CEO\nMountain View, CA, US\nRune - Addresses & Locations\nLocations\nSelect Location\nHQMountain View, CA\nAddress\n480 Ellis Street\nMountain View, CA, 94306\nUS\nWebsite\nrune.energy\n{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://aventure.vc/companies/rune-san-francisco-ca-us#organization\",\"url\":\"https://aventure.vc/companies/rune-san-francisco-ca-us\",\"name\":\"Rune\",\"legalName\":\"Liitto Technology Inc.\",\"description\":\"Rune builds modular compute systems sited at solar farms for AI\nrgy\"],\"foundingDate\":\"2023\"}\n{\"@context\":\"https://schema.org\",\"@type\":\"CollectionPage\",\"@id\":\"https://aventure.vc/companies/rune-san-francisco-ca-us/employees#webpage\",\"url\":\"https://aventure.vc/companies/rune-san-francisco-ca-us/employees\",\"name\":\"Rune Employees, Leadership and Locations - aVenture\",\"description\":\"Staff, leadership, and office locations for Rune\nUS.\",\"about\":{\"@type\":\"Organization\",\"@id\":\"https://aventure.vc/companies/rune-san-francisco-ca-us#organization\"},\"mainEntity\":{\"@type\":\"Organization\",\"@id\":\"https://aventure.vc/companies/rune-san-francisco-ca-us#organization\"},\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"aVenture\",\"url\":\"https://aventure.vc\"},\"dateModified\":\"2026-09-20T02:26:46.396Z\"}"
+    ]
+   },
+   {
+    "url": "https://rune.build/go",
+    "title": "Rune — The development environment for pros",
+    "excerpts": [
+     "Rune v1.3 is released Now open source!\nThe development environment for pros\nA terminal multiplexer\nis simply not enough.\nRune is where codebase intelligence meets a state-of-the-art terminal experience, for manual or automatic programming. Write code fast. Review even faster.\nDownload for Mac ▾\n$ curl -fsSL https://rune.build/install.sh | sh Copy\nRune in Action\nmacOS · Linux · Windows coming soon · homebrew, nix and manual install →\nUNIX and the command line solved tool integration fifty years ago. Rune brings it back to the IDE, built around a command prompt for driving actions, a console for managing the IDE, infinitely splittable terminal tiles, all under one set of key bindings. What else do you need?\nAutomated\nRadical automation\nProduct\n* Pricing\n* Downloads\n* Source\n* GNU GPLv3\n* Docs\nResources\n* FAQ\n* Support\n* Contributing\n* Issues\n* Security\n* Blog\nCompany\n* Website\n* Jobs\n* Press\nCommunity\nUnstable Build LLC · © 2026\nTerms Privacy Cookie preferences\nRUNE\nrune.build\nmain +0 -0\n288 lines\nunstablebuild"
+    ]
+   },
+   {
+    "url": "https://www.ycdb.co/company/rune",
+    "title": "Rune - Company Information | YCDB - The Y Combinator Database",
+    "excerpts": [
+     "The Y Combinator Database\n* by Snappr Logo\n* Random co.\nRune\nRune connects mobile gamers on voice chat and finds them teammates Live\nStatistics\n* Compare to all YC\n* Compare to W19\nInfluence on the web\nAlexa Rank\n2,958,548\nIn the top 68%\nDomain Authority\n26\nIn the top 56%\nDomains Linking\n215\nIn the top 50%\nSocial popularity\nTwitter Followers\n$2.1m\nIn the top 36%\nEmployees\n5\nIn the top 60%\nRecent social media posts\nRune Twitter\nRune\nReport an issue\nReport issue\nThanks! The issue has been logged and we'll be looking into it ASAP.\nSomething went wrong. Apologies, we couldn't log your correction at this time.\nAdvertisement ×\nNeed new photos for your company's website?\nGo no further than Snappr (YC W17), the world's largest marketplace for on-demand pro photography.\nFind out more\nwww.snappr.com\nYCDB is made in San Francisco by the team at Snappr , which is a YC company (W17). Why? Because we love YC companies and discovering new ones! Edited by Matt Schiller."
+    ]
+   },
+   {
+    "url": "https://craft.co/rune-ai/locations",
+    "title": "Rune Corporate Headquarters, Office Locations and Addresses | Craft.co",
+    "excerpts": [
+     "Craft\nAdvanced\nProduct\nSolutions\nPartners\nResources\nCompany\nToggle menu\n* Home\n* / Rune\n* / Locations\nRune Headquarters and Office Locations\nHeader placeholder lorem ipsum dolor sit amet, consectetur adipiscing elit.\nButton CTA\nbanner\nRune is headquartered in San Francisco, 2261 Market Suite #5760, United States, and has 1 office location.\nSolutions\n* Supplier Intelligence\n* Sales Intelligence\n* Aerospace and Defense\nResources\n* Resource center\n* Blog\nCompany\n* About\n* Careers\n* Contact\n* Terms of Service\n* Privacy Policy\n* Security\n  © Craft.co 2026\n  Share price data provided by IEX"
+    ]
+   }
+  ],
+  "decision_id": "decisions_4e4967772b5e0390b9ad402aabcb869e"
+ }
+}

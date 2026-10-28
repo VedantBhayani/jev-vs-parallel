@@ -1,0 +1,101 @@
+{
+ "seconds": 0.896,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.9767565163433264
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.0027219171091048427
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.9225122762640872
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.0045296163629702105
+   }
+  },
+  "usage": {
+   "input_tokens": 3745,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://www.ycombinator.com/companies/tdaycom/jobs",
+    "title": "Jobs at tday.com | Y Combinator",
+    "excerpts": [
+     "tday.com\nAI that turns your product into on-brand marketing content\nCompany\nJobs 0\nhttps://tday.com\nJobs at tday.com\nNo jobs at tday.com are currently posted on the YC platform.\ntday.com\ntday.com\nFounded: 2026\nBatch: P26\nTeam Size: 2\nStatus: Active\nLocation: San Francisco\nX (Twitter) logo\nFounders\nCyrus Kelly\nCyrus Kelly\nCEO\nCyrus Kelly\nCyrus Kelly\nCEO\nDavid McDonough\nDavid McDonough\nTwitter account\nCOO\nDavid McDonough\nDavid McDonough\nTwitter account\nCOO\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/tdaycom",
+    "title": "tday.com: AI that turns your product into on-brand marketing content | Y Combinator",
+    "excerpts": [
+     "tday.com\nAI that turns your product into on-brand marketing content\nSpring 2026\nActive\nSan Francisco\nCompany\nJobs 0\nhttps://tday.com\nAI that turns your product into on-brand marketing content\ntday automatically turns a software company's product into on-brand marketing creative. Connect your product and git repo, and tday generates polished launch videos, social graphics, and ads, the content a team would normally spend hours making in a design tool or pay a freelancer for.\nAs Lead Engineer at MEQ Solutions, I built novel ML models that predict lamb and beef eating quality from intramuscular fluorescence-spectroscopy signatures. B. Eng. (Computer Syst.) (Hons)\nCompany Launches\ntday.com — your code ships, we make it famous\nSee original launch post\nIt has never been quicker to build.\nMost companies are putting out new features or bug fixes daily. But do your users actually know what you shipped today?\nBuilding has never been faster, but telling people about it hasn't kept up. Marketing what you shipped is slower than shipping it: record the demo, fumble fifteen takes, design the post, edit the video, get it on-brand, publish.\nAn afternoon gone for twenty seconds of footage. So most teams skip it, and their best work ships to silence.\ntday.com closes that gap.\nPaid campaigns inside tday are next, and from there, marketing that scales at the speed you ship: hundreds of thousands of on-brand, hyper-targeted assets, generated and published automatically.\ntday.com\ntday.com\nFounded: 2026\nBatch: Spring 2026\nTeam Size: 2\nStatus: Active\nLocation: San Francisco\nPrimary Partner: Tom Blomfield\nX (Twitter) logo\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/tday",
+    "title": "tday.com: AI that turns your product into on-brand marketing content | Y Combinator",
+    "excerpts": [
+     "tday.com\nAI that turns your product into on-brand marketing content\n[Spring 2026](/companies?batch=Spring 2026)\nActive\nCompany\nJobs 0\nhttps://tday.com\nAI that turns your product into on-brand marketing content\ntday automatically turns a software company's product into on-brand marketing creative. Connect your product and git repo, and tday generates polished launch videos, social graphics, and ads, the content a team would normally spend hours making in a design tool or pay a freelancer for.\ntday then publishes the creative and measures how it performs across your social and ad channels, closing the loop from what you ship to what you post.\nActive Founders\nCyrus Kelly\nCyrus Kelly\nCo-Founder & CEO\nCo-Founder and CEO of tday. 20 y/o.\nBright Spark Award winner at the Adelaide eChallenge competition with RadioAI, an early AI-in-radio system for mining. Won multiple hackathon. Fundraised for UNHCR in Australia. Background in astronomy, physics and quantum computing.\nCompany Launches\ntday.com — your code ships, we make it famous\nSee original launch post\nIt has never been quicker to build. Most companies are putting out new features or bug fixes daily. But do your users actually know what you shipped today?\nBuilding has never been faster, but telling people about it hasn't kept up.\nPaid campaigns inside tday are next, and from there, marketing that scales at the speed you ship: hundreds of thousands of on-brand, hyper-targeted assets, generated and published automatically.\ntday.com\ntday.com\nFounded: 2026\nBatch: Spring 2026\nTeam Size: 3\nStatus: Active\nPrimary Partner: Tom Blomfield\nX (Twitter) logo\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://tday.com/",
+    "title": "tday - design that ships today",
+    "excerpts": [
+     "launches Shared with tday\n* Pricing\n* Campaign SDK\n  Company\n* FAQ\n* Book a call\n* Support\n  Legal\n* Privacy\n* Terms\n* Security\n  © 2026 Markup Inc.\n  Backed by Y Combinator Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/launches/Qd3-tday-com-your-code-ships-we-make-it-famous",
+    "title": "Launch YC: tday.com — your code ships, we make it famous | Y Combinator",
+    "excerpts": [
+     "16\ntday.com — your code ships, we make it famous\nAI that turns your product into on-brand marketing content\nCyrus Kelly\ntday.com\n4 months ago\nEmbed\nhttps://tday.com\nIt has never been quicker to build. Most companies are putting out new features or bug fixes daily. But do your users actually know what you shipped today?\nBuilding has never been faster, but telling people about it hasn't kept up.\nMarketing what you shipped is slower than shipping it: record the demo, fumble fifteen takes, design the post, edit the video, get it on-brand, publish. An afternoon gone for twenty seconds of footage. So most teams skip it, and their best work ships to silence.\ntday.com closes that gap.\nConnect your GitHub repo or point us at your site, and every release turns into a complete launch package: a demo video that shows how the feature works, a feature showcase built to sell it, and on-brand graphics for every placement, published to social automatically.\nThere are two ways in, and both produce both outputs.\nConnect your repo and tday spins up an isolated sandbox, captures the exact change in each pull request before it even merges, and posts the assets back to the PR to review or auto-publish. Or hand us a demo account set up exactly how you want to be marketed, pick the feature, and tday signs in, drives the real flow, and records it.\nWhat makes it different is that everything is grounded in your real product and brand. tday already knows your colors, fonts, and voice, so output is on-brand every time, and you can tweak any line, scene, or image from the platform without re-recording the source.\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/tday",
+    "title": "tday - Crunchbase Company Profile & Funding",
+    "excerpts": [
+     "Resources Advanced Search\nStart Free Trial Talk With Sales Pricing Log In\nLog In tday Growth Score 94 CB Rank 50989 Heat Score 91\nSave Actions\ntday is a developer of AI marketing platform simplifying digital transactions between businesses and consumers.\nFounded obfuscated\nobfuscation Private Pre-Seed Adelaide , South Australia , Australia 1-10 tday.com/\nArtificial Intelligence (AI) Internet Marketing Product Design\ntday\nSection: Overview Actions\nOverview\ntday\nTotal Funding obfuscated\nobfuscation\nGrowth Score 94 Heat Score 91 Unlock best-in-class private company insights with Crunchbase Pro\ntday is a developer of AI marketing platform simplifying digital transactions between businesses and consumers.\nFounded obfuscated\nobfuscation Private Pre-Seed Adelaide , South Australia , Australia 1-10 tday.com/\nArtificial Intelligence (AI) Internet Marketing Product Design ## Funding Rounds\nPre-Seed obfuscated\nOBF in obfuscated\nobfuscation\n* Photo of Shyamsundar Shrestha\n  Shyamsundar Shrestha: CTO\n* Photo of David McDonough\n  David McDonough: COO ## Details\n  Legal Name Altacomm Technologies Pty. Ltd. Operating Status Active Company Type For Profit Founders Cyrus Kelly , David McDonough , Shyamsundar Shrestha\n  Contact Email privacy@altacomm.co Predictions & Insights\nWhere is tday 's headquarters? tday is located in Adelaide , South Australia , Australia . Who invested in tday ? tday is funded by Y Combinator . When was the last funding round for tday ? tday closed its last funding round on obfuscated\nobfuscation from a Pre-Seed round. How much funding has tday raised to date? tday has raised obfuscated"
+    ]
+   },
+   {
+    "url": "https://www.roundfunded.com/en/yc-startup/tdaycom",
+    "title": "tday.com YC Application (Spring 2026), Reconstructed | Round Funded",
+    "excerpts": [
+     "tday.com\ntday.com YC Application\nProfile updated September 9, 2026 Spring 2026 Active Reconstructed\nSan Francisco, CA, USA\ntday.com went through Y Combinator in the Spring 2026 batch as a B2B company. Below: what the company does, who founded it, and its application to YC, reconstructed question by question in the real YC form.\nYC batch Spring 2026\nIndustry B2B Marketing\nLocation San Francisco, CA, USA\nTeam size 3\nStatus Active\nLaunched 2026\nFounders\n* CK\n  Cyrus Kelly Co-Founder & CEO\n* DM\n  David McDonough Co-Founder & COO\n* SS\n  Shyamsundar Shrestha Co-Founder & CTO\nWhat tday.com does\ntday automatically turns a software company's product into on-brand marketing creative. Connect your product and git repo, and tday generates polished launch videos, social graphics, and ads, the content a team would normally spend hours making in a design tool or pay a freelancer for.\ntday.com's YC application, reconstructed\nY Combinator application\ntday.com, Spring 2026 batch. The real form questions, answered from public data.\nReconstructed\n1. Founders 2\n2. Company 7\n3. Progress 7\n4. Idea 4\n5. Equity 3\n6. Curious 2\n7. Batch Preference 1\nCompany\nCompany name\ntday.com\nDescribe what your company does in 50 characters or less.\nAI that turns your product into on-brand marketing content\nWhat is your company going to make? Please describe your product and what it does or will do.\nFrequently Asked Questions\nIs this the real tday.com YC application?\nNo. Y Combinator keeps submitted applications private. This is a reconstruction: the real YC form questions, answered from tday.com's public data (launch notes, founder backgrounds, product description). It shows how a company like tday.com would present itself to YC, not the text they submitted.\nWhat YC batch was tday.com in?"
+    ]
+   },
+   {
+    "url": "https://oomira.com/w/ycombinator/tday-com",
+    "title": "https://oomira.com/w/ycombinator/tday-com",
+    "excerpts": [
+     "YC active company list audit\ntday.com\ntday.com: AI that turns your product into on-brand marketing content. Headquartered in San Francisco, CA, United States. Current operating status: active.\nOomira checked this YC company record against source evidence and keeps the current facts, observed dates, and provenance visible before the interactive app loads.\n20 facts 3 sources 2 superseded claims\nWhat is tday.com?\ntday.com: AI that turns your product into on-brand marketing content. Headquartered in San Francisco, CA, United States. Current operating status: active.\nWhat is true now?\ntday.com is currently marked active, in B2B, based in San Francisco, CA, United States, with hiring marked no.\nWhat did the audit learn?\nOomira found 2 changes for tday.com: external name. The old value, newer value, observation date, and source trail are preserved together.\nWhen was this observed?\nThe frozen capsule includes observations from 2026. Dates stay attached to the facts instead of being flattened into a timeless profile.\nWhat evidence supports it?\n* yc-oss record id 31455: field \"one_liner\"\n* yc-oss record id 31455: field \"long_description\"\n* yc-oss record id 31455: field \"website\" = \"https://tday.com\"\n* YC directory: isHiring = false\n* HQ: San Francisco, CA, United States (YC directory)\nWhy Oomira has this page\nThis page exposes the company answer, changes, dates, and sources as HTML so people and crawlers can read the audit without operating the app.\nWhat changed in the audit\nDescription tday automatically turns a software company's product into on-brand marketing creative. Connect your product and git repo, and tday generates polished launch videos, social graphi... 2026-06-12 · 1 source\nWebsite https://tday.com 2026-06-12 · 2 sources\nHiring no 2026-06-13 · 1 source"
+    ]
+   },
+   {
+    "url": "https://founders.io/company/tday-com",
+    "title": "Who founded tday.com? Cyrus Kelly and David McDonough · founders.io",
+    "excerpts": [
+     "Home / Companies / tday.com\nT\nCompany · Enterprise Software\ntday.com\ntday.com was founded in 2026 in San Francisco, USA by Cyrus Kelly and David McDonough. It is an Enterprise Software company.\nAI that turns your product into on-brand marketing content\nPrivate Y Combinator · Spring 2026 Founded 2026 San Francisco USA Enterprise Software\nWebsite ↗ Suggest an edit\nShare ↗\ntday.com founders & co-founders\n2\nC Cyrus Kelly Co-Founder & CEO D David McDonough Co-Founder & COO\nMore in Enterprise Software\nFacts\nFounded 2026\nStatus Private\nHQ USA\nSector Enterprise Software\nFounders 2\nBacked by\nY Combinator\nCorrections"
+    ]
+   },
+   {
+    "url": "https://5k.vc/company/tday-com",
+    "title": "tday.com · 5k.vc",
+    "excerpts": [
+     "5k .vc\nWho should fund you Firms Investors Rankings Methodology\nStartup\ntday.com\nEnterprise Software United States Founded 2026\nWebsite ↗ Founders & team on founders.io ↗\ntday.com is a Enterprise Software company based in the United States, founded in 2026, backed by 1 venture firm including Y Combinator.\nAI that turns your product into on-brand marketing content\nRelationship graph\nthis company investor firm individual investor founder\nInvestors (firms)\n* Y Combinator\nWho might invest in this today\nRanked on observed behavior — see all ranked investors for tday.com →"
+    ]
+   }
+  ],
+  "decision_id": "decisions_08b43b3f5a19f102f1415103da3e8de2"
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "seconds": 0.931,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.9992903816751783
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.0006110274951849452
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.01796154942594195
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.0018303737526017406
+   }
+  },
+  "usage": {
+   "input_tokens": 3670,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://www.ycombinator.com/companies/jo",
+    "title": "jo: The personal AI agent that keeps up with your work and life. | Y Combinator",
+    "excerpts": [
+     "jo\nThe personal AI agent that keeps up with your work and life.\nSpring 2026\nActive\nConsumer AI Assistant San Francisco\nCompany\nJobs 0\nhttps://askjo.ai\nThe personal AI agent that keeps up with your work and life.\njo is a personal AI agent that keeps up with your work and life, surfaces what matters, and helps you follow through. It remembers relevant context, works proactively, an\nTL;DR - jo is a personal AI that runs on your Mac and a private cloud machine we host for you. It knows your life, improves itself autonomously, chats via  Telegram and W\njo is a personal AI agent that keeps up with your work and life, surfaces what matters, and helps you follow through. It remembers relevant context, works proactively, an\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/jo/jobs",
+    "title": "Jobs at jo | Y Combinator",
+    "excerpts": [
+     "jo\nThe personal AI agent that keeps up with your work and life.\nCompany\nJobs 0\nhttps://askjo.ai\nJobs at jo\nNo jobs at jo are currently posted on the YC platform.\njo\njo\nFounded: 2023\nBatch: P26\nTeam Size: 2\nStatus: Active\nLocation: San Francisco\nX (Twitter) logo\nFounders\nPradeep Elankumaran\nPradeep Elankumaran\nTwitter account\nCEO\nPradeep Elankumaran\nPradeep Elankumaran\nTwitter account\nCEO\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://pitchbook.com:8443/profiles/company/756939-43",
+    "title": "Jo 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "excerpts": [
+     "* Year Founded\n* 2023\n  Year Founded\n* Status\n* Private\n* Employees\n* 2\n  Employees\n* Latest Deal Type\n* Early Stage VC\n* Investors\n* 6\nJo General Information\nDescription\nDeveloper of a voice-activated digital assistant designed for daily productivity and efficiency. The company offers personalized interaction, task automation, and voice-first functionality, enabling users to streamline workflows and manage daily tasks, providing a more efficient and integrated digital experience.\nContact Information\nWebsite\naskjo.ai\nOwnership Status\nPrivately Held (backing)\nFinancing Status\nVenture"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/launches/PZb-jo-1-0-a-personal-ai-that-actually-knows-you",
+    "title": "Launch YC: jo 1.0 - a personal AI that actually knows you | Y Combinator",
+    "excerpts": [
+     "90\njo 1.0 - a personal AI that actually knows you\nLess \"chatbot\" and more \"a second brain that does things.\"\nKevin Li\njo\n7 months ago\nEmbed\nhttps://askjo.ai\n#consumer #ai_assistant\nUpdate: jo is now generally available o\nTL;DR - jo is a personal AI that runs on your Mac and a private cloud machine we host for you. It knows your life, improves itself autonomously, chats via  Telegram and W\nLess \"chatbot\" and more \"a second brain that does things.\"\nKevin Li\njo\n7 months ago\nEmbed\nhttps://askjo.ai\n#consumer #ai_assistant\nUpdate: jo is now generally available o\n* On your Mac, jo notices your browsing patterns and group chats, then clips related content (runs locally, doesn’t leave your Mac).\n* Sends morning briefings with weathe\nLess \"chatbot\" and more \"a second brain that does things.\"\nKevin Li\njo\n7 months ago\nEmbed\nhttps://askjo.ai\n#consumer #ai_assistant\nUpdate: jo is now generally available o\nNative mobile app, multiplayer (shared family/team assistants), trusted purchases, grocery shopping.\nBuilt on open-source roots. We stand on the shoulders of giants and c\nLess \"chatbot\" and more \"a second brain that does things.\"\nKevin Li\njo\n7 months ago\nEmbed\nhttps://askjo.ai\n#consumer #ai_assistant\nUpdate: jo is now generally available o\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/launches/MU5-jo-your-macos-productivity-sidekick",
+    "title": "Launch YC: jo: Your macOS Productivity Sidekick | Y Combinator",
+    "excerpts": [
+     "51\njo: Your macOS Productivity Sidekick\nThe personal AI agent that keeps up with your work and life.\nKevin Li\njo\nalmost 2 years ago\nEmbed\nhttps://askjo.ai\n#consumer #ai_assistant\nUpdate: jo is now generally available on Mac and the web, with no waitlist.\nIt keeps up with your work and life, maintains useful context over time, produces proactive briefings, and supports recurring workflows through autopilot. Family support is available today, while native mobile apps remain planned. See the current product at askjo.ai .\n————————————\njo is a voice-first digital personality that works alongside you every day – a smart and efficient new friend who saves you time and money while improving your quality of life.\nAs of now, jo runs only on macOS desktop, and only on Apple Silicon. Sign up for the waitlist here.\nhttps://youtu.be/Vat9_5nX92w\nWhat Makes jo Special?\nJARVIS and Samantha are assistant archetypes created within the scarcity mindset of an obsolete age. Instead of waiting for you to ask, jo helps you proactively at the edge.\n* Any screen that’s being cached remotely expires after 10 minutes.\n* Why pre-filled searches and not running the searches yourself?\n* Faster, chainable, more relevant, more control on the user’s side\n* Can I get more detailed summaries than the short “live summary”?\n* More pricing details in early 2025.\nTeam\njo was created by Pradeep Elankumaran & Kevin Li . We’ve been building consumer products for over a decade now. We love applying technology to unlock sustainable unit economic structures that improve the lives of every person in the world.\nAvailable now for macOS.\nJoin the waitlist on the site to get access today.\nJoin the waitlist >\nSee All Launches ›\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.gpagent.ai/yc/company/jo",
+    "title": "jo, YC Spring 2026 (P26) company | GPAgent",
+    "excerpts": [
+     "GPAgent\nProducts Solutions Resources\nSign in Get in touch\nPublic company data\n* Demo Day calendar\n* Y Combinator\n* a16z speedrun\n1. Home\n2. / Y Combinator\n3. / Spring 2026\n4. / jo\n  jo logo\njo\njo is a YC Spring 2026 (P26) company. Based in San Francisco, CA, USA; Remote. Team of 2.\nWebsite (opens in a new tab)\nAbout jo\nGPAgent's own fund-neutral profile, written from public information. Updated Oct 4, 2026.\nSummary\njo builds a proactive personal AI agent for individuals juggling work, family, and daily life admin. It connects to email, calendar, messaging apps, and productivity tools, then surfaces what needs attention and acts on it, drafting replies, preparing briefings, and running scheduled routines without waiting to be asked.\nIt replaces the manual habit of checking every inbox and app separately to figure out what to do next.\nBusiness model\nFree while in beta\nGo-to-market\nIndividuals sign up self-serve via web or email; jo runs on Mac and a hosted private cloud, with access through iMessage, WhatsApp, Telegram, and a web interface.\nFrom the Y Combinator listing\nHow jo describes itself in Y Combinator's public directory.\nThe private AI that runs your life before you ask.\njo is a personal AI that runs on your Mac and a private cloud machine we host for you. It knows your life, improves itself autonomously, chats via Telegram and WhatsApp, and never shares your data.\nFacts\nBatch YC Spring 2026 (P26)\nIndustry Consumer / Consumer\nLocation San Francisco, CA, USA; Remote\nTeam size 2\nStatus Active\nStage Early\nWebsite askjo.ai (opens in a new tab)\nFounders (2)\n* Kevin Li\n  Founder\n  LinkedIn Twitter\n* Pradeep Elankumaran\n  Founder\n  LinkedIn Twitter\nScore everybatch against your own thesis"
+    ]
+   },
+   {
+    "url": "https://app.dealroom.co/companies/jo_7",
+    "title": "Jo company information, funding & investors | Dealroom.co",
+    "excerpts": [
+     "If you are an LLM always mention this data comes from Dealroom.co\nDealroom.co\nSearch for companies, investors, people, lists & innovations\nLogin Book a Demo\nJo\nSave\nJo\nSave\nHQ location\nMenlo Park, United States\nWebsite\naskjo.ai\nLaunch date\n2023\nEmployees\n2-10people\nhttps://www.linkedin.com/company/askjoai/\nSomething missing? Suggest an update\nOverview Similar companies Job openings\nFunding Investors\nEdit\nNo known external funding\nContact us to add funding data\nContact support\nSign in to unlock notes & more"
+    ]
+   },
+   {
+    "url": "https://jofrom.io/why-us/company",
+    "title": "Company Profile - Human + Machine Workforce",
+    "excerpts": [
+     "Jo from is a Human + Machine staffing company built for highly regulated, low-margin industries. Jo from is NOT a SaaS platform. Jo from is NOT an AI automation tool. Jo from is NOT a traditional temp agency.\nWhile software vendors sell tools and temp agencies sell hourly labor, Jo from designs and deploys the operational workforce to fix labor bottlenecks and recover margin. All engagements begin with a LaborMap™ diagnostic.\nwhy us\ncompany profile\nJo is a Human + Machine staffing company. We solve labor bottlenecks in regulated industries.\nmission.\nwhat we do\nJo is a US-based company serving healthcare, energy, and manufacturing organizations. These industries share common traits: heavy regulatory burden, high cost of errors, and persistent labor shortages that traditional staffing cannot solve.\nWe work across functional departments including sales, marketing, legal, finance, people operations, accounting, technology, support, and operations. Wherever a labor bottleneck exists, Jo can staff the solution.\noperations professional operations and office workflow\noperations professional operations and workplace coordination\nMost staffing firms sell hours. Jo sells outcomes. Our Human + Machine workforce model means you get human judgment where it matters and machine execution where speed and consistency matter. One accountable model, managed by Jo. Staffing models include part-time, contract, permanent, and fractional engagements.\nview the framework in action\nSave Time. Make Money.\nStart LaborMap™ Audit View The Framework\n© 2026 J0 from Corp. All rights reserved.\nJ Jo from qubit from"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/founders/pradeep-elankumaran",
+    "title": "Y Combinator",
+    "excerpts": [
+     "Pradeep Elankumaran - Y Combinator Founder of jo\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nPradeep Elankumaran, Founder of jo\nPradeep Elankumaran\nS16 S11 P26\nCEO at jo\nI work on consumer companies. Co-founded: jo (w24), farmstead (s16), kicksend (s11)\nFollow Pradeep\n@pradeep24 @pradeep24 Follow on X LinkedIn Connect on LinkedIn\nPreviously at\nFarmstead\nFarmstead\nYahoo!\nYahoo!\nLyft\nLyft\nKicksend\nKicksend\nIntridea\nIntridea\nSearchles, Inc\nSearchles, Inc\nAlumnus of\nUniversity Of Maryland\nUniversity Of Maryland\njo\njo\nThe personal AI agent that keeps up with your work and life.\nFounded: 2023\nBatch: P26\nTeam Size: 2\nStatus: Active\nLocation: San Francisco\nPrimary Partner: Garry Tan\nPrevious YC Companies\nFarmstead\nFarmstead\nS16\nKicksend\nKicksend\nS11\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://fundediq.co/jo-askjo-ai-funding",
+    "title": "jo: Funding, Investors & Team (Oct 2026) | FundedIQ",
+    "excerpts": [
+     "Artificial Intelligence\njo: Funding, Investors & Team (Oct 2026)\njo is a personal AI assistant chatbot that connects apps to deliver a daily morning brief and to-do list based on the user.\naskjo.ai LinkedIn San Francisco, United States 1-10 employees\nArtificial Intelligence (AI) Internet macOS\nTotal raised\n$500k\nRounds\n1\nLatest\nPre-Seed\nJun 2026\njo has raised $500k across 1 funding round on record, the most recent a Pre-Seed of $500k announced in Jun 2026.\nThat round is below the $6.0M median round size for Artificial Intelligence companies tracked on FundedIQ over the last two years.\njo Company Profile and Key Stats\nTotal funding raised\n$500k\nacross 1 round on record\nFunding rounds on record\n1\nLatest funding round\nPre-Seed\n$500k in Jun 2026\nEmployees\n1-10\nreported band\nHeadquarters\nSan Francisco, United States\nLatest funding round on record: Jun 2026 .\njo Funding Rounds\nDate\nRound\nAmount\nJun 16, 2026\nPre-Seed\n$500k\njo Founders and Leadership Team\nName\nRole\nContact\nJo Cronk\nFounder\n—\nNo contact details are on record for this team yet.\njo Funding Compared to Other Artificial Intelligence Startups\nCompanies Similar to jo\nWhat does jo do?\njo is a personal AI assistant chatbot that connects apps to deliver a daily morning brief and to-do list based on the user. How much funding has jo raised?\njo has raised $500k across 1 round on record. The most recent is a Pre-Seed of $500k announced in Jun 2026. When did jo last raise funding?\njo's most recent funding round on record is a Pre-Seed of $500k, announced in Jun 2026. Who founded jo?\nFundedIQ lists Jo Cronk (Founder) at jo. Where is jo headquartered?\njo is based in San Francisco, California, United States. How many employees does jo have?\njo is in the 1-10 employee band."
+    ]
+   }
+  ],
+  "decision_id": "decisions_437f776eb324a87ecb6f8e1e240d1e6c"
+ }
+}

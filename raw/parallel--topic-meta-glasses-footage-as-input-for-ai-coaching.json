@@ -1,0 +1,89 @@
+{
+ "seconds": 0.801,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "published": {
+    "type": "noul",
+    "noul": 0.3009616214015567
+   }
+  },
+  "usage": {
+   "input_tokens": 3501,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://www.meta.com/help/ai-glasses/272319252352130/",
+    "title": "How to capture photos and videos with AI glasses | AI Glasses Help | Meta",
+    "excerpts": [
+     "Meta\nAI glasses\nMeta Quest\nMeta VR Glasses\nMuse Charm\nExplore Meta\nSupport\nMeta\nAI glasses\nMeta Quest\nMeta VR Glasses\nMuse Charm\nExplore Meta\nSupport\nMeta AI Glasses Help Center\nHow to use Meta AI and other features\nHow to capture photos and videos with AI glasses\nHow to capture photos and videos with AI glasses\n35 Likes\nUpdated: 6 days ago\nYou can capture media with AI glasses using the capture button on your glasses frame or by using Meta AI. The capture LED enables others to know when you use your glasses to take photos and record videos. Select your glasses below, as the ways you can capture differ by product.\nMedia you capture with AI glasses must be imported to the Meta AI app before you can view or share it, and your glasses must be connected to the Meta AI app in order to import media.\nMedia is transferred to your phone's photo app and is automatically removed from your glasses during import.\nMedia is presented in the Meta AI app Gallery by accessing your phone's photo app with your permission. If you delete media from Gallery, from your photo app, or revoke permission for the Meta AI app to access your phone's photo app, media will not appear in Gallery. Learn more about how media storage works with AI glasses and the Meta AI app.\nRay-Ban Meta, Oakley Meta HSTN and Meta Glasses\nOakley Meta Vanguard glasses\nMeta Ray-Ban Display\nUsing the capture button on Ray-Ban Meta, Oakley Meta HSTN or Meta Glasses\nYou can use your voice to take a photo or video with Meta AI:\n* Say \"Hey Meta, take a photo\" to take a photo.\n* Say \"Hey Meta, take a video\" to start recording a video.\n* Say \"Hey Meta, stop\" to stop recording a video.\nYou can also use Meta AI to share photos. Learn more about how to use Meta AI on AI glasses."
+    ]
+   },
+   {
+    "url": "https://www.theverge.com/tech/889637/meta-ai-smart-glasses-human-reviewers-kenya",
+    "title": "Meta’s AI glasses reportedly send sensitive footage to human reviewers in Kenya | The Verge",
+    "excerpts": [
+     "Meta’s AI glasses reportedly send sensitive footage to human reviewers in Kenya\n* Tech\n* AI\n* Gadgets\nMeta’s AI glasses reportedly send sensitive footage to human reviewers in Kenya\nNairobi-based contractors have seen footage capturing bathroom visits, naked people, and intimate moments, according to an investigation from two Swedish newspapers.\nNairobi-based contractors have seen footage capturing bathroom visits, naked people, and intimate moments, according to an investigation from two Swedish newspapers.\nby Emma Roth\nMar 5, 2026, 4:37 PM UTC\nVerge Ray-ban Meta Gen2 Stills 6\nVerge Ray-ban"
+    ]
+   },
+   {
+    "url": "https://www.theregister.com/security/2026/03/05/meta-smart-glasses-face-uk-privacy-probe/5165427",
+    "title": "Meta smart glasses face UK privacy probe - The Register",
+    "excerpts": [
+     "REG AD\nSecurity\nUK watchdog eyes Meta's smart glasses after workers say they 'see everything'\nContractors tasked with improving AI reportedly had access to intimate footage captured through wearables\nCarly Page Carly Page\nPublished thu 5 Mar 2026 // 12:18 UTC\nBritain's privacy watchdog is asking questions about Meta's AI-powered smart glasses after reports that human contractors reviewing recordings from the devices were exposed to extremely private moments captured by unsuspecting users.\nRay Ban Meta smart glasses on sale in a retail display case.\nThe Information Commissioner's Office (ICO) confirmed it is contacting Meta following an investigation by Swedish outlets Svenska Dagbladet and Göteborgs-Posten that claims outsourced workers tasked with improving Meta's AI systems routinely review footage showing everything from everyday conversations to far more intimate scenes.\nThe fuss revolves around Meta's Ray-Ban smart glasses, ordinary-looking frames stuffed with cameras, microphones, and an AI assistant that can take photos, shoot video, and respond to voice commands.\nHide from Meta's spyglasses with this new Android app Read more\nMORE CONTEXT\nHide from Meta's spyglasses with this new Android app Read more\n* Headset hype meets harsh reality as Apple and Meta VR shipments fizzle in 2025\n* Post-privacy AI glasses claim to listen to your every word\n* Microsoft HoloLens finds second home in the military after failing battlefield tests\nHide from Meta's spyglasses with this new Android app Read more\n\"The claims in this article are concerning,\" the ICO added. \"We will be writing to Meta to request information on how it is meeting its obligations under UK data protection law.\""
+    ]
+   },
+   {
+    "url": "https://nypost.com/2026/09/18/us-news/california-users-among-plaintiffs-suing-meta-over-smart-glasses",
+    "title": "California users among plaintiffs suing Meta over smart glasses",
+    "excerpts": [
+     "California News\nMeta’s AI glasses accused in California lawsuit of secretly capturing sex, nudity and bathroom footage\nBy\nMarina Peña\nPublished Sep. 18, 2026, 8:38 p.m. ET\nSee more of our coverage in your search results.\nMake California Post a Preferred Source\nMeta’s push to bring artificial intelligence into everyday eyewear is facing growing legal scrutiny — with dozens of people alleging the company’s smart glasses captured private moments that were later viewed by overseas workers helping train its AI systems .\nMore than 70 people who purchased, used or were recorded by Meta’s smart"
+    ]
+   },
+   {
+    "url": "https://news.bloomberglaw.com/class-action/meta-glasses-accused-of-secretly-recording-private-conversations?context=search&index=6",
+    "title": "Meta Sued Over Private Conversations Recorded by AI Glasses (1)",
+    "excerpts": [
+     "Americas +1 212 318 2000\nEMEA +44 20 7330 7500\nAsia Pacific +65 6212 1000\nClass Action\nListen Print Email\nShare To: Facebook\nLinkedIn\nMeta Sued Over Private Conversations Recorded by AI Glasses (1)\nOct. 20, 2026, 9:01 PM UTC ; Updated: Oct. 21, 2026, 3:58 PM UTC\nChristopher Brown\nChristopher Brown\nStaff Correspondent\nA general view of Meta Glasses in London.\nPhotographer: Ben Montgomery/Getty Images for Future Forum\nDocuments\nComplaint\nDocket\nCompany Info: Meta Platforms Inc.\nRelated Stories\n* Meta Platforms Inc\nMeta Platforms Inc . was hit with a new privacy lawsuit alleging the company recorded a California man’s private conversations via its AI-enabled smart glasses without his knowledge or consent.\nAngelo Subia, who bought a pair of Meta AI Glasses at a LensCrafters location, says the glasses recorded his conversations — including sensitive discussions with doctors and financial institutions — even when he never said “Hey Meta,” the phrase designed to activate the device.\n“Privacy was built into our glasses from the ground up,” the statement said. “Meta AI is initiated by saying ‘Hey Meta’ or by touch, queries sent to Meta AI are visible to the wearer, and people can review, manage and delete their voice logs in settings at any time.”\nThe lawsuit comes amid rising concern about the privacy implications of always-on, AI-powered devices able to record the ordinary activities of daily life without the awareness of third parties.\nBursor & Fisher PA represents Subia and the proposed class.\nThe case is Subia v. Meta Platforms Inc. , N.D. Cal., No. 3:26-cv-12135, complaint filed 10/19/26.\nThis story was produced with the assistance of Bloomberg Law AI.\n( Updates Oct. 20 story with comment from Meta in paragraph four. )"
+    ]
+   },
+   {
+    "url": "https://www.meta.com/actions/ai-glasses-veteran-accessibility-training/",
+    "title": "Mastering AI Glasses from Meta for Accessibility: A Train-the-Trainer Guide | Meta",
+    "excerpts": [
+     "Meta\nAI glasses\nMeta Quest\nMeta VR Glasses\nMuse Charm\nExplore Meta\nSupport\nBlack Ray-Ban glasses\nYou may also verify the connection by asking the client to test a simple voice command, such as, \"Hey Meta, what is the weather today?\" to ensure the audio-feedback loop is active.\n* \"Hey Meta, call Amtrak on Be My Eyes.\"\n* \"Hey Meta, call Hilton with Be My Eyes.\"\n* Virtual Coaching Checkpoint: Instruct the client to practice head-pointing adjustments during a mock run, explaining how to slowly sweep their head left-to-right to give the remote agent a comprehensive description of their physical environment.\nAudio messaging pacing on WhatsApp: Instruct the client to say, \"Hey Meta, send a voice message to [Contact Name] on WhatsApp.\" Coach them to remain completely silent immediately after finishing their dictation: \"Remember, the system looks for several continuous seconds of complete silence to end recording before prompting you to say 'Yes' to\nsend.\"\n* Remove the glasses and put them back on: Instruct the client to remove the glasses, fold both temple arms completely closed, wait three seconds, unfold them, and put them back on. This cycles the internal frame proximity sensors and forces an automatic system reboot.\n* Close the Meta AI app, and re-open the app.\nPower off the device by sliding the left temple switch back, wait 3 seconds, and then power it back on to force a system reboot B. Submit a support ticket through the Meta AI app or official support channels C. Post about the issue on social media D. Send glasses back to the manufacturer immediately for a refund\nReveal answer\nCorrect answer: B.\nSubmit a support ticket through the Meta AI app or official support channels so the issue can be properly logged and triaged."
+    ]
+   },
+   {
+    "url": "https://www.foxnews.com/tech/meta-smart-glasses-privacy-concerns-grow",
+    "title": "Meta smart glasses footage allegedly viewed by Kenya AI contractors | Fox News",
+    "excerpts": [
+     "Dell CEO touts automatic enrollment for Trump Accounts\nRight Arrow\nWearable Tech\nMeta smart glasses privacy concerns grow\nReport claims AI reviewers may see private moments captured by Meta smart glasses\nBy Kurt Knutsson, CyberGuy Report Fox News\nPublished March 8, 2026 1:00pm EDT\nDell CEO touts automatic enrollment for Trump Accounts\nFox News Flash top headlines are here. Check out what's clicking on FoxNews.com.\nNEW You can now listen to Fox News articles!\nSmart glasses promise a future where technology blends into everyday life.\nDell CEO touts automatic enrollment for Trump Accounts"
+    ]
+   },
+   {
+    "url": "https://noticias.foxnews.com/tech/meta-smart-glasses-privacy-concerns-grow",
+    "title": "Meta smart glasses footage allegedly viewed by Kenya AI contractors | Fox News",
+    "excerpts": [
+     "Report claims AI reviewers may see private moments captured by Meta smart glasses\nBy Kurt Knutsson, CyberGuy Report Fox News\nPublished March 8, 2026 1:00pm EDT\n* Comments\n* Facebook\n* Twitter\n* Threads\n* Flipboard\n* Print\n* Email\n* Add Fox News on Google\n  close\n  Video\nFox News Flash top headlines for March 8\nHowever, a new investigation suggests the experience may come with a privacy tradeoff many users never expected.\nAccording to an investigation by Swedish newspapers Svenska Dagbladet and Göteborgs-Posten, contractors reviewing AI data in Nairobi, Kenya, may have seen highly personal"
+    ]
+   },
+   {
+    "url": "https://roadtovr.com/meta-lawsuit-ray-ban-smart-glasses-privacy/",
+    "title": "Meta Faces Lawsuit Claiming Ray-Ban Smart Glasses Sent Private Footage to Overseas Reviewers | Road to VR",
+    "excerpts": [
+     "Meta Faces Lawsuit Claiming Ray-Ban Smart Glasses Sent Private Footage to Overseas Reviewers\nScott Hayden\nScott Hayden\nMarch 10, 2026\n0\nMeta is facing a class action lawsuit in the US over privacy concerns tied to its Ray-Ban smart glasses. The company is accused of sending private camera footage to a Kenya-based subcontractor for manual review to train its AI models.\nAllegations stem from an investigative report from Sweden’s Svenska Dagbladet and Göteborgs-Posten , which is said to have uncovered a subcontractor in Kenya tasked with reviewing and labeling images and videos uploaded from the glasses.\nSources within the subcontractor report seeing videos of everything, from sexual activity, handling of financial information, to a host of other private activities inside homes.\n“In some videos you can see someone going to the toilet, or getting undressed.\nI don’t think they know, because if they knew they wouldn’t be recording,” a facility worker told Svenska Dagbladet.\nArray of Meta smart glasses | Image courtesy Brad Lynch\nFollowing these revelations, a class-action lawsuit (via TechCrunch ) was filed in a US federal court accusing Meta of misleading consumers about the product’s privacy protections.\n“Meta chose to make privacy the centerpiece of its pervasive marketing campaign while concealing the facts that reveal those promises to be false,” the lawsuit states, further noting that Meta’s own “face anonymization” layer does not work to obscure the private nature of the transmitted videos.\nMeta did not offer a comment to TechCrunch on the litigation itself, however, spokesperson Christopher Sgro provided the following statement:\n“Ray-Ban Meta glasses help you use AI, hands-free, to answer questions about the world around you."
+    ]
+   },
+   {
+    "url": "https://www.sfgate.com/tech/article/meta-ai-glasses-lawsuit-21960004.php",
+    "title": "Meta exposes nude video from AI glasses to workers, lawsuit alleges",
+    "excerpts": [
+     "Calif. lawsuit accuses Meta of sending nude video from AI glasses to workers\nMeta is still reviewing the lawsuit but said it prevents 'identifying information' from being reviewed\nBy Stephen Council , Tech Reporter March 6, 2026\nMeta CEO Mark Zuckerberg wears artificial intelligence-powered smart glasses as he speaks during the company's Connect developer conference Wednesday, Sept. 17, 2025, in Menlo Park, Calif. Nic Coury/AP\nMeta’s AI glasses were a breakout hit of 2025, with more than 7 million pairs sold.\nThe company pitches its glasses , with their small cameras that have raised some privacy concerns, as safe: “Designed for privacy, controlled by you.” In late February, the Swedish newspaper Svenska Dagbladet, or SvD, published an investigation that said Kenyan subcontractors end up seeing deeply personal footage from the glasses — including bank\ncards, people changing and people having sex. A new federal lawsuit filed in San Francisco on Wednesday points to the article and accuses Meta of false advertising, fraud and breach of contract.\nAdvertisement\nArticle continues below this ad\n“Consumers purchased these Glasses believing Meta’s privacy assurances,” the complaint says.\nSvD’s article noted that when reporters bought the glasses and attempted to use their AI tool without internet connection, the AI wouldn’t work; then, when they turned on internet connection, their phone made contact with multiple Meta servers.\nThe lawsuit assumes this means the footage will then go on to the data labeling offices, using this as an argument that a “central function” of the glasses is not private.\nThe Swedish newspaper story was a collaboration among SvD, the newspaper Göteborgs-Posten and Kenyan freelancer Naipanoi Lepapa."
+    ]
+   }
+  ],
+  "decision_id": "decisions_bc6ae621707cc0184d7862869499e3a0"
+ }
+}

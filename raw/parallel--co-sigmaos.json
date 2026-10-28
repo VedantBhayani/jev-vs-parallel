@@ -1,0 +1,101 @@
+{
+ "seconds": 0.891,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.012643972462984866
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.008492318873507971
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.2302389276501
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.9971092234616942
+   }
+  },
+  "usage": {
+   "input_tokens": 4463,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://www.ycombinator.com/companies/sigmaos/jobs",
+    "title": "Jobs at SigmaOS | Y Combinator",
+    "excerpts": [
+     "SigmaOS\nThe new home for your internet 🏡\nCompany\nJobs 1\nhttps://www.sigmaos.com\nJobs at SigmaOS\nSoftware Engineer\nLondon, UK\n$75.5K - $126K\n0.40% - 0.75%\n3+ years\nApply Now ›\nWhy you should join SigmaOS\nThe first web browser made for work!\nSigmaOS is a new type of browser designed for founders, researchers, and content creators to make you better and faster at working on the web.\nWe are a YC backed company on the path to create the next era of browsers, what we call the workOS! 🚀\nWe became Product Hunt’s number 1 product of day, week and month during August! 🥇\nAfter our success on Product hunt we didn’t slow down, we continued building the best product for our users with our users! ❤️\nSigmaOS\nSigmaOS\nFounded: 2021\nBatch: S21\nTeam Size: 5\nStatus: Active\nLocation: San Francisco\nX (Twitter) logo\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "http://ycombinator.com/companies/sigmaos",
+    "title": "SigmaOS: The new home for your internet 🏡 | Y Combinator",
+    "excerpts": [
+     "SigmaOS\nThe new home for your internet 🏡\n[Summer 2021](/companies?batch=Summer 2021)\nActive\nsaas productivity collaboration\nCompany\nJobs 1\nNews\nhttps://www.sigmaos.com\nThe new home for your internet 🏡\nSigmaOS is a new type of browser designed for founders, researchers, and content creators to make you better and faster at working on the web. You work 7+ hours a day on the web. Buried in a sea of 100+ tabs and 10+ web-apps 🤯, you constantly lose context for why you did what you did, and are always one click away from being distracted.\nWe took apart the browser for you, and rebuilt a new experience from the ground-up, for the FASTEST and most PRODUCTIVE work. ⚡\nActive Founders\nMahyad G\nMahyad G\nFounder / CEO\n2x YC founder building a web app to create agents using natural language, think of it as Lovable for agents.\npreviously built the first web browser designed for work with AI agents built in @SigmaOS (S21), used by 100,000+ people with 75,000 LLM requests per day.\nTwitter account\nAli Attar\nAli Attar\nFounder / CPO\nBuilt & designed a web browser @SigmaOS. Mathematics @Imperial College London.\nTwitter account\nSaurav Mitra\nSaurav Mitra\nFounder\nSigmaOS launches a contextual AI assistant for its browser | TechCrunch\nJun 02, 2023\nAI chatbots are coming to web browsers in a big way - The Verge\nJun 01, 2023\nSigmaOS raises $4 million to build a browser for productivity nerds • TechCrunch\nNov 16, 2022\nJobs at SigmaOS\nView all jobs\nSoftware Engineer\nLondon, UK\n$75.5K - $126K\n0.40% - 0.75%\n3+ years\nApply Now ›\nSigmaOS\nSigmaOS\nFounded: 2021\nBatch: Summer 2021\nTeam Size: 5\nStatus: Active\nLocation: London, United Kingdom\nPrimary Partner: Gustaf Alstromer\nX (Twitter) logo\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2025 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/469611-10",
+    "title": "SigmaOS 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "excerpts": [
+     "Developer of a browser platform designed to make working on the web. The company's platform offers a browser designed for founders, researchers, and content creators to make working on the web more productive and helps them organize all their work in one window, enabling content creators to have a browser alternative.\nContact Information\nWebsite\nwww.sigmaos.com\nOwnership Status\nPrivately Held (backing)\nFinancing Status\nVenture Capital-Backed\nCorporate Office\n* Abbey House, 74-76 Saint John Street\n* London EC1M 4DT\n* England, United Kingdom\n  \n  \n  \n  Primary Industry\n  Internet Software"
+    ]
+   },
+   {
+    "url": "https://tracxn.com/d/companies/sigmaos/__xvO2TOVAMF8ERSFua8a7eU2mCG3ctv1QBS85wWRy6Hc",
+    "title": "SigmaOS - 2026 Company Profile, Funding, Competitors & Financials - Tracxn",
+    "excerpts": [
+     "SigmaOS is a seed company based in London (United Kingdom), founded in 2021. It operates as a Provider of SaaS-based digital workspace management platform. SigmaOS has raised $4.12M in funding from investors like Y Combinator , LocalGlobe and 7percent Ventures . The company has 39 active competitors, including 2 that are funded.\nCompany Details\nWebsite sigmaos.com\nSocial X Facebook\nEmail ID *****@sigmaos.com\nRegistered Address ABBEY HOUSE SIGMAOS INC.,74-76 SAINT JOHN ST,LONDON,ENGLAND,EC1M 4DT\nKey Metrics\nFounded Year\n2021\nLocation\nLondon, United Kingdom\nStage\nSeed\nTotal Funding\n$4.12M in 3"
+    ]
+   },
+   {
+    "url": "https://www.cbinsights.com/company/sigmaos",
+    "title": "SigmaOS - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "excerpts": [
+     "SigmaOS is compatible with macOS, supports Chrome extensions, and includes password protection and biometric locks. It was founded in 2021 and is based in London, United Kingdom.\nIn 2026, however, the browser landscape is undergoing its biggest transformation in over a decade. The competition is no longer centered on which browser loads web pages faster or consumes less memory. Instead, companies are racing to build browsers that can think, assist, automate, and even complete tasks on behalf of users.\nEstablished players like Chrome and Safari still command enormous market share, but a new generation of browsers from companies such as Perplexity, OpenAI, Opera, The Browser Company, Brave, DuckDuckGo, and others is challenging traditional assumptions about what a browser should do.\nAs AI continues to reshape computing, the humble browser is evolving into one of the most important pieces of software on any device—and the race to define its future has only just begun.\nMay 30, 2026\nAs the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026\nMay 14, 2026\n* When was SigmaOS founded?\nSigmaOS was founded in 2021.\n* Where is SigmaOS's headquarters?\nSigmaOS's headquarters is located at Clerkenwell, London.\n* What is SigmaOS's latest funding round?\nSigmaOS's latest funding round is Seed VC - II.\n* How much did SigmaOS raise?\nSigmaOS raised a total of $4.13M.\n* Who are the investors of SigmaOS?\nIt was founded in 2019 and is based in San Francisco, California.\neyeo Logo\neyeo\neyeo focuses on ad-filtering technology within the advertising sector. The company provides solutions for publishers, advertisers, and users, and serves the advertising, publishing, and retail sectors. It was founded in 2011 and is based in Cologne, Germany.\nStack Logo"
+    ]
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/sigmaos",
+    "title": "SigmaOS - Crunchbase Company Profile & Funding",
+    "excerpts": [
+     "Resources Advanced Search\nStart Free Trial Talk With Sales Pricing Log In\nLog In SigmaOS Growth Score 61 CB Rank 66265 Heat Score 38\nSave Actions\nSigmaOS is an AI-powered browser that helps users work faster with intelligent tabs, built-in assistants, and productivity tools.\nFounded obfuscated\nobfuscation Private Seed London , England , United Kingdom 1-10 sigmaos.com/\nArtificial Intelligence (AI) Computer Software\nSigmaOS\nSection: Overview Actions\nOverview\nSigmaOS\nTotal Funding obfuscated\nobfuscation\nGrowth Score 61 Heat Score 38 Unlock best-in-class private company insights with Crunchbase Pro\n* Photo of Saurav Mitra\nSaurav Mitra: Founder and CTO\n* Photo of Mahyad Ghassemibouyaghchi\nMahyad Ghassemibouyaghchi: CEO ## Details\nLegal Name SigmaOS, Inc. Operating Status Active Company Type For Profit Founders Ali Attar , Mahyad Ghassemibouyaghchi , Saurav Mitra\nAbout the Company\nData source: Lists Featuring This Company\nLists Featuring This Company\n9,970 Number of Organizations  • $24.3B Total Funding Amount  • 8,810 Number of Investors\nTrack\nTrueSight Ventures Portfolio Companies\n53 Number of Organizations  • $1.6B Total Funding Amount  • 592 Number of Investors\nTrack\nView All Sub-Organizations Frequently Asked Questions\nWhere is SigmaOS 's headquarters?\nSigmaOS is located in London , England , United Kingdom . Who invested in SigmaOS ? SigmaOS has 11 investors including 7percent Ventures and Omid Ashtari . When was the last funding round for SigmaOS ? SigmaOS closed its last funding round on obfuscated\nobfuscation from a Seed round. Who are SigmaOS 's competitors?\nAlternatives and possible competitors to SigmaOS may include Brave , The Browser Company , and Opera . How much funding has SigmaOS raised to date? SigmaOS has raised obfuscated\nobfuscation .\nWho We Are"
+    ]
+   },
+   {
+    "url": "http://www.sigmaos.com/",
+    "title": "SigmaOS",
+    "excerpts": [
+     "Turn on \"separate profiles\", to allow a workspace to login to different accounts. Perfect to quickly jump between your company and personal social accounts!\nMultiple Logins\nSeparate Profiles\nTurn on \"separate profiles\", to allow a workspace to login to different accounts. Perfect to quickly jump between your company and personal social accounts!\nIs SigmaOS free?\nSigmaOS Personal is free for everyone and anyone, forever. If you want to upgrade your browser experience with unlimited Airis usage, SigmaOS Pro is available starting at $20 a month. Students and Educators are eligible for a 50% discount on SigmaOS Pro!\nDoes SigmaOS have Chrome Extensions?\nYes! SigmaOS is the first WebKit-powered browser to also support Chromium extensions. Create your perfect setup with Grammarly, LastPass, Honey, Todoist, etc.\nIs SigmaOS available on Windows?\nSigmaOS is currently only available on macOS. Keep your eyes peeled for iOS and Windows support coming soon…\nIs SigmaOS secure?\n@joaolucas_nm\nI get unreasonably excited about good design. very well designed, beautiful UI/UX.\nI get unreasonably excited about new browsers. They will top my priority list instantly.\nGo check out @SigmaOS\nI'm totally unreasonably excited about them\nPerfect for\nStudents\nResearchers\nFounders\nEducators\nCreators\nCompany\nProduct Updates\nBlog\nCareers\nPerfect for\nStudents\nResearchers\nFounders\nEducators\nCreators\nCompany\nProduct Updates\nBlog\nCareers\nContact us\nPrivacy Policy\nFAQ\n© 2024 SigmaOS, Inc.\nPerfect for\nStudents\nResearchers\nFounders\nEducators\nCreators\nCompany\nProduct Updates\nBlog\nCareers\nContact us\nPrivacy Policy\nFAQ\n© 2024 SigmaOS, Inc."
+    ]
+   },
+   {
+    "url": "https://www.cbinsights.com/company/sigmaos/financials",
+    "title": "SigmaOS Stock Price, Funding, Valuation, Revenue & Financial Statements",
+    "excerpts": [
+     "* About Us\n* Overview\n* Our teams\n* Business Development\n* Engineering\n* Operations\n* Product\n* See all →\n* Open Jobs\nLoading...\nSigmaOS company logo\nSigmaOS\nUnclaimed\nsigmaos.com\n* Overview & Products\n* Financials\n* People\n* Alternatives & Competitors\nTotal Raised\n$4.13M\nInvestors Count\n12\nFunding, Valuation & Revenue\n4 Fundings\nSigmaOS has raised $4.13M over 4 rounds .\nSigmaOS's latest funding round was a Seed VC - II for $4M on November 16, 2022 .\n|Date |Round |Amount |Investors |Valuation\n* Valuations are submitted by companies, mined from state filings or news, provided by VentureSource, or based on a comparables valuation model. | Revenue | Sources\n* 11/16/2022 | Seed VC - II | $4M | Phoenix Court , 7Percent , Carmen Alfonso-Rico , Matteo Franceschetti , Moonfire , Pioneer Fund , Shine Capital , Together Fund , TrueSight Ventures , and Y Combinator | $XXM | 0\n* FY undefined | 5\n* 9/1/2021 | Seed | $XXM | Subscribe to see more | $XXM | 0\n* FY undefined | 10\nSigmaOS Investors\n12 Investors\nSigmaOS has 12 investors . Pioneer Fund invested in SigmaOS's Seed VC - II funding round .\nThe company offers a browser extension, Ad Limiter, which reduces the number of ads displayed on search result pages, and a service that checks and rates the companies behind websites. These tools help users to find information without excessive advertising and to verify the credibility of the websites they visit.\n* AI 100\n* Fintech 100\n* Digital Health 50\n* Tech Trends 2024\n* Generative AI Predictions\n* Unicorn Tracker\n* VC Glossary\n* Company List Applications\n* CB Insights Website Terms of Use\n* Privacy Policy\n* Do Not Sell My Info\n* Partnership\nCopyright 2026 CB Information Services, Inc. All rights reserved."
+    ]
+   },
+   {
+    "url": "https://aventure.vc/companies/sigmaos-london-gb",
+    "title": "SigmaOS - aVenture Company Research",
+    "excerpts": [
+     "Loading\nLoading\nSigmaOS - aVenture Company Research\nUpdatedSep 17, 2026\nAddedMar 21, 2024\nUpdatedSep 17, 2026\n<SigmaOS>\nSigmaOS\n8 employeesSeed\nSigmaOS: A fast, productive browser for web professionals.\nHQ\nLondon, Greater London, GB\nFounded\n2021\nAccelerator\n<Y Combinator logo>Y Combinator S21\nwebsite crunchbase linkedin twitter\nycombinator\nSigmaOS - Similar Companies\n<Flow logo> Flow enterflow.app <LinkGrep logo> LinkGrep linkgrep.com <Station logo>\nSigmaOS - Quick Facts\nWho are SigmaOS' competitors?\nCompanies similar to SigmaOS include Flow, LinkGrep, Station and Sunsama.\nWhen was SigmaOS founded?\nSigmaOS was founded in 2021.\nWhere is SigmaOS' headquarters located?\nSigmaOS has 8 employees as of Feb 24, 2024.\nSigmaOS - Classification\n{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"@id\":\"https://aventure.vc/companies/sigmaos-london-gb#webpage\",\"url\":\"https://aventure.vc/companies/sigmaos-london-gb\",\"name\":\"SigmaOS - aVenture Company Research\",\"description\":\"SigmaOS: A fast, productive browser for web\nprofessionals.\",\"about\":{\"@type\":\"Organization\",\"@id\":\"https://aventure.vc/companies/sigmaos-london-gb#organization\"},\"mainEntity\":{\"@type\":\"Organization\",\"@id\":\"https://aventure.vc/companies/sigmaos-london-gb#organization\"},\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"aVenture\",\"url\":\"https://aventure.vc\"},\"datePublished\":\"2024-03-22T04:32:26.000Z\",\"date\nModified\":\"2026-09-18T03:52:07.087Z\"}\n{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aventure.vc/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Companies\",\"item\":\"https://aventure.vc/companies\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"SigmaOS\",\"item\":\"https://aventure.vc/companies/sigmaos-london-"
+    ]
+   },
+   {
+    "url": "https://altss.com/companies/yc/sigmaos",
+    "title": "SigmaOS - YC Companies",
+    "excerpts": [
+     "Platform Solutions Data Agents Research Pricing\nTry Altss Log in Book a demo\nHome / YC Companies / SigmaOS\nSigmaOS logo\nYC S21\nSigmaOS\nThe new home for your internet 🏡\nwww.sigmaos.com LinkedIn Twitter\nAbout\nSigmaOS is a new type of browser designed for founders, researchers, and content creators to make you better and faster at working on the web. You work 7+ hours a day on the web. Buried in a sea of 100+ tabs and 10+ web-apps 🤯, you constantly lose context for why you did what you did, and are always one click away from being distracted.\nWe took apart the browser for you, and rebuilt a new experience from the ground-up, for the FASTEST and most PRODUCTIVE work. ⚡\nFounders\n* Mahyad Ghassemi\n  LinkedIn Twitter\n* Ali Attar\n  LinkedIn Twitter\n* Saurav Mitra\n  LinkedIn Twitter\nFamily Office Investors\n1deal tracked\nAltss has tracked family office activity in SigmaOS . Investors shown are from our private markets database.\n* Carmen Alfonso Rico (Angel)\n  Request access to full investor list\nIndustry & Focus\nConsumer SaaS Productivity Collaboration\nCompany details\nYC Batch Summer 2021 (S21)\nFounded 2021\nStatus Active\nSector Consumer\nCountry United Kingdom\nTeam size 5\nLatest round Seed\nView on YC directory\nTrack which family offices are backing YC portfolio companies.\nRequest access\nHow Altss handles Google user data\nALTSS\nSigmaOS — YC Company Profile | Altss"
+    ]
+   }
+  ],
+  "decision_id": "decisions_1cb42602011f0e5a993393825a963a94"
+ }
+}

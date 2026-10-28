@@ -1,0 +1,162 @@
+{
+ "us_based/jev": {
+  "frozen": {
+   "n": 50,
+   "accuracy": 0.64,
+   "balanced_accuracy": 0.6845238095238095,
+   "right_on_yes": "21/36",
+   "right_on_no": "11/14",
+   "brier": 0.233118,
+   "refused": 0
+  },
+  "adjusted": {
+   "n": 47,
+   "accuracy": 0.6382978723404256,
+   "balanced_accuracy": 0.7023809523809523,
+   "right_on_yes": "20/35",
+   "right_on_no": "10/12",
+   "brier": 0.23052978723404255,
+   "refused": 0
+  }
+ },
+ "us_based/parallel": {
+  "frozen": {
+   "n": 50,
+   "accuracy": 0.88,
+   "balanced_accuracy": 0.8293650793650793,
+   "right_on_yes": "34/36",
+   "right_on_no": "10/14",
+   "brier": 0.08800623292840033,
+   "refused": 0
+  },
+  "adjusted": {
+   "n": 47,
+   "accuracy": 1.0,
+   "balanced_accuracy": 1.0,
+   "right_on_yes": "35/35",
+   "right_on_no": "12/12",
+   "brier": 0.009007772932892335,
+   "refused": 0
+  }
+ },
+ "size_20_100/jev": {
+  "frozen": {
+   "n": 50,
+   "accuracy": 0.64,
+   "balanced_accuracy": 0.43189368770764114,
+   "right_on_yes": "1/7",
+   "right_on_no": "31/43",
+   "brier": 0.218438,
+   "refused": 0
+  },
+  "adjusted": {
+   "n": 49,
+   "accuracy": 0.6326530612244898,
+   "balanced_accuracy": 0.4285714285714286,
+   "right_on_yes": "1/7",
+   "right_on_no": "30/42",
+   "brier": 0.21857755102040816,
+   "refused": 0
+  }
+ },
+ "size_20_100/parallel": {
+  "frozen": {
+   "n": 50,
+   "accuracy": 0.96,
+   "balanced_accuracy": 0.9767441860465116,
+   "right_on_yes": "7/7",
+   "right_on_no": "41/43",
+   "brier": 0.04279810875328246,
+   "refused": 0
+  },
+  "adjusted": {
+   "n": 49,
+   "accuracy": 0.9795918367346939,
+   "balanced_accuracy": 0.9880952380952381,
+   "right_on_yes": "7/7",
+   "right_on_no": "41/42",
+   "brier": 0.024438758148690513,
+   "refused": 0
+  }
+ },
+ "b2b/jev": {
+  "frozen": {
+   "n": 50,
+   "accuracy": 0.7,
+   "balanced_accuracy": 0.7,
+   "right_on_yes": "23/25",
+   "right_on_no": "12/25",
+   "brier": 0.206396,
+   "refused": 0
+  },
+  "adjusted": {
+   "n": 49,
+   "accuracy": 0.7959183673469388,
+   "balanced_accuracy": 0.756140350877193,
+   "right_on_yes": "28/30",
+   "right_on_no": "11/19",
+   "brier": 0.17733469387755102,
+   "refused": 0
+  }
+ },
+ "b2b/parallel": {
+  "frozen": {
+   "n": 50,
+   "accuracy": 0.86,
+   "balanced_accuracy": 0.86,
+   "right_on_yes": "25/25",
+   "right_on_no": "18/25",
+   "brier": 0.10498104209926659,
+   "refused": 0
+  },
+  "adjusted": {
+   "n": 49,
+   "accuracy": 0.9795918367346939,
+   "balanced_accuracy": 0.9736842105263157,
+   "right_on_yes": "30/30",
+   "right_on_no": "18/19",
+   "brier": 0.026174734867898515,
+   "refused": 0
+  }
+ },
+ "yc_job_open/jev": {
+  "frozen": {
+   "n": 50,
+   "accuracy": 0.74,
+   "balanced_accuracy": 0.5357142857142857,
+   "right_on_yes": "1/14",
+   "right_on_no": "36/36",
+   "brier": 0.175618,
+   "refused": 0
+  },
+  "adjusted": {
+   "n": 50,
+   "accuracy": 0.76,
+   "balanced_accuracy": 0.5384615384615384,
+   "right_on_yes": "1/13",
+   "right_on_no": "37/37",
+   "brier": 0.172818,
+   "refused": 0
+  }
+ },
+ "yc_job_open/parallel": {
+  "frozen": {
+   "n": 50,
+   "accuracy": 0.98,
+   "balanced_accuracy": 0.9642857142857143,
+   "right_on_yes": "13/14",
+   "right_on_no": "36/36",
+   "brier": 0.020213670571909197,
+   "refused": 0
+  },
+  "adjusted": {
+   "n": 50,
+   "accuracy": 1.0,
+   "balanced_accuracy": 1.0,
+   "right_on_yes": "13/13",
+   "right_on_no": "37/37",
+   "brier": 0.0005719847404090184,
+   "refused": 0
+  }
+ }
+}

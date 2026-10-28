@@ -1,0 +1,101 @@
+{
+ "seconds": 0.888,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.9990702519202148
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.017096187661492238
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.9738754568097875
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.9969172179915989
+   }
+  },
+  "usage": {
+   "input_tokens": 3810,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://www.ycombinator.com/companies/scott-ai",
+    "title": "Scott AI: The planning layer for teams that build with coding agents | Y Combinator",
+    "excerpts": [
+     "Scott AI\nThe planning layer for teams that build with coding agents\nFall 2025\nActive\nCompany\nJobs 2\nhttps://tryscott.ai\nThe planning layer for teams that build with coding agents\nCoding agents made writing code fast. But 6 engineers in a room will probably still disagree on what needs to be built. Scott AI is a planning workspace where engineering teams align on what to build before their coding agents start building it.\nActive Founders\nDavid Maulick\nDavid Maulick\nTwitter account\nFounder/CEO\nPreviously founding eng & head of mobile at Comun (Redpoint, Costanoa) where I scaled us from 0 to millions of installs. Before that KP Eng fellow, consulting at Bain, Stanford BS in CS focus on AI\nCompany Launches\nScott AI - Agentic Workspace for Software Spec Design\nSee original launch post\nHi everyone 👋\nWe are David and Devin – co founders of Scott AI .\nTL;DR\nScott runs several coding agents side by side to expose their disagreements and help you get to the best spec faster. With Scott, your coding agents can take on larger tasks while respecting your requirements.\nAsk: Try Scott AI for at https://www.tryscott.ai/apply .\nProduct Engineer\nNew York, NY, US / San Francisco, CA, US\n$140K - $250K\n0.50% - 2.00%\nAny (new grads ok)\nApply Now ›\nDesign Engineer\nSan Francisco, CA, US / New York, NY, US\n$140K - $250K\n0.50% - 1.50%\nAny (new grads ok)\nApply Now ›\nScott AI\nScott AI\nFounded: 2025\nBatch: Fall 2025\nTeam Size: 3\nStatus: Active\nLocation: New York City, NY\nPrimary Partner: Garry Tan\nX (Twitter) logo\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/scott-ai/jobs",
+    "title": "Jobs at Scott AI | Y Combinator",
+    "excerpts": [
+     "Scott AI\nThe planning layer for teams that build with coding agents\nCompany\nJobs 2\nhttps://tryscott.ai\nJobs at Scott AI\nDesign Engineer\nSan Francisco, CA, US / New York, NY, US\n$140K - $250K\n0.50% - 1.50%\nAny (new grads ok)\nApply Now ›\nProduct Engineer\nNew York, NY, US / San Francisco, CA, US\n$140K - $250K\n0.50% - 2.00%\nAny (new grads ok)\nApply Now ›\nScott AI\nScott AI\nFounded: 2025\nBatch: F25\nTeam Size: 3\nStatus: Active\nLocation: New York City, NY\nX (Twitter) logo\nFounders\nDevin Cintron\nDevin Cintron\nTwitter account\nCTO\nDevin Cintron\nDevin Cintron\nTwitter account\nCTO\nDavid Maulick\nDavid Maulick\nTwitter account\nCEO\nDavid Maulick\nDavid Maulick\nTwitter account\nCEO\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "http://www.tryscott.ai/",
+    "title": "Scott AI – The agentic workspace for eng team alignment",
+    "excerpts": [
+     "Scott AI\nY Combinator Backed by Y Combinator\nTry Scott Book Demo\nTHE AGENTIC WORKSPACE\nDITCH GOOGLE DOCS AND NOTION FOR A SMARTER WAY TO BUILD TOGETHER\nFOR ENG ALIGNMENT\nTHE AGENTIC WORKSPACE FOR ENG ALIGNMENT\nDITCH GOOGLE DOCS AND NOTION FOR A SMARTER WAY TO BUILD TOGETHER\nGet Started Upgrade your team\nHow We Help\nIf you answer \"yes\" to any of the following, we can definitely help.\nHow We Help\nIf you answer \"yes\" to any of the following, we can definitely help.\nTry Scott AI Schedule Time With Us\nContact us at founders@tryscott.ai\nFor Developers\nRethinking the way software should be done in the era of coding agents? Try Scott and let us know what you think.\nDoes your team care deeply about the system design review process? We've built an experience we are actively piloting with forward-thinking teams.\nTry Scott AI Schedule Time With Us\nContact us at founders@tryscott.ai\nScott AI\nScott AI\nThe agentic workspace for spec design\nProduct\nTry Scott Book Demo\nConnect\nContact  LinkedIn Discord\nLegal\nPrivacy Policy Terms of Service\n© 2025 Scott AI. Building the future of software design."
+    ]
+   },
+   {
+    "url": "https://www.tryscottai.com/join",
+    "title": "Scott AI – The workspace for scaling coding agent quality",
+    "excerpts": [
+     "Scott AI\nY Combinator Backed by Y Combinator\nDocs Enterprise\nProducts\nBook Demo Join Us Log in Sign up\nCareers\nJoin Scott AI\nTraditionally, many of the largest companies would standardize on one or two languages because supporting more was too expensive. With coding agents, this is probably wrong: now you should probably just use the best language for the job.\nDespite all of this, at Scott AI, we are making a bet that humans will remain at the center of software development. We believe that as agents take over execution, the bottleneck moves upstream; to humans agreeing on what to build.\nPre & post coding agents: getting a group of smart, opinionated people aligned on intent will always be one of the hardest yet most valuable parts of shipping great software. Scott AI is purpose-built to embrace that human-centered process and make it easier.\nWe build with quality and trust at the center of everything we do.\nWe care about passion more than tenure. We also believe cohesive teams are what make generational companies, not just ideas. So we place a real priority on keeping the team small and tight-knit. Our thinking is simple: if you have a group of people who love working together, it doesn't matter how hard the problem is.\nTell us how you decreased your token usage for a given task while maintaining the productivity boost you gained in the first place.\nIf you've read this far and feel something, reach out!\n— The Scott AI team\nGet in touch\nGet in touch\nScott AI\nScott AI\nThe workspace for scaling coding agent quality\nProduct\nJoin waitlist\nConnect\nContact Support Security  LinkedIn Discord\nLegal\nPrivacy Policy Terms of Service Report a Concern\n© 2026 Scott AI. Building the future of software design."
+    ]
+   },
+   {
+    "url": "https://www.enterpriseaitrends.com/companies/tryscott",
+    "title": "Scott AI — Company Profile & Jobs",
+    "excerpts": [
+     "Companies\nScott AI\ntryscott.ai\nScott AI is a planning and optimization workspace helping engineering teams get better results from coding agents.\nWebsite Careers\nHQ New York City, New York, United States\nEmployees 1-50\n2 active roles\nJobs checked 19h ago\nSpecialization Not classified\nBusiness Software Applications +2 and 2 more business values Less\n* Agent Tooling\n* Model Evaluation\nMarket Software Development\nEcosystem Applications\nCustomers Developers +1 and 1 more customers values Less\n* Enterprises\nMore details\nOrganization type Commercial Company\nEcosystem Applications\nBusiness Software Applications, Agent Tooling, Model Evaluation\nSpecialization Not classified\nScott’s public demonstration cites 8.9% faster agents and 10.4% lower token usage, while its site says early teams have seen more than 15% speed improvement in under two weeks.\nThe company is early stage: Y Combinator lists it as an active Fall 2025 company, and its own site identifies YC and MaC Ventures as backers.\n2026-04-13 product_launch\nScott AI – The workspace for scaling coding agent quality\nScott AI’s enterprise positioning describes a planning and alignment layer that helps engineering organizations adopt coding agents at scale while maintaining quality, architecture, and control.\n2025-09-29 funding\nScott AI seed funding listed by Tracxn\nCompetitors\nCursor\nGitHub Copilot Workspace\nWindsurf\nNimbalyst\nClaude Code\nDevin\nEnterprise AI Trends\nHiring and company data from AI-native companies. The newsletter on AI strategy and adoption lives on Substack.\nSubscribe\nExplore\n* Jobs\n* Companies\n* YC Companies\n* Insights\n* Lists\n* Job Alerts\n* API\n  Newsletter\n* Latest issue\n* Archive\n* Subscribe\n  © 2026Enterprise AI Trends\n  nextword.substack.com"
+    ]
+   },
+   {
+    "url": "https://pitchbook.com:8443/profiles/company/1232052-94",
+    "title": "Scott AI 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "excerpts": [
+     "Developer of AI-based Software intended to offer an agentic workspace for Engineering Team Alignment. The company's platform helps teams grant multi-agent swarms of any model with secure, one-click access to their full codebase. enabling the clients to explore multiple design paths in parallel while Scott orchestrates a debate between them.\nContact Information\nWebsite\nwww.tryscott.ai\nOwnership Status\nPrivately Held (backing)\nFinancing Status\nVenture Capital-Backed\nCorporate Office\n* DE\n* United States\n  \n  \n  Primary Industry\n  Business/Productivity Software\n  Other Industries"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/scott-ai/jobs/fU8EJfh-product-engineer",
+    "title": "Product Engineer at Scott AI | Y Combinator",
+    "excerpts": [
+     "Scott AI\nThe planning layer for teams that build with coding agents\nProduct Engineer\n$140K - $250K • 0.50% - 2.00% • New York, NY, US / San Francisco, CA, US\nJob type\nFull-time\nRole\nEngineering, Full stack\nExperience\nAny (new grads ok)\nVisa\nWill sponsor\nConnect directly with founders of the best YC-funded startups.\nApply to role ›\nDavid Maulick\nDavid Maulick\nCEO\nDavid Maulick\nDavid Maulick\nCEO\nAbout the role\nCoding agents are getting absurdly good at writing code. Engineering teams are not getting absurdly good at coordinating around them. The result: agents write 10x more code, but teams are still reviewing and aligning on intent at 1x resulting in costly mistakes.\nCoding agents amplify the cost of bad planning. We're building Scott AI to fix that.\nAbout Scott AI\nScott AI\nScott AI\nFounded: 2025\nBatch: F25\nTeam Size: 3\nStatus: Active\nLocation: New York City, NY\nX (Twitter) logo\nFounders\nDevin Cintron\nDevin Cintron\nTwitter account\nCTO\nDevin Cintron\nDevin Cintron\nTwitter account\nCTO\nDavid Maulick\nDavid Maulick\nTwitter account\nCEO\nDavid Maulick\nDavid Maulick\nTwitter account\nCEO\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/scott-ai-1229",
+    "title": "Scott AI - Crunchbase Company Profile & Funding",
+    "excerpts": [
+     "Resources Advanced Search\nStart Free Trial Talk With Sales Pricing Log In\nLog In Scott AI Growth Score 83 CB Rank 64173 Heat Score 76\nSave Actions\nScott AI offers a workspace that helps teams create and manage software using AI-driven tools and coding agents.\nFounded obfuscated\nobfuscation Private Pre-Seed New York , New York , United States 1-10 www.tryscott.ai\nArtificial Intelligence (AI) Developer Platform Developer Tools Information Technology Software\nScott AI\nSection: Overview Actions\nOverview\nScott AI\nTotal Funding obfuscated\nobfuscation\nScott AI offers a workspace that helps teams create and manage software using AI-driven tools and coding agents.\nFounded obfuscated\nobfuscation Private Pre-Seed New York , New York , United States 1-10 www.tryscott.ai\nArtificial Intelligence (AI) Developer Platform Developer Tools Information Technology Software ## Funding Rounds\n* Search 6M+ private companies\nTry Pro Free People\nView Profiles & Contacts\nHeadcount 1-10 Employee Profiles 1 ## Employee Profiles\n* Photo of David Maulick\nDavid Maulick CEO\nView All News Technology\nView Tech Report\n427\n-36.36% in past month\nData source: ## IT Spend\n$8.8M This year, Scott AI is projected to spend $8.8M on IT, according to Aberdeen .\nData source: ## Active Website Tech Count\n6 Scott AI is actively using 6 technologies for its website, according to BuiltWith . These include Common Crawl , Amazon , and CommonCrawl Top 10m .\nView All Sub-Organizations Frequently Asked Questions\nWhere is Scott AI 's headquarters? Scott AI is located in New York , New York , United States . Who invested in Scott AI ? Scott AI has 2 investors including Untapped Ventures and Y Combinator . When was the last funding round for Scott AI ? Scott AI closed its last funding round on obfuscated"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/scott-ai/jobs/v9jd8ed-design-engineer",
+    "title": "Design Engineer at Scott AI | Y Combinator",
+    "excerpts": [
+     "Scott AI\nThe planning layer for teams that build with coding agents\nDesign Engineer\n$140K - $250K • 0.50% - 1.50% • San Francisco, CA, US / New York, NY, US\nJob type\nFull-time\nRole\nEngineering, Full stack\nExperience\nAny (new grads ok)\nVisa\nUS citizen/visa only\nConnect directly with founders of the best YC-funded startups.\nApply to role ›\nDavid Maulick\nDavid Maulick\nCEO\nDavid Maulick\nDavid Maulick\nCEO\nAbout the role\nCoding agents are getting absurdly good at writing code. Engineering teams are not getting absurdly good at coordinating around them. The result: agents write 10x more code, but teams are still reviewing and aligning on intent at 1x resulting in costly mistakes.\nCoding agents amplify the cost of bad planning. We're building Scott AI to fix that.\nAbout Scott AI\nScott AI\nScott AI\nFounded: 2025\nBatch: F25\nTeam Size: 3\nStatus: Active\nLocation: New York City, NY\nX (Twitter) logo\nFounders\nDevin Cintron\nDevin Cintron\nTwitter account\nCTO\nDevin Cintron\nDevin Cintron\nTwitter account\nCTO\nDavid Maulick\nDavid Maulick\nTwitter account\nCEO\nDavid Maulick\nDavid Maulick\nTwitter account\nCEO\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.tryscott.ai/apply",
+    "title": "Scott AI – The workspace for scaling coding agent quality",
+    "excerpts": [
+     "Scott AI\nY Combinator Backed by Y Combinator\nEnterprise\nProducts\nBook Demo Join Us Log in Sign up AICPA SOC 2 badge — view Scott AI's Trust Center\nEarly access\nScott AI is currently available to select teams and lead developers.\nCoding agents are taking on bigger tasks. Your time should be on the plan, not the code. Scott AI is the best place to build comprehensive plan artifacts and align with your team on what to build.\nBook a demo\nFor teams\nTeam access\nFor engineering teams where solo time and team time are increasingly focused on the large plans rather than the code. One place to align on what to build, then hand off to any agent.\nJoin waitlist\nFor individuals\nLead dev program"
+    ]
+   }
+  ],
+  "decision_id": "decisions_fb171aa6ab0f42036e430dc0300f4f73"
+ }
+}

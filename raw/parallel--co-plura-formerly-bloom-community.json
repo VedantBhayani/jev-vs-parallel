@@ -1,0 +1,101 @@
+{
+ "seconds": 0.822,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.9996555801765487
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.02686475538154489
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.025160379535632518
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.09314376213893313
+   }
+  },
+  "usage": {
+   "input_tokens": 4337,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://www.ycombinator.com/companies/bloom",
+    "title": "Plura (formerly Bloom Community): The social app for edge-of-culture communities | Y Combinator",
+    "excerpts": [
+     "Plura (formerly Bloom Community)\nThe social app for edge-of-culture communities\n[Winter 2020](/companies?batch=Winter 2020)\nActive\nCommunity Oakland\nCompany\nJobs 0\nNews\nhttps://www.heyplura.com\nThe social app for edge-of-culture communities\nPlura (formerly Bloom Community) is a YCombinator backed startup based in Oakland, CA on a mission to use software to bring people together. Plura is a social and dating community that helps you meet new friends and partners organically through shared events and experiences.\nWe partner with local event producers to help you connect and chat with other attendees before and after events. And, with a strong consent culture and referral-based community, we're the safest place to meet new partners and friends. The team is led by Luna Ray.\nLuna spent 5 years at Facebook, most recently leading viral user growth for Instagram from 700M to past a billion users in two years.\nActive Founders\nLauren (Luna) Ray Vegter\nLauren (Luna) Ray Vegter\nTwitter account\nFounder\nLauren (Luna) Ray Vegter is the founder and chair of Plura. Plura helps people meet at in-person events and build community.\nLuna has trained in multiple coaching modalities including Hakomi Somatics and IFS.\nLatest News\nThe Pitch Deck Community-Building App Bloom Used to Raise Funding\nSep 30, 2022\nPlura (formerly Bloom Community)\nPlura (formerly Bloom Community)\nFounded: 2020\nBatch: Winter 2020\nTeam Size: 5\nStatus: Active\nLocation: Oakland, CA\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/plura/jobs",
+    "title": "Jobs at Plura (formerly Bloom Community) | Y Combinator",
+    "excerpts": [
+     "Plura (formerly Bloom Community)\nThe social app for edge-of-culture communities\nCompany\nJobs 0\nhttps://www.heyplura.com\nJobs at Plura (formerly Bloom Community)\nNo jobs at Plura (formerly Bloom Community) are currently posted on the YC platform.\nPlura (formerly Bloom Community)\nPlura (formerly Bloom Community)\nFounded: 2020\nBatch: W20\nTeam Size: 5\nStatus: Active\nLocation: San Diego, CA\nFounders\nLauren (Luna) Ray Vegter\nLauren (Luna) Ray Vegter\nTwitter account\nFounder\nLauren (Luna) Ray Vegter"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/plura/jobs/duoD8Xg-marketing-manager",
+    "title": "Marketing Manager at Plura (formerly Bloom Community) | Y Combinator",
+    "excerpts": [
+     "Plura (formerly Bloom Community)\nThe social app for edge-of-culture communities\nMarketing Manager\n$50 - $75 / hourly • Remote (US)\nJob type\nContract\nRole\nMarketing\nExperience\n6+ years\nVisa\nUS citizen/visa only\nConnect directly with founders of the best YC-funded startups.\nApply to role ›\nLauren (Luna) Ray Vegter\nLauren (Luna) Ray Vegter\nFounder\nLauren (Luna) Ray Vegter\nLauren (Luna) Ray Vegter\nFounder\nAbout the role\nPlura is hiring a Marketing Manager to own and execute our entire marketing function — from customer insights and strategy to campaigns and creative. You’ll be the person who connects our product to the right audiences, helping us understand who our users are and how best to reach them.\nThis role combines analytics, experimentation, and creativity, with plenty of room to scale as Plura grows.\nThis role requires:\n* Launch and manage paid ad campaigns across platforms\n* A/B test messaging and creatives to optimize performance\n* Manage relationships with ad agencies as needed\nGrow organic presence\n* Oversee updates to Plura’s website, social channels, and community content\n* Drive promotion through partnerships and event producers\nAbout Plura (formerly Bloom Community)\nPlura (formerly Bloom Community) is a YCombinator backed startup based in Oakland, CA on a mission to use software to bring people together. Plura is a social and dating community that helps you meet new friends and partners organically through shared events and experiences.\nWe partner with local event producers to help you connect and chat with other attendees before and after events. And, with a strong consent culture and referral-based community, we're the safest place to meet new partners and friends.\nThe team is led by Luna Ray."
+    ]
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/433415-71",
+    "title": "Plura 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "excerpts": [
+     "Developer of a social platform intended to connect people and build community while providing maximum privacy to the customers. The company's platform specializes in dating communities organizes group dates in parks and members choose who they want to meet, enabling clients to meet new people and make new friends and partners organically.\nContact Information\nWebsite\nwww.heyplura.com\nFormerly Known As\nBloom Community\nOwnership Status\nPrivately Held (backing)\nFinancing Status\nVenture Capital-Backed\nCorporate Office\n* 101 Broadway\n* Suite 201\n* Oakland, CA 94607\n* United States\n  +1 (925)\n  \n  "
+    ]
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/bloom-community",
+    "title": "Plura - Crunchbase Company Profile & Funding",
+    "excerpts": [
+     "Resources Advanced Search\nStart Free Trial Talk With Sales Pricing Log In\nLog In Plura Growth Score 64 CB Rank 47242 Heat Score 67\nSave Actions\nPlura is a social app for non-monogamous and queer communities. Discover events, make friends, and date.\nFounded obfuscated\nobfuscation Private Seed Oakland , California , United States 1-10 www.heyplura.com\nCommunities Dating\nPlura\nSection: Overview Actions\nOverview\nPlura\nTotal Funding obfuscated\nobfuscation\nGrowth Score 64 Heat Score 67 Unlock best-in-class private company insights with Crunchbase Pro\nPlura is a social app for non-monogamous and queer communities. Discover events, make friends, and date.\nFounded obfuscated\nobfuscation Private Seed Oakland , California , United States 1-10 www.heyplura.com\nCommunities Dating ## Funding Rounds\nSeed obfuscated\nOBF in obfuscated\nobfuscation\nSeed obfuscated\nOBF in obfuscated\nobfuscation\nView all 2 rounds ## Key People\n* Photo of Tony Cheng\nTony Cheng: Chief Of Staff\nPast Role: Kinta AI, Chief Of Staff\n* Photo of Lauren (Luna) Ray Vegter\nLauren (Luna) Ray Vegter: Founder\nPast Role: Instagram, Product Manager ## Details\nLegal Name Together Project, Inc.\nAlso Known As Together, Bloom Community Operating Status Active Company Type For Profit Founders Lauren (Luna) Ray Vegter\nAbout the Company\nPlura is a social app for non-monogamous and queer communities. Discover events, make friends, and date.\nDiversity Spotlight Women Founded Predictions & Insights\nView All Sub-Organizations Frequently Asked Questions\nWhere is Plura 's headquarters? Plura is located in Oakland , California , United States . Who invested in Plura ? Plura has 6 investors including Behind Genius and Claire Hughes Johnson . When was the last funding round for Plura ? Plura closed its last funding round on obfuscated"
+    ]
+   },
+   {
+    "url": "https://app.dealroom.co/companies/bloom_formerly_together_",
+    "title": "Plura company information, funding & investors | Dealroom.co",
+    "excerpts": [
+     "Save\nA consent-forward social and dating app that helps people connect and build community around events.\nHQ location\nOakland, United States\nWebsite\nheyplura.com\nLaunch date\n2020\nEmployees\n2-10people\nEnterprise value\n$10—15m\nhttps://twitter.com/bloomcommunity1 https://www.linkedin.com/company/heyplura/\nSomething missing? Suggest an update\nCreate a free account to save notes, track companies, and access investor insights.\nLogin Book a Demo\nMore about Plura\nMade with AI Edit\nPlura, formerly known as Bloom Community, is a social and dating application with a mission to foster connections through in-person events.\nFounded in 2020 by Lauren (Luna) Ray Vegter, the Oakland-based company was born out of the desire to create a safe digital space for communities on the edge of culture, such as LGBTQ+, ethically non-monogamous, kink, and creative groups.\nThe company operates in the social networking and dating market, specifically targeting individuals seeking organic connections beyond traditional swipe-based apps. Plura's business model is centered on a mobile application available on both iOS and Android.\nRevenue is generated through a premium subscription model called Plura+ or \"SuperBloomer,\" which unlocks advanced features for dating and events, such as viewing who has liked your profile and receiving discounts on ticketed events. The app itself is free to use for discovering and adding events, as well as connecting with other users.\nPlura partners with event organizers, which has reportedly led to increased ticket sales and community engagement for those organizers.\nThe Plura platform is designed to facilitate connections before, during, and after events."
+    ]
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/bloom-be89",
+    "title": "Plura - Crunchbase Company Profile & Funding",
+    "excerpts": [
+     "Resources Advanced Search\nStart Free Trial Talk With Sales Pricing Log In\nLog In\nUpgrade browser for full Crunchbase experience. You're accessing Crunchbase in a browser that is no longer supported.\nLearn More\nPlura Growth Score 64 CB Rank 35228 Heat Score 72\nSave Actions\nPlura is a social app for non-monogamous and queer communities.\nDiscover events, make friends, and date.\nFounded obfuscated\nobfuscation Private Seed Oakland , California , United States 11-50 www.heyplura.com\nCommunities Dating\nPlura\nSection: Overview Actions\nOverview\nPlura\nTotal Funding obfuscated\nobfuscation\nGrowth Score 64 Heat Score 72 Unlock best-in-class private company insights with Crunchbase Pro\nPlura is a social app for non-monogamous and queer communities. Discover events, make friends, and date.\nFounded obfuscated\nobfuscation Private Seed Oakland , California , United States 11-50 www.heyplura.com\nCommunities Dating ## Funding Rounds\nSeed obfuscated\nOBF in obfuscated\nobfuscation\nSeed obfuscated\nOBF in obfuscated\nobfuscation\nAlso Known As Together, Bloom Community Operating Status Active Company Type For Profit Founders Lauren (Luna) Ray Vegter\nAbout the Company\nPlura is a social app for non-monogamous and queer communities. Discover events, make friends, and date.\nDiversity Spotlight Women Founded Predictions & Insights\nView All Sub-Organizations Frequently Asked Questions\nWhere is Plura 's headquarters? Plura is located in Oakland , California , United States . Who invested in Plura ? Plura has 6 investors including Behind Genius and Claire Hughes Johnson . When was the last funding round for Plura ? Plura closed its last funding round on obfuscated"
+    ]
+   },
+   {
+    "url": "https://aventure.vc/companies/plura-formerly-bloom-community-oakland-ca-us/website",
+    "title": "Plura (formerly Bloom Community) Website Pages - aVenture",
+    "excerpts": [
+     "Loading\nLoading\nUpdatedJul 2, 2026\nAddedJun 24, 2026\nUpdatedJul 2, 2026\nHQ\nOakland, CA, US\nAccelerator\n<Y Combinator logo>Y Combinator W20\nwebsite ycombinator\nLoading\n<Plura (formerly Bloom Community)>\nPlura (formerly Bloom Community)\nSeed\nThe social app for edge-of-culture communities.\nPlura (formerly Bloom Community) - Website\nAn index of every page on heyplura.com, by section.\n6 pages across 5 sections · Updated Jul 14, 2026·Request refresh\nHomepage\nPlura (formerly Bloom Community)'s front door: current positioning and top-line messaging.\nheyplura.com\n* Homepage\nPrivacy\nSales, support, and partnership channels for reaching Plura (formerly Bloom Community) directly.\nheyplura.com/contact\nTerms — Terms of Service\nThe legal agreement governing use of Plura (formerly Bloom Community)'s products and services.\nheyplura.com/terms-of-service\nPlura (formerly Bloom Community) Website Pages - aVenture\n{\"@context\":\"https://schema.org\",\"@type\":\"CollectionPage\",\"@id\":\"https://aventure.vc/companies/plura-formerly-bloom-community-oakland-ca-us/website#webpage\",\"url\":\"https://aventure.vc/companies/plura-formerly-bloom-community-oakland-ca-us/website\",\"name\":\"Plura (formerly Bloom Community) Website Pages - aVenture\",\"description\":\"Official website\npages for Plura (formerly Bloom Community), indexed section by section straight from their own\nsite.\",\"about\":{\"@type\":\"Organization\",\"@id\":\"https://aventure.vc/companies/plura-formerly-bloom-community-oakland-ca-us#organization\"},\"mainEntity\":{\"@type\":\"Organization\",\"@id\":\"https://aventure.vc/companies/plura-formerly-bloom-community-oakland-ca-us#organization\"},\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"aVenture\",\"url\":\"https://aventure.vc\"},\"da\ntePublished\":\"2026-06-25T02:37:05.852Z\",\"dateModified\":\"2026-07-02T23:08:39.184Z\"}"
+    ]
+   },
+   {
+    "url": "https://www.workatastartup.com/companies/plura",
+    "title": "Jobs at Plura (formerly Bloom Community) (W20) | Y Combinator's Work at a Startup",
+    "excerpts": [
+     "Home Jobs Learn Resume Review\nLog in Sign up\nPlura (formerly Bloom Community) logo\nPlura (formerly Bloom Community)\nThe social app for edge-of-culture communities\nBatch W20\nLocation San Diego, CA\nTeam size 5\nIndustry Consumer, Social\nWebsite\nAbout Plura (formerly Bloom Community)\nPlura (formerly Bloom Community) is a YCombinator backed startup based in Oakland, CA on a mission to use software to bring people together. Plura is a social and dating community that helps you meet new friends and partners organically through shared events and experiences.\nWe partner with local event producers to help you connect and chat with other attendees before and after events. And, with a strong consent culture and referral-based community, we're the safest place to meet new partners and friends.\nThe team is led by Luna Ray.\nLuna spent 5 years at Facebook, most recently leading viral user growth for Instagram from 700M to past a billion users in two years.\nThe founders\nLauren (Luna) Ray Vegter\nProgram Manager, Growth at Facebook, Head of Social Product at Oculus, Product Lead, User Acquisition at Instagram\nLauren (Luna) Ray Vegter is the founder and chair of Plura. Plura helps people meet at in-person events and build community.\nAllia Health logo ### Allia Health · S26 AI-Native Medical Group for Mental Health ClassDojo logo ### ClassDojo · S12 Communication app for K-8 teachers, kids, and families Godela logo ### Godela · P25 AI Physics Engine to replace simulations and prototypes\nOne profile reaches Plura (formerly Bloom Community) and every other YC startup."
+    ]
+   },
+   {
+    "url": "https://scoutify.com/companies/plura/",
+    "title": "Plura (formerly Bloom Community) Careers 2026",
+    "excerpts": [
+     "Scoutify\nCOMPANIES BLOG ABOUT\nScoutify\nSIGN IN GET 3 FREE APPLICATIONS\nCOMPANIES BLOG ABOUT\nSIGN IN GET 3 FREE APPLICATIONS\nPlura logo\nConsumer Tech YC W20\nExplore Plura. Let Scoutify apply to similar roles.\nScoutify has no open roles listed for Plura right now. Check its career site, or let Scoutify fill in and send applications for you to similar roles.\nGET 3 FREE APPLICATIONS Or get Plura alerts ($5/week) www.heyplura.com\nPosted (30d) 0\n1. Home\n2. /\n3. Companies\n4. /\n5. Plura\n  [01] HIRING NOW\nSee Plura's current openings.\nNo open roles right now. Last posted 8 months ago.\nOpen roles\n0\nPosted (30d)\n0\nPosted (7d)\n0\nPosted range\n—\nSimilar companies hiring now\nNaive 6 open roles ### OneSignal 4 open roles ### Kikoff 50 open roles ### Ellipsis Labs 10 open roles\nCreate and build your community on Plura.\nSource: heyplura.com\n[03] VISA SPONSORSHIP\nNaive 6 open roles ### OneSignal 4 open roles ### Kikoff 50 open roles ### Ellipsis Labs 10 open roles\nThe honest take.\nA remote, inclusive, and community-minded environment focused on connection and growth.\nWORK-LIFE\nWork-life balance\nOften intense at growth-stage companies. Consumer products require constant iteration.\nWHO THRIVES\nEntry-Level & Internships New grad and internship roles at top companies ### Remote Jobs Work-from-anywhere positions in tech ### H1B Visa Sponsor Jobs Companies that sponsor work visas\nRelated Articles\nInstant Job Alerts for Tech Jobs Job Alerts Within Minutes of Posting\n[10] SIMILAR COMPANIES\nEntry-Level & Internships New grad and internship roles at top companies ### Remote Jobs Work-from-anywhere positions in tech ### H1B Visa Sponsor Jobs Companies that sponsor work visas\nPeople exploring Plura usually compare with these."
+    ]
+   }
+  ],
+  "decision_id": "decisions_c1556c559993079a52775ea847ba5027"
+ }
+}

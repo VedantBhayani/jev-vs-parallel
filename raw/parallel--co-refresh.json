@@ -1,0 +1,101 @@
+{
+ "seconds": 0.85,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.9995613874176579
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.008941833160458592
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.9851325590933224
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.02330815769934337
+   }
+  },
+  "usage": {
+   "input_tokens": 3624,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://www.ycombinator.com/companies/refresh/jobs",
+    "title": "Jobs at Refresh | Y Combinator",
+    "excerpts": [
+     "Refresh\nTraining gyms for computer use and software engineering work\nCompany\nJobs 0\nhttps://www.refresh.dev\nJobs at Refresh\nNo jobs at Refresh are currently posted on the YC platform.\nRefresh\nRefresh\nFounded: 2025\nBatch: P25\nTeam Size: 8\nStatus: Active\nLocation: San Francisco\nX (Twitter) logo\nFounders\nErik Quintanilla\nErik Quintanilla\nTwitter account\nCTO\nErik Quintanilla\nErik Quintanilla\nTwitter account\nCTO\nChristopher Settles\nChristopher Settles\nTwitter account\nCEO\nChristopher Settles\nChristopher Settles\nTwitter account\nCEO\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/refresh",
+    "title": "Refresh: Training gyms for computer use and software engineering work | Y Combinator",
+    "excerpts": [
+     "Refresh\nTraining gyms for computer use and software engineering work\nSpring 2025\nActive\nSan Francisco\nCompany\nJobs 0\nhttps://www.refresh.dev\nTraining gyms for computer use and software engineering work\nErik Quintanilla\nTwitter account\nFounder/CTO\nCo-founder and CTO @ Refresh | ex- @Amazon @CapitalOne Previous focus has been in vision data, voice data, tabular data in the form of data pipelines. Web scale scraping previously.\nErik Quintanilla\nErik Quintanilla\nTwitter account\nFounder/CTO\nCo-founder and CTO @ Refresh | ex- @Amazon @CapitalOne Previous focus has been in vision data, voice data, tabular data in the form of data pipelines. Web scale scraping previously.\nCompany Launches\nRefresh - RL Training Gyms\nSee original launch post\nSoftware engineering capabilities in the frontier llms have already emerged.\nSome fun things we’re working on…\nWe’ve archived the web to generate the next frontier of Computer Use environments with tasks that elicit failure modes across the frontier models.\nWe’re also pioneering mechanistic interpretability methods to deterministically elicit the failure modes in coding capabilities of the open source models.\nOur team is ex-Uber ML and ex-Amazon scraping, and previously turned down offers from Scale AI to start Refresh.\nWe’re actively working with frontier labs to provide the highest quality simulation environments to train computer use and software engineering capabilities. If you’re training frontier intelligence, we’d love to talk!\nGet in touch at founders@refresh.dev :)\nYC Photos\nCompany photo\nRefresh\nRefresh\nFounded: 2025\nBatch: Spring 2025\nTeam Size: 8\nStatus: Active\nLocation: San Francisco\nPrimary Partner: Diana Hu\nX (Twitter) logo\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://refresh.dev/",
+    "title": "Refresh",
+    "excerpts": [
+     "### How can I work with Refresh?\nEmail contact@refresh.dev to request environments or discuss a bespoke dataset, or see our careers page .\nResume\n03 / What comes next\nAccelerating\nsuperintelligence\nGet in touch\nWorlds worth exploring.\nSimulated worlds for the next set of model capabilities.\nLet’s build together\nCompany\nAbout us Open roles Contact\nExplore\nResearch & writing Platform BlenderBench Trajectories\nFollow\n© 2026 Refresh\nPrivacy Terms"
+    ]
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/1366558-39",
+    "title": "Refresh (San Francisco) 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "excerpts": [
+     "Refresh (San Francisco)\nRefresh (San Francisco)\nThis is a profile preview from the PitchBook Platform.\nRequest a free trial\nDeveloper of artificial intelligence infrastructure environments designed for building and operating advanced machine learning capabilities.\nThe company's platform provides configurable environments for developing and training models, supports integration with existing tools and systems, and facilitates scalable deployment, enabling organizations working in artificial intelligence and machine learning to manage development lifecycles and operational complexity"
+    ]
+   },
+   {
+    "url": "https://oomira.com/w/ycombinator/refresh",
+    "title": "Refresh in the YC active list audit",
+    "excerpts": [
+     "YC active company list audit\nRefresh\nRefresh: Training gyms for computer use and software engineering work. Headquartered in San Francisco, CA, United States. Current operating status: active.\nOomira checked this YC company record against source evidence and keeps the current facts, observed dates, and provenance visible before the interactive app loads.\n22 facts 5 sources 4 superseded claims\nWhat is Refresh?\nRefresh: Training gyms for computer use and software engineering work. Headquartered in San Francisco, CA, United States. Current operating status: active.\nWhat is true now?\nRefresh is currently marked active, in B2B, based in San Francisco, CA, United States, with hiring marked yes.\nWhat did the audit learn?\nOomira found 4 changes for Refresh: external name, hiring. The old value, newer value, observation date, and source trail are preserved together.\nWhen was this observed?\nThe frozen capsule includes observations from 2026; the snapshot itself was taken 2026-06-12. Dates stay attached to the facts instead of being flattened into a timeless profile.\nWhat evidence supports it?\nWhy Oomira has this page\nThis page exposes the company answer, changes, dates, and sources as HTML so people and crawlers can read the audit without operating the app.\nWhat changed in the audit\nHiring\nno -> yes 2026-06-13 · YC directory: isHiring = false\nSummary Training gyms for computer use and software engineering work 2026-06-12 · 1 source\nDescription Building RL environments for coding and computer use. 2026-06-12 · 1 source\nWebsite https://www.refresh.dev 2026-06-12 · 2 sources\nHiring yes 2026-06-13 · 1 source"
+    ]
+   },
+   {
+    "url": "https://www.cbinsights.com/company/refresh-body",
+    "title": "Refresh - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "excerpts": [
+     "* About Us\n* Overview\n* Our teams\n* Business Development\n* Engineering\n* Operations\n* Product\n* See all →\n* Open Jobs\nLoading...\nRefresh company logo\nRefresh is a company that focuses on employee experience and engagement within the corporate wellness and benefits sector. The company provides a platform that integrates and organizes resources, facilitates communication, and supports employee wellness and benefits discovery.\nRefresh's services are aimed at enterprises seeking to improve their workforce's engagement and well-being through tools including onboarding, communication, scheduling, eLearning, benefits administration, and employee recognition. It was founded in 2015 and is based in New York, New York.\nWhen Workplace Tech Truly Connects: Refresh, a SHRM-Backed Startup, Is Delivering Digital Equity Across HR Tools to Nonprofits, Municipalities, and More\nJun 16, 2026\nfundamental barrier to culture-driven organizational experience and employee dignity.\nHolisticly is a company that provides employee wellness benefits and perks programs across various business sectors. Its offerings include a corporate wellness benefit platform that provides options for employee wellbeing, such as fitness classes, mental health resources, and financial wellness tools.\nSworkit is a company that provides digital fitness and wellbeing solutions for sectors such as employers, health plans, schools, and communities.\n* AI 100\n* Fintech 100\n* Digital Health 50\n* Tech Trends 2024\n* Generative AI Predictions\n* Unicorn Tracker\n* VC Glossary\n* Company List Applications\n* CB Insights Website Terms of Use\n* Privacy Policy\n* Do Not Sell My Info\n* Partnership\nCopyright 2026 CB Information Services, Inc. All rights reserved."
+    ]
+   },
+   {
+    "url": "https://www.cbinsights.com/company/refreshai",
+    "title": "Refresh - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "excerpts": [
+     "* About Us\n* Overview\n* Our teams\n* Business Development\n* Engineering\n* Operations\n* Product\n* See all →\n* Open Jobs\nLoading...\nRefresh company logo\nRefresh\nUnclaimed\nrefresh.ai\n* Overview & Products\n* Financials\n* People\nFounded Year\n2017\nStage\nSeed VC | Alive\nTotal Raised\n$100K\nAbout Refresh\nRefresh developer a customer relationship management (CRM) tool that builds itself and talks to representatives in \\English. The company develops the CRM with an artificial Intelligence (AI) tool integrated into Salesforce, Email, and Slack. It was founded in 2017 and is based in San Francisco, California.\nHeadquarters Location\n180 Sansome Street\nSan Francisco, California, 94104,\nUnited States\nLoading...\nLoading...\nExpert Collections containing Refresh\nExpert Collections are analyst-curated lists that highlight the companies you need to know in the most important technology spaces.\nRefresh is included in 1 Expert Collection, including Artificial Intelligence (AI) .\nA\n* When was Refresh founded?\nRefresh was founded in 2017.\n* Where is Refresh's headquarters?\nRefresh's headquarters is located at 180 Sansome Street, San Francisco.\n* What is Refresh's latest funding round?\nRefresh's latest funding round is Seed VC.\n* How much did Refresh raise?\nRefresh raised a total of $100K.\n* Who are the investors of Refresh?\n* AI 100\n* Fintech 100\n* Digital Health 50\n* Tech Trends 2024\n* Generative AI Predictions\n* Unicorn Tracker\n* VC Glossary\n* Company List Applications\n* CB Insights Website Terms of Use\n* Privacy Policy\n* Do Not Sell My Info\n* Partnership\nCopyright 2026 CB Information Services, Inc. All rights reserved."
+    ]
+   },
+   {
+    "url": "https://linkedin.com/company/106451606",
+    "title": "Refresh | LinkedIn",
+    "excerpts": [
+     "LinkedIn\n* Top Content\n* People\n* Learning\n* Jobs\n* Games\n* Get the app\n  Sign in Join now\n  Refresh’s cover photo\nRefresh\nSoftware Development\nSan Francisco, CA 441 followers\nWe're building coding and computer use RL environments.\nFollow\n* Discover all 5 employees\n* Report this company\nAbout us\nData to augment the future of work\nWebsite https://www.refresh.dev\nExternal link for Refresh\nIndustry Software Development\nCompany size 2-10 employees\nHeadquarters San Francisco, CA\nType Privately Held\nFounded 2025\nLocations\n* Primary\n  San Francisco, CA 94158, US\n  Get directions\nEmployees at Refresh\n* Molly Olabi\n* Erik Quintanilla\n* Christopher Settles\n* Shashwat Mahalanobis\nSee all employees\nUpdates\nRefresh reposted this\nChristopher Settles\n6mo\n* Report this post\nCongrats to our previous interns Nanda Guntupalli and Adam Wax for entering in the YC P26 batch! When Erik and I met Nanda we were impressed with his drive to learn; he convinced us to let him work with us on the first call So excited to see what you guys will accomplish ( Refresh mafia starting!)\nAdam Wax\nCo-founder @ Taiga | Autonomous medical billing\n6mo Edited\nI grew up at my dad's medical practice. Quickly, I realized that clinicians just want to treat patients, not deal with administrative tasks. So, my cofounder Nanda Guntupalli and I are now building Taiga , a full stack medical billing service for independent practices.\nWe handle coding, claim submission, and denials so providers can focus on patients. We’re already working with practices and helping them resolve their trickiest claims. I’ll be at Pri-Med West in Anaheim later this week. If you run or work at a small practice, I’d love to buy you coffee and learn about your billing workflow :) usetaiga.com"
+    ]
+   },
+   {
+    "url": "https://www.refresh.dev/careers",
+    "title": "Open Roles | Refresh",
+    "excerpts": [
+     "Ex-Founder San Francisco Full-time Own end-to-end delivery of the strategic projects behind our computer-use and coding data builds. You scope the work with frontier-lab customers, keep it shipping on timelines that matter, and stay hands-on across both the customer conversations and the code. Apply\nGTM Engineer San Francisco Full-time Own the technical surface between Refresh and the frontier labs we sell to. Run evals on prospect models, stand up environments during pilots, write the demos that close deals, and feed what you learn back into product. For people who like closing deals and writing code. Apply"
+    ]
+   },
+   {
+    "url": "https://aventure.vc/companies/refresh-san-francisco-ca-us/employees",
+    "title": "Refresh Employees, Leadership and Locations - aVenture",
+    "excerpts": [
+     "description: Staff, leadership, and office locations for Refresh headquartered in San Francisco, CA, US. title: Refresh Employees, Leadership and Locations - aVenture image: https://aventure.vc/api/og/entity/019efcfa-935f-77f5-8f1a-06f5e578bd08\nUpdatedOct 21, 2026\n<Refresh logo>\nRefresh\nSeed\nRefresh is an AI infrastructure company that builds reinforcement learning environments for coding.\nSan Francisco, CA, US🇺🇸\nAccelerator\n<Y Combinator logo>Y Combinator X25\nwebsite ycombinator\nRefresh - Leadership\nLocations\nAddress HQ\nSan Francisco, California, United States\nWebsite\nrefresh.dev\n{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://aventure.vc/companies/refresh-san-francisco-ca-us#organization\",\"url\":\"https://aventure.vc/companies/refresh-san-francisco-ca-us\",\"name\":\"Refresh\",\"description\":\"Refresh is an AI infrastructure company that builds reinforcement learning environments for\ncoding.\",\"sameAs\":[\"https://refresh.dev\",\"https://www.ycombinator.com/companies/refresh\"]}\n{\"@context\":\"https://schema.org\",\"@type\":\"CollectionPage\",\"@id\":\"https://aventure.vc/companies/refresh-san-francisco-ca-us/employees#webpage\",\"url\":\"https://aventure.vc/companies/refresh-san-francisco-ca-us/employees\",\"name\":\"Refresh Employees, Leadership and Locations - aVenture\",\"description\":\"Staff, leadership, and office locations for Refresh\nheadquartered in San Francisco, CA,\nUS.\",\"about\":{\"@type\":\"Organization\",\"@id\":\"https://aventure.vc/companies/refresh-san-francisco-ca-us#organization\"},\"mainEntity\":{\"@type\":\"Organization\",\"@id\":\"https://aventure.vc/companies/refresh-san-francisco-ca-us#organization\"},\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"aVenture\",\"url\":\"https://aventure.vc\"},\"dateModified\":\"2026-10-21T21:49:24.335\nZ\"}"
+    ]
+   }
+  ],
+  "decision_id": "decisions_aa8ef17cdbc047571498f804a3471410"
+ }
+}

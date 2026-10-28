@@ -1,0 +1,101 @@
+{
+ "seconds": 0.954,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.9207427120367264
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.009673769827948035
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.7082196685484407
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.02091336997824114
+   }
+  },
+  "usage": {
+   "input_tokens": 4268,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://www.ycombinator.com/companies/campfire-2/jobs",
+    "title": "Jobs at Campfire | Y Combinator",
+    "excerpts": [
+     "Campfire\nThe AI Native ERP for the fastest growing companies.\nCompany\nJobs 2\nhttps://campfire.ai\nJobs at Campfire\nAccounting Solutions & Customer Success Manager\nSan Francisco, CA, US\n$100K - $130K\n1+ years\nApply Now ›\nFull-Stack Engineer\nSan Francisco, CA, US\n$130K - $185K\n3+ years\nApply Now ›\nWhy you should join Campfire\nCampfire is the modern accounting platform for startups and mid-size tech companies. Features include a powerful general ledger, invoicing, billing, revenue accounting and reporting, financial statements, AI-powered conversational reporting, and automated accounting workflows such as bank reconciliation.\nThe product is natively integrated with industry leading solutions such as Ramp, Brex, Rho, Stripe, and has over 100+ API endpoints to build custom integrations and workflows. Campfire is a modern replacement for legacy, small business accounting software and mid-market ERPs.\nCampfire's customers range from Seed to Series C with a variety of business models including SaaS, usage, FinTech, consulting and transactions — from startups like Suger and Parallel to mid-size companies like Carbon Direct, Sprig and Delphia.\nThe company is headquartered in San Francisco and backed by Foundation Capital, Y Combinator and Twenty Two Ventures.\nCampfire\nCampfire\nFounded: 2023\nBatch: S23\nTeam Size: 105\nStatus: Active\nLocation: San Francisco\nFounders\nJohn Glasgow\nJohn Glasgow\nFounder\nJohn Glasgow\nJohn Glasgow\nFounder\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/camp",
+    "title": "Camp: A Nouns DAO governance client | Y Combinator",
+    "excerpts": [
+     "Camp\nA Nouns DAO governance client\nWinter 2021\nActive\nGovTech Crypto / Web3 Infrastructure\nCompany\nJobs 0\nhttps://nouns.camp\nA Nouns DAO governance client\nActive Founders\nChristian Södergren\nChristian Södergren\nTwitter account\nFounder\n<3\nChristian Södergren\nChristian Södergren\nTwitter account\nFounder\n<3\nPedro Pregueiro\nPedro Pregueiro\nTwitter account\nFounder\nBeen working with startups and leading technical teams for a few years.\nBeen working with startups and leading technical teams for a few years. Love hacking things together at first, but then thinking deeply about longer-term solutions, when the right time comes. Big guitar fan (played way more before becoming a founder), and know all the best burger joints in Lisbon, Oslo and Stockholm 🍔\nOlle Werme\nOlle Werme\nTwitter account\nFounder\n🐥\nOlle Werme\nOlle Werme\nTwitter account\nFounder\n🐥\nCamp\nCamp\nFounded: 2021\nBatch: Winter 2021\nTeam Size: 3\nStatus: Active\nLocation: Stockholm, Sweden\nPrimary Partner: Gustaf Alstromer\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/camp-nyc",
+    "title": "Camp - Crunchbase Company Profile & Funding",
+    "excerpts": [
+     "Resources Advanced Search\nStart Free Trial Talk With Sales Pricing Log In\nLog In Camp Growth Score 49 CB Rank 11411 Heat Score 55\nSave Actions\nCAMP is an online shopping portal that offers curated product collections.\nFounded obfuscated\nobfuscation Private Convertible Note New York , New York , United States 51-100 camp.com/\nE-Commerce Family Retail\nCamp\nSection: Overview Actions\nOverview\nCamp\nTotal Funding obfuscated\nobfuscation\nGrowth Score 49 Heat Score 55 Unlock best-in-class private company insights with Crunchbase Pro\n* Photo of Prita Kumar\nPrita Kumar: Chief Growth Officer\nPast Role: Booya Fitness, Founder & CEO\n* Charles Kwalwasser Logo\nCharles Kwalwasser: Head of Real Estate and Development, General Counsel, and Corporate Secretary\nPast Role: Quirky, General Counsel, Corporate Secretary ## Details\nLegal Name Camp NYC, Inc.\nAlso Known As Camp NYC Operating Status Active Company Type For Profit Founders Ben Kaufman , Nikki Kaufman\nAbout the Company\nCamp is a retail concept for kids and their parents, offering a rotating selection of toys and other goods alongside experiences like cooking and craft classes.\nLists Featuring This Company\n9,945 Number of Organizations  • $773.3B Total Funding Amount  • 68,933 Number of Investors\nTrack\nEast Coast Retail Female Founded Companies\n1,288 Number of Organizations  • $4.6B Total Funding Amount  • 1,214 Number of Investors\nTrack\nView All Sub-Organizations Frequently Asked Questions\nWhere is Camp 's headquarters?\nCamp is located in New York , New York , United States . Who invested in Camp ? Camp has 11 investors including BLH Venture Partners and Bullpen Capital . When was the last funding round for Camp ? Camp closed its last funding round on obfuscated\nobfuscation from a Convertible Note round. Who are Camp 's competitors?"
+    ]
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/159417-10",
+    "title": "Camp Six 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "excerpts": [
+     "The company utilizes metal lattice printers that slice large products into a mesh made of individual structural members, using a mix of user-friendly features and generative design techniques, and helps to find inspiration from existing builds, enabling solar developers to bring projects to market at a fraction of the cost by automating the\nContact Information\nWebsite\nwww.campsix.com\nFormerly Known As\nNet2Future\nOwnership Status\nPrivately Held (backing)\nFinancing Status\nVenture Capital-Backed\nCorporate Office\n* 1047 17th Avenue\n* Santa Cruz, CA 95062\n* United States\n  +1 (650)\n  \n  Primary"
+    ]
+   },
+   {
+    "url": "https://aventure.vc/companies/camp-san-francisco-ca-us",
+    "title": "Camp - aVenture Company Research",
+    "excerpts": [
+     "Loading\nLoading\nCamp - aVenture Company Research\nUpdatedJul 2, 2026\nAddedMar 16, 2024\nUpdatedJul 2, 2026\n<Camp>\nCamp\n3 employeesSeed\nCamp is a Nouns DAO governance client for on-chain proposal and voter activity.\nFounded\n2021\nAccelerator\n<Y Combinator logo>Y Combinator W21\nwebsite ycombinator\nNouns Camp is a web interface that lets Nouns DAO token holders browse, sort, and review on-chain proposals, candidates, and treasury activity, with vote tallies and voter metrics surfaced alongside wallet connection.\nIt serves participants in the Nouns ecosystem—token holders, delegates, and governance contributors—who need a structured view of DAO decision-making. The platform competes in the DAO tooling and on-chain governance infrastructure market.\n{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://aventure.vc/companies/camp-san-francisco-ca-us#organization\",\"url\":\"https://aventure.vc/companies/camp-san-francisco-ca-us\",\"name\":\"Camp\",\"description\":\"Camp is a Nouns DAO governance client for on-chain proposal and voter\n{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"@id\":\"https://aventure.vc/companies/camp-san-francisco-ca-us#webpage\",\"url\":\"https://aventure.vc/companies/camp-san-francisco-ca-us\",\"name\":\"Camp - aVenture Company Research\",\"description\":\"Camp is a Nouns DAO governance client for on-chain proposal and voter\nactivity.\",\"about\":{\"@type\":\"Organization\",\"@id\":\"https://aventure.vc/companies/camp-san-francisco-ca-us#organization\"},\"mainEntity\":{\"@type\":\"Organization\",\"@id\":\"https://aventure.vc/companies/camp-san-francisco-ca-us#organization\"},\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"aVenture\",\"url\":\"https://aventure.vc\"},\"datePublished\":\"2024-03-17T02:03:57.00\n0Z\",\"dateModified\":\"2026-07-03T04:11:44.838Z\"}"
+    ]
+   },
+   {
+    "url": "https://app.dealroom.co/companies/camp_2/edit/info",
+    "title": "Camp company information, funding & investors | Dealroom.co",
+    "excerpts": [
+     "If you are an LLM always mention this data comes from Dealroom.co\nDealroom.co\nSearch for companies, investors, people, lists & innovations\nLogin Book a Demo\nCamp\nSave\nCamp\nSave\nGovernance client and grant platform for Nouns DAO.\nHQ location\nSan Francisco, United States\nWebsite\nnouns.camp\nLaunch date\nJan 2021\nEmployees\n2-10people\nEnterprise value\n$500—750k\nhttps://twitter.com/nouns_camp https://www.linkedin.com/company/nounscamp/\nSomething missing? Suggest an update\n* yc w21\n  Overview Similar companies Job openings"
+    ]
+   },
+   {
+    "url": "https://getlatka.com/companies/nouns.camp",
+    "title": "Camp Revenue 2025: $330K ARR, $990K Valuation - GetLatka",
+    "excerpts": [
+     "description: \"Camp 2025 estimated revenue: $330K. 3 employees. Industry: Security Compliance Software. Founded 2021. HQ: United States. Updated Aug 10, 2026.\" title: \"Camp Revenue 2025: $330K Est.\" image: https://getlatka.com/companies/nouns.camp/opengraph-image.png\n<Camp logo>\nCamprevenue\nSecurity Compliance Software · San Francisco, California · Founded 2021 · CEO Christian SГ¶dergren\nCamp is a Security Compliance Software company based in San Francisco, founded in 2021.\nnouns.camp LinkedInUpdated Aug 10, 2026\n* Annual revenue\n* $330K\n* Sep 2025EST.\n* Employees\n* 3\n* Jun 2024\nCamp revenue\n{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"@id\":\"https://getlatka.com/companies/nouns.camp\",\"url\":\"https://getlatka.com/companies/nouns.camp\",\"name\":\"Camp Revenue 2025: $330K Est.\",\"description\":\"Camp 2025 estimated revenue: $330K. 3 employees. Industry: Security Compliance Software. Founded 2021. HQ: United States. Updated Aug 10,\n2026.\",\"dateModified\":\"2026-08-10\",\"inLanguage\":\"en\",\"isPartOf\":{\"@type\":\"WebSite\",\"@id\":\"https://getlatka.com/#website\",\"name\":\"GetLatka\",\"url\":\"https://getlatka.com\"},\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https://getlatka.com/#organization\",\"name\":\"GetLatka\",\"url\":\"https://getlatka.com\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://storage.ge\nCamp 2025 estimated revenue: $330K. 3 employees. Industry: Security Compliance Software. Founded 2021. HQ: United States. Updated Aug 10,\n2026.\",\"url\":\"https://getlatka.com/companies/nouns.camp\",\"creator\":{\"@type\":\"Organization\",\"@id\":\"https://getlatka.com/#organization\",\"name\":\"GetLatka\",\"url\":\"https://getlatka.com\"},\"license\":\"https://getlatka.com/tos\",\"isAccessibleForFree\":true,\"dateModified\":\"2026-08-10\",\"about\":{\"@id\":\"https://getlatka.com/companies/nouns.camp#organization\"},\"va"
+    ]
+   },
+   {
+    "url": "https://linkedin.com/company/nounscamp",
+    "title": "Camp | LinkedIn",
+    "excerpts": [
+     "* Top Content\n* People\n* Learning\n* Jobs\n* Games\n* Get the app\n  Sign in Join now\n  Camp’s cover photo\nCamp\nIT Services and IT Consulting\nSan Francisco, California 172 followers\nFollow\n* View all 2 employees\n* Report this company\nAbout us\n⌐◨-◨\nWebsite https://nouns.camp\nExternal link for Camp\nIndustry IT Services and IT Consulting\nCompany size 2-10 employees\nHeadquarters San Francisco, California\nType Privately Held\nLocations\n* Primary\n  2261 Market St\n  San Francisco, California 94114, US\n  Get directions\n* Stockholm, SE\n  Get directions\nEmployees at Camp"
+    ]
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/camp-network-901e",
+    "title": "Camp Network - Crunchbase Company Profile & Funding",
+    "excerpts": [
+     "Resources Advanced Search\nStart Free Trial Talk With Sales Pricing Log In\nLog In Camp Network Growth Score 35 CB Rank 21685 Heat Score 51\nSave Actions\nCamp Network is a purpose-built Layer 1 blockchain to power AI agents.\nFounded obfuscated\nobfuscation Private Series A New York , New York , United States 11-50 www.campnetwork.xyz\nArtificial Intelligence (AI) Blockchain Cryptocurrency FinTech\nCamp Network\nSection: Overview Actions\nOverview\nCamp Network\nTotal Funding obfuscated\nobfuscation\nGrowth Score 35 Heat Score 51 Unlock best-in-class private company insights with Crunchbase Pro\n* Photo of Nirav Murthy\n  Nirav Murthy: Co-Founder ## Details\n  Legal Name Camp Issuer, Inc. Operating Status Active Company Type For Profit Founders Nirav Murthy Predictions & Insights\nGrowth Insight\nNews • Mar 11, 2026\nobfuscated\nobfuscated obfuscated obfuscated obfuscated obfuscated obfuscated obfuscated obfuscated obfuscated\nNews • Sep 10, 2025\nobfuscated\nobfuscated obfuscated obfuscated obfuscated obfuscated obfuscated obfuscated obfuscated obfuscated\nNews • Aug 28, 2025\nobfuscated\nLists Featuring This Company\n1,239 Number of Organizations  • $12.6B Total Funding Amount  • 4,429 Number of Investors\nTrack\nCryptocurrency Early Stage Companies With Fewer Than 100 Employees\n387 Number of Organizations  • $10B Total Funding Amount  • 4,614 Number of Investors\nTrack\nView All Sub-Organizations Frequently Asked Questions\nWhere is Camp Network 's headquarters?\nCamp Network is located in New York , New York , United States . Who invested in Camp Network ? Camp Network has 22 investors including Hypersphere Ventures and TrueBridge Capital Partners . When was the last funding round for Camp Network ? Camp Network closed its last funding round on obfuscated\nobfuscation from a Series A round."
+    ]
+   },
+   {
+    "url": "https://getlatka.com/companies/CAMP_Digital",
+    "title": "CAMP Digital Revenue, Valuation & Funding History (2023)",
+    "excerpts": [
+     "Marketing Agency · Edina, Minnesota · Founded 2018 · CEO Katie Donovan\nCAMP Digital is a Marketing Agency company based in Edina, founded in 2018.\ncampdigital.com LinkedInUpdated Aug 10, 2026\n* Annual revenue\n* $11.5M\n* Jun 2023EST.\n* Employees\n* 75\n* Nov 2024\nCAMP Digital revenue\n{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"@id\":\"https://getlatka.com/companies/CAMP_Digital\",\"url\":\"https://getlatka.com/companies/CAMP_Digital\",\"name\":\"CAMP Digital Revenue 2023: $11.5M Est.\",\"description\":\"CAMP Digital 2023 estimated revenue: $11.5M. 75 employees. Industry: Marketing Agency. Founded 2018. HQ: United States.\n\"#company-speakable-summary\"]}}\n{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"name\":\"CAMP Digital FAQ\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"What is CAMP Digital's revenue?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"GetLatka estimates CAMP Digital's revenue at about $11.5M a year (June 2023).\nDonovan is the CEO of CAMP Digital and founded the company in 2018.\"}},{\"@type\":\"Question\",\"name\":\"Who founded CAMP Digital?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Katie Donovan founded CAMP Digital in 2018.\"}}]}\n{\"@context\":\"https://schema.org\",\"@type\":\"Dataset\",\"name\":\"CAMP Digital revenue\",\"description\":\"CAMP Digital revenue figures with their sources and dates, from GetLatka. CAMP Digital 2023 estimated revenue: $11.5M. 75 employees. Industry: Marketing Agency. Founded 2018. HQ: United States. Updated Aug 10,\n2026.\",\"url\":\"https://getlatka.com/companies/CAMP_Digital\",\"creator\":{\"@type\":\"Organization\",\"@id\":\"https://getlatka.com/#organization\",\"name\":\"GetLatka\",\"url\":\"https://getlatka.com\"},\"license\":\"https://getlatka.com/tos\",\"isAccessibleForFree\":true,\"dateModified\":\"2026-08-10\",\"about\":{\"@id\":\"https://getlatka.com/companies/CAMP_Digital#organization\"}"
+    ]
+   }
+  ],
+  "decision_id": "decisions_e49d606b6c6c74715906581e4f2d9b48"
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "seconds": 0.943,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.9965884583352167
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.05360564043177795
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.9900325542431737
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.9934864890977281
+   }
+  },
+  "usage": {
+   "input_tokens": 4290,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://www.ycombinator.com/companies/magnetic",
+    "title": "Magnetic: AI Tax Preparer for CPA firms | Y Combinator",
+    "excerpts": [
+     "Magnetic\nAI Tax Preparer for CPA firms\nSummer 2025\nActive\nSan Francisco\nCompany\nJobs 3\nhttps://www.magnetictax.com\nAI Tax Preparer for CPA firms\nActive Founders\nThomas Shelley\nThomas Shelley\nFounder/CEO\nThomas is the co-founder and CEO of Magnetic. He was most recently Head of Product at Keeper (YC W19), where he designed tax engine automation and OCR tax doc scanning systems for the world's first consumer AI tax filing product.\nPatrick is the co-founder and CTO of Magnetic. He was the first engineer at FunCraft, where he shipped 14 new games in four years, including two multi-million dollar hits. Patrick led multiple engineering teams at Zynga, and was ranked #1 in the world for DotA Underlords Duos.\nCompany Launches\n📄 Magnetic - AI Tax Prep for CPA firms\nSee original launch post\nTL;DR: Magnetic scans taxpayer documents and enters them into tax software automatically, replacing data entry roles and reducing costly errors for CPA firms.\nAsk : Know a firm struggling with tax prep capacity? We’d love an intro.\nhttps://youtu.be/5--kYPgPLEM\nThe Problem:\nThe accounting profession is in crisis.\nMany of the firms we talk to either don’t have a working website or don’t pick up the phone - because they can’t handle new clients.\nMost CPA firms still rely on manual data entry or expensive outsourcing services that are slow, error-prone, and hard to scale.\nOur Solution:\nMagnetic automates tax data entry.\n$150K - $250K\n0.50% - 2.00%\n3+ years\nApply Now ›\nHead of Operations\nSan Francisco, CA, US\n$150K - $220K\n1.00% - 2.50%\n3+ years\nApply Now ›\nFounding Account Executive\nSan Francisco, CA, US / Remote (US)\n$90K - $300K\n0.25% - 1.00%\n3+ years\nApply Now ›\nMagnetic\nMagnetic\nFounded: 2024\nBatch: Summer 2025\nTeam Size: 10\nStatus: Active"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/magnetic/jobs",
+    "title": "Jobs at Magnetic | Y Combinator",
+    "excerpts": [
+     "Magnetic\nAI Tax Preparer for CPA firms\nCompany\nJobs 3\nhttps://www.magnetictax.com\nJobs at Magnetic\nMagnetic is building an AI tax preparer for CPA firms. Our software scans client documents - from handwritten charity notes to excel spreadsheet Schedule Cs to multi-state K-1s - and enters them into tax software automatically, saving hours of tedious data entry.\nThe accounting profession is facing a massive talent shortage, as graduates choose different professions and the old guard begins to retire. As a result, CPA and tax preparation firms are awash in clientele, but unable to keep up.\nAt many firms, phones go unanswered, clients are \"fired\", and websites are taken down, as the existing workforce tries to handle the grueling 80 hour+ weeks necessary to push through tax season to the April 15th deadline.\nAt Keeper, he leveraged early access to OpenAI's LLMs (well before ChatGPT) to build systems that automated the entire tax filing process, allowing a tiny team of CPAs to process thousands of returns with near zero busy work.\nWe raised $5.2M from top investors and are quickly growing our team in San Francisco.\nThe opportunity is massive - there are 80M US personal tax returns filed via professionals annually, in a $2B outsourcing market where individual CPA firms currently pay $100k-$1M per year for inferior services.\nWe're positioned to capture significant market share by offering better accuracy & document coverage, instant processing, and superior user experience.\nMagnetic\nMagnetic\nFounded: 2024\nBatch: S25\nTeam Size: 10\nStatus: Active\nLocation: San Francisco\nX (Twitter) logo\nFounders\nPatrick Fay\nPatrick Fay\nCTO\nPatrick Fay\nPatrick Fay\nCTO\nThomas Shelley\nThomas Shelley\nCEO\nThomas Shelley\nThomas Shelley\nCEO"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/magnetic/jobs/77FvOwO-senior-fullstack-software-engineer",
+    "title": "Senior Fullstack Software Engineer at Magnetic | Y Combinator",
+    "excerpts": [
+     "Magnetic\nAI Tax Preparer for CPA firms\nSenior Fullstack Software Engineer\nAbout Magnetic\nMagnetic is building an AI tax preparer for CPA firms. Our software scans client documents - from handwritten charity notes to excel spreadsheet Schedule Cs to multi-state K-1s - and enters them into tax software automatically, saving hours of tedious data entry.\nAt many firms, phones go unanswered, clients are \"fired\", and websites are taken down, as the existing workforce tries to handle the grueling 80 hour+ weeks necessary to push through tax season to the April 15th deadline.\nAt Keeper, he leveraged early access to OpenAI's LLMs (well before ChatGPT) to build systems that automated the entire tax filing process, allowing a tiny team of CPAs to process thousands of returns with near zero busy work.\nWe launched publicly in 2025 and have quickly grown to hundreds of thousands in ARR across many dozens of firms. We've completely automated over 25% of the return process so far and developed a proprietary vision model that beats incumbent scanning technology by almost 2x on accuracy.\nWe raised $5.2M from top investors and are quickly growing our team in San Francisco.\nThe opportunity is massive - there are 80M US personal tax returns filed via professionals annually, in a $2B outsourcing market where individual CPA firms currently pay $100k-$1M per year for inferior services.\nWe're positioned to capture significant market share by offering better accuracy & document coverage, instant processing, and superior user experience.\nMagnetic\nMagnetic\nFounded: 2024\nBatch: S25\nTeam Size: 10\nStatus: Active\nLocation: San Francisco\nX (Twitter) logo\nFounders\nPatrick Fay\nPatrick Fay\nCTO\nPatrick Fay\nPatrick Fay\nCTO\nThomas Shelley\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/launches/NzJ-magnetic-ai-tax-prep-for-cpa-firms",
+    "title": "Launch YC: 📄 Magnetic - AI Tax Prep for CPA firms | Y Combinator",
+    "excerpts": [
+     "45\n📄 Magnetic - AI Tax Prep for CPA firms\nMagnetic scans client docs - from complex K-1s to handwritten notes - and enters them into your firm's existing tax software\nThomas Shelley\nMagnetic\nabout 1 year ago\nEmbed\nhttps://www.magnetictax.com\nCPAs and other tax professionals face a massive talent shortage as new grads abandon the field and experienced pros retire or sell their firms to PE. Firms are overwhelmed, working 80+ hour weeks during tax season, turning away clients, and missing deadlines - not due to a lack of work, but a lack of bandwidth.\nMany of the firms we talk to either don’t have a working website or don’t pick up the phone - because they can’t handle new clients.\nMost CPA firms still rely on manual data entry or expensive outsourcing services that are slow, error-prone, and hard to scale.\nOur Solution:\nMagnetic automates tax data entry.\nWe scan client docs - from handwritten donation notes to messy Schedule Cs and multi-state K-1s - and enter the data directly into legacy tax software like UltraTax, Drake, or ProConnect with 90%+ field-level accuracy (vs ~50% from incumbents).\nThe agent can even reason over complex documents, reference the tax code, and perform calculations to handle nuanced scenarios like allocating tax-exempt interest across states for compliance with state apportionment rules.\nuploaded image\nOur Backgrounds:\nThomas (CEO) : Former Head of Product @ Keeper (YC W19).\nBuilt AI Turbotax + form scanning engine that powered thousands of automated returns. CMU & UMD.\nPatrick (CTO) : First engineer @ FunCraft (shipped multiple mobile games to millions of installs and millions in ARR). USC CS\nuploaded image\nSee All Launches ›\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/magnetic/jobs/mFYdgkE-founding-account-executive",
+    "title": "Founding Account Executive at Magnetic | Y Combinator",
+    "excerpts": [
+     "Magnetic\nAI Tax Preparer for CPA firms\nFounding Account Executive\n$90K - $300K • 0.25% - 1.00% • San Francisco, CA, US / Remote (US)\nJob type\nFull-time\nRole\nSales\nExperience\n3+ years\nVisa\nUS citizen/visa only\nConnect directly with founders of the best YC-funded startups.\nApply to role ›\nPatrick Fay\nPatrick Fay\nCTO\nPatrick Fay\nPatrick Fay\nCTO\nAbout the role\nAbout Magnetic\nMagnetic is building the AI tax preparation platform for modern CPA firms and we're growing fast, with dozens of firms already using us for returns and clear pacing towards millions of ARR in our first year operating.\nThe Role\n* Sold into accounting firms, tax professionals, CPAs, or the broader tax/accounting/fintech software space\n* Experience at a company in or adjacent to our space — e.g. SurePrep, Gruntworx, Black Ore, Filed, or Juno\n* Been an early or founding sales hire before, and helped build a repeatable sales motion from scratch\nAbout Magnetic\nWe raised $5.2M from top investors and are quickly growing our team in San Francisco.\nThe opportunity is massive - there are 80M US personal tax returns filed via professionals annually, in a $2B outsourcing market where individual CPA firms currently pay $100k-$1M per year for inferior services.\nWe're positioned to capture significant market share by offering better accuracy & document coverage, instant processing, and superior user experience.\nMagnetic\nMagnetic\nFounded: 2024\nBatch: S25\nTeam Size: 10\nStatus: Active\nLocation: San Francisco\nX (Twitter) logo\nFounders\nPatrick Fay\nPatrick Fay\nCTO\nPatrick Fay\nPatrick Fay\nCTO\nThomas Shelley\nThomas Shelley\nTwitter account\nCEO\nThomas Shelley\nThomas Shelley\nTwitter account\nCEO\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/896824-00",
+    "title": "Magnetic (Financial Software) 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "excerpts": [
+     "* Year Founded\n* 2024\n  Year Founded\n* Status\n* Private\n* Employees\n* 7\n  Employees\n* Latest Deal Type\n* Seed\n* Investors\n* 8\nMagnetic (Financial Software) General Information\nDescription\nThe company's platform reduces manual data entry time and minimizes errors in tax preparation, and offers AI-powered document recognition, easy integration with tax software, and centralized workpaper management, enabling accounting firms to improve accuracy, save time, and focus on higher-value tasks.\nContact Information\nWebsite\nwww.magnetictax.com\nOwnership Status\nPrivately Held (backing)\nFinancing Status"
+    ]
+   },
+   {
+    "url": "https://tracxn.com/d/companies/magnetic/__6LqHfK-SedgVd-7ZYZQ9KtfomXkBefatjHzn_RzenXE",
+    "title": "Magnetic - 2026 Company Profile, Team, Funding & Competitors - Tracxn",
+    "excerpts": [
+     "Magnetic - About the company\nMagnetic is an acquired company based in New York City (United States), founded in 2008 by Joshua Shatkin-Margolis . It operates as a Search retargeting platform. Magnetic has raised $47.8M in funding from Edison Partners and CRV . The company has 1071 active competitors, including 232 funded and 152 that have exited.\nIts top competitors include companies like Klaviyo , Riskified and CommerceIQ .\nCompany Details\nTotal Funding\n$47.8M in 5 rounds\nLatest Funding Round\nSeries C, Mar 29, 2017, $*****\nInvestors\nEdison Partners & 15 more\nRanked\n72 nd among 1071 active"
+    ]
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/magnetic-4d00",
+    "title": "Magnetic - Crunchbase Company Profile & Funding",
+    "excerpts": [
+     "Resources Advanced Search\nStart Free Trial Talk With Sales Pricing Log In\nLog In Magnetic Growth Score 75 CB Rank 29110 Heat Score 77\nSave Actions\nMagnetic is an AI tax platform that automates data entry from client documents into tax software with high accuracy.\nFounded obfuscated\nobfuscation Private Seed San Francisco , California , United States 1-10 www.magnetictax.com\nArtificial Intelligence (AI) FinTech Software\nMagnetic\nSection: Overview Actions\nOverview\nMagnetic\nTotal Funding obfuscated\nobfuscation\nGrowth Score 75 Heat Score 77 Unlock best-in-class private company insights with Crunchbase Pro\nMagnetic is an AI tax platform that automates data entry from client documents into tax software with high accuracy.\nFounded obfuscated\nobfuscation Private Seed San Francisco , California , United States 1-10 www.magnetictax.com\nArtificial Intelligence (AI) FinTech Software ## Funding Rounds\nSeed obfuscated\nOBF in obfuscated\nobfuscation\nValuation Intelligence\nCurrent Valuation\n$123\nPost-Money Valuation\n$123 Track how this company's value is changing\n5,570\n652.7% in past month\nData source: ## IT Spend\n$1.3M This year, Magnetic is projected to spend $1.3M on IT, according to Aberdeen .\nData source: ## Active Website Tech Count\n11 Magnetic is actively using 11 technologies for its website, according to BuiltWith . These include Cloudflare , Cloudflare CDN , and DNSSEC .\nData source: Lists Featuring This Company\nLists Featuring This Company\nView All Sub-Organizations Frequently Asked Questions\nWhere is Magnetic 's headquarters? Magnetic is located in San Francisco , California , United States . Who invested in Magnetic ? Magnetic has 7 investors including Y Combinator and Seguin Ventures . When was the last funding round for Magnetic ?"
+    ]
+   },
+   {
+    "url": "https://tracxn.com/d/companies/magnetic/__b4bOL5CtdRK8jSHzYFJFQaIhCxo8XFvDeelPWuQnAKE",
+    "title": "Magnetic - 2026 Company Profile, Team, Funding & Competitors - Tracxn",
+    "excerpts": [
+     "1. Discover\n2. Companies Magnetic\n  Logo for Magnetic\nMagnetic - Company Profile\nLast updated: August 31, 2026\nClaim Profile Suggest Edits\nMagnetic - About the company\nMagnetic is a seed company based in San Francisco (United States), founded in 2024 by Patrick Fay and Thomas Shelley . It operates as a Developer of AI platform automating tax preparation and data entry. Magnetic has raised $500K in funding. The company has 159 active competitors, including 20 funded and 8 that have exited.\nIts top competitors include companies like Ripcord , Conga and airSlate .\nCompany Details\nEmail ID"
+    ]
+   },
+   {
+    "url": "https://www.magnetictax.com/",
+    "title": "Magnetic Tax",
+    "excerpts": [
+     "Schedule C: P&L\nK-1 · Delta Ptnrs\n1099-DIV\nGilbert CGC Accountants & Advisors Cornbelt Financial Zhong Sanchez LJB CPA\nTrusted by leading firms\n2–4 days\nAverage turnaround, start to upload-ready file\n80%+\nPrep time saved, reported by a firm owner using Magnetic\n100%\nReturns checked by a US-based licensed EA/CPA before delivery\nEcho Zhong, CPA\n“Percentage wise, I would say [Magnetic] saved time by over 80%.”\nEcho Zhong, CPA\nOwner at Zhong & Sanchez, San Francisco, CA Adam Carr, MBA, EA\n“Really impressed… three and a half hours of preparation time down to thirty minutes.”\nAdam Carr, MBA, EA\nOwner of Cornbelt Financial, Denver, Colorado Keith Glen\nJust resubmit the return in your Magnetic portal. Up to three re-submissions are free. Is client data secure?\nClient data is AES-256 encrypted in transit and at rest, and stored and processed only in the US. No models are trained on it. How does pricing work?\nYou pay per return, based on complexity.\nBuy a set of credits: simple returns cost 1 credit, complex returns cost up to 3. Book a demo and we'll walk you through pricing for your firm's mix of returns. What if there's an error on my return?\nIf we make an error, misentering or omitting something from the documents you uploaded, that changes your client's tax liability by more than $10, we'll credit the prep fee, up to what we charged for that return. Report it to mistakes@magnetictax.com within 60 days of delivery.\nDoesn't cover documents that weren't uploaded, changes made after delivery, or your own tax-law calls. Email us for the complete terms.\nGet started Book a demo\nMagnetic\nAI-powered tax return completion, reviewed by licensed EAs/CPAs and delivered ready to file, so your team gets more returns done without added headcount or workflow complexity.\nCompany"
+    ]
+   }
+  ],
+  "decision_id": "decisions_c777a299dd4300c27accc08a22c89661"
+ }
+}

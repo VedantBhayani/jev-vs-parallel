@@ -1,0 +1,82 @@
+{
+ "seconds": 1.06,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "published": {
+    "type": "noul",
+    "noul": 0.15659196790059615
+   }
+  },
+  "usage": {
+   "input_tokens": 2709,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://medium.com/@milesk_33/parsebench-the-document-parsing-benchmark-for-ai-agents-97f16840c4bd",
+    "title": "ParseBench: The document parsing benchmark for AI agents",
+    "excerpts": [
+     "Sitemap\nOpen in app\nSign up\nSign in\nGet app\nWrite\nSearch\nSign up\nSign in\nUnknown user\n1. The metrics we’ve been using were measuring the wrong thing\n2. Where current systems actually break\n3. Spending more doesn’t close the gap\n4. What this means if you’re building on document agents today\n5. If you’re building with LlamaIndex\n  Miles K.\nMiles K.\nFounder shipping GenAI products and sharing the dashboards, detours, and decisions in real time. And no, I don't do crossfit.\nAI\nAI Agent\nAi Agents In Action\nTechnology\nParseBench: The document parsing benchmark for AI agents\nMiles K.\nMiles K.\n6 min read\n·\nJun 2, 2026\nThe results are worth sitting with.\nMiles K.\nMiles K.\n6 min read\n·\nJun 2, 2026\nThe metrics we’ve been using were measuring the wrong thing\nMiles K.\nMiles K.\n6 min read\n·\nJun 2, 2026\nWhere current systems actually break\nThe benchmark exposes a fragmented capability picture. No single provider is consistently strong across all five dimensions:\nMiles K.\nMiles K.\n6 min read\n·\nJun 2, 2026\n* Charts: The most polarizing result in the benchmark. Most specialized parsers score below 6%. AWS Textract lands at 6.0%. Azure at 1.6%. Google Cloud Doc AI at 1.4%. They’re not extracting structured chart data. They’re either skipping charts entirely or returning raw OCR text.\nMiles K.\nMiles K.\n6 min read\n·\nJun 2, 2026\nGemini 3 Flash reaches 64.8%. LlamaParse Agentic reaches 78.1%.\n* Content faithfulness: The floor requirement. Omissions, hallucinations, reading-order errors.\nMiles K.\nMiles K.\n6 min read\n·\nJun 2, 2026\nPress enter or click to view image in full size\nThe team that built LlamaParse also built ParseBench . Their system, LlamaParse Agentic, leads the benchmark at 84.9% overall. They used Claude Opus to generate the initial table annotations in the ground truth pipeline."
+    ]
+   },
+   {
+    "url": "https://www.theinformation.com/articles/chaos-competition-future-ai-agents-2026",
+    "title": "Chaos and Competition: The Future of AI Agents in 2026 — The Information",
+    "excerpts": [
+     "Chaos and Competition: The Future of AI Agents in 2026\nBy The Information Staff\nSubscribe to unlock"
+    ]
+   },
+   {
+    "url": "https://fortune.com/2026/10/13/tech-companies-structuring-workforce-ai-spending/",
+    "title": "Block CFO: AI agents could appear more on org charts as companies work to justify AI spending | Fortune",
+    "excerpts": [
+     "Tech companies are overhauling company structures to justify AI spending, and it means AI agents could start appearing on org charts, Block CFO says\nSasha Rogelberg By Sasha Rogelberg Sasha Rogelberg\nReporter\nSasha Rogelberg By Sasha Rogelberg Sasha Rogelberg\nReporter\nOctober 13, 2026, 6:27 PM ET\nThe integration of AI into workplaces means agents have begun to appear in company organization charts, Block CFO Amrita Ahuja said\nThe integration of AI into workplaces means agents have begun to appear in company organization charts, Block CFO Amrita Ahuja said Rebecca Greenfield—Fortune\nAdd Fortune"
+    ]
+   },
+   {
+    "url": "https://www.theinformation.com/articles/apple-explores-ways-welcome-ai-agents-app-store",
+    "title": "Apple Explores Ways to Welcome AI Agents in the App Store — The Information",
+    "excerpts": [
+     "+ [Help & Support](https://theinformation.zendesk.com/hc/en-us)\n+ [RSS Feed](https://www.theinformation.com/feed)\n+ [Careers](https://www.theinformation.com/jobs)\n  Sign in\n  Deep Research\n  TITV\n  Tech\n  Finance\n  Weekend\n  Charts\n  Events\n  Newsletters\n  Community\nApple Explores Ways to Welcome AI Agents in the App Store\nBy Aaron Tilley\nSubscribe to unlock"
+    ]
+   },
+   {
+    "url": "https://www.theinformation.com/newsletters/applied-ai/guardian-apps-aim-stop-ai-agents-going-rogue",
+    "title": "‘Guardian’ Apps Aim to Stop AI Agents From Going Rogue — The Information",
+    "excerpts": [
+     "Exclusive: Hackers Used Claude and Grok to Automate Attacks on Banks Save 25% to unlock this story\nSign in\nSubscribe\n+ [Help & Support](https://theinformation.zendesk.com/hc/en-us)\n+ [RSS Feed](https://www.theinformation.com/feed)\n+ [Careers](https://www.theinformation.com/jobs)\n  Sign in\n  Deep Research\n  TITV\n  Tech\n  Finance\n  Weekend\n  Charts\n  Events\n  Newsletters\n  Community\nJournalists who break and shape the news, in your inbox\n* Video\nCatch up on conversations with global leaders in tech, media and finance\n* Partner Content\nExplore our recent partner collaborations\nLeading AI AI that"
+    ]
+   },
+   {
+    "url": "https://www.theinformation.com/newsletters/applied-ai/microsoft-wants-sell-software-subscriptions-ai-agents-aws-ai-fallback-plan",
+    "title": "Microsoft Wants to Sell Software Subscriptions—to AI Agents; AWS’ AI Fallback Plan — The Information",
+    "excerpts": [
+     "+ [Help & Support](https://theinformation.zendesk.com/hc/en-us)\n+ [RSS Feed](https://www.theinformation.com/feed)\n+ [Careers](https://www.theinformation.com/jobs)\n  Sign in\n  Deep Research\n  TITV\n  Tech\n  Finance\n  Weekend\n  Charts\n  Events\n  Newsletters\n  Community\nJournalists who break and shape the news, in your inbox\n* Video\nCatch up on conversations with global leaders in tech, media and finance\n* Partner Content\nExplore our recent partner collaborations\nLeading AI AI that means business\nLearn more\nFeatured Partner Google Cloud logo\nMicrosoft Wants to Sell Software Subscriptions—to AI"
+    ]
+   },
+   {
+    "url": "https://www.cloudeagle.ai/blogs/segregation-of-duties-ai-agents",
+    "title": "Why AI Agents Break Segregation of Duties Controls | CloudEagle.ai",
+    "excerpts": [
+     "Identity Governance\nIdentity Governance\nWhy Segregation of Duties Breaks When One AI Agent Can Approve and Execute\nSarah Shaheen\nThis is some text inside of a div block.\nJuly 13, 2026\nThis is some text inside of a div block.\nShare via:\nWhite X symbol inside a black circle on a transparent background. LinkedIn logo icon in black and white.\nWritten by:\nCloudEagle.ai Team\nReviewed by\nNidhi Jain\nLast Updated:\nJuly 13, 2026\nblog-cms-banner-bg\nLittle-Known Negotiation Hacks to Get the Best Deal on Slack\ncta-bg-blog Download Your Copy\nHIPAA Compliance Checklist for 2025 Download PDF\n* The person who requests a purchase order isn't the person who approves it.\n* The engineer who writes the code isn't the one who deploys it.\nThat assumption holds because humans work inside org charts, and org charts separate people.\nAn AI agent isn't inside an org chart.\nHIPAA Compliance Checklist for 2025 Download PDF\n1. What Segregation of Duties Actually Controls, and the Assumption AI Agents Break\nSegregation of duties is a preventive control. It distributes a sensitive transaction across separate parties so no single actor can complete the whole thing alone.\nOne Agent. Three Roles. Zero Segregation of Duties. Find every agent holding conflicting permissions right now. Download Checklist\nThis is already showing up in workflows most teams assume are under control, and it's the clearest form AI agent segregation of duties collapse takes today.\nOne Agent. Three Roles. Zero Segregation of Duties. Find every agent holding conflicting permissions right now. Download Checklist\nA Gartner survey of 302 cybersecurity leaders found that 69% of organizations suspect or have evidence that employees are using prohibited public GenAI, largely without IT ever reviewing it first."
+    ]
+   },
+   {
+    "url": "https://anycap.ai/page/en-US/news/what-ai-agents-cant-do-in-2026",
+    "title": "What AI Agents Can't Do in 2026: Honest Developer Guide",
+    "excerpts": [
+     "1. News\n2. /\n3. What AI Agents Still Can't Do in 2026 (And How to Work Around It)\nWhat AI Agents Still Can't Do in 2026 (And How to Work Around It)\nThe real limitations of AI agents in 2026: persistent memory, reliable actions, causal reasoning, ambiguity handling — and practical workarounds.\nby AnyCap · September 9, 2026\nWhat AI agents can't do in 2026 hero image\nAI agents have made remarkable progress.\n1. Maintain State Across Sessions\nInstead of trusting model knowledge, ground in current data\n1. List each ambiguity clearly\n2. State your assumed resolution\n3. Proceed with the assumption\n4. Flag the assumption in your output\nExample output format:\nAMBIGUITY: \"Latest version\" — which package?\nASSUMPTION: Using the version in package.json (1.2.3)\n\"\"\"\nInstead of trusting model knowledge, ground in current data\n7. Handle Complex Multi-Modal Reasoning\nThe problem: While vision capabilities have improved dramatically, agents still struggle with complex spatial reasoning, reading dense visual data (charts, diagrams), and integrating information from multiple images coherently.\nWorkarounds:\nInstead of trusting model knowledge, ground in current data\n1. Grounds agents in external facts (web search, databases, APIs)\n2. Validates outputs before acting on them\n3. Maintains explicit state rather than relying on context memory\n4. Routes to humans for genuinely ambiguous or high-stakes decisions\n5.\nInstead of trusting model knowledge, ground in current data\n* news · Jul 6, 2026 ### Kling AI Review 2026: Pricing, API Access, and What Developers Need to Know Complete Kling AI developer review covering pricing tiers, API access, Kling 3.0 features, and how to integrate Kling into AI agent workflows."
+    ]
+   },
+   {
+    "url": "https://www.theinformation.com/newsletters/applied-ai/lowes-says-semantic-data-boosting-ai-agents",
+    "title": "Lowe’s Says ‘Semantic’ Data is Boosting Its AI Agents — The Information",
+    "excerpts": [
+     "+ [Help & Support](https://theinformation.zendesk.com/hc/en-us)\n+ [RSS Feed](https://www.theinformation.com/feed)\n+ [Careers](https://www.theinformation.com/jobs)\n  Sign in\n  Deep Research\n  TITV\n  Tech\n  Finance\n  Weekend\n  Charts\n  Events\n  Newsletters\n  Community\nJournalists who break and shape the news, in your inbox\n* Video\nCatch up on conversations with global leaders in tech, media and finance\n* Partner Content\nExplore our recent partner collaborations\nLeading AI AI that means business\nLearn more\nFeatured Partner Google Cloud logo\nLowe’s Says ‘Semantic’ Data is Boosting Its AI Agents\nBy"
+    ]
+   }
+  ],
+  "decision_id": "decisions_91c1b9539d58d5b2b2d22ac3c5e6d216"
+ }
+}

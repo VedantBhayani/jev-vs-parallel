@@ -1,0 +1,101 @@
+{
+ "seconds": 0.841,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.0567964263296119
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.0028927481624549953
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.022419336736116152
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.026058555108663957
+   }
+  },
+  "usage": {
+   "input_tokens": 4541,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://www.ycombinator.com/companies/zepto/jobs",
+    "title": "Jobs at Zepto | Y Combinator",
+    "excerpts": [
+     "Zepto\n10-Minute Grocery Delivery in India\nCompany\nJobs 0\nhttps://www.zeptonow.com/\nJobs at Zepto\nNo jobs at Zepto are currently posted on the YC platform.\nZepto\nZepto\nFounded: 2020\nBatch: W21\nTeam Size: 1300\nStatus: Active\nLocation: India\nX (Twitter) logo\nFounders\nAadit Palicha\nAadit Palicha\nFounder\nAadit Palicha\nAadit Palicha\nFounder\nKaivalya Vohra\nKaivalya Vohra\nFounder\nKaivalya Vohra\nKaivalya Vohra\nFounder\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/zepto",
+    "title": "Zepto: 10-Minute Grocery Delivery in India | Y Combinator",
+    "excerpts": [
+     "Zepto\n10-Minute Grocery Delivery in India\nWinter 2021\nActive\nGrocery Delivery\nCompany\nJobs 0\nNews\nhttps://www.zeptonow.com/\n10-Minute Grocery Delivery in India\nWe deliver groceries in 10 minutes through a network of optimized micro-warehouses or 'dark stores' that we build across cities in India. We're currently doing hundreds of millions of dollars in annual sales with best-in-class unit economics - come join us!\nLatest News\nZepto raises $450M at $7B valuation as Indian quick-commerce market heats up | TechCrunch\nOct 16, 2025\nZepto raises $340M at a $5B valuation as India's quick-commerce market heats up | TechCrunch\nAug 13, 2024\nZepto, a 10-minute delivery app, raises $665 million at $3.6 billion valuation | TechCrunch\nJun 20, 2024\nZepto becomes India's first 2023 unicorn with $200 million fresh funding | TechCrunch\nAug 25, 2023\nQuick commerce will grow 10 times in metros in 1-2 years: Zepto's Vohra\nDec 13, 2022\nZepto\nZepto\nFounded: 2020\nBatch: Winter 2021\nTeam Size: 1300\nStatus: Active\nLocation: India\nPrimary Partner: Jared Friedman\nX (Twitter) logo\nFounders\nAadit Palicha\nAadit Palicha\nFounder\nAadit Palicha\nAadit Palicha\nFounder\nKaivalya Vohra\nKaivalya Vohra\nFounder\nKaivalya Vohra\nKaivalya Vohra\nFounder\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/zepto/jobs/hbuiJBP-founding-backend-engineer",
+    "title": "Founding Backend Engineer at Zepto | Y Combinator",
+    "excerpts": [
+     "Zepto\n10-Minute Grocery Delivery in India\nFounding Backend Engineer\n$20K - $60K • 0.05% - 0.70% • Mumbai, India / Remote\nJob type\nFull-time\nRole\nEngineering, Backend\nExperience\n1+ years\nVisa\nUS citizenship/visa not required\nSkills\nAmazon Web Services (AWS), Django, Flask, GraphQL, Kubernetes, MongoDB, PostgreSQL, Python, Redis, SQL, Elasticsearch, Docker, Software Architecture, Kafka, Data Modeling\nApply to Zepto and hundreds of other fast-growing YC startups with a single profile.\nApply to role ›\nAbout Zepto\nZepto delivers groceries in 10 minutes through a network of optimized micro-warehouses or 'dark stores' that we build across cities. We're currently one of the fastest-growing startups in India today. Just 6 months after launching, we've raised $60 million from marquee investors in Silicon Valley and India.\nOur Founders, Aadit Palicha and Kaivalya Vohra, dropped out of Stanford University to build Zepto in India. Together, they’ve created an incredibly strong team, with Senior Executives from Uber, Flipkart, Dream11, Pepperfry, and Pharmeasy.\nThe magic of Zepto is our ability to consistently deliver 2,500+ products in 10 minutes flat.\nIt's the core of what we do, and the reason why we’ve been able to grow so fast with phenomenal customer love. Our mission is simple: to make 10-minute delivery the new normal.\nIf you’re looking to be a part of India’s next big growth story, you’re in the right place. Join Zepto!\nZepto\nZepto\nFounded: 2020\nBatch: W21\nTeam Size: 1300\nStatus: Active\nLocation: India\nX (Twitter) logo\nFounders\nAadit Palicha\nAadit Palicha\nFounder\nAadit Palicha\nAadit Palicha\nFounder\nKaivalya Vohra\nKaivalya Vohra\nFounder\nKaivalya Vohra\nKaivalya Vohra\nFounder\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://pitchbook.com:8443/profiles/company/458392-60",
+    "title": "Zepto 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "excerpts": [
+     "Operator of a quick commerce platform intended to deliver everyday essentials easily. The company's platform offers strategically optimized delivery hubs, a vast catalog of fresh groceries, electronics, apparel, and more, enabling urban Indian consumers across multiple cities to receive doorstep deliveries.\nContact Information\nWebsite\nwww.zepto.com\nFormerly Known As\nKiranaKart Technologies, KiranaKart\nOwnership Status\nPrivately Held (backing)\nFinancing Status\nVenture Capital-Backed\nCorporate Office\nDescription\nPrimary Industry\nHQ Location\nEmployees\nTotal Raised\nPost Valuation\nLast Financing"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/founders/aadit-palicha",
+    "title": "Y Combinator",
+    "excerpts": [
+     "Aadit Palicha - Y Combinator Founder of Zepto\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nAadit Palicha, Founder of Zepto\nAadit Palicha\nW21\nFounder at Zepto\nAadit Palicha was the founder of Zepto which went through YC in W21. We deliver groceries in 10 minutes through a network of optimized micro-warehouses or 'dark stores' that we build across cities in India. We're currently doing hundreds of millions of dollars in annual sales with best-in-class unit economics - come join us!\nFollow Aadit\nLinkedIn Connect on LinkedIn\nPreviously at\nPryvaSee\nPryvaSee\nWorld Schools Debating Championships (Official)\nWorld Schools Debating Championships (Official)\nGoPool (Acquired)\nGoPool (Acquired)\nGoPool\nGoPool\nAlumnus of\nStanford University\nStanford University\nZepto\nZepto\n10-Minute Grocery Delivery in India\nFounded: 2020\nBatch: W21\nTeam Size: 1300\nStatus: Active\nPrimary Partner: Jared Friedman\nRelated Founders\nKaivalya Vohra Kaivalya Vohra Founder at Zepto\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/founders/kaivalya-vohra",
+    "title": "Y Combinator",
+    "excerpts": [
+     "Kaivalya Vohra - Y Combinator Founder of Zepto\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nKaivalya Vohra, Founder of Zepto\nKaivalya Vohra\nW21\nFounder at Zepto\nKaivalya Vohra was the founder of Zepto which went through YC in W21. We deliver groceries in 10 minutes through a network of optimized micro-warehouses or 'dark stores' that we build across cities in India. We're currently doing hundreds of millions of dollars in annual sales with best-in-class unit economics - come join us!\nFollow Kaivalya\nLinkedIn Connect on LinkedIn\nPreviously at\nBlue Logic Digital\nBlue Logic Digital\niRealities\niRealities\nMakersBuilders\nMakersBuilders\nAlumnus of\nStanford University\nStanford University\nZepto\nZepto\n10-Minute Grocery Delivery in India\nFounded: 2020\nBatch: W21\nTeam Size: 1300\nStatus: Active\nPrimary Partner: Jared Friedman\nRelated Founders\nAadit Palicha Aadit Palicha Founder at Zepto\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://aventure.vc/companies/zepto-in-us",
+    "title": "Zepto - aVenture Company Research",
+    "excerpts": [
+     "description: \"Zepto: Fast 10-min grocery delivery in India via micro-warehouses.\" title: Zepto - aVenture Company Research image: https://aventure.vc/api/og/entity/8fd271e2-f4f9-4875-996e-ada450cfdaf2\nUpdatedOct 24, 2026\n<Zepto logo>\nZepto\nZepto: Fast 10-min grocery delivery in India via micro-warehouses.\n* Employees\n* 750\n* Stage\n* Series E\n* Founded\n* 2020\n* HQ\n* Indiana, US 🇺🇸\n* Accelerator\n* ![Y Combinator logo](https://images-v2.aventure.vc/logos/xvy/xVygyeHuWH197n4u8rxQ4.png)Y Combinator W21\nwebsite crunchbase facebook googleplay linkedin twitter wikipedia ycombinator\nQuick Facts\nWho are Zepto's competitors?\nCompanies similar to Zepto include Ula, Sekilo, KiranaKart and Fridge No More.\nWhen was Zepto founded?\nZepto was founded in 2020.\nWhere is Zepto's headquarters located?\nZepto's headquarters is located in Indiana, US.\nWhen was Zepto's last funding round?\n{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://aventure.vc/companies/zepto-in-us#organization\",\"url\":\"https://aventure.vc/companies/zepto-in-us\",\"name\":\"Zepto\",\"legalName\":\"Zepto Marketplace Private Limited\",\"description\":\"Zepto: Fast 10-min grocery delivery in India via\n{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"@id\":\"https://aventure.vc/companies/zepto-in-us#webpage\",\"url\":\"https://aventure.vc/companies/zepto-in-us\",\"name\":\"Zepto - aVenture Company Research\",\"description\":\"Zepto: Fast 10-min grocery delivery in India via\nmicro-warehouses.\",\"about\":{\"@type\":\"Organization\",\"@id\":\"https://aventure.vc/companies/zepto-in-us#organization\"},\"mainEntity\":{\"@type\":\"Organization\",\"@id\":\"https://aventure.vc/companies/zepto-in-us#organization\"},\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"aVenture\",\"url\":\"https://aventure.vc\"},\"dateModified\":\"2026-10-25T00:22:58.082Z\"}"
+    ]
+   },
+   {
+    "url": "https://www.zeptonow.com/terms-of-service",
+    "title": "Terms of Use - Zepto",
+    "excerpts": [
+     "Zepto\nZepto Terms of Use\nVersion 1.5 Last updated: 20 August 2026\n1. Terms of Use\n* 1.1.\nThe websites www.zeptonow.com , www.zepto.com (“ Website” ) and mobile application ‘Zepto’ ( App ) (Website and App collectively referred to as the “ Platform ”) are owned, operated and managed by the Zepto Marketplace Private Limited, a private limited company incorporated in accordance with the provisions of the Indian Companies Act, 2013 and\nThese terms of use ( “Terms” ) govern your use of the Platform, and for the purpose of these Terms, Zepto Marketplace Private Limited including its subsidiaries, its holding company, its affiliates may wherever context so require, be also referred to as, “ Zepto ”, “ We “ , “ Us “, or “ Our “ and the terms “ You ”, “ Your ” or “ User ” refer to\nZepto is not and cannot be a party to or control in any manner any transaction between the Platform’s Users and Sellers.\n* 2.2.\n(collectively, “ Product(s) ”) from the Sellers sold on a business to consumer (B2C) basis for personal consumption and purchase of Products on a business to business (B2B) basis by the registered businesses.\nThe registered businesses may be required to furnish additional details of their business including without limitation, business name, GSTIN, licenses/registrations issued by Government Authorities and/ or any other information that may be required by Zepto. User shall be responsible for the accuracy of the GSTIN and legal entity name.\nZubair Shaikh Designation: Associate Director Zepto Marketplace Private Limited Address: First Floor, 773, Sarjapur Main Road, Kaikondarahalli, Bengaluru, Karnataka-560103 Phone: 9228853846 Email: grievances@zepto.com Time: Mon – Sat (9:00 – 18:00)"
+    ]
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Zepto_(company)",
+    "title": "Zepto (company) - Wikipedia",
+    "excerpts": [
+     "* (Top)\n* 1 History\n* 2 Funding\n* 3 Reception\n* 4 References\nZepto (company)\n1 language\n* Headquarters | Bengaluru , Karnataka\n,\n* India\n* Number of locations | 1000+ stores (2026)\n* Key people | * Aadit Palicha ( CEO )\n* Nikhil Mittal ( CTO )\n* Services | Online grocer\n* Revenue | Increase ₹ 9,366 crore (US$970 million) (2025)\n* Net income | Positive decrease ₹ −3,367 crore (US$−350 million) (2024)\n* Number of employees | 16,898 (March 2026)\n* Website | zepto .com\nZepto is an Indian quick-commerce company headquartered in Bengaluru . [ 1 ] It was founded in July 2021 by Aadit Palicha and Kaivalya Vohra.\n[ 2 ] As of August 2024 , the company is valued at over $5 billion [ 3 ] and operates over 250 dark-stores across ten metropolitan areas in India. [ 4 ]\n[ edit ]\nIn April 2022, Anand Mahindra commented that q-commerce delivery is \"inhuman\" to the delivery workers that Zepto and peers contract to fulfill orders. Aadit Palicha, the co-founder of the company responded that only speeds of less than 15 km/h are necessary to make deliveries. [ 27 ] [ 28 ]\n\"Zepto launches membership programme for all users\" . The Economic Times . ISSN 0013-0389 . Retrieved 7 June 2024 .\n14. ↑ \"x.com\" . X (formerly Twitter) . Retrieved 7 June 2024 .\n15. ↑ https://x.com/aadit_palicha/status/1781698277190058026?s=20\n16. 1 2 \"How two 19-year-old Stanford dropouts founded Zepto\" . Business Today . 12 November 2021 .\n* Privately held companies of India\n* Companies based in Bengaluru\n* Indian companies established in 2021\n* Retail companies established in 2021\n* 2021 establishments in Maharashtra\n* Online grocers\n* Online retailers of India\nHidden categories:\n* Articles with short description\n* Short description is different from Wikidata"
+    ]
+   },
+   {
+    "url": "https://datakart.ai/directory/company/zeptonow",
+    "title": "Zepto Company Intelligence Profile, Funding, Hiring Signals & Tech Stack | Datakart",
+    "excerpts": [
+     "Zepto offers an extensive range of 45,000+...\nDatakart tracks firmographic, hiring, traffic, technology, funding, review, and leadership signals for Zepto to help teams evaluate the account with useful business context.\nZepto logo\nPrivately Held\nZepto\nzeptonow.com\nEmployees\n17.5K\nMonthly visits\n2M\nOpen roles\n21\nSearch volume\n2.2M\nView intelligence Start free trial\nCompany Snapshot\nZepto offers an extensive range of 45,000+ products, from fresh groceries to electronics, beauty essentials, apparels, toys and more, delivering across 50+ cities in minutes*\nZepto Café extends our commitment to convenience, featuring a curated menu of over 200 fresh items.\n2021\nFounded\n17.5K\nEmployee count\n2M\nMonthly website visits\n21\nOpen roles\nCompany Snapshot Details\nLegal name: Zepto Marketplace Private Limited\nHeadquarters: India\nIndustry: Technology, Information and Internet\nSub-sector: Technology, Information and Internet\nWebsite: https://www.zeptonow.com\nYoY headcount growth: not publicly disclosed\nCompany stage: Privately Held\nLast updated: Thu, 23 Apr 2026\nCompany intelligence\nAliases and domain variants\nCompany name aliases, website aliases, and canonical domain signals.\nCompany alias\nzepto\nCompany Name Alias\nCompany alias\nzepto (india)\nCompany Name Alias\nCompany alias\nzepto pvt. ltd.\nCompany Name Alias\nCompany alias\nzepto marketplace private limited\nCompany Name Alias\nWebsite alias\nhttps://www.zeptonow.com\nDirector - Category Growth\nDec 2025\nAbhishek Mudgil\nAssociate Director -Security Ops\nFeb 2026\nSk Nur Alam\nExecutive\nJan 2026\nCompany locations\nKnown company locations and office addresses.\nPrimary location\nIndia, IN\nOffice location\nEknath Ghadi Marg, Parel; mumbai, Maharashtra, India\nOffice location"
+    ]
+   }
+  ],
+  "decision_id": "decisions_f0170eca2d1e4054c9792730b7ddee1f"
+ }
+}

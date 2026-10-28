@@ -1,0 +1,82 @@
+{
+ "seconds": 0.819,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "published": {
+    "type": "noul",
+    "noul": 0.10911921762252329
+   }
+  },
+  "usage": {
+   "input_tokens": 3389,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://www.singlegrain.com/artificial-intelligence/",
+    "title": "Artificial Intelligence Archives - Single Grain",
+    "excerpts": [
+     "How Top Marketers Run AI Agents Daily While Most Teams Fall Behind\nEric Siu\nHow the top 1% use AI agents for marketers: the content loop, working across Grok Bot, Dots and Muse, and the T-shaped skills that keep you ahead.\nRead full article —\n21 Grok Bot Use Cases I Run Every Week at My Agency\nEric Siu\nSee the 21 Grok Bot use cases Single Grain runs across SEO, content, paid, sales and hiring, where each stops for approval, plus 4 copyable prompts.\nRead full article —\nMarketing to AI Agents: How I’m Getting My Brand on Their Shortlist\nEric Siu\nMarketing to AI agents starts with proof.\nPosts navigation\nUnsure Less than $3,000 $3,000 to $10,000 $10,000 to $20,000 $20,000 to $50,000 $50,000 to $100,000 $100,000+\nPhone number\n🔒 Your info is safe with us - We never share your data\nGrow My Marketing Without More Headcount\nThank you!\nYou’ll be hearing from us very soon.\nClose Visit SingleGrain.com\najax-loader"
+    ]
+   },
+   {
+    "url": "https://www.singlegrain.com/artificial-intelligence/how-meta-business-ai-sales-agents-drive-3x-conversions",
+    "title": "How Meta Business AI Sales Agents Drive 3X Conversions",
+    "excerpts": [
+     "Think of Meta Business AI as an enterprise-grade approach to orchestrating AI sales agents across your entire go-to-market stack. The goal is not a single bot, but a mesh of specialized agents that share context, follow rules, and escalate to people when needed.\n“3X conversions” rarely come from one dramatic change. In practice, they come from compounding improvements across multiple moments—more qualified entrants, faster responses, better objection handling, and tighter handoffs. The framework below sequences those levers so gains stack rather than collide.\nUse this structure to guide your 90-day pilot and scale-up plan. It prioritizes measurable lifts, auditability, and fast iteration over sprawling big-bang deployments.\nSmall, focused agents deliver value faster and are easier to govern.\n3. Integrate with your data spine. Connect CRM objects, marketing automation, product catalog, and consent records. Define what data the agent can read/write, and log everything for analytics.\n4. Establish guardrails and escalation rules.\nInstrument KPIs and feedback loops. Monitor conversion at each touchpoint, response latency, handoff quality, and customer satisfaction. Feed outcomes back into prompts and policies.\n7. Iterate ruthlessly. Weekly experiments on prompts, incentives, routing, and scoring thresholds compound gains rapidly.\nConsider a hypothetical funnel with 10,000 monthly visitors, 2% lead capture, 30% MQL-to-SQL, and 20% close—yielding 12 wins.\n★★★★★\n\"Single Grain was instrumental to our growth. They're especially ahead of the game with AI.\"\n— Yaniv Masjedi, Co-Founder & CMO, Nextiva\n🔒 Your info is safe with us - We never share your data\nGrow My Marketing Without More Headcount\nThank you!\nYou’ll be hearing from us very soon.\nClose Visit SingleGrain.com\n×"
+    ]
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=0qRlQ935B3A",
+    "title": "10 Grok Bots I Use to Run My Business (Steal These) - YouTube",
+    "excerpts": [
+     "10 Grok Bots I Use to Run My Business (Steal These)\nLeveling Up with Eric Siu\nSubscribe\nSubscribed\nEric Siu is the CEO of Single Grain, investor, founder, and advisor for tech giants like Amazon and Uber. His mission? To help the world level up.\nSo, ready to level up together? 👉 Subscribe to gain new power-ups 👉 Need a digital marketing agency? Singlegrain.com 👉 Level up your life & business. Order the \"Leveling Up: How To Master The Game of Life\": https://www.amazon.com/Leveling-Up-Master-Game-Life/dp/198960353X\nWhy AI Fails for 90% of Businesses & How To Fix It 12:34\n0:00\n0:00 / 16:55"
+    ]
+   },
+   {
+    "url": "https://skillsdojo.com/terms",
+    "title": "Terms of Service — Skills Dojo",
+    "excerpts": [
+     "New Grok Bot templates are here — browse shareable bot recipes →\nSkills Dojo\nBot templates Connect Skills Leaderboard ↗\n← Back to home\nLegal\nTerms of Service\nLast updated: July 14, 2026\nThese Terms of Service (“Terms”) govern your access to and use of the Skills Dojo website and any related pages, forms, and waitlist (together, the “Service”), operated by Single Grain (“Single Grain,” “we,” “us,” or “our”). By accessing the Service or joining the waitlist, you agree to be bound by these Terms.\nThese Terms are governed by the laws of the State of California, without regard to its conflict-of-laws principles. Any disputes will be resolved in the state or federal courts located in California.\n12. Contact\nQuestions about these Terms? Reach us at hello@singlegrain.com .\nSkills Dojo\nTerms Privacy A project by Single Grain · © 2026"
+    ]
+   },
+   {
+    "url": "https://www.law360.com/cases/69cc2e1c162fd6e25ab3c5ba/dockets",
+    "title": "Kia et al v. webAI, Inc. et al",
+    "excerpts": [
+     "Case Number:\n5:26-cv-00205\nCourt:\nNorth Carolina Eastern\nNature of Suit:\nContract: Other\nJudge:\nLouise Wood Flanagan\nFirms\n* Edwards Beightol\n* Littler Mendelson\nStay ahead of the curve\nAlready a subscriber? Click here to login\n×\nAlready have access? Click here to login\nGet instant access to the one-stop news source for business lawyers\nRegister Now!\nSign up now for free access to this content\nYou’ll be able to update your communication preferences via the unsubscribe link provided within our communications.\nWe take your privacy seriously. Please see our Privacy Policy .\nRegister\nRELX Group Lexis Nexis\n© 2026, Portfolio Media, Inc."
+    ]
+   },
+   {
+    "url": "https://www.singlegrain.com/artificial-intelligence/3-ways-to-use-ai-for-instant-brand-building",
+    "title": "3 Ways to Use AI for Instant Brand Building - Single Grain",
+    "excerpts": [
+     "Mostafa Elbermawy\nLast updated: October 1st, 2021\nSummarize with ChatGPT Ask questions about this article\nBranding today is so much more than just a logo, a color scheme, or an advertising campaign.\nPersonalization is extremely important to today’s consumer, and  59% of customers state that it has a major influence on their decision to purchase from a company.\nData-driven systems can also provide marketing teams with the exact information they need for more precise targeting parameters based on demographic and geographic data.\nWhether it is a response to a Tweet, a comment, or a direct message conversation, AI-powered bots can offer advice or resolve issues, and even make sales, in turn showing customers that they are reliable and engaging.\nFurther Reading:\nDiscover frameworks to align entity and evidence.\nRead Article\nIN Artificial Intelligence\nHow LLMs Process Contradictory FAQs on the Same Topic\nBY Eric Siu\nRead about FAQ conflicts LLM behavior and support quality. Learn how contradictory FAQs confuse large language models.\nRead Article\nUnsure Less than $3,000 $3,000 to $10,000 $10,000 to $20,000 $20,000 to $50,000 $50,000 to $100,000 $100,000+\nPhone number\nWhat kind of help are you looking for?\nHow did you first hear about us?\nSubscribe to our Leveling Up newsletter for the newest marketing updates and tips every week.\n★★★★★\n\"Single Grain was instrumental to our growth.\nThey're especially ahead of the game with AI.\"\n— Yaniv Masjedi, Co-Founder & CMO, Nextiva\n🔒 Your info is safe with us - We never share your data\nGrow My Marketing Without More Headcount\nThank you!\nYou’ll be hearing from us very soon.\nClose Visit SingleGrain.com\n×\nLinkedIn ABM Made Simple\nPersonalize Your LinkedIn ABM at Scale"
+    ]
+   },
+   {
+    "url": "https://www.courtlistener.com/docket/16615246/466/1/singular-computing-llc-v-google-llc",
+    "title": "Singular Computing LLC v. Google LLC, Civil Action No. 1:19-cv-12551-FDS — Memorandum of Law in Support of Plaintiff's Motion to Exclude Certain Testimony of Laura B. Stamm and Dr. Martin Walker Regarding Reasonable Royalty",
+    "excerpts": [
+     "Case 1:19-cv-12551-FDS Document 466-1 Filed 04/28/23 Page 1 of 16\nUNITED STATES DISTRICT COURT DISTRICT OF MASSACHUSETTS\nSINGULAR COMPUTING LLC, Plaintiff,\nV.\nGOOGLE LLC,\nDefendant.\nCivil Action No. 1:19-cv-12551-FDS\nHon. F. Dennis Saylor IV REDACTED VERSION\nORAL ARGUMENT REQUESTED\nOne International Place, Suite 3700 Boston, MA 02110\nTel: (617) 456-8000\nEmail: phayes@princelobel.com Email: mvella@princelobel.com Email: kgannon@princelobel.com Email: bseeve@princelobel.com Email: dmcgonagle@princelobel.com\nATTORNEYS FOR THE PLAINTIFF\nIl.\nIIL.\nIV.\nCase 1:19-cv-12551-FDS Document 466-1 Filed 04/28/23 Page 2 of 16\nTopic 42 of Singular’s Rule 30(b)(6) Notice of Deposition to Google was “Analysis of the relative benefits, performance, and cost prepared by or for Google of any non- infringing alternatives or acceptable substitutes for the Accused Products.” See Ex. J, at p. 8.\nThe “only appropriate remedy” is to strike Google’s evidence relating to the\nee\nCase 1:19-cv-12551-FDS Document 466-1 Filed 04/28/23 Page 10 of 16\nB. EXCLUSION UNDER RULE 403 AND/OR RULE 702\nTo the extent Google’s argument that Mr. Mills’ calculation and/or the jury’s\ndamages award is “outrageously high” is an attempt to cap damages at the cost of implementing its non-infringing alternative; that argument fails as a matter of law.\n10\nCase 1:19-cv-12551-FDS Document 466-1 Filed 04/28/23 Page 15 of 16\nSimpleAir, Inc. v.\nGoogle Inc., 77 F. Supp. 3d 569, 582 (E.D. Tex. 2014), vacated on other grounds, 820 F.3d 419 (Fed. Cir. 2016).\nAccordingly, Ms. Stamm’s opinion regarding the should be precluded under Rule 702 as unreliable and not helpful to the jury. SimpleAir, Inc. v. AWS Convergence Techs., Inc., No.2:09-cv-289, 2012 WL 12978274, at *2 (E.D. Tex. Apr."
+    ]
+   },
+   {
+    "url": "https://dspace.njstatelib.org/bitstreams/d6c49c5c-6fca-42e8-b46c-ed4b1ebd4c1b/download",
+    "title": "PLEASE NOTE: Rule 1:38 has been revised.",
+    "excerpts": [
+     "Close\nThis page runs a brief security check to confirm you are not a bot.\nThe verification is automatic and typically completes within a few seconds. No action is required on your part.\nCookies must be enabled for this site: the result of the check is stored in one.\nThis check is powered by CrowdSec , a collaborative cybersecurity platform."
+    ]
+   },
+   {
+    "url": "https://www.law360.com/cases/5f89bb40afcb1866963323d0",
+    "title": "ManyChat, Inc. v. Silfer Bots, Inc.",
+    "excerpts": [
+     "Law360 - The Newswire for Business Lawyers\nTry our Advanced Search for more refined results\nLaw360 Law360\nSign In\nOctober 16, 2020\nManyChat, Inc. v. Silfer Bots, Inc.\nTrack this case\nCase Number:\n1:20-cv-01391\nCourt:\nDelaware\nNature of Suit:\nCopyright\nJudge:\nColm F. Connolly\nFirms\n* Morris Nichols\nView recent docket activity\nReflects complaints, answers, motions, orders and trial notes entered from Jan. 1, 2011. Additional or older documents may be available in Pacer.\nParties\nStay ahead of the curve\n* Direct access to case information and documents.\n* All significant new filings across U.S. federal district courts, updated hourly on business days.\n* Full-text searches on all patent complaints in federal courts.\n* No-fee downloads of the complaints and so much more!\nTRY LAW360 FREE FOR SEVEN DAYS\nView the parties now\nAlready a subscriber?\nAlready have access? Click here to login\nGet instant access to the one-stop news source for business lawyers\nRegister Now!\nSign up now for free access to this content\nYou’ll be able to update your communication preferences via the unsubscribe link provided within our communications.\nWe take your privacy seriously. Please see our Privacy Policy .\nRegister\nRELX Group Lexis Nexis\n© 2026, Portfolio Media, Inc."
+    ]
+   }
+  ],
+  "decision_id": "decisions_2e12feb170548622f7f98eb33f247448"
+ }
+}

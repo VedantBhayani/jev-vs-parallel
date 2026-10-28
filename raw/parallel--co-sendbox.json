@@ -1,0 +1,101 @@
+{
+ "seconds": 0.816,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.00012725484683875042
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.9115805442110103
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.5427385572793857
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.007574423401981525
+   }
+  },
+  "usage": {
+   "input_tokens": 3197,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://www.ycombinator.com/companies/sendbox/jobs",
+    "title": "Jobs at Sendbox | Y Combinator",
+    "excerpts": [
+     "Sendbox\nFulfillment by Amazon for African merchants\nCompany\nJobs 0\nhttps://sendbox.co\nJobs at Sendbox\nNo jobs at Sendbox are currently posted on the YC platform.\nSendbox\nSendbox\nFounded: 2018\nBatch: W21\nTeam Size: 25\nStatus: Active\nLocation: Lagos, Nigeria\nFounders\nOlusegun Afolahan\nOlusegun Afolahan\nFounder\nOlusegun Afolahan\nOlusegun Afolahan\nFounder\nEmotu Balogun\nEmotu Balogun\nFounder\nEmotu Balogun\nEmotu Balogun\nFounder\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/sendbox",
+    "title": "Sendbox: Fulfillment by Amazon for African merchants | Y Combinator",
+    "excerpts": [
+     "Sendbox\nFulfillment by Amazon for African merchants\nWinter 2021\nActive\nLogistics E-commerce\nCompany\nJobs 0\nNews\nhttps://sendbox.co\nFulfillment by Amazon for African merchants\nSendbox helps small e-commerce merchants who sell directly to customers through their own online channels or social media platforms with fulfillment. We now handle local and international fulfillment for over 7,500 merchants within Nigeria.\nActive Founders\nEmotu Balogun\nEmotu Balogun\nTwitter account\nFounder\nCo-founder & CEO at Sendbox.\nPreviously co-founded and ran a fashion marketplace for Nigerian merchants. 10 years+ in software & product development.\nEmotu Balogun\nEmotu Balogun\nTwitter account\nFounder\nCo-founder & CEO at Sendbox. Previously co-founded and ran a fashion marketplace for Nigerian merchants. 10 years+ in software & product development.\nOlusegun Afolahan\nOlusegun Afolahan\nFounder\nFounder at Sendbox\nOlusegun Afolahan\nOlusegun Afolahan\nFounder\nFounder at Sendbox\nLatest News\nNigeria’s Sendbox raises $1.8M to provide e-commerce fulfilment for small merchants – TechCrunch\nOct 18, 2021\nSendbox\nSendbox\nFounded: 2018\nBatch: Winter 2021\nTeam Size: 25\nStatus: Active\nLocation: Lagos, Nigeria\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://sendbox.co/",
+    "title": "Sendbox | Social commerce app for deliveries, payments and online shopping",
+    "excerpts": [
+     "Use Sendbox for one-off local and international deliveries, e-commerce payments, bill payments and more.\nOFFLINE, ONLINE & SOCIAL SELLERS Do you own your own physical store, e-commerce website or you sell on Instagram? We have services that help you increase your visibility and grow your sales.\nFrom everyday essentials to fashion, hair extensions, groceries, food, cosmetics and beverages, merchants that ship with us sell these products. Now, you too can be one of them.\nCREATE YOUR OWN STORE\nFrequently Asked Questions\nHere are some common questions asked about selling with Sendbox.\nHow do I get started?\nHow does shipping work?\nWhere can I ship to?\nWhat type of items can be shipped via Sendbox?\nWhat will I be charged for?\nWhat can I sell using Sendbox?\nDo I need to pay for marketing my products listed on the platform?\nAvailable for iOS and Android\niPhone Android\niPhone Android\n* Privacy\n* Terms\n* Buyer & Seller Protection\n62 Old Yaba Road, off Adekunle Street, Adekunle, Yaba Lagos, Nigeria"
+    ]
+   },
+   {
+    "url": "https://sendbox.co/business",
+    "title": "Sendbox | Social commerce app for deliveries, payments and online shopping",
+    "excerpts": [
+     "Create and offer custom deals, coupons and sales to your new and loyal customers. Promot your shop and products through the Sendbox discovery platform, feed and email placements.\nSimple, transparent pricing.\nNo sales commissions\nDiscounts on shipping rates\nNGN 100 Listing fee\nListings are active for four months, or until they sell.\nWe process payments through various payments processors and providers. All payments received on your behalf are deposited into your Sendbox account. You are at liberty to set up automatic or manual disbursments against your account.\nFrequently Asked Questions\nHere are some common questions asked about selling with Sendbox.\nHow do I get started?\nHow does shipping work?\nWhere can I ship to?\nWhat type of items can be shipped via Sendbox?\nWhat will I be charged for?\nWhat can I sell using Sendbox?\nHow do I receive payment from buyers?\nDo I need to pay for marketing my products listed on the platform?\nCreate your online store and start selling in minutes.\nCreate a business account Sign In\niPhone Android\n* Privacy\n* Terms\n* Buyer & Seller Protection\n62 Old Yaba Road, off Adekunle Street, Adekunle, Yaba Lagos, Nigeria"
+    ]
+   },
+   {
+    "url": "http://pitchbook.com/profiles/company/458715-70",
+    "title": "Sendbox 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "excerpts": [
+     "Developer of a shipping and escrow payments platform designed to facilitate e-commerce and social media commerce.\nThe company's platform allows users to partake in e-commerce on distributed social platforms by providing means to identify trustworthy merchants, securely pay for items using an escrow system and ship to domestic and international destinations at discounted rates from their aggregated delivery partners, enabling businesses to undertake e-commerce\noperations conveniently.\nContact Information\nWebsite\nwww.sendbox.co\nOwnership Status\nPrivately Held (backing)\nFinancing Status\nVenture"
+    ]
+   },
+   {
+    "url": "https://pitchbook.com:8443/profiles/company/458715-70",
+    "title": "Sendbox 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "excerpts": [
+     "Developer of a shipping and escrow payments platform designed to facilitate e-commerce and social media commerce.\nThe company's platform allows users to participate in e-commerce on distributed social platforms by providing means to identify trustworthy merchants, securely pay for items using an escrow system, and ship to domestic and international destinations at discounted rates from their aggregated delivery partners, enabling businesses to undertake\ne-commerce operations conveniently.\nContact Information\nWebsite\nwww.sendbox.co\nOwnership Status\nPrivately Held (backing)\nFinancing Status"
+    ]
+   },
+   {
+    "url": "https://www.cbinsights.com/company/sendbox",
+    "title": "Sendbox - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "excerpts": [
+     "Sendbox is a company that operates within the logistics and online shopping industry. The company provides local and international shipping services, payment processing, and delivery solutions for personal and business use.\nSendbox serves different segments including offline, online, and social sellers, as well as retailers, brands, couriers, platforms, marketplaces, agents, and franchise partners. It was founded in 2016 and is based in Lagos, Nigeria.\nHeadquarters Location\n62 Old Yaba Road Adekunle, Yaba\nLagos,\nNigeria\n017006150\nLoading...\nLoading...\nExpert Collections containing Sendbox\nExpert Collections are analyst-curated lists that highlight the companies you need to know in the most important technology spaces.\nSendbox is included in 4 Expert Collections, including E-Commerce .\nE\nNIPOST launches online customs duty payment portal to boost operational efficiency\nNov 2, 2025\nThe Nigerian Postal Service ( ) has unveiled an online customs duty payment portal in partnership with Paystack, Messenger and Sendbox to modernise operations, boost transparency and improve delivery efficiency in Nigeria's fast-growing e-commerce space.\nInaugurated on Thursday in Abuja, the initiative marks a milestone in NIPOST's ongoing transformation into a digital-driven public institution. It also aligns with the government's agenda to improve citizens' experience through technology and strengthen public service trust.\n* When was Sendbox founded?\nSendbox was founded in 2016.\n* Where is Sendbox's headquarters?\nSendbox's headquarters is located at 62 Old Yaba Road, Lagos.\n* What is Sendbox's latest funding round?\nSendbox's latest funding round is Seed VC - II.\n* How much did Sendbox raise?\nSendbox raised a total of $1.93M.\n* Who are the investors of Sendbox?"
+    ]
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/sendbox",
+    "title": "Sendbox - Crunchbase Company Profile & Funding",
+    "excerpts": [
+     "Resources Advanced Search\nStart Free Trial Talk With Sales Pricing Log In\nLog In Sendbox Growth Score 33 CB Rank 74763 Heat Score 54\nSave Actions\nInfrastructure for peer-to-peer social commerce\nFounded obfuscated\nobfuscation Private Seed Lagos , Lagos , Nigeria 11-50 sendbox.co/\nE-Commerce E-Commerce Platforms Shipping\nSendbox\n* Photo of Emotu Balogun\nEmotu Balogun: Co-Founder and CEO\nPast Role: Traclist, Founder, CEO & Lead Technologist ## Details\nLegal Name Sendbox Software Technologies Limited Operating Status Active Company Type For-profit Founders Emotu Balogun , Segun Afolahan\nAbout the Company\n* Search 6M+ private companies\nTry Pro Free People\nView Profiles & Contacts\nHeadcount 11-50 Employee Profiles 1 Contacts 2 ## Employee Profiles\n* Photo of Emotu Balogun\nEmotu Balogun Co-Founder and CEO\nView All News\nNews • Mar 4, 2026\nobfuscated\nobfuscated obfuscated obfuscated obfuscated obfuscated obfuscated obfuscated obfuscated obfuscated\nNews • Oct 31, 2025\nobfuscated\nobfuscated obfuscated obfuscated obfuscated obfuscated obfuscated obfuscated obfuscated obfuscated\nNews • Oct 30, 2025\nobfuscated\nMonthly Web Visits\n2,308,521\n103,328.36% in past month\nData source: ## Actively Used Products\n11 Sendbox uses 11 technology products and services including HTML5 , HubSpot Marketing Hub , and Google Fonts , according to G2 Stack .\nData source: Lists Featuring This Company\nLists Featuring This Company\nWhere is Sendbox 's headquarters? Sendbox is located in Lagos , Lagos , Nigeria . Who invested in Sendbox ? Sendbox has 11 investors including FJ Labs and Y Combinator . When was the last funding round for Sendbox ? Sendbox closed its last funding round on obfuscated\nobfuscation from a Seed round. Who are Sendbox 's competitors?"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/founders/emotu-balogun",
+    "title": "Y Combinator",
+    "excerpts": [
+     "Emotu Balogun - Y Combinator Founder of Sendbox\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nEmotu Balogun, Founder of Sendbox\nEmotu Balogun\nW21\nFounder at Sendbox\nCo-founder & CEO at Sendbox. Previously co-founded and ran a fashion marketplace for Nigerian merchants. 10 years+ in software & product development.\nFollow Emotu\n@emotu @emotu Follow on X LinkedIn Connect on LinkedIn\nAlumnus of\nUniversity of Lagos\nUniversity of Lagos\nSendbox\nSendbox\nFulfillment by Amazon for African merchants\nFounded: 2018\nBatch: W21\nTeam Size: 25\nStatus: Active\nLocation: Lagos\nRelated Founders\nOlusegun Afolahan Olusegun Afolahan Founder at Sendbox\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://tracxn.com/d/companies/sendbox/__WyjUAhF6Rg2ZoXvHMzepdUGWDJZGddUMpxlLlIbwcY8",
+    "title": "Sendbox - 2026 Company Profile, Team, Funding & Competitors - Tracxn",
+    "excerpts": [
+     "1. Discover\n2. Companies Sendbox\n  Logo for Sendbox\nSendbox - Company Profile\nLast updated: April 17, 2026\n[Claim Profile](https://platform.tracxn.com/a/d/company/5d1b32a8681f7031c9dcff31/claimprofile?utm_source=product-seo page&utm_medium=companies-funding&utm_campaign=unclaimed claim profile&utm_content=cta claimprofile) Suggest Edits\nSendbox - About the company\nSendbox is a seed company based in Lagos (Nigeria), founded in 2016 by Olusegun Afolahan and Emotu Balogun . It operates as a Web-based application for on-demand delivery management services. Sendbox has raised $2M in funding from Y"
+    ]
+   }
+  ],
+  "decision_id": "decisions_8faee108e721c13049132c7c5ea041b8"
+ }
+}

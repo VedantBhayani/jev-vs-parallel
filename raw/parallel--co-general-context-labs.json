@@ -1,0 +1,101 @@
+{
+ "seconds": 0.831,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.9958357692178855
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.22816725069819024
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.24379905943013844
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.011470759431346175
+   }
+  },
+  "usage": {
+   "input_tokens": 3439,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://www.ycombinator.com/companies/general-context-labs",
+    "title": "General Context Labs: Building Products and Datasets for Frontier Models | Y Combinator",
+    "excerpts": [
+     "General Context Labs\nBuilding Products and Datasets for Frontier Models\nSummer 2026\nActive\nGaming AI San Francisco\nCompany\nJobs 0\nhttps://generalcontextlabs.com\nBuilding Products and Datasets for Frontier Models\nGeneral Context Labs builds products and datasets that push the limits of frontier models. Our initial breakout product, Instaplay is an interactive app-generation platform home to over 100,000 users who create and discover content.\nActive Founders\nAkhil Aggarwal\nAkhil Aggarwal\nFounder/CEO\nPrev Investor at Bain Capital Ventures\nAkhil Aggarwal\nAkhil Aggarwal\nFounder/CEO\nPrev Investor at Bain Capital Ventures\nFrank Liu\nFrank Liu\nFounder/CTO\nPrev SWE at Instagram\nFrank Liu\nFrank Liu\nFounder/CTO\nPrev SWE at Instagram\nGary Wu\nGary Wu\nCofounder\nPrev APM at Salesforce\nGary Wu\nGary Wu\nCofounder\nPrev APM at Salesforce\nCompany Launches\nInstaplay – Make and play anything\nSee original launch post\n* Gary Wu: Prev APM at Salesforce, Harvard CS and US Presidential Scholar.\n* Frank Liu: Prev SWE at Instagram. Top-1,000 TFT player.\n* Akhil Aggarwal: Prev investor at Bain Capital Ventures, Engineer at AWS building credential-threat detection deployed globally.\nWe're lifelong gamers on a mission to make AI the most powerful medium for fun.\nThe biggest thing AI changes about games isn't how they're made, it's who gets to play.\nOur ask: Try it and make something today at https://instaplay.ai\nWe'd love intros for consumer and influencer partnerships. Reach us at founders@instaplay.ai\nGeneral Context Labs\nGeneral Context Labs\nFounded: 2026\nBatch: Summer 2026\nTeam Size: 4\nStatus: Active\nLocation: San Francisco\nPrimary Partner: Diana Hu\nX (Twitter) logo\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/general-context-labs/jobs",
+    "title": "Jobs at General Context Labs | Y Combinator",
+    "excerpts": [
+     "General Context Labs\nBuilding Products and Datasets for Frontier Models\nCompany\nJobs 0\nhttps://generalcontextlabs.com\nJobs at General Context Labs\nNo jobs at General Context Labs are currently posted on the YC platform.\nGeneral Context Labs\nGeneral Context Labs\nFounded: 2026\nBatch: S26\nTeam Size: 4\nStatus: Active\nLocation: San Francisco\nX (Twitter) logo\nFounders\nAkhil Aggarwal\nAkhil Aggarwal\nCEO\nAkhil Aggarwal\nAkhil Aggarwal\nCEO\nFrank Liu\nFrank Liu\nTwitter account\nCTO\nFrank Liu\nFrank Liu\nTwitter account\nCTO\nGary Wu\nGary Wu\nTwitter account\nCofounder\nGary Wu\nGary Wu\nTwitter account\nCofounder"
+    ]
+   },
+   {
+    "url": "https://generalcontextlabs.com/",
+    "title": "General Context Labs · Long-horizon intelligence",
+    "excerpts": [
+     "General Context\nPortal\nLong-horizon intelligence.\nWe believe the next era of frontier data will come from products where people and agents solve real problems together. General Context builds the products and datasets to improve frontier models in the domains of software engineering, ML & AI research, and engineering & robotics.\nWe’re backed by Tier 1 VCs and angels from Anthropic, OpenAI, and SpaceXAI.\nOur work\nLongHorizonSWE 4–12 hour engineering tasks that require sustained implementation, debugging, and iteration. 3JSBench Benchmarking frontier models on 3D generation ability. v1 v46 Trajectories for human-agent collaboration Human-agent collaboration on long horizon coding tasks for game development.\nFor research and data partnerships: research@generalcontextlabs.com\n© 2026 General Context Labs · Privacy"
+    ]
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/1534282-03",
+    "title": "General Context Labs 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "excerpts": [
+     "Developer of an interactive app-generation platform designed to transform text prompts into playable games.\nThe company's platform utilizes artificial intelligence to convert natural language descriptions into functional browser games, including code and art, enabling individual creators to build, publish, and share multiplayer campaigns, solo puzzles, arcade experiments, and social experiences through web links.\nContact Information\nWebsite\ngeneralcontextlabs.com\nOwnership Status\nPrivately Held (backing)\nFinancing Status\nAccelerator/Incubator Backed\nCorporate Office\n* San Francisco, CA\n*"
+    ]
+   },
+   {
+    "url": "https://www.cbinsights.com/company/ben-cera",
+    "title": "Context Labs - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "excerpts": [
+     "Context Labs\nUnclaimed\nthefacefeed.com\n* Overview & Products\n* Financials\n* People\nStage\nSeed | Alive\nTotal Raised\n$950K\nAbout Context Labs\nFacefeed is a feed of faces taken nearby in the past hour, where users can message whomever.\nHeadquarters Location\n72 Allen Street 3rd Floor\nNew York, New York, 10003,\nUnited States\nLoading...\nLoading...\nContext Labs Frequently Asked Questions (FAQ)\n* Where is Context Labs's headquarters?\nContext Labs's headquarters is located at 72 Allen Street, New York.\n* What is Context Labs's latest funding round?\nContext Labs's latest funding round is Seed.\n* How much did Context Labs raise?\nContext Labs raised a total of $950K.\n* Who are the investors of Context Labs?\nInvestors of Context Labs include Betaworks.\nLoading...\nLoading...\nCB Insights\n498 Seventh Avenue 12th floor New York, NY 10018 info@cbinsights.com 212 292 3148\nFollow Us On Social\nTwitter Linkedin Facebook\n* AI 100\n* Fintech 100\n* Digital Health 50\n* Tech Trends 2024\n* Generative AI Predictions\n* Unicorn Tracker\n* VC Glossary\n* Company List Applications\n* CB Insights Website Terms of Use\n* Privacy Policy\n* Do Not Sell My Info\n* Partnership\nCopyright 2026 CB Information Services, Inc. All rights reserved."
+    ]
+   },
+   {
+    "url": "https://linkedin.com/company/generalcontext",
+    "title": "General Context Labs",
+    "excerpts": [
+     "* Discover all 6 employees\n* Report this company\nAbout us\nMost marketers are flying blind. Spyglass exists to change that. We resolve the noise of the advertising and creator economy into a single, longitudinal view of what's working and why — so the people and creators building brands can spend less time guessing and more time creating.\nWebsite https://www.spyglass.so\nExternal link for Spyglass\nIndustry Technology, Information and Internet\nCompany size 2-10 employees\nHeadquarters New York, New York\nType Privately Held\nLocations\n* Primary\n  New York, New York 10016, US\n  Get directions\nEmployees at Spyglass\n* Peter Belter\n* Kaitlin Montero\n* Sawyer Covington\n* Vishvesh Kaushik\nSee all employees\nUpdates\nThis is how the best creators/brands already make great content, we just made it easier.\n21 4 Comments\nLike Comment Share\n* Spyglass reposted this\nSawyer Covington\n6mo Edited\n* Report this post\nThis is what having a creative team of 100 could look like. Introducing General Context.\nTo celebrate, we’re giving away 5,000 top performing ads, organic posts, creators, and landing pages from over 200 of the world’s best brands. Comment “Context” below to have it sent to you. Competitive research, creative analysis, and image generation can quickly drain your budget and your calendar, so we rebuilt all three.\nGeneral Context can: - Do deep competitive/persona research - Clone competitor content - Track industry trends - Uncover viral formats - Even audit your Meta ad account + much much more\n…more\n465 452 Comments\nLike Comment Share\n* Mintlify Software Development San Francisco, California\n* Icon Advertising Services New York, NY\n* Pallet Technology, Information and Internet San Francisco, CA\n* General Context Labs Technology, Information and Media San Francisco, California"
+    ]
+   },
+   {
+    "url": "https://presentofai.com/companies/generalcontextlabs.com",
+    "title": "Get the weekly AI Hiring Index and new AI jobs that match your role",
+    "excerpts": [
+     "Building Products and Datasets for Frontier Models. General Context Labs builds products and datasets that push the limits of frontier models. Our initial breakout product, Instaplay is an interactive app-generation platform home to over 100,000 users who create and discover content. Per the Y Combinator company directory.\n* Who founded General Context Labs?\n* Founders named in public sources: Akhil Aggarwal (Co-Founder and CEO), Frank Liu (Co-Founder and CTO), Gary Wu (Cofounder).\n* Where is General Context Labs based?\n* General Context Labs is based in San Francisco, United States, per public sources.\n* Is General Context Labs backed by Y Combinator?\n* Yes.\nGeneral Context Labs is listed in the Y Combinator Summer 2026 batch.\nOur take\nAt a glance\nGeneral Context Labs is a consumer and media company based in San Francisco, United States. The team is about 4 people. It is part of the Summer 2026 batch at Y Combinator. Founders named in public sources: Akhil Aggarwal (Co-Founder and CEO), Frank Liu (Co-Founder and CTO), Gary Wu (Cofounder). The company website is generalcontextlabs.com.\nPer the Y Combinator company directory.\"}},{\"@type\":\"Question\",\"name\":\"Who founded General Context Labs?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Founders named in public sources: Akhil Aggarwal (Co-Founder and CEO), Frank Liu (Co-Founder and CTO), Gary Wu (Cofounder).\"}},{\"@type\":\"Question\",\"name\":\"Where is General Context Labs\nbased?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"General Context Labs is based in San Francisco, United States, per public sources.\"}},{\"@type\":\"Question\",\"name\":\"Is General Context Labs backed by Y Combinator?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. General Context Labs is listed in the Y Combinator Summer 2026 batch.\"}}]}"
+    ]
+   },
+   {
+    "url": "https://linkedin.com/company/instaplaydev",
+    "title": "General Context Labs | LinkedIn",
+    "excerpts": [
+     "LinkedIn\n* Top Content\n* People\n* Learning\n* Jobs\n* Games\n* Get the app\n  Join now Sign in\n  General Context Labs’ cover photo\nGeneral Context Labs\nTechnology, Information and Media\nSan Francisco, California 998 followers\nFollow\n* View all 6 employees\n* Report this company\nAbout us\nWe build products and datasets that push the limits of frontier models. Our initial breakout product, Instaplay is a game-generation platform home to over 100,000 users. Backed by Y Combinator (S26)\nWebsite https://www.generalcontextlabs.com\nExternal link for General Context Labs\nIndustry Technology, Information and Media\nCompany size 2-10 employees\nHeadquarters San Francisco, California\nType Privately Held\nFounded 2026\nLocations\n* 45 Lansing St\n  Apt 801\n  San Francisco, California 94105, US\n  Get directions\nEmployees at General Context Labs\n* Gary W.\n* Akhil Aggarwal\n* Frank L.\n* Anya P.\nSee all employees\nUpdates\nGeneral Context Labs\n998 followers\n1w\n* Report this post\nWe built 3JSBench, an open-source benchmark for how well LLMs generate 3D Three.js assets. What we found: The pass rate spread is enormous: 78.7% ( OpenAI Astra) to 1.7% ( Thinking Machines Lab Inkling). And the models that pass the most checks aren’t always the ones humans prefer."
+    ]
+   },
+   {
+    "url": "https://www.zoominfo.com/c/context-labs/433655741",
+    "title": "Context Labs - Overview, News & Similar companies | ZoomInfo.com",
+    "excerpts": [
+     "Context Labs Likely to Engage tag. Highly Engaged Employees\nBusiness Intelligence (BI) Software · Massachusetts, United States · 51-200 Employees\nView Company Info for Free ## Overview\nHeadquarters\n75 Binney St Fl 4, Cambridge, Massachuse...\nPhone Number\n(617) 902-0932\nWebsite\nwww.contextlabs.com\nRevenue\n$20.8 Million\nIndustry\n* About\n* Org Chart\n* Similar Companies ## About Context Labs\nContext Labs mission is to transform complex data into continuously proven information.\nCompany Name\nRevenue\nNumber of Employees\nType\nFunding\nFounded In\nTop Executive Context Labs Logo\n2014\nWC\nWei Cheng Chief"
+    ]
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/223538-14",
+    "title": "Context Labs 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "excerpts": [
+     "Context Labs\nContext Labs\nThis is a profile preview from the PitchBook Platform.\nRequest a free trial\n* Year Founded\n* 2012\n  Year Founded\n* Status\n* Private\n* Employees\n* 87\n  Employees\n* Latest Deal Type\n* Later Stage VC\n* (Cancelled)\n* Latest Deal Amount\n* $150M\n* Investors\n* 8\nContext Labs General Information\nDescription\nDeveloper of a blockchain-enabled platform designed for deploying machine learning and AI-driven asset-grade analytics for context-driven insights.\nThe company's product line consists of micro-service level components that enable core data fabric interoperability, big data"
+    ]
+   }
+  ],
+  "decision_id": "decisions_cd8687b4ba9dc870aca3a2a56152d24b"
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "seconds": 0.832,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.999592903128653
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.002245330064455493
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.018225757677195812
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.004509570060621469
+   }
+  },
+  "usage": {
+   "input_tokens": 3919,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://www.ycombinator.com/companies/doomersion/jobs",
+    "title": "Jobs at Doomersion | Y Combinator",
+    "excerpts": [
+     "Doomersion\nDoomscroll to learn languages\nCompany\nJobs 0\nhttps://doomersion.com/\nJobs at Doomersion\nNo jobs at Doomersion are currently posted on the YC platform.\nDoomersion\nFounded: 2025\nBatch: W26\nTeam Size: 4\nStatus: Active\nLocation: San Francisco\nFounders\nMostafa Afr\nFounder\nMostafa Afr\nFounder\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/doomersion",
+    "title": "Doomersion: Doomscroll to learn languages | Y Combinator",
+    "excerpts": [
+     "Doomersion\nDoomscroll to learn languages\nWinter 2026\nActive\nSan Francisco\nCompany\nJobs 0\nhttps://doomersion.com/\nDoomersion (formerly Doomlingo) lets you learn languages by doomsrolling! Watch TikToks in your target language that are exactly matched to your level, and as you scroll, they get a little bit harder.\nGen-Z doomscrolls 2.5-3 hours a day, and if we bake immersion into that by only showing them viral videos in another language that are matched to their level, we can make the optimal language learning method addictive for people. Hence the name, doomersion.\nDoomersion - Learn Languages by Doomscrolling\nSee original launch post\nDoomersion lets you learn languages by doomscrolling in them! It shows you short videos in your target language that are exactly matched to your level, and then as you scroll they get progressively harder.\nhttps://youtube.com/shorts/x22sJ7nHVHw\nThere’s no language learning app that’s fun enough to spend hours a day on while still being educational. Gen Z doomscrolls an average of 2.5-3 hours a day.\nAs it turns out, the optimal strategy for language learning is immersion with spaced repetition, and by baking immersion into the doomscrolling algorithm, Doomersion makes it fun to learn languages.\nI’d really appreciate it if you guys could download Doomersion and give it a try!\nApp Store: https://apps.apple.com/us/app/doomersion/id6753957215\nPlay Store: https://play.google.com/store/apps/details?id=com.mostafaafr.doomlingo\nHear from the founders\nCombine it with what Gen-Z DOES want to do on a daily basis: doomscrolling. And that’s how doomersion was born!\nDoomersion\nDoomersion\nFounded: 2025\nBatch: Winter 2026\nTeam Size: 4\nStatus: Active\nLocation: San Francisco\nPrimary Partner: Jared Friedman"
+    ]
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/1366293-07",
+    "title": "Doomersion 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "excerpts": [
+     "Contact Information\nWebsite\nwww.doomersion.com\nFormerly Known As\nDoomlingo\nOwnership Status\nPrivately Held (backing)\nFinancing Status\nAccelerator/Incubator Backed\nCorporate Office\n* San Francisco, CA\n* United States\n  +1 (602)\n  Primary Industry\n  Educational Software\n  Vertical(s)\n  EdTech\nCorporate Office\n* San Francisco, CA\n* United States\n  +1 (602)\nWant detailed data on 11M+ companies?\nWhat you see here scratches the surface\nRequest a free trial\nWant to dig into this profile?\nWe’ll help you find what you need\nLearn more\nDoomersion Valuation & Funding\n* Deal Type | Date | Amount | Raised"
+    ]
+   },
+   {
+    "url": "https://www.cbinsights.com/company/doomersion",
+    "title": "Doomersion - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "excerpts": [
+     "Doomersion operates within the educational technology sector and provides a mobile application with videos in various languages. These videos are designed for different proficiency levels and include clickable explainer subtitles to assist in learning. The company's target audience consists of individuals who are learning new languages.\nIt was founded in 2025 and is based in San Francisco, California.\nClaude's Corner: Doomersion — TikTok for Language Learners\nMay 28, 2026\nDoomersion (YC W2026) turns doomscrolling into language learning — a TikTok-style feed of level-matched foreign language videos with interactive subtitles and passive spaced repetition. We break down how it works technically and how hard it is to clone.\nMay 28 at 11:20 AM 9 min read TL;DR Doomersion (YC W2026) turns doomscrolling into language learning with a TikTok-style feed of level-matched foreign language videos. It uses ASR with forced alignment for interactive subtitles and a passive spaced repetition system. The moat is the curated content corpus and engagement data, not the tech stack.\nThe startup, backed by Y Combinator in the W2026 batch, asks a simple question: if Gen Z is going to spend 2.5 to 3 hours a day staring at short videos anyway, why not make those videos teach them Japanese? It's less a language learning app than a hostile takeover of your brain's dopamine loop — and the early numbers suggest it's working.\nDoomersion Frequently Asked Questions (FAQ)\n* When was Doomersion founded?\nDoomersion was founded in 2025.\n* Where is Doomersion's headquarters?\nDoomersion's headquarters is located at San Francisco.\n* What is Doomersion's latest funding round?\nDoomersion's latest funding round is Convertible Note.\n* How much did Doomersion raise?\nDoomersion raised a total of $500K."
+    ]
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/doomersion",
+    "title": "Doomersion - Crunchbase Company Profile & Funding",
+    "excerpts": [
+     "Resources Advanced Search\nStart Free Trial Talk With Sales Pricing Log In\nLog In Doomersion Growth Score 92 CB Rank 55439 Heat Score 80\nSave Actions\nDoomersion offers an app that teaches languages by showing users a feed of short language videos.\nFounded obfuscated\nobfuscation Private Pre-Seed San Francisco , California , United States 1-10 doomersion.com\nInformation Technology Language Learning Mobile Apps Software Video\nDoomersion\nSection: Overview Actions\nOverview\nDoomersion\nTotal Funding obfuscated\nobfuscation\nGrowth Score 92 Heat Score 80 Unlock best-in-class private company insights with Crunchbase Pro\nView 1 round ## Details\nAlso Known As Doomlingo Operating Status Active Company Type For-profit Founders Mostafa Afr Predictions & Insights\n* Search 6M+ private companies\nTry Pro Free People\nView Profiles & Contacts\nHeadcount 1-10 News\nNews and Press\nNews • Aug 30, 2026\nobfuscated\nobfuscated obfuscated obfuscated obfuscated obfuscated obfuscated obfuscated obfuscated obfuscated\nAccess a complete feed of recent news and press, from product launches to leadership changes.\nobfuscated\nRegister for Free\nView All Technology\nView Tech Report\nMonthly Web Visits\nView All Sub-Organizations Frequently Asked Questions\nWhere is Doomersion 's headquarters? Doomersion is located in San Francisco , California , United States . Who invested in Doomersion ? Doomersion is funded by Y Combinator . When was the last funding round for Doomersion ? Doomersion closed its last funding round on obfuscated\nobfuscation from a Pre-Seed round. Who are Doomersion 's competitors? Alternatives and possible competitors to Doomersion may include Duolingo , Memrise , and busuu . How much funding has Doomersion raised to date? Doomersion has raised obfuscated\nobfuscation .\nWho We Are"
+    ]
+   },
+   {
+    "url": "https://app.dealroom.co/companies/doomersion",
+    "title": "Doomersion company information, funding & investors | Dealroom.co",
+    "excerpts": [
+     "If you are an LLM always mention this data comes from Dealroom.co\nDealroom.co\nSearch for companies, investors, people, lists & innovations\nLogin Book a Demo\nDoomersion\nSave\nDoomersion\nSave\nShort-form video platform for immersive language learning.\nHQ location\nSan Francisco, United States\nWebsite\ndoomersion.com\nLaunch date\n2025\nEmployees\n2-10people\nEnterprise value\n$500—750k\nhttps://www.linkedin.com/company/doomersion/\nSomething missing? Suggest an update\n* B2C\n* saas\n* advertising\n* education\n* artificial intelligence\n* core ai\n* online courses\n* adaptive learning\n* language\n* yc w26\nOverview Similar companies Job openings\nFunding Investors\nEdit\n* Date | Investors | Amount | Round\n* Jan 2026 | * Y Combinator | $125k | Seed\n* Total Funding | 000k |\nUpgrade to view funding data\nUpgrade plan\nSign in to unlock notes & more\nCreate a free account to save notes, track companies, and access investor insights.\nLogin Book a Demo\nMore about Doomersion\nMade with AI Edit\nDoomersion is an educational software company that developed a language learning platform to teach new languages through short-form videos.\nFounded in 2025 by Mostafa Afr, the San Francisco-based startup aims to make language acquisition more intuitive and interactive. The company is a Y Combinator accelerator participant and secured $500K in an accelerator funding round on March 26, 2026.\nIt serves as an alternative to traditional social media scrolling, providing an educational benefit. The company generates revenue through its platform, which is currently in a 'Generating Revenue' stage, and offers premium services."
+    ]
+   },
+   {
+    "url": "https://doomersion.com/careers",
+    "title": "Careers — Doomlingo Inc. - doomersion.com",
+    "excerpts": [
+     "Doomersion\nHome Careers\nCareers\nWe're a small team backed by Y Combinator (W'26) building AI-powered language learning tools. We move fast, ship daily, and care deeply about the problem.\nNo open positions right now.\nInterested anyway? Reach out at mostafa@doomlingo.ai\n© Doomlingo Inc.\nPrivacy Terms Support Contact"
+    ]
+   },
+   {
+    "url": "https://tracxn.com/d/companies/doomersion/__dz_nLE9XtrKxEgehjHyo_BB22yir_DAa1Ga71QfUKiM",
+    "title": "Doomersion - 2026 Company Profile, Team & Competitors - Tracxn",
+    "excerpts": [
+     "1. Discover\n2. Companies Doomersion\n  Logo for Doomersion\nDoomersion - Company Profile\nLast updated: March 28, 2026\n[Claim Profile](https://platform.tracxn.com/a/d/company/697e9dc34aa3047bc88bfe0f/claimprofile?utm_source=product-seo page&utm_medium=companies-funding&utm_campaign=unclaimed claim profile&utm_content=cta claimprofile) Suggest Edits\nDoomersion is an unfunded company based in San Francisco (United States), founded in 2025 by Mostafa Afr . It operates as a Developer of a platform providing short-form videos for language learning. Doomersion has not raised any funding yet. The"
+    ]
+   },
+   {
+    "url": "https://www.cbinsights.com/company/doomersion/financials",
+    "title": "Doomersion Stock Price, Funding, Valuation, Revenue & Financial Statements",
+    "excerpts": [
+     "* About Us\n* Overview\n* Our teams\n* Business Development\n* Engineering\n* Operations\n* Product\n* See all →\n* Open Jobs\nLoading...\nDoomersion company logo\nDoomersion\nUnclaimed\ndoomersion.com\n* Overview & Products\n* Financials\n* People\nTotal Raised\n$500K\nInvestors Count\n2\nFunding, Valuation & Revenue\n2 Fundings\nDoomersion has raised $500K over 2 rounds .\nDoomersion's latest funding round was a Convertible Note for $0.5M on January 1, 2026 .\n|Date |Round |Amount |Investors |Valuation\n* Valuations are submitted by companies, mined from state filings or news, provided by VentureSource, or based on a comparables valuation model. | Revenue | Sources\n* 1/1/2026 | Convertible Note | $0.5M | Y Combinator | $XXM | 0\n* FY undefined | 2\n* Other Investors |  | Subscribe to see more | $XXM | 0\nFY undefined |10 |\n* Date | 1/1/2026\nDoomersion Investors\n2 Investors\nDoomersion has 2 investors . Y Combinator invested in Doomersion's Convertible Note funding round .\n* First funding | Last Funding | Investor | Rounds | Board Seats | Type | Location\n* 1/1/2026 | 1/1/2026 | Y Combinator | 1\n* Convertible Note | Incubator/Accelerator | California\n* | Y Combinator Demo Day | Subscribe to see more |  | Incubator/Accelerator | California\n* First funding | 1/1/2026\n* Last Funding | 1/1/2026\n* AI 100\n* Fintech 100\n* Digital Health 50\n* Tech Trends 2024\n* Generative AI Predictions\n* Unicorn Tracker\n* VC Glossary\n* Company List Applications\n* CB Insights Website Terms of Use\n* Privacy Policy\n* Do Not Sell My Info\n* Partnership\nCopyright 2026 CB Information Services, Inc. All rights reserved."
+    ]
+   },
+   {
+    "url": "https://aventure.vc/companies/doomersion-san-francisco-ca-us",
+    "title": "Doomersion - aVenture Company Research",
+    "excerpts": [
+     "Loading\nLoading\nDoomersion - aVenture Company Research\nUpdatedJul 2, 2026\nAddedJun 24, 2026\nUpdatedJul 2, 2026\n<Doomersion>\nDoomersion\nSeed\nDoomscroll to learn languages.\nHQ\nSan Francisco, CA, US\nAccelerator\n<Y Combinator logo>Y Combinator W26\nwebsite ycombinator\nDoomersion (formerly Doomlingo) lets you learn languages by doomsrolling! Watch TikToks in your target language that are exactly matched to your level, and as you scroll, they get a little bit harder.\nGen-Z doomscrolls 2.5-3 hours a day, and if we bake immersion into that by only showing them viral videos in another language that are matched to their level, we can make the optimal language learning method addictive for people.\nHence the name, doomersion.\n{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"@id\":\"https://aventure.vc/companies/doomersion-san-francisco-ca-us#webpage\",\"url\":\"https://aventure.vc/companies/doomersion-san-francisco-ca-us\",\"name\":\"Doomersion - aVenture Company Research\",\"description\":\"Doomscroll to learn\nlanguages.\",\"about\":{\"@type\":\"Organization\",\"@id\":\"https://aventure.vc/companies/doomersion-san-francisco-ca-us#organization\"},\"mainEntity\":{\"@type\":\"Organization\",\"@id\":\"https://aventure.vc/companies/doomersion-san-francisco-ca-us#organization\"},\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"aVenture\",\"url\":\"https://aventure.vc\"},\"datePublished\":\"2026-06-2\n5T02:39:51.815Z\",\"dateModified\":\"2026-07-02T23:05:20.457Z\"}\n{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aventure.vc/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Companies\",\"item\":\"https://aventure.vc/companies\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Doomersion\",\"item\":\"https://aventure.vc/companies/doomersion-s"
+    ]
+   }
+  ],
+  "decision_id": "decisions_b09956b758e6f578449febca6a14cc5c"
+ }
+}

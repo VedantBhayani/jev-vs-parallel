@@ -1,0 +1,924 @@
+{
+ "results": {
+  "A/us_based/jev": {
+   "n": 50,
+   "accuracy": 0.64,
+   "balanced_accuracy": 0.6845238095238095,
+   "right_on_yes": "21/36",
+   "right_on_no": "11/14",
+   "brier": 0.233118,
+   "refused": 0
+  },
+  "A/size_20_100/jev": {
+   "n": 50,
+   "accuracy": 0.64,
+   "balanced_accuracy": 0.43189368770764114,
+   "right_on_yes": "1/7",
+   "right_on_no": "31/43",
+   "brier": 0.218438,
+   "refused": 0
+  },
+  "A/b2b/jev": {
+   "n": 50,
+   "accuracy": 0.7,
+   "balanced_accuracy": 0.7,
+   "right_on_yes": "23/25",
+   "right_on_no": "12/25",
+   "brier": 0.206396,
+   "refused": 0
+  },
+  "A/yc_job_open/jev": {
+   "n": 50,
+   "accuracy": 0.74,
+   "balanced_accuracy": 0.5357142857142857,
+   "right_on_yes": "1/14",
+   "right_on_no": "36/36",
+   "brier": 0.175618,
+   "refused": 0
+  },
+  "A/us_based/parallel": {
+   "n": 50,
+   "accuracy": 0.88,
+   "balanced_accuracy": 0.8293650793650793,
+   "right_on_yes": "34/36",
+   "right_on_no": "10/14",
+   "brier": 0.08800623292840033,
+   "refused": 0
+  },
+  "A/size_20_100/parallel": {
+   "n": 50,
+   "accuracy": 0.96,
+   "balanced_accuracy": 0.9767441860465116,
+   "right_on_yes": "7/7",
+   "right_on_no": "41/43",
+   "brier": 0.04279810875328246,
+   "refused": 0
+  },
+  "A/b2b/parallel": {
+   "n": 50,
+   "accuracy": 0.86,
+   "balanced_accuracy": 0.86,
+   "right_on_yes": "25/25",
+   "right_on_no": "18/25",
+   "brier": 0.10498104209926659,
+   "refused": 0
+  },
+  "A/yc_job_open/parallel": {
+   "n": 50,
+   "accuracy": 0.98,
+   "balanced_accuracy": 0.9642857142857143,
+   "right_on_yes": "13/14",
+   "right_on_no": "36/36",
+   "brier": 0.020213670571909197,
+   "refused": 0
+  },
+  "B/published/jev": {
+   "n": 30,
+   "accuracy": 0.6666666666666666,
+   "balanced_accuracy": 0.6666666666666667,
+   "right_on_yes": "7/15",
+   "right_on_no": "13/15",
+   "brier": 0.19672,
+   "refused": 0
+  },
+  "B/published/jev+sitemap": {
+   "n": 30,
+   "accuracy": 0.9666666666666667,
+   "balanced_accuracy": 0.9666666666666667,
+   "right_on_yes": "15/15",
+   "right_on_no": "14/15",
+   "brier": 0.048220000000000006,
+   "refused": 0
+  },
+  "B/published/parallel": {
+   "n": 30,
+   "accuracy": 1.0,
+   "balanced_accuracy": 1.0,
+   "right_on_yes": "15/15",
+   "right_on_no": "15/15",
+   "brier": 0.01397661730677151,
+   "refused": 0
+  }
+ },
+ "calibration": {
+  "jev": [
+   [
+    8,
+    1
+   ],
+   [
+    70,
+    15
+   ],
+   [
+    116,
+    54
+   ],
+   [
+    31,
+    22
+   ],
+   [
+    5,
+    5
+   ]
+  ],
+  "parallel": [
+   [
+    109,
+    2
+   ],
+   [
+    12,
+    0
+   ],
+   [
+    5,
+    2
+   ],
+   [
+    5,
+    2
+   ],
+   [
+    99,
+    91
+   ]
+  ],
+  "jev+sitemap": [
+   [
+    6,
+    0
+   ],
+   [
+    5,
+    0
+   ],
+   [
+    4,
+    0
+   ],
+   [
+    0,
+    0
+   ],
+   [
+    15,
+    15
+   ]
+  ]
+ },
+ "cost": {
+  "jev": {
+   "requests": 80,
+   "input_tokens": 28481,
+   "dollars": 0.0012,
+   "per_1000_requests": 0.015,
+   "median_seconds": 0.359
+  },
+  "parallel": {
+   "requests": 80,
+   "input_tokens": 314527,
+   "dollars": 0.08,
+   "per_1000_requests": 1.0,
+   "median_seconds": 0.8705
+  },
+  "jev+sitemap": {
+   "requests": 30,
+   "input_tokens": 19920,
+   "dollars": 0.00084,
+   "per_1000_requests": 0.028,
+   "median_seconds": 0.3545
+  }
+ },
+ "misses": [
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "us_based",
+   "item": "treble.ai",
+   "p": 0.51,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "us_based",
+   "item": "Typa",
+   "p": 0.42,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "us_based",
+   "item": "Infiuss Health",
+   "p": 0.47,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "us_based",
+   "item": "ElectroNeek",
+   "p": 0.26,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "us_based",
+   "item": "Lago",
+   "p": 0.28,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "us_based",
+   "item": "Phone Harness",
+   "p": 0.49,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "us_based",
+   "item": "HireSweet",
+   "p": 0.58,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "us_based",
+   "item": "Confident AI",
+   "p": 0.48,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "us_based",
+   "item": "Blixo",
+   "p": 0.47,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "us_based",
+   "item": "Algolia",
+   "p": 0.15,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "us_based",
+   "item": "STASIS",
+   "p": 0.4,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "us_based",
+   "item": "DreamRP",
+   "p": 0.49,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "us_based",
+   "item": "Quippy",
+   "p": 0.45,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "us_based",
+   "item": "Kaiten",
+   "p": 0.26,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "us_based",
+   "item": "jo",
+   "p": 0.45,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "us_based",
+   "item": "Rune",
+   "p": 0.41,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "us_based",
+   "item": "Camp",
+   "p": 0.55,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "us_based",
+   "item": "Dydema",
+   "p": 0.35,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "size_20_100",
+   "item": "treble.ai",
+   "p": 0.49,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "size_20_100",
+   "item": "farmtheory",
+   "p": 0.43,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "size_20_100",
+   "item": "Typa",
+   "p": 0.51,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "size_20_100",
+   "item": "Sendbox",
+   "p": 0.49,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "size_20_100",
+   "item": "ElectroNeek",
+   "p": 0.52,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "size_20_100",
+   "item": "Quotient Labs",
+   "p": 0.51,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "size_20_100",
+   "item": "Swipe",
+   "p": 0.43,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "size_20_100",
+   "item": "Twenty",
+   "p": 0.51,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "size_20_100",
+   "item": "Bluelight",
+   "p": 0.51,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "size_20_100",
+   "item": "HireSweet",
+   "p": 0.45,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "size_20_100",
+   "item": "Confident AI",
+   "p": 0.55,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "size_20_100",
+   "item": "AgendaPro",
+   "p": 0.44,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "size_20_100",
+   "item": "Pair AI",
+   "p": 0.51,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "size_20_100",
+   "item": "Plura (formerly Bloom Community)",
+   "p": 0.53,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "size_20_100",
+   "item": "Clipboard",
+   "p": 0.51,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "size_20_100",
+   "item": "Bottomless",
+   "p": 0.51,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "size_20_100",
+   "item": "Rune",
+   "p": 0.5,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "size_20_100",
+   "item": "Matter",
+   "p": 0.51,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "b2b",
+   "item": "Bluelight",
+   "p": 0.43,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "b2b",
+   "item": "tday.com",
+   "p": 0.45,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "b2b",
+   "item": "Pair AI",
+   "p": 0.62,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "b2b",
+   "item": "nunu.ai",
+   "p": 0.59,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "b2b",
+   "item": "SigmaOS",
+   "p": 0.65,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "b2b",
+   "item": "STASIS",
+   "p": 0.59,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "b2b",
+   "item": "Clipboard",
+   "p": 0.61,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "b2b",
+   "item": "Orca Client",
+   "p": 0.64,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "b2b",
+   "item": "DreamRP",
+   "p": 0.58,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "b2b",
+   "item": "General Context Labs",
+   "p": 0.62,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "b2b",
+   "item": "Tornyol",
+   "p": 0.52,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "b2b",
+   "item": "Vexo",
+   "p": 0.65,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "b2b",
+   "item": "Rune",
+   "p": 0.7,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "b2b",
+   "item": "Directed Edge",
+   "p": 0.73,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "b2b",
+   "item": "Dydema",
+   "p": 0.65,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "yc_job_open",
+   "item": "Scott AI",
+   "p": 0.3,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "yc_job_open",
+   "item": "Magnetic",
+   "p": 0.25,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "yc_job_open",
+   "item": "Ellipsis",
+   "p": 0.38,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "yc_job_open",
+   "item": "Rimward",
+   "p": 0.32,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "yc_job_open",
+   "item": "Lago",
+   "p": 0.41,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "yc_job_open",
+   "item": "Pave",
+   "p": 0.45,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "yc_job_open",
+   "item": "Confident AI",
+   "p": 0.36,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "yc_job_open",
+   "item": "Algolia",
+   "p": 0.43,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "yc_job_open",
+   "item": "Pair AI",
+   "p": 0.32,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "yc_job_open",
+   "item": "Function of Beauty",
+   "p": 0.28,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "yc_job_open",
+   "item": "SigmaOS",
+   "p": 0.34,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "yc_job_open",
+   "item": "Clipboard",
+   "p": 0.38,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "jev",
+   "question": "yc_job_open",
+   "item": "Matter",
+   "p": 0.37,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "parallel",
+   "question": "us_based",
+   "item": "treble.ai",
+   "p": 0.6785000592099992,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "parallel",
+   "question": "us_based",
+   "item": "Cuckoo Labs",
+   "p": 0.8860569648472691,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "parallel",
+   "question": "us_based",
+   "item": "Lago",
+   "p": 0.43987916114012365,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "parallel",
+   "question": "us_based",
+   "item": "Twenty",
+   "p": 0.8954044806505255,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "parallel",
+   "question": "us_based",
+   "item": "SigmaOS",
+   "p": 0.012643972462984866,
+   "truth": true
+  },
+  {
+   "gate": "A",
+   "arm": "parallel",
+   "question": "us_based",
+   "item": "Camp",
+   "p": 0.9207427120367264,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "parallel",
+   "question": "size_20_100",
+   "item": "Confident AI",
+   "p": 0.5079837211839542,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "parallel",
+   "question": "size_20_100",
+   "item": "nunu.ai",
+   "p": 0.970776126806942,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "parallel",
+   "question": "b2b",
+   "item": "Pair AI",
+   "p": 0.7188733604068629,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "parallel",
+   "question": "b2b",
+   "item": "nunu.ai",
+   "p": 0.992201080496156,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "parallel",
+   "question": "b2b",
+   "item": "Clipboard",
+   "p": 0.9373432178054403,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "parallel",
+   "question": "b2b",
+   "item": "Hogaru",
+   "p": 0.5134042562137192,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "parallel",
+   "question": "b2b",
+   "item": "Directed Edge",
+   "p": 0.8370385359163514,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "parallel",
+   "question": "b2b",
+   "item": "Camp",
+   "p": 0.7082196685484407,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "parallel",
+   "question": "b2b",
+   "item": "Dydema",
+   "p": 0.8659968884441595,
+   "truth": false
+  },
+  {
+   "gate": "A",
+   "arm": "parallel",
+   "question": "yc_job_open",
+   "item": "Algolia",
+   "p": 0.00895785421249555,
+   "truth": true
+  },
+  {
+   "gate": "B",
+   "arm": "jev",
+   "question": "published",
+   "item": "were looking for a content marketing intern",
+   "p": 0.42,
+   "truth": true
+  },
+  {
+   "gate": "B",
+   "arm": "jev",
+   "question": "published",
+   "item": "how neil patel built and grew his personal brand",
+   "p": 0.49,
+   "truth": true
+  },
+  {
+   "gate": "B",
+   "arm": "jev",
+   "question": "published",
+   "item": "retrieval source allowlists content agents",
+   "p": 0.46,
+   "truth": true
+  },
+  {
+   "gate": "B",
+   "arm": "jev",
+   "question": "published",
+   "item": "seeking a brilliant content marketing intern",
+   "p": 0.48,
+   "truth": true
+  },
+  {
+   "gate": "B",
+   "arm": "jev",
+   "question": "published",
+   "item": "the art of ethical content stealing",
+   "p": 0.44,
+   "truth": true
+  },
+  {
+   "gate": "B",
+   "arm": "jev",
+   "question": "published",
+   "item": "call center phone systems everything you need to know",
+   "p": 0.46,
+   "truth": true
+  },
+  {
+   "gate": "B",
+   "arm": "jev",
+   "question": "published",
+   "item": "llm disambiguation seo how to ensure ai knows exactly who you are",
+   "p": 0.48,
+   "truth": true
+  },
+  {
+   "gate": "B",
+   "arm": "jev",
+   "question": "published",
+   "item": "ai agent adoption statistics 2026",
+   "p": 0.33,
+   "truth": true
+  },
+  {
+   "gate": "B",
+   "arm": "jev",
+   "question": "published",
+   "item": "The 1-3-1 decision rule for running a bot fleet",
+   "p": 0.51,
+   "truth": false
+  },
+  {
+   "gate": "B",
+   "arm": "jev",
+   "question": "published",
+   "item": "TV prices fell 97% while hospital prices rose 220%",
+   "p": 0.53,
+   "truth": false
+  },
+  {
+   "gate": "B",
+   "arm": "jev+sitemap",
+   "question": "published",
+   "item": "What OpenAI DevDay 2026 changed for marketers",
+   "p": 0.55,
+   "truth": false
+  }
+ ]
+}

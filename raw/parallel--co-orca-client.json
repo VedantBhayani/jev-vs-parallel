@@ -1,0 +1,101 @@
+{
+ "seconds": 0.871,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.985957065931602
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.015220564662805075
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.05607353640537504
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.008120383055585307
+   }
+  },
+  "usage": {
+   "input_tokens": 3394,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://www.ycombinator.com/companies/orca-client",
+    "title": "Orca Client: Orca lets you build, discover, and play Minecraft games with friends. | Y Combinator",
+    "excerpts": [
+     "Orca Client\nOrca lets you build, discover, and play Minecraft games with friends.\nSummer 2024\nActive\nConsumer Gaming AI AI Assistant San Francisco\nCompany\nJobs 0\nhttps://orcaclient.com\nOrca lets you build, discover, and play Minecraft games with friends.\nOrca is a game launcher for Minecraft. Players browse games and experiences and join with one click, no mod installation, no setup. We handle hosting and mod delivery for server owners and game creators, who earn revenue from their games. Think Roblox, but built on top of Minecraft's 312M player base.\nActive Founders\nEge Kaan Duman\nEge Kaan Duman\nAli is co-founder of Simplifine. He has extensive background in optimising AI models, from putting them on Deep Brain Stimulators to speeding up training/inference on GPUs.\nCompany Launches\nSimplifine | 🌟 AI-powered Workspace for Researchers\nSee original launch post\nWe need your help to spread the word and sign up to use Simplifine – www.simplifine.com\nIf you know anyone in academia or industry who conducts research—whether they read, write or code—please connect us with them!\nOur email: founders@simplifine.com\nuploaded image\nOrca Client\nOrca Client\nFounded: 2024\nBatch: Summer 2024\nTeam Size: 2\nStatus: Active\nLocation: San Francisco\nX (Twitter) logo\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/orca-client/jobs",
+    "title": "Jobs at Orca Client | Y Combinator",
+    "excerpts": [
+     "Orca Client\nOrca lets you build, discover, and play Minecraft games with friends.\nCompany\nJobs 0\nhttps://orcaclient.com\nJobs at Orca Client\nNo jobs at Orca Client are currently posted on the YC platform.\nOrca Client\nOrca Client\nFounded: 2024\nBatch: S24\nTeam Size: 2\nStatus: Active\nLocation: San Francisco\nX (Twitter) logo\nFounders\nEge Kaan Duman\nEge Kaan Duman\nTwitter account\nCPO\nEge Kaan Duman\nEge Kaan Duman\nTwitter account\nCPO\nAli Kavoosi\nAli Kavoosi\nCTO\nAli Kavoosi\nAli Kavoosi\nCTO\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/orca",
+    "title": "Orca: Banking for Gen Z, on steroids. | Y Combinator",
+    "excerpts": [
+     "Orca\nBanking for Gen Z, on steroids.\nWinter 2022\nActive\nFintech Neobank San Francisco\nCompany\nJobs 0\nhttps://orca.fyi/\nBanking for Gen Z, on steroids.\nOrca is banking built for Gen Z from the ground up. Send money instantly, split bills with groups, access local discounts and perks, spend and save, and do everything else you could ever ask on Orca — the only financial hub you'll ever need.\nActive Founders\nDY ​\nDY ​\nFounder\nCEO @ Orca\nDY ​\nDY ​\nFounder\nCEO @ Orca\nTim Qin\nTim Qin\nFounder\nCo-founder of Orca Group Inc.\nTim Qin\nTim Qin\nFounder\nCo-founder of Orca Group Inc.\nOrca\nOrca\nFounded: 2021\nBatch: Winter 2022\nTeam Size: 4\nStatus: Active\nLocation: San Francisco\nPrimary Partner: Brad Flora\nX (Twitter) logo\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/orca/jobs",
+    "title": "Jobs at Orca | Y Combinator",
+    "excerpts": [
+     "Orca\nBanking for Gen Z, on steroids.\nCompany\nJobs 0\nhttps://orca.fyi/\nJobs at Orca\nNo jobs at Orca are currently posted on the YC platform.\nOrca\nOrca\nFounded: 2021\nBatch: W22\nTeam Size: 4\nStatus: Active\nLocation: San Francisco\nX (Twitter) logo\nFounders\nDY ​\nDY ​\nFounder\nDY ​\nDY ​\nFounder\nTim Qin\nTim Qin\nFounder\nTim Qin\nTim Qin\nFounder\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/stably-ai-orca/jobs",
+    "title": "Jobs at Stably AI (Orca) | Y Combinator",
+    "excerpts": [
+     "Stably AI (Orca)\nWe make Orca, MIT open source terminal-based agent orchestrator\nCompany\nJobs 0\nhttp://onorca.dev/\nJobs at Stably AI (Orca)\nNo jobs at Stably AI (Orca) are currently posted on the YC platform.\nStably AI (Orca)\nStably AI (Orca)\nFounded: 2022\nBatch: W22\nTeam Size: 25\nStatus: Active\nLocation: San Francisco\nX (Twitter) logo\nFounders\nJinjing Liang\nJinjing Liang\nCEO\nJinjing Liang\nJinjing Liang\nCEO\nNeil Parker\nNeil Parker\nFounder\nNeil Parker\nNeil Parker\nFounder\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://aventure.vc/companies/orca-san-francisco-ca-us/employees",
+    "title": "Orca Employees, Leadership and Locations - aVenture",
+    "excerpts": [
+     "description: Staff, leadership, and office locations for Orca headquartered in San Francisco, CA, US. title: Orca Employees, Leadership and Locations - aVenture image: https://aventure.vc/api/og/entity/a0c58e64-13b1-4d04-81b6-2b7892d3021d\nUpdatedOct 26, 2026\n<Orca logo>\nOrca\n{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://aventure.vc/companies/orca-san-francisco-ca-us#organization\",\"url\":\"https://aventure.vc/companies/orca-san-francisco-ca-us\",\"name\":\"Orca\",\"description\":\"Orca: A trusted sales tech platform, enhancing team performance and customer experiences\n{\"@context\":\"https://schema.org\",\"@type\":\"CollectionPage\",\"@id\":\"https://aventure.vc/companies/orca-san-francisco-ca-us/employees#webpage\",\"url\":\"https://aventure.vc/companies/orca-san-francisco-ca-us/employees\",\"name\":\"Orca Employees, Leadership and Locations - aVenture\",\"description\":\"Staff, leadership, and office locations for Orca\nUS.\",\"about\":{\"@type\":\"Organization\",\"@id\":\"https://aventure.vc/companies/orca-san-francisco-ca-us#organization\"},\"mainEntity\":{\"@type\":\"Organization\",\"@id\":\"https://aventure.vc/companies/orca-san-francisco-ca-us#organization\"},\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"aVenture\",\"url\":\"https://aventure.vc\"},\"dateModified\":\"2026-10-27T05:48:02.900Z\"}\n{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aventure.vc/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Companies\",\"item\":\"https://aventure.vc/companies\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Orca\",\"item\":\"https://aventure.vc/companies/orca-san-francisco"
+    ]
+   },
+   {
+    "url": "https://www.onorca.dev/docs",
+    "title": "What is Orca? — Orca Docs",
+    "excerpts": [
+     "Product\n* Download\n* Changelog\n* Enterprise\n* Docs\nCommunity\n* GitHub\n* Discord\n* X\nCompany\n* Stably\n* Privacy\n* Terms\n  © 2026 Stably AI. All rights reserved.\n  Backed by Y Combinator. Built in San Francisco."
+    ]
+   },
+   {
+    "url": "https://app.dealroom.co/companies/orca_19",
+    "title": "Orca company information, funding & investors | Dealroom.co",
+    "excerpts": [
+     "Save\nAI Minecraft mod maker.\nHQ location\nSan Francisco, United States\nWebsite\norcaengine.ai\nLaunch date\n2024\nEmployees\n1people\nEnterprise value\n$500—750k\nhttps://www.linkedin.com/company/simplifinecorp/\nSomething missing? Suggest an update\n* B2B\n* saas\n* subscription\n* education\n* artificial intelligence\n* generative ai\n* core ai\n* ai agents\n* yc s24\nOverview Similar companies\nFunding Investors\nEdit\n* Date | Investors | Amount | Round\n* Aug 2024 | * Y Combinator | $125k | Seed\n* Total Funding |  | 000k |\nUpgrade to view funding data\nUpgrade plan\nSign in to unlock notes & more\nCreate a free account to save notes, track companies, and access investor insights.\nLogin Book a Demo\nMore about Orca\nEdit\nOrca (Simplifine) is an AI Minecraft mod maker and related game-creation tooling: describe a mod in plain English and Orca builds playable content, with free-to-start positioning for creators.\nPublic materials on orcaengine.ai / Orca Client emphasize crafting blocks, items, mobs, and full mods without coding, creator partnerships with large view counts, and GitHub/Simplifine-gamedev roots tying the Orca Engine brand to Simplifine.\nOrca sells consumer/creator AI game-mod tooling.\nThe business model is freemium creator software for Minecraft/mod generation.\nPublic positioning emphasizes practical outcomes for customers rather than hype metrics alone, with product and company materials focused on durable workflows teams can adopt.\nCompany materials focus on concrete product workflows buyers can evaluate without relying on unverified metrics.\nkeywords: Orca, Simplifine, AI Minecraft mod maker, orcaengine.ai, describe mod get built, Orca Client creators, game mod AI, Simplifine gamedev\nHeadcount\nThis is a premium feature"
+    ]
+   },
+   {
+    "url": "https://orca.security/resources/blog/an-inside-look-at-orca-ai-agent-pods",
+    "title": "An Inside Look at Orca AI Agent Pods",
+    "excerpts": [
+     "Security for the Companies that Build\nRelated articles\nConnect Orca’s ChatGPT Plugin: Cloud Risk Context in Chat and Codex\nSep 30, 2026\nAmazing and Terrifying: Securing an App Built By AI in a Weekend\nSep 29, 2026\nAn Inside Look at Orca's New Partner POD and Partner Success Platform\nSep 24, 2026\nStay in the loop\nOrca AI Agent Pods\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://orca.security/#website\",\"url\":\"https://orca.security/\",\"name\":\"Orca Security\",\"description\":\"Orca’s cloud security solution deploys in minutes and identifies vulnerabilities, malware, misconfigurations, secret keys, leaked passwords, lateral movement risk, and high-risk data such as\nwrk&hl=en-US&q=Orca Security Ltd.&kgs=56b4534bd8fbf4a9&shndl=17&source=sh/x/kp/osrp/m5/1\",\"https://www.bloomberg.com/profile/company/1724724D:IT?embedded-checkout=true\",\"https://www.zoominfo.com/c/orca-security-ltd/474907172\"],\"description\":\"At Orca, we’re not just innovators in the cloud security space—we’re creators of it.\nVentures is a seed-stage venture capital firm. The company’s managing partner Yoav Leitersdorf who founded the firm with John Quigley in 2007, along with Israel and U.S. partners Ofer Schreiber and John Brennan. Current partners also include Sharon Seeman and Michael Cortez. The firm has headquarters in San Francisco and Tel Aviv.\nttps://orca.security/wp-content/uploads/2026/08/AI-Agent-Pods-Card-blog-1.png\"},\"articleSection\":\"Blog\",\"author\":[{\"@type\":\"Person\",\"name\":\"Or Gabay\"},{\"@type\":\"Person\",\"name\":\"Ashleigh Lee\"}],\"creator\":[\"Or Gabay\",\"Ashleigh Lee\"],\"publisher\":{\"@type\":\"Organization\",\"name\":\"Orca\nSecurity\",\"logo\":\"\"},\"keywords\":[],\"dateCreated\":\"2026-08-06T12:50:00Z\",\"datePublished\":\"2026-08-06T12:50:00Z\",\"dateModified\":\"2026-08-06T18:32:22Z\"}"
+    ]
+   },
+   {
+    "url": "https://www.onorca.dev/enterprise",
+    "title": "Orca Enterprise",
+    "excerpts": [
+     "Orca\nDocs Changelog Enterprise\n107.8k\nDownload\nBring agent engineering to your whole team.\nOrca is the best way to run many coding agents in parallel. Roll it out with local-first worktrees, reviewable agent changes, and deployment options that fit your security model.\njinjing@stably.ai?subject=Orca%20Enterprise Read the docs\nUsed by engineers at\n* GitHub\n* Discord\n* X\nCompany\n* Stably\n* Privacy\n* Terms\n  © 2026 Stably AI. All rights reserved.\n  Backed by Y Combinator. Built in San Francisco."
+    ]
+   }
+  ],
+  "decision_id": "decisions_2990514f223765e3039b577fd4ec1083"
+ }
+}

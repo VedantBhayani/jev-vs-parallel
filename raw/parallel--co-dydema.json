@@ -1,0 +1,101 @@
+{
+ "seconds": 0.935,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.9989576080516144
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.002709238441589535
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.8659968884441595
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.013579128530278007
+   }
+  },
+  "usage": {
+   "input_tokens": 3935,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://www.ycombinator.com/companies/dydema",
+    "title": "Dydema: A consumer brain-computer interface you can map to anything. | Y Combinator",
+    "excerpts": [
+     "Dydema\nA consumer brain-computer interface you can map to anything.\nFall 2026\nActive\nHardware Neurotechnology Consumer Big Data AI San Francisco\nCompany\nJobs 0\nhttps://dydema.com/\nA consumer brain-computer interface you can map to anything.\nWe’re building a brain-computer interface anyone can wear, so you can use a computer at the speed of thought. To get there, we’re recording brain data at model company scale.\nActive Founders\nJulian Weaver\nJulian Weaver\nFounder/CEO\nFounder & CEO at Dydema. We're the model company for neurotech. Prev. founding engineer at Syntra (YC S24).\nLed EEG/fMRI AI research, dual BS in CS and neuroscience @ age 20, UT Austin.\nJulian Weaver\nJulian Weaver\nFounder/CEO\nFounder & CEO at Dydema. We're the model company for neurotech. Prev. founding engineer at Syntra (YC S24). Led EEG/fMRI AI research, dual BS in CS and neuroscience @ age 20, UT Austin.\nChristopher Oosthuizen\nChristopher Oosthuizen\nFounder/CTO\nFounder and CTO at Dydema. Previously: Founding Software Engineer at Syntra, ML researcher at UH SAIL, and Studied CS at University of Houston.\nChristopher Oosthuizen\nChristopher Oosthuizen\nFounder/CTO\nFounder and CTO at Dydema.\nPreviously: Founding Software Engineer at Syntra, ML researcher at UH SAIL, and Studied CS at University of Houston.\nDydema\nDydema\nFounded: 2026\nBatch: Fall 2026\nTeam Size: 2\nStatus: Active\nLocation: San Francisco\nPrimary Partner: Aaron Epstein\nX (Twitter) logo\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://dydema.com/",
+    "title": "Dydema — The model company for brain–computer interfaces",
+    "excerpts": [
+     "DYDEMA\n00 Home Y Combinator F26 Close Index (×) (↓)\nThe model company\nfor brain–computer\ninterfaces.\nWe build AI models that make sense of brain signals, and we record the data to train them. So anyone can build neurotech.\nOur models (↗) Request data (→)\nCajal / Histologie du système nerveux / 1909\nModels\n1. models, from code\n  Our models read brain signals so your software can act on them. Wizard is the first. Show it a few examples and it picks up a new task.\n  EEG · C3, Cz, C4 · 6 s\n  developers.dydema.com (↗)\nData\n2. recordings, to order\n  There isn’t enough brain data in the world. So we record it, for our models and for yours.\n  How it works (→)\n  What we are\nDydema\n(dai deh mah) n.\n1. (models) A company that builds AI models for brain signals.\n2. (data) The people you call when you need brain data.\n3. (informal) The model company for brain–computer interfaces.\n4. see also neurotechnology; brain–computer interface.\nNeurotech is too\ngood an idea to\nleave to a few labs.\nHaeckel / Kunstformen der Natur / 1904\ninfo@dydema.com\n* Home\n* Models\n* Data\n* About\n* Contact\n* Writing\n  DY DE MA\n* LinkedIn\n* X\n* GitHub\n  Log in Y Combinator F26 San Francisco, CA © 2026Dydema\n  Drawings by Santiago Ramón y Cajal (1909) and Ernst Haeckel (1904), in the public domain.\n  *[n.]: noun"
+    ]
+   },
+   {
+    "url": "https://www.cbinsights.com/company/dydema",
+    "title": "Dydema - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "excerpts": [
+     "* About Us\n* Overview\n* Our teams\n* Business Development\n* Engineering\n* Operations\n* Product\n* See all →\n* Open Jobs\nLoading...\nDydema company logo\nDydema\nUnclaimed\ndydema.com\n* Overview & Products\n* Financials\nFounded Year\n2025\nStage\nConvertible Note | Alive\nTotal Raised\n$500K\nLast Raised\n$500K | 1 mo ago\nAbout Dydema\nDydema operates a platform for collecting and organizing human brain data. It brings together different types of brain and physiological data to support research and development in brain-computer interfaces. The company aims to make this data more accessible for researchers and developers working on brain-related technologies.\nIt was founded in 2025 and is based in San Francisco, California.\nHeadquarters Location\n781 Guerrero Street\nSan Francisco, California, 94110,\nUnited States\n832-898-8972\nLoading...\nLoading...\nDydema Frequently Asked Questions (FAQ)\n* When was Dydema founded?\nDydema was founded in 2025.\n* Where is Dydema's headquarters?\nDydema's headquarters is located at 781 Guerrero Street, San Francisco.\n* What is Dydema's latest funding round?\nDydema's latest funding round is Convertible Note.\n* How much did Dydema raise?\nDydema raised a total of $500K.\n* Who are the investors of Dydema?\nInvestors of Dydema include Y Combinator.\nLoading...\nLoading...\nCB Insights\n498 Seventh Avenue 12th floor New York, NY 10018 info@cbinsights.com 212 292 3148\nFollow Us On Social\nTwitter Linkedin Facebook\n* AI 100\n* Fintech 100\n* Digital Health 50\n* Tech Trends 2024\n* Generative AI Predictions\n* Unicorn Tracker\n* VC Glossary\n* Company List Applications\n* CB Insights Website Terms of Use\n* Privacy Policy\n* Do Not Sell My Info\n* Partnership\nCopyright 2026 CB Information Services, Inc. All rights reserved."
+    ]
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/1510770-70",
+    "title": "Dydema 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "excerpts": [
+     "Provider of neuro-study and biometric data services intended to capture objective ground-truth data from the human nervous system.\nThe company's platform offers electroencephalography recording, eye-tracking, heart rate monitoring, skin conductance measurement, video data capture, and structured, action-ready datasets, enabling organizations, researchers, and developers to access high-quality brain and biometric data without managing laboratory infrastructure.\nContact Information\nWebsite\nwww.dydema.com\nOwnership Status\nPrivately Held (backing)\nFinancing Status\nAccelerator/Incubator Backed"
+    ]
+   },
+   {
+    "url": "https://www.dydema.com/about",
+    "title": "About — Dydema",
+    "excerpts": [
+     "DYDEMA\n03 About Y Combinator F26 Close Index (×) (↓)\nWe make the\nbrain buildable.\nDydema builds AI models that make sense of brain signals, and records the data to train them. Right now, building anything in neurotech means collecting your own data first. That’s where most ideas die. We do that part. Founded in 2025 and backed by Y Combinator.\nCajal / Histologie du système nerveux / 1909\nwhy we started\nNeurotech is short of data.\nLanguage models learned from the whole internet. Brain models have almost nothing to learn from, because recording people is slow and expensive. So we build the models and record the data.\nJulian\nJulian Weaver co-founder, CEO\nJulian does the neuroscience. He’s done every step of it himself, from fitting electrodes to training models, and he’s built organizations to do exactly that.\nbefore * Co-founded Longhorn Neurotech at UT Austin, and grew it past 200 members\n* Founding engineer at Syntra (YC S24)\n  research * Led EEG neurodata teams at Longhorn Neurotech\n* fMRI interpretability @ the Dynamic Medical Image Computing lab, UT Austin\n  hands on * The full neurodata lifecycle. Electrode placement through to training models\n* Prototype hardware, firmware, and the signal-processing pipeline\nChris\nChristopher Oosthuizen co-founder, CTO\nChris builds the models and everything they run on. Before Dydema he worked on AI where data is scarce, which describes most of neurotech.\nbefore * Structures in Artificial Intelligence Lab, University of Houston\nfounded 2025\nbased San Francisco, CA\nbacked by Y Combinator F26\nContact (→) Data (→)\ninfo@dydema.com\nRequest data (→)"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/founders/2801705-julian-weaver",
+    "title": "Julian Weaver - Y Combinator Founder of Dydema",
+    "excerpts": [
+     "Julian Weaver - Y Combinator Founder of Dydema\nFounder & CEO at Dydema. We're the model company for neurotech. Prev. founding engineer at Syntra (YC S24). Led EEG/fMRI AI research, dual BS in CS and neu.\nJulian Weaver - Y Combinator Founder of Dydema\nJulian Weaver, Founder of Dydema. We're the model company for neurotech. Led EEG/fMRI AI research, dual BS in CS and neuroscience @ age 20, UT Austin."
+    ]
+   },
+   {
+    "url": "https://www.cbinsights.com/company/dydema/financials",
+    "title": "Dydema Stock Price, Funding, Valuation, Revenue & Financial Statements",
+    "excerpts": [
+     "* About Us\n* Overview\n* Our teams\n* Business Development\n* Engineering\n* Operations\n* Product\n* See all →\n* Open Jobs\nLoading...\nDydema company logo\nDydema\nUnclaimed\ndydema.com\n* Overview & Products\n* Financials\nTotal Raised\n$500K\nInvestors Count\n1\nFunding, Valuation & Revenue\n1 Fundings\nDydema has raised $500K over 1 rounds .\nDydema's latest funding round was a Convertible Note for $0.5M on September 1, 2026 .\n|Date |Round |Amount |Investors |Valuation\n* Valuations are submitted by companies, mined from state filings or news, provided by VentureSource, or based on a comparables valuation model. | Revenue | Sources\n* 9/1/2026 | Convertible Note | $0.5M | Y Combinator | $XXM | 0\nFY undefined |1 |\n* Date | 9/1/2026\n* Round | Convertible Note\n* Amount | $0.5M\n* Investors | Y Combinator\nDydema Investors\n1 Investors\nDydema has 1 investors . Y Combinator invested in Dydema's Convertible Note funding round .\n* First funding | Last Funding | Investor | Rounds | Board Seats | Type | Location\n* 9/1/2026 | 9/1/2026 | Y Combinator | 1\nConvertible Note |Incubator/Accelerator |California |\n* First funding | 9/1/2026\n* Last Funding | 9/1/2026\n* Investor | Y Combinator\n* Rounds | 1\n* Convertible Note\n* Board Seats\n* Type | Incubator/Accelerator\n* AI 100\n* Fintech 100\n* Digital Health 50\n* Tech Trends 2024\n* Generative AI Predictions\n* Unicorn Tracker\n* VC Glossary\n* Company List Applications\n* CB Insights Website Terms of Use\n* Privacy Policy\n* Do Not Sell My Info\n* Partnership\nCopyright 2026 CB Information Services, Inc. All rights reserved."
+    ]
+   },
+   {
+    "url": "https://tracxn.com/d/companies/dykema/__wxMiCbCR0vihdA1WzogVZ8zxBBiTb4JwShEbzmZVku4",
+    "title": "Dykema - 2026 Company Profile - Tracxn",
+    "excerpts": [
+     "Dykema - 2026 Company Profile - Tracxn\n৩ দিন আগে · Dykema is an unfunded company based in Ann Arbor (United States), founded in 1997. It operates as a Provider of IP, healthcare, labor,\nDykema - 2026 Company Profile\nFounded Year. 1997 ; Location. Ann Arbor, United States ; Stage. Unfunded ; Employee Count. 1,032 as on Jul 31, 2026 ; Investment & Acquisitions."
+    ]
+   },
+   {
+    "url": "https://www.dydema.com/platform",
+    "title": "Dydema — Ground truth for human response",
+    "excerpts": [
+     "DYDEMA\n02 Your requests Y Combinator F26 Close Index (×) (↓)\nYour Dydema account\nRead back your requests.\nSign in to see the requests you've sent us. If you sent one without an account, sign in with the same email address and it'll be there.\nLog in Start a new request\ninfo@dydema.com\nRequest data (→)\n* Home\n* Models\n* Data\n* About\n* Contact\n* Writing\n  DY DE MA\n* LinkedIn\n* X\n* GitHub\n  Log in Y Combinator F26 San Francisco, CA © 2026Dydema\n  Drawings by Santiago Ramón y Cajal (1909) and Ernst Haeckel (1904), in the public domain.\n  Your account — Dydema"
+    ]
+   },
+   {
+    "url": "https://www.gpagent.ai/yc/company/dydema",
+    "title": "Dydema, YC Fall 2026 (F26) company | GPAgent",
+    "excerpts": [
+     "GPAgent\nProducts Solutions Resources\nSign in Get in touch\nPublic company data\n* Demo Day calendar\n* Y Combinator\n* a16z speedrun\n1. Home\n2. / Y Combinator\n3. / Fall 2026\n4. / Dydema\n  Dydema logo\nDydema\nDydema is a YC Fall 2026 (F26) company. Based in San Francisco, CA, USA. Team of 2.\n* Hardware\n* Neurotechnology\n* Consumer\n* Big Data\n* AI\n  Website (opens in a new tab)\nAbout Dydema\nGPAgent's own fund-neutral profile, written from public information. Updated Sep 30, 2026.\nSummary\nThe models handle signal interpretation that developers would otherwise have to build from scratch, and the data service fills a gap that currently limits the whole field. Together, they replace the need for neurotech teams to run their own data collection programs or build low-level signal-processing pipelines.\nBusiness model\nDevelopers access models via API and teams order custom brain recordings on request.\nGo-to-market\nNeurotech developers and research teams are the buyers; they reach Dydema's models through a developer portal and request data directly via the site.\nFrom the Y Combinator listing\nHow Dydema describes itself in Y Combinator's public directory.\nA consumer brain-computer interface you can map to anything.\nWe’re building a brain-computer interface anyone can wear, so you can use a computer at the speed of thought. To get there, we’re recording brain data at model company scale.\nFacts\nBatch YC Fall 2026 (F26)\nIndustry Consumer / Consumer\nLocation San Francisco, CA, USA\nTeam size 2\nStatus Active\nStage Early\nWebsite dydema.com (opens in a new tab)\nFounders (1)\n* Julian Weaver\n  Founder/CEO\n  LinkedIn Twitter\nScore everybatch against your own thesis"
+    ]
+   }
+  ],
+  "decision_id": "decisions_cce3cd09c2384db1876b00847416123e"
+ }
+}

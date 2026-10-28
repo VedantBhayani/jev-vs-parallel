@@ -1,0 +1,101 @@
+{
+ "seconds": 0.848,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.9852293383451418
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.001425392307977087
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.9907717799833126
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.00895785421249555
+   }
+  },
+  "usage": {
+   "input_tokens": 4046,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://www.ycombinator.com/companies/algolia/jobs",
+    "title": "Jobs at Algolia | Y Combinator",
+    "excerpts": [
+     "Algolia\nA developer-friendly and enterprise-grade search API.\nCompany\nJobs 0\nhttp://www.algolia.com\nJobs at Algolia\nNo jobs at Algolia are currently posted on the YC platform.\nAlgolia\nAlgolia\nFounded: 2012\nBatch: W14\nTeam Size: 810\nStatus: Active\nLocation: San Francisco\nX (Twitter) logo\nFounders\nJulien Lemoine\nJulien Lemoine\nTwitter account\nCTO\nJulien Lemoine\nJulien Lemoine\nTwitter account\nCTO\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/algolia",
+    "title": "Algolia: A developer-friendly and enterprise-grade search API. | Y Combinator",
+    "excerpts": [
+     "Algolia\nA developer-friendly and enterprise-grade search API.\n[Winter 2014](/companies?batch=Winter 2014)\nActive\n[Developer Tools](/companies/industry/Developer Tools) SaaS B2B San Francisco\nCompany\nJobs 0\nNews\nhttp://www.algolia.com\nA developer-friendly and enterprise-grade search API.\nOur mission is to make every search interaction meaningful & rewarding, through developer-friendly and enterprise-grade APIs. Algolia is the leading Search & Discovery API for websites and mobile apps.\nWe help the most innovative companies across e-commerce, media and SaaS industries create powerful, relevant and scalable discovery experiences for their users. Unlike other solutions, our hosted platform reduces the complexities of building and scaling a fast, relevant digital experience and helps teams accelerate development time.\nMore than 9,000 companies like Under Armour, Twitch, Periscope, Medium and Stripe rely on Algolia to manage 50+ billion search queries a month. Founded in 2012, we're backed by $184M in funding from Accel Partners, Alven Capital, Point Nine Capital and Storm Ventures.\nThe team is headquartered in San Francisco with offices in Paris, London, New York, and Atlanta. To learn more, visit www.algolia.com. --- We’re looking for talented, passionate people to build the world’s best search technology. As an ownership-driven company, we seek team members who thrive under autonomy and diversity.\nHe holds an engineering degree from the same institution.\nLatest News\nSearch API startup Algolia raises $150 million at $2.25 billion valuation – TechCrunch\nJul 28, 2021\nAlgolia\nAlgolia\nFounded: 2012\nBatch: Winter 2014\nTeam Size: 810\nStatus: Active\nLocation: San Francisco\nX (Twitter) logo"
+    ]
+   },
+   {
+    "url": "https://sacra.com/c/algolia/",
+    "title": "Algolia revenue, funding & growth rate | Sacra",
+    "excerpts": [
+     "Algolia logo\nAlgolia\nFollow\nAI search and retrieval platform providing hosted search, relevance, and discovery APIs for websites and applications\n#b2b\nRevenue\n$250.00M\n2026\nFunding\n$314.89M\n2021\nGrowth Rate (y/y)\n9.5%\n2025\nView PDF Embed PDF View Model\nDetails\nHeadquarters\nSan Francisco, United States\nCEO\nStephen Lynch\nWebsite\nalgolia.com\nMilestones\nFOUNDING YEAR\n2012\nListed In\n#b2b\nHighlight\nUnhighlight\nRevenue\nAlgolia is a hosted search and retrieval platform. A company uploads its product catalog, content library, documentation, or internal knowledge base to Algolia as JSON records, configures which fields are searchable and how results should be ranked, and then queries Algolia from its website, app, or AI assistant.\nAlgolia is a B2B2C infrastructure business: it sells to developers, ecommerce teams, and enterprise IT, but the product is ultimately used by those customers' shoppers, readers, and users.\nAlgolia 's Intelligent Data Kit pulls the platform closer to the data preparation layer, adding transformation, enrichment, no-code workflows, and external API connectors.\nA May 2026 demo showing Algolia acting as the context layer across Adobe Experience Manager, Adobe Experience Platform, and Salesforce Commerce Cloud points to a larger opportunity in orchestrating retrieval across fragmented customer-data and commerce stacks, touching personalization, campaign management, and conversion optimization budgets\nSacra may have issued, and may in the future issue, other reports that are inconsistent with, and reach different conclusions from, the information presented in this report.\nView PDF Embed PDF View Model\nDetails\nHeadquarters\nSan Francisco, United States\nCEO\nStephen Lynch\nWebsite\nalgolia.com"
+    ]
+   },
+   {
+    "url": "https://www.theofficialboard.com/news/algolia",
+    "title": "Algolia updates: news & description - The Official Board",
+    "excerpts": [
+     "Algolia News and Activities\nPresence\nAlgolia provides search and discovery software for websites and applications. Its products include site search, product recommendations, and AI search tools for retailers, software companies, and other businesses.\nAlgolia products and services overview:\n* Site Search\n* Product Search\n* Product Recommendations\n* AI Search\n* Content Discovery\n  Employees: 719\n  Headquarters: San Francisco, United States (USA)\n  Algolia is one of the...\n* TOB Iconic 10,000;\n* Unicorn.\nExecutives\nView the org chart displaying its 15 main executives\nMost searched biographies at Algolia\n* Stephen Lynch, Chief Executive Officer\n* Xavier Grand, Chief Technology Officer and Chief Architect\n* Laura Hamilton, Senior Vice President, Marketing\nPopular executive movements at Algolia\n* Veronica Servantez has joined the company as Chief Marketing Officer (posted on September 10 2026) .\n* Steven Chung has joined the company as Chief Revenue Officer (posted on September 10 2026) .\n* Steven Chung has joined the company as Chief Revenue Officer (posted on September 4 2026) .\nClick here to view some more movements at Algolia\nGet in Touch\nCall Algolia at +1 415...\nView the org chart\nRegister to receive your alert\nbug@theofficialboard.com?subject=Bug%20reportbody=https://www.theofficialboard.com/news/algolia\nThe best decision-maker directory\nCompanies\nCompanies\nDiscover the organization charts of your favorite companies."
+    ]
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/algolia",
+    "title": "Algolia - Crunchbase Company Profile & Funding",
+    "excerpts": [
+     "Resources Advanced Search\nStart Free Trial Talk With Sales Pricing Log In\nLog In Algolia Growth Score 72 CB Rank 612 Heat Score 92\nSave Actions\nAlgolia is the Search-as-a-Service platform that enables companies to deliver fast and relevant digital experiences that drive real results.\nFounded obfuscated\nobfuscation Private Series D Palo Alto , California , United States 501-1000 www.algolia.com/\nAdvocacy Artificial Intelligence (AI) CivicTech Cloud Computing Environmental Consulting Environmental Engineering Product Search Public Safety Search Engine Semantic Search\nAlgolia\nSection: Overview Actions\nAlgolia is the Search-as-a-Service platform that enables companies to deliver fast and relevant digital experiences that drive real results.\nFounded obfuscated\nobfuscation Private Series D Palo Alto , California , United States 501-1000 www.algolia.com/\nOperating Status Active Company Type For Profit Founders Nicolas Dessaigne\nAbout the Company\nAlgolia is the search-as-a-service platform that enables companies of all sizes to deliver fast and relevant digital experiences that drive real results. With Algolia, consumers can easily find and discover what they want across the web, mobile, and voice.\n* Full access to financial & funding data on unlimited profiles\n* Export up to 2k results/month for analysis\n* Track market signals on competitors, products, and R&D\n* Preview private company insights and predictions\n  Try Pro Free Financials\nCompany Funding\nLists Featuring This Company\nNumber of Sub-Orgs 2\nWhich industries do these Sub-Organization operate in? Show\nMorphL Logo\nMorphL Subsidiary\nAlgolia Paris Logo\nAlgolia Paris Division Frequently Asked Questions\nWhere is Algolia 's headquarters? Algolia is located in Palo Alto , California , United States . Who invested in Algolia ?"
+    ]
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Algolia",
+    "title": "Algolia - Wikipedia",
+    "excerpts": [
+     "* Download as PDF\n* Printable version\nIn other projects\n* Wikimedia Commons\n* Wikidata item\nAppearance\nFrom Wikipedia, the free encyclopedia\n* Algolia, Inc. |\n* |\n* Type | Private\n* Industry | * Software\n* Information Technology\n* Search Engines\n* Genre | Search and index\n* Founded | 8 October 2012 Edit this on Wikidata\n* Founders | * Nicolas Dessaigne\n* Julien Lemoine\n* Headquarters | San Francisco, California\n,\n* U.S.\n* Area served | Worldwide\n* Key people | * Stephen Lynch (CEO)\n* Xavier Grand (CTO)\n* Services | * Real-time search\n* Number of employees | 800+\n* Website | algolia .com\nAlgolia is a French proprietary search-as-a-service platform, with its headquarters in San Francisco and offices in Paris and London. Its main product is a web search platform for individual websites.\nCompany\n[ edit ]\nAlgolia was founded in 2012 by Nicolas Dessaigne and Julien Lemoine, both originally from Paris, France. [ 1 ] [ 2 ] It was originally a company focused on offline search on mobile phones. Later it was selected to be part of Y Combinator 's Winter 2014 class. [ 3 ] [ 2 ]\n* Official website\nRetrieved from \" https://en.wikipedia.org/w/index.php?title=Algolia&oldid=1379001410 \"\nCategories :\n* Internet search engines\n* Semantic Web\n* Y Combinator companies\n* Online companies of the United States\n* Search engine software\nHidden categories:\n* Articles with short description\n* Short description is different from Wikidata\n* Use American English from February 2026\n* All Wikipedia articles written in American English\n* CS1 French-language sources (fr)\n* Commons category link from Wikidata\n* Official website different in Wikidata and Wikipedia\n* This page was last edited on 7 October 2026, at 08:47 (UTC) .\n* Page was rendered with Parsoid ."
+    ]
+   },
+   {
+    "url": "https://tracxn.com/d/companies/algolia/__gF6G4WW7-0HRy1v24WfihlrDIzEEC9pXvtiFXqLm9R4",
+    "title": "Algolia - 2026 Company Profile, Team, Funding & Competitors - Tracxn",
+    "excerpts": [
+     "Internal Server Error\n1. Discover\n2. Companies Algolia\n  Logo for Algolia\nAlgolia - Company Profile\nunicorn\nLast updated: October 16, 2026\nClaim Profile Suggest Edits\nAlgolia - About the company\nAlgolia is a series D company based in San Francisco (United States), founded in 2012 by Nicolas Dessaigne . It operates as a Developer of software for artificial intelligence search and retrieval systems. Algolia has raised $335M in funding from investors like Accel , Index Ventures and 500 Global , with a current valuation of $2.3B.\nAlgolia Brings Agentic Commerce to the Modern Storefront, Giving"
+    ]
+   },
+   {
+    "url": "https://siliconvalleyinvestclub.com/id/companies/algolia/",
+    "title": "Algolia — Company profile — Silicon Valley Investclub",
+    "excerpts": [
+     "Companies Data · Company profile\nAlgolia logo\nAlgolia\nDownload PDF\nAI search and discovery platform\nFounded 2012 HQ Palo Alto, California, United States Employees 840 Website algolia.com\nFounded year\n2012\nLatest valuation (Jul 2021)\n$2.25B\nTotal raised to date\n$366.1M\nFounded\n2012\nHeadquarters\nPalo Alto, California, United States\nAI search Search-as-a-service Discovery Recommendations APIs\nOverview\nAlgolia is a search-and-discovery platform and search-as-a-service API company that helps developers add fast, relevance-ranked search to websites, mobile apps, and other digital products.\nPublic profile pages describe scale in the tens of thousands of business customers and trillions of annual queries, while third-party company profiles place employee count around 840 and identify the company as private.\nCompany details\nLegal Name Algolia, Inc.\nWebsite algolia.com\nFounded 2012\nHeadcount 840\nHQ Palo Alto, California, United States\nIncorporated Delaware\nStructure Delaware corporation\nHeadquarters 3790 El Camino Real, Unit #518, Palo Alto, CA 94306, United States\nOffices Paris, London, New York City, Atlanta, Austin, Bucharest, Sydney\nLeadership\nNicolas Dessaigne (Founder), Julien Lemoine (Co-founder) are the founders of Algolia.\nFounded?\nAlgolia was founded in 2012.\nHeadquarters?\nAlgolia’s U.S. mailing address is 3790 El Camino Real, Unit #518, Palo Alto, CA 94306, United States.\nTotal raised?\nAlgolia has raised $366M+ (9 rounds).\nLatest valuation?\nContrary reports Algolia reached a $75 million revenue run rate in 2023, and I did not find a public source confirming profitability in the provided results.\nWho is the CEO of Algolia?\nBernadette Nixon is the CEO of Algolia.\n© 2026 Silicon Valley Investclub. All rights reserved.\nPrivacy Terms Legal Disclosures"
+    ]
+   },
+   {
+    "url": "https://theorg.com/org/algolia",
+    "title": "Algolia | The Org",
+    "excerpts": [
+     "Platform\nEnrich\nPricing\nLog in Sign up\nAlgolia logo\nAlgolia\n699 people · 0 jobs\nFollow\nAlgolia is a French startup company offering a web search product through a SaaS model.\nIndustries\nAnalytics, Information Technology +1\nHeadquarters\nSan Francisco, United States\nEmployees\n501-1,000\nLinks\nOrg chart Teams Offices\nUnverified\nOrg chart\n* Paris\n  107 people · 0 jobs\n  AH\n  99+\n* HQ\n  47 people · 0 jobs\n  KB\n  43\n* London\n  35 people · 0 jobs\n  31\n  Company\n  About Contact Blog\n  Business\n  Solutions Trust Pricing\n  Directory\n  Companies People\n  Features\n  Employer Branding Professional Networking Job Discovery\n  Social\n© 2026 Orgio, Inc.\nTerms Privacy Do not sell my info"
+    ]
+   },
+   {
+    "url": "https://www.algolia.com/about?utm_source=everydev.ai",
+    "title": "About | Algolia",
+    "excerpts": [
+     "Join us: Algolia DevCon 2026: Oct 1, 2026 — VIRTUAL Register Now\nUPDATE: Unlock the power of agentic AI with Agent Studio See what's new\n* Company\n* Partners\n* Support\n* Login\n* Logout\n  CLOSE\n* Products\n  navigation image\nAI Search & Retrieval\nEmployees advancing AI retrieval innovation\n100%\nCompliant & secure across all major certifications\n#1\nRecognized leader in the Gartner Magic Quadrant for Search & Discovery\nOur purpose\nTo transform how the world discovers information—helping people find what they need without foraging. Algolia transforms discovery into something effortless—understanding intent, surfacing what matters, and delivering results instantly.\nNo noise. No searching. Just the right product, the right content, the right answer—exactly when you need it.\nOur 18,000+ customers don’t settle. They build experiences that feel effortless, intuitive, and instantly relevant. They’re creators, disruptors, and pioneers—companies redefining how people discover products, content, and answers in a digital world. They choose Algolia not simply for speed or scale, but for precision.\nOur company values\nAt Algolia, we live our values at every level of the company, guiding how we work, collaborate, and make decisions each day.\nAlgolia is guided by innovators who’ve shaped industries—and backed by investors who’ve helped build some of the most iconic companies of our time. Visionaries from Y Combinator, Accel, Salesforce Ventures, and others believe in what we’re building. Because they’ve seen what’s possible. And so have we.\nMeet our leadership team\nOur news"
+    ]
+   }
+  ],
+  "decision_id": "decisions_e83c3c61a496998c524a7a5c6c23c3e5"
+ }
+}

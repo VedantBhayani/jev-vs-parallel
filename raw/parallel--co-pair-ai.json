@@ -1,0 +1,101 @@
+{
+ "seconds": 0.912,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.9989563321752548
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.02579323766029561
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.7188733604068629
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.9538828935280466
+   }
+  },
+  "usage": {
+   "input_tokens": 3944,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://www.ycombinator.com/companies/pair-ai",
+    "title": "Pair AI: Reimagining education with short form video and AI | Y Combinator",
+    "excerpts": [
+     "Pair AI\nReimagining education with short form video and AI\nWinter 2023\nActive\nAI-Enhanced Learning Artificial Intelligence Marketplace eLearning Creator Economy\nCompany\nJobs 3\nhttps://www.pairai.com/\nReimagining education with short form video and AI\nPair AI is Shopify for knowledge products. We empower creators, educators, and experts to launch addicting mobile-first video courses and provide AI-assisted coaching services at scale. Our platform is a one-stop shop to seamlessly monetize what you know! We make learning as fun and engaging as watching a TikTok.\nActive Founders\nParth Detroja\nParth Detroja\nFounder\nParth Detroja (CEO) is the global bestselling author of Swipe to Unlock and has launched multiple 7 figure courses. He spent the last 4 years as a Product Manager at Facebook where he patented half a dozen AI technologies. He graduated Summa Cum Laude from Cornell University.\nParth Detroja\nParth Detroja\nFounder\nSee original launch post\nTL;DR:\n✨ Our Solution\nPair is the first mobile video course platform built by creators, for creators. We are removing all the barriers holding creators back from launching information products.\nOur platform is specifically designed for structured learning through shorter - form video with our average video length being about 5 minutes.\nCreators keep a generous 90% of sales and we take 10%. With this alignment of incentives, our product roadmap prioritizes helping course creators maximize their long-term revenue above all else.\n$20 - $30 / hourly\nAny (new grads ok)\nApply Now ›\nPair AI\nPair AI\nFounded: 2022\nBatch: Winter 2023\nTeam Size: 2\nStatus: Active\nLocation: New York City, NY\nPrimary Partner: Jared Friedman\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/ai",
+    "title": "Pair AI: Reimagining education with short form video and AI | Y Combinator",
+    "excerpts": [
+     "Pair AI\nReimagining education with short form video and AI\n[Winter 2023](/companies?batch=Winter 2023)\nActive\nai-enhanced-learning artificial-intelligence marketplace elearning creator-economy San Francisco\nCompany\nJobs 0\nhttps://www.pairai.com/\nReimagining education with short form video and AI\nPair AI is Shopify for knowledge products. We empower creators, educators, and experts to launch addicting mobile-first video courses and provide AI-assisted coaching services at scale. Our platform is a one-stop shop to seamlessly monetize what you know! We make learning as fun and engaging as watching a TikTok.\nActive Founders\nParth Detroja\nParth Detroja\nFounder\nParth Detroja (CEO) is the global bestselling author of Swipe to Unlock and has launched multiple 7 figure courses. He spent the last 4 years as a Product Manager at Facebook where he patented half a dozen AI technologies. He graduated Summa Cum Laude from Cornell University.\nPair AI\nPair AI\nFounded: 2022\nBatch: Winter 2023\nTeam Size: 2\nStatus: Active\nLocation: San Francisco\nPrimary Partner: Jared Friedman\nCompany Launches\nPair AI - Monetize your knowledge in a scalable way\nSee original launch post\nTL;DR:\n✨ Our Solution\nPair is the first mobile video course platform built by creators, for creators. We are removing all the barriers holding creators back from launching information products.\nOur platform is specifically designed for structured learning through shorter - form video with our average video length being about 5 minutes.\nCreators keep a generous 90% of sales and we take 10%. With this alignment of incentives, our product roadmap prioritizes helping course creators maximize their long-term revenue above all else."
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/pair-ai/jobs",
+    "title": "Jobs at Pair AI | Y Combinator",
+    "excerpts": [
+     "Pair AI\nReimagining education with short form video and AI\nCompany\nJobs 3\nhttps://www.pairai.com/\nJobs at Pair AI\nSocial Media Creator\nRemote (US)\n$20 - $30 / hourly\nAny (new grads ok)\nApply Now ›\nFramer Designer / Developer\nRemote (US)\n$30 - $50 / hourly\n3+ years\nApply Now ›\nWebflow Designer / Developer\nRemote (US)\n$30 - $50 / hourly\n3+ years\nApply Now ›\nWhy you should join Pair AI\nPair is changing the way people learn by making it as engaging and fun as watching a TikTok video.\nOur platform is specifically designed for structured learning through short-form videos. The average completion rate for online courses is below 9% because they are not designed for our short attention spans.\nOftentimes courses are 20+ hours of content, but only contain 1-2 hours of actionable insights. Students don't want to consume long-winded lectures.\nAs successful 7-figure course entrepreneurs ourselves, we've used our experience and proprietary AI technology to reshape the course platform experience, making it more accessible and engaging for the next generation of creators.\nPair AI\nPair AI\nFounded: 2022\nBatch: W23\nTeam Size: 2\nStatus: Active\nLocation: New York City, NY\nFounders\nParth Detroja\nParth Detroja\nFounder\nParth Detroja\nParth Detroja\nFounder\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://pairai.com/",
+    "title": "Pair AI",
+    "excerpts": [
+     "Say goodbye to LeetCode interviews and hello to practical coding competition based hiring\nHire with Pair\nHire with Pair\nInstead of hiring based off resumes, Pair allows us scalably access what every single candidate  interested in the position actually brings to the table\nInstead of hiring based off resumes, Pair allows us scalably access what every single candidate  interested in the position actually brings to the table\nInstead of hiring based off resumes, Pair allows us scalably access what every single candidate  interested in the position actually brings to the table\nTelegram hires exclusively through open coding contests where candidates compete for a job. They have no recruiters or HR employees. This allows them to hire the best people in the world. You can now use Pair AI to scalably do the same at your company!\nTelegram hires exclusively through open coding contests where candidates compete for a job.\nThey have no recruiters or HR employees. This allows them to hire the best people in the world. You can now use Pair AI to scalably do the same at your company!\nTelegram hires exclusively through open coding contests where candidates compete for a job. They have no recruiters or HR employees. This allows them to hire the best people in the world.\nYou can now use Pair AI to scalably do the same at your company!\nBe the first to hear about our newest courses and product updates!\nSubmit\n© 2025 Pair AI. All rights reserved.\nPrivacy Policy\nTerms of Service\nLinkedin\n© 2025 Pair AI. All rights reserved.\nPrivacy Policy\nTerms of Service\nLinkedin\n© 2025 Pair AI. All rights reserved.\nPrivacy Policy\nTerms of Service\nLinkedin"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/launches/I9G-pair-ai-monetize-your-knowledge-in-a-scalable-way",
+    "title": "Launch YC: Pair AI - Monetize your knowledge in a scalable way | Y Combinator",
+    "excerpts": [
+     "1248\nPair AI - Monetize your knowledge in a scalable way\nBuild mobile courses with best in class gamification and AI coaching tools\nParth Detroja\nPair AI\nover 3 years ago\nEmbed\nhttps://www.pairai.com/\n#elearning #marketplace #creator_economy #ai-enhanced_learning #artificial_intelligence\nTL;DR:\nPair is the first truly mobile education platform. We make learning as fun and engaging as watching a TikTok by enabling any creator to launch premium white-label mobile courses.\nAs successful 7-figure course entrepreneurs ourselves, we have reimagined the course platform experience for the next generation of creators with best-in-class gamification tools and proprietary AI to maximize each student's learning.\n⭐️ The Team:\nuploaded image\n✨ Our Solution\nPair is the first mobile video course platform built by creators, for creators. We are removing all the barriers holding creators back from launching information products.\nOur platform is specifically designed for structured learning through shorter - form video with our average video length being about 5 minutes.\nThese tools were previously reserved for unicorn companies like Duolingo, Calm, and Headspace with large in-house engineering teams until we decided to democratize them 🙂\nPair also offers robust tooling to prevent ripping of your content and to actively search for and file takedown requests on the off chance piracy does occur.\nAnd last but not least, Pair offers best-in-class AI assistance to help you provide 1:1 coaching and personalized learning assistance to your students at scale. We do this by ingesting a creator's entire back-catalog of content to craft a chatbot that is fine-tuned to sound exactly like them."
+    ]
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/523198-09",
+    "title": "Pair AI 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "excerpts": [
+     "Pair AI\nPair AI\nThis is a profile preview from the PitchBook Platform.\nRequest a free trial\nThe company's platform offers timed real-world coding competitions, collaborative evaluation workflows, and cheating-tolerant assessments, enabling employers and engineering teams to identify capable candidates globally based on demonstrated job-relevant skills and code quality.\nContact Information\nWebsite\nwww.pairai.com\nOwnership Status\nPrivately Held (backing)\nFinancing Status\nVenture Capital-Backed\nCorporate Office\n* 5021 Sand Point Place\n* Northeast Unit C\n* Seattle, WA 98105\n* United States\n  \n  "
+    ]
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/pair-ai",
+    "title": "Pair AI - Crunchbase Company Profile & Funding",
+    "excerpts": [
+     "Resources Advanced Search\nStart Free Trial Talk With Sales Pricing Log In\nLog In Pair AI Growth Score 37 CB Rank 56009 Heat Score 66\nSave Actions\nPair AI is an AI-based mobile-first education platform.\nFounded obfuscated\nobfuscation Private Pre-Seed San Francisco , California , United States 1-10 www.pairai.com\nPair AI is an AI-based mobile-first education platform.\nFounded obfuscated\nobfuscation Private Pre-Seed San Francisco , California , United States 1-10 www.pairai.com\nArtificial Intelligence (AI) E-Learning Mobile Apps ## Funding Rounds\nPre-Seed obfuscated\nOBF in obfuscated\nobfuscation\nSeed obfuscated\nOBF in obfuscated\nobfuscation\n692\n316.87% in past month\nData source: ## IT Spend\n$804.7K This year, Pair AI is projected to spend $804.7K on IT, according to Aberdeen .\nData source: ## Active Website Tech Count\n11 Pair AI is actively using 11 technologies for its website, according to BuiltWith . These include Euro , Global Site Tag , and reCAPTCHA .\nData source: Lists Featuring This Company\nLists Featuring This Company\n3,549 Number of Organizations  • $10.9B Total Funding Amount  • 1,664 Number of Investors\nTrack\nMobile Apps Companies (Top 10K)\n9,785 Number of Organizations  • $400.2B Total Funding Amount  • 23,737 Number of Investors\nTrack\nView All Sub-Organizations Frequently Asked Questions\nWhere is Pair AI 's headquarters?\nPair AI is located in San Francisco , California , United States . Who invested in Pair AI ? Pair AI has 3 investors including Roble Ventures and Y Combinator . When was the last funding round for Pair AI ? Pair AI closed its last funding round on obfuscated\nobfuscation from a Pre-Seed round. Who are Pair AI 's competitors?"
+    ]
+   },
+   {
+    "url": "https://www.cbinsights.com/company/pair-ai",
+    "title": "Pair AI - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "excerpts": [
+     "* About Us\n* Overview\n* Our teams\n* Business Development\n* Engineering\n* Operations\n* Product\n* See all →\n* Open Jobs\nLoading...\nPair AI company logo\nThe Mosaic Score is an algorithm that measures the overall financial health and market potential of private companies.\n-42 points in the past 30 days\nAbout Pair AI\nPair AI provides AI-driven recruitment solutions for the software engineering sector. The company has a platform that allows employers to conduct coding competitions for hiring, enabling the assessment of candidates through timed coding challenges that reflect job tasks.\nPair AI serves the tech industry and offers vetting solutions that reduce reliance on traditional resume screening and recruiter involvement. It was founded in 2022 and is based in San Francisco, California.\nHeadquarters Location\nSan Francisco, California,\nUnited States\nLoading...\nLoading...\nExpert Collections containing Pair AI\nExpert Collections are analyst-curated lists that highlight the companies you need to know in the most important technology spaces.\nPair AI is included in 2 Expert Collections, including Y Combinator Winter 2023 .\nY\n* When was Pair AI founded?\nPair AI was founded in 2022.\n* Where is Pair AI's headquarters?\nPair AI's headquarters is located at San Francisco.\n* What is Pair AI's latest funding round?\nPair AI's latest funding round is Convertible Note.\n* How much did Pair AI raise?\nPair AI raised a total of $500K.\n* Who are the investors of Pair AI?\nInvestors of Pair AI include Y Combinator, Rebel Fund, Roble Ventures, GSV Ventures, SLVC and 3 more.\n* Who are Pair AI's competitors?\nCompetitors of Pair AI include Ozaru.\nLoading..."
+    ]
+   },
+   {
+    "url": "https://tracxn.com/d/companies/pair-ai/__5plTExyPXKb3cD6yPTg_PFMLhYIME-wZq5ZSqH7Qa_A",
+    "title": "Pair AI - 2026 Company Profile, Team, Funding & Competitors - Tracxn",
+    "excerpts": [
+     "1. Discover\n2. Companies Pair AI\n  Logo for Pair AI\nPair AI - Company Profile\nLast updated: August 13, 2026\n[Claim Profile](https://platform.tracxn.com/a/d/company/58de57c7e4b0372f4ed58c21/pairai/claimprofile?utm_source=product-seo page&utm_medium=companies-funding&utm_campaign=unclaimed claim profile&utm_content=cta claimprofile) Suggest Edits\nPair AI is a seed company based in San Francisco (United States), founded in 2022 by Parth Detroja and Jason Goodison . It operates as an AI-based platform offering course management solutions for instructors. Pair AI has raised $500K in funding. The"
+    ]
+   },
+   {
+    "url": "https://tracxn.com/d/companies/pairai/__5plTExyPXKb3cD6yPTg_PFMLhYIME-wZq5ZSqH7Qa_A",
+    "title": "Pair AI - 2026 Company Profile, Team, Funding & Competitors - Tracxn",
+    "excerpts": [
+     "1. Discover\n2. Companies Pair AI\n  Logo for Pair AI\nPair AI - Company Profile\nLast updated: April 24, 2026\n[Claim Profile](https://platform.tracxn.com/a/d/company/58de57c7e4b0372f4ed58c21/claimprofile?utm_source=product-seo page&utm_medium=companies-funding&utm_campaign=unclaimed claim profile&utm_content=cta claimprofile) Suggest Edits\nPair AI - About the company\nPair AI is a seed company based in San Francisco (United States), founded in 2022 by Parth Detroja and Jason Goodison . It operates as an AI-based platform offering course management solutions for instructors. Pair AI has raised"
+    ]
+   }
+  ],
+  "decision_id": "decisions_a5e67d212abaa6eedd512826d62f7495"
+ }
+}

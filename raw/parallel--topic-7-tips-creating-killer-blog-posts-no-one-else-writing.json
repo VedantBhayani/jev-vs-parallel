@@ -1,0 +1,89 @@
+{
+ "seconds": 0.858,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "published": {
+    "type": "noul",
+    "noul": 0.9700705298627111
+   }
+  },
+  "usage": {
+   "input_tokens": 3688,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://www.singlegrain.com/blog-posts/blogging/",
+    "title": "Blogging Archives - Single Grain",
+    "excerpts": [
+     "Trying to increase engagement and conversions from your blog for a better ROI can be frustrating. The secret is data driven posts—and I’ll show you how.\nRead full article —\n7 Tips to Creating Killer Blog Posts that No One Else Is Writing\nAna Gotter\n7 Tips to Creating Killer Blog Posts that No One Else Is Writing"
+    ]
+   },
+   {
+    "url": "https://www.singlegrain.com/blog/ms/content-is-king",
+    "title": "Written Content Is King Now More Than Ever (Here's Why)",
+    "excerpts": [
+     "Written Content Is King Now More Than Ever (Here's Why)\nSingle Grain is a full-service digital marketing agency that helps great companies grow their revenues online. Get in touch: contact@"
+    ]
+   },
+   {
+    "url": "https://www.singlegrain.com/blog/",
+    "title": "What&#039;s New In Digital Marketing Blog",
+    "excerpts": [
+     "<AI-Native Marketer: A Glimpse>\nMarketing School\nAI-Native Marketer: A Glimpse\nInterest media rewards posts over follower count, and building a brand takes over ten years.\n<80029What’s New In Digital Marketing Blog>\nEric Siu\nPull HubSpot deal context, Slack account activity, and Stripe renewal timing into one agent ask before renewals slip.\nI am also interested in AI consulting and implementation\nSubscribe to our Leveling Up newsletter for the newest marketing updates and tips every week.\n★★★★★\n\"Single Grain was instrumental to our growth. They're especially ahead of the game with AI.\"\n— Yaniv Masjedi, Co-Founder & CMO, Nextiva\n🔒 Your info is safe with us - We never share your data\n\"@context\": \"http://schema.org/\",\n\"@type\": \"LocalBusiness\",\n\"@id\": \"https://www.singlegrain.com/\",\n\"name\": \"Single Grain, LLC\",\n\"description\": \"Single Grain is a revenue-focused digital marketing agency that helps venture backed startups to Fortune 500 companies grow their revenues online.\",\n\"logo\": \"https://www.singlegrain.com/wp-content/themes/singlegrain/assets/legacy/images/def-logo.png\",\n\"image\": \"https://www.singlegrain.com/wp-content/themes/singlegrain/assets/legacy/images/def-logo.png\",\n\"url\": \"https://www.singlegrain.com\",\n\"telephone\": \"800-701-0793\",\n\"address\": {\n\"@type\": \"PostalAddress\",\n\"streetAddress\": \"2121 Biscayne Blvd #1184\",\n\"addressLocality\": \"Miami\",\n\"addressRegion\": \"FL\",\n\"postalCode\": \"33137\",\n\"addressCountry\": \"US\"\n}\n}\n[{\"@context\":\"https://schema.org/\",\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.singlegrain.com/blog/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@id\":\"https://www.singlegrain.com\",\"name\":\"Single Grain\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@id\":\"https://www.singlegrain.com/blog/\",\"name\":\"What’s New In Digital"
+    ]
+   },
+   {
+    "url": "https://www.singlegrain.com/blog-posts/5-great-ways-to-ideate-for-your-blog-posts",
+    "title": "30 Ways to Come Up with Great Ideas for Your Blog Posts",
+    "excerpts": [
+     "30 Ways to Come Up with Great Ideas for Your Blog Posts\n27 Mar 2020 — The best way to ideate new topics for your company blog is to simply ... Add new, relevant context; Replace broken links; Update \n30 Ways to Come Up with Great Ideas for Your Blog Posts\nNov 17, 2023 — We have a number of posts on the Single Grain blog about the mistakes we made — our SEO mistakes, keyword mistakes, marketing failures, taking\n30 Ways to Come Up with Great Ideas for Your Blog Posts\nMar 27, 2020 — Ask Your Network for Ideas. Reach out through email, social media or in person to figure out what topics they would be interested in reading\n30 Ways to Come Up with Great Ideas for Your Blog Posts\nMar 27, 2020 — Ryan Bozeman is a B2B writer from Seattle, WA specializing in long-form digital content. You can find him on Twitter discussing content\n30 Ways to Come Up with Great Ideas for Your Blog Posts\n30 Ways to Come Up with Great Ideas for Your Blog Posts\nTheir blog post details how they used content marketing to grow their organic traffic and generate more than 10,000 leads for their SaaS software solution:"
+    ]
+   },
+   {
+    "url": "https://www.singlegrain.com/agency/blog-writing-services/",
+    "title": "Blog Writing Services: Quality Blog Content - Single Grain",
+    "excerpts": [
+     "* Blog Blog Youtube Youtube Leveling Up Podcast Leveling Up Podcast Marketing School Podcast Marketing School Podcast AI Tools AI Tools\n* Top 5 Blog Posts\n* Just the Stats: Why Should You Leverage Video Marketing\n* 20 Pre-Production Tips to Create Successful Video Content in 2025\n* Everything You Need To Know About Facebook’s News Feed Algorithm\nPublish Content That Ranks with Single Grain's Blog Writing Services\nWe plan, write, and optimize authoritative blog posts that attract qualified visitors and turn attention into pipeline. Our editors, SMEs, and SEO specialists run a consistent publishing engine from research to on-page SEO, visuals, and repurposing.\nGet Blog Content That Converts\nWhy Your Brand Needs Strategic Blogging\nWe collaborate with product, sales, and PR to align content with campaigns.\nWe Optimize End to End\nStrategy, writing, SEO, UX, and distribution work together. This integrated approach compounds results over time.\nReady to Publish Blogs That Perform ?\nStop guessing with sporadic posts.\nBlogs aren’t dead—bad blogs are.\nPublish, Rank & Grow\nSingle Grain Logo\nSingle Grain is a full-service digital marketing agency that helps great companies grow their revenues online.\nGrow My Marketing Without More Headcount\nThank you!\nYou’ll be hearing from us very soon.\nClose Visit SingleGrain.com\najax-loader\nClickFlow’s AI plans and writes production-grade content — so you don’t need 10 more writers and editors. Early adopters average 27% more organic traffic in 6 months.\nStart Free Trial (14 days)\nKarrot.ai Karrot\nABM & Demand Gen Teams\n“Our LinkedIn ads lack ABM personalization”"
+    ]
+   },
+   {
+    "url": "https://www.singlegrain.com/blog-posts/content-marketing/5-killer-blog-engagement-strategies/",
+    "title": "5 Killer Blog Engagement Strategies - Single Grain",
+    "excerpts": [
+     "Free Consultation\nAll Artificial Intelligence Marketing 101 SEO Social Media Marketing Strategy ABM Content Marketing Pay Per Click\n5 Killer Blog Engagement Strategies\nEric Siu\nLast updated: October 16th, 2024\nChatGPT Summarize with ChatGPT Ask questions about this article Arrow\nDid you know that 81% of bloggers never make $100 from blogging and that only 8% of bloggers will earn enough money to be able to support a family? Shocking right?\nThis post on Kissmetrics on the advantages of email marketing is a good read if you are looking to understand how important email is to the life of your blog.\nFinally, in order to engage with your readers effectively, you must provide them with valuable content. Neil Patel in his post “ Why Content Marketing Is The New SEO ”, breaks it down in numbers just how important providing your readers with very valuable information is to your business or blog.\nThe key however, is to be consistent in your approach. Laziness doesn’t cut it here. In essence, you should stick to a plan. Posting content sporadically on your blog is the fastest way to loose readers.\nIt not only shows that you aren’t serious, but also that you don’t have  a lack of appreciation for your readers.\nof Generic Keywords\nSingle Grain Logo Single Grain\nSingle Grain is a full-service digital marketing agency that helps great companies grow their revenues online. Get in touch: contact@singlegrain.com\nYou’ll be hearing from us very soon.\nClose Visit SingleGrain.com\najax-loader\n×\nClickFlow’s AI plans and writes production-grade content — so you don’t need 10 more writers and editors. Early adopters average 27% more organic traffic in 6 months.\nStart Free Trial (14 days)\nKarrot.ai Karrot\nABM & Demand Gen Teams\n“Our LinkedIn ads lack ABM personalization”"
+    ]
+   },
+   {
+    "url": "https://www.singlegrain.com/blog/ppc-strategies",
+    "title": "13 Best PPC Strategies to Easily Maximize Your ROAS",
+    "excerpts": [
+     "\"@context\": \"http://schema.org/\",\n\"@type\": \"LocalBusiness\",\n\"@id\": \"https://www.singlegrain.com/\",\n\"name\": \"Single Grain, LLC\",\n\"description\": \"Single Grain is a revenue-focused digital marketing agency that helps venture backed startups to Fortune 500 companies grow their revenues online.\",\n\"logo\": \"https://www.singlegrain.com/wp-content/themes/singlegrain/assets/legacy/images/def-logo.png\",\n\"image\": \"https://www.singlegrain.com/wp-content/themes/singlegrain/assets/legacy/images/def-logo.png\",\n\"url\": \"https://www.singlegrain.com\",\n\"telephone\": \"800-701-0793\",\n\"address\": {\n\"@type\": \"PostalAddress\",\n{\"@context\":\"https://schema.org/\",\"@graph\":[{\"@context\":\"https://schema.org/\",\"@type\":\"ItemList\",\"itemListElement\":[{\"@type\":\"VideoObject\",\"position\":1,\"@id\":\"https://www.singlegrain.com/blog/ppc-strategies/#1\",\"name\":\"Performance Max campaigns: The basics\nMedia\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@id\":\"https://www.singlegrain.com/pay-per-click-2/\",\"name\":\"Pay Per Click\"}},{\"@type\":\"ListItem\",\"position\":4,\"item\":{\"@id\":\"https://www.singlegrain.com/blog/ppc-strategies/\",\"name\":\"12 PPC Strategies to Easily Maximize Your ROAS - Single Grain\"}}]},\n{\"@context\":\"https://schema.org/\",\"@type\":\"Article\",\"@id\":\"https://www.singlegrain.com/blog/ppc-strategies/#Article\",\"url\":\"https://www.singlegrain.com/blog/ppc-strategies/\",\"inLanguage\":\"en-US\",\"mainEntityOfPage\":\"https://www.singlegrain.com/blog/ppc-strategies/\",\"headline\":\"12 PPC Strategies to Easily Maximize Your ROAS - Single\nRaza.\",\"datePublished\":\"2023-06-14T13:00:15-07:00\",\"dateModified\":\"2024-10-25T13:17:07-07:00\",\"author\":{\"@type\":\"Person\",\"name\":\"Joydeep Bhattacharya\",\"description\":\"Joydeep Bhattacharya is a digital marketing evangelist and author of the popular SEO blog SEOsandwitch.com."
+    ]
+   },
+   {
+    "url": "https://www.singlegrain.com/content-strategy-agency",
+    "title": "Content Strategy Agency - Single Grain",
+    "excerpts": [
+     "This involves identifying the kind of answers and solutions your ideal customers are searching for and determining the right types of content (blog posts, videos, infographics, ebooks, and even email marketing) to provide those solutions.\n* How do I know I’m getting a good ROI from my content strategy?\nThanks to a well-devised strategy, our content marketing agency ranks #1 on Google for key terms like “marketing trends” and “SEO techniques,” and we regularly demonstrate our skills and expertise through high-quality blog posts such as:\n* How to Create a High-Performing Content Marketing Strategy\n* How to Measure Your Content Marketing ROI with Google Analytics\n* The Beginner’s Guide to Creating a Content Marketing Strategy\n* 30 Actionable Content Marketing Tips for Digital Marketers\n* How to Create a Killer SaaS Content Marketing Strategy\nUnsure Less than $3,000 $3,000 to $10,000 $10,000 to $20,000 $20,000 to $50,000 $50,000 to $100,000 $100,000+\nPhone number\nWhat kind of help are you looking for?\nHow did you first hear about us?\nI am also interested in AI consulting and implementation\nSubscribe to our Leveling Up newsletter for the newest marketing updates and tips every week.\n★★★★★\n\"Single Grain was instrumental to our growth. They're especially ahead of the game with AI.\"\n— Yaniv Masjedi, Co-Founder & CMO, Nextiva\n🔒 Your info is safe with us - We never share your data\nGrow My Marketing Without More Headcount\nThank you!\nYou’ll be hearing from us very soon.\nClose Visit SingleGrain.com\nWebsite\nClickFlow’s AI plans and writes production-grade content — so you don’t need 10 more writers and editors. Early adopters average 27% more organic traffic in 6 months.\nStart Free Trial (14 days)\nKarrot\nABM & Demand Gen Teams\n“Our LinkedIn ads lack ABM personalization”"
+    ]
+   },
+   {
+    "url": "http://bjhtrade.com/index-942.html",
+    "title": "Content Marketing Archives - Single Grain",
+    "excerpts": [
+     "Discover content repurposing strategies using Reddit. Learn to turn high-engagement threads into blogs, videos, and emails that drive traffic.\nRead full article —\nTurning Webinars and Podcasts Into AI-Discoverable Assets\nEric Siu\nLearn AI content repurposing for webinars and podcasts.\nDiscover AI-assisted tools transforming content creation. Enhance efficiency, save time, and balance creativity with AI innovation.\nRead full article —\nKiller Tips For Content Marketing To Generate Digital Buzz\nEric Siu\nExplore practical tips for content marketing that will build a strong online presence.\nPosts navigation\n★★★★★\n\"Single Grain was instrumental to our growth. They're especially ahead of the game with AI.\"\n— Yaniv Masjedi, Co-Founder & CMO, Nextiva\n🔒 Your info is safe with us - We never share your data\nGrow My Marketing Without More Headcount\nThank you!\nYou’ll be hearing from us very soon.\nClose Visit SingleGrain.com\najax-loader"
+    ]
+   },
+   {
+    "url": "https://www.lifehack.org/articles/productivity/10-writing-tips-for-bloggers.html",
+    "title": "10 Writing Tips For Bloggers",
+    "excerpts": [
+     "10 Writing Tips For Bloggers\nAre you a blogger? This useful list covers 10 tips and tricks to make your blog posts to go from filler to killer, to make your blog as popular as possible.\nAuthor Amy Johnson\nCategory Productivity\nTable of Contents\n1. Make Your Content Something You Are Knowledgeable and Passionate About\n2. Create A List Of Blog Post Ideas\n3. Think About How To Make Your Content Unique\n4. Don’t Proofread Your Post Straight Away\n5. Focus On Your Opening Line\n6. Develop A Writing Voice\n7. Stay On Topic\n8. Put Thought And Effort Into Your Title\n9. Make Your Posts Timeless\n10.\n6. Develop A Writing Voice\nPopular bloggers normally have a certain style they choose to write in. This makes their posts consistent, and will help you to get used to writing in a blogging style.\nThink about how you want your posts to come across. Do you want to seem light-hearted and colloquial, or perhaps more serious?\n7. Stay On Topic\n10. Focus On The Point Of Your Post\nMany bloggers can struggle to continuously come up with new and unique ideas for blog posts, but without a focus point, your post may be less useful. You already know what the subject of your blog is, so ask yourself these questions if you’re struggling to find a point in your post:\n- What am I trying to communicate?\n- How does this benefit my reader?\nKeep Reading\nProductivity Aug 26, 2013\n25 Blogging Tips for Fresh Bloggers\nYou learn something new every day. If you are new to blogging, then check out these blogging tips to make your fresh start a successful one.\nProductivity Dec 1, 2014"
+    ]
+   }
+  ],
+  "decision_id": "decisions_23337b996f0c470d2f79130c5dd7b4e1"
+ }
+}

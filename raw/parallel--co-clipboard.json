@@ -1,0 +1,101 @@
+{
+ "seconds": 0.878,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.9972718627976502
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.0013802475461259112
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.9373432178054403
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.9984425180223
+   }
+  },
+  "usage": {
+   "input_tokens": 4419,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://www.ycombinator.com/companies/clipboard/jobs",
+    "title": "Jobs at Clipboard | Y Combinator",
+    "excerpts": [
+     "Clipboard\nEvery shift, Covered.\nCompany\nJobs 28\nhttps://www.clipboardworks.com/careers\nJobs at Clipboard\nChief of Staff, Product\nHybrid (San Francisco, CA)\n$180K - $260K\n3+ years\nApply Now ›\nForward Deployed Analyst\nHybrid (San Francisco, CA) / Remote (US)\n$120K - $160K\n1+ years\nApply Now ›\nProduct Manager\nHybrid (San Francisco, CA) / New York City (Hybrid) / Remote (San Francisco, CA, US; New York, NY, US)\n$185K - $275K\n5+ years\nApply Now ›\nThis enables hundreds of thousands of people to achieve financial stability for themselves and their families while providing essential care to millions of people across the U.S.\nFounded in 2016, we are a remote-first team of over 1,000 people building a top YC company and have been profitable since 2022.\nWe’re the leader in Long-Term Care staffing and are rapidly expanding into Home Health, Hospitals, and more, meaning we have more work to do than people to do it, and are growing our team to support millions more people and their communities.\nClipboard\nClipboard\nFounded: 2016\nBatch: W17\nTeam Size: 1000\nStatus: Active\nLocation: San Francisco\nX (Twitter) logo\nFounders\nWei Deng\nWei Deng\nCEO\nWei Deng\nWei Deng\nCEO\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/clipboard/jobs/bdAAsYH-client-support-specialist-workplaces-b2b",
+    "title": "Client Support Specialist (Workplaces - B2B) at Clipboard | Y Combinator",
+    "excerpts": [
+     "Clipboard\nEvery shift, Covered.\nClient Support Specialist (Workplaces - B2B)\n• Remote (US)\nJob type\nFull-time\nRole\nSupport\nExperience\nAny (new grads ok)\nVisa\nUS citizen/visa only\nApply to Clipboard and hundreds of other fast-growing YC startups with a single profile.\nApply to role ›\nAbout the role\nAbout Clipboard\nThis enables hundreds of thousands of people to achieve financial stability for themselves and their families while providing essential care to millions of people across the U.S.\nFounded in 2016, we are a remote-first team of over 1,000 people building a top Y-Combinator company and have been profitable since 2022.\nAbout the Role\nClipboard is looking for highly motivated, customer-focused individuals to join our team as B2B Client Support Specialists (Workplace Support Agents).\nThis role is open to candidates of all experience levels—what matters most is your ability to handle business customers professionally and solve problems effectively. No specific degree required.\nSuccess Factors\nThis enables hundreds of thousands of people to achieve financial stability for themselves and their families while providing essential care to millions of people across the U.S.\nFounded in 2016, we are a remote-first team of over 1,000 people building a top YC company and have been profitable since 2022.\nWe’re the leader in Long-Term Care staffing and are rapidly expanding into Home Health, Hospitals, and more, meaning we have more work to do than people to do it, and are growing our team to support millions more people and their communities.\nClipboard\nClipboard\nFounded: 2016\nBatch: W17\nTeam Size: 1000\nStatus: Active\nLocation: San Francisco\nX (Twitter) logo\nFounders\nWei Deng\nWei Deng\nCEO\nWei Deng\nWei Deng\nCEO\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/clipboard/jobs/cKYpkSS-account-manager",
+    "title": "Account Manager  at Clipboard | Y Combinator",
+    "excerpts": [
+     "Clipboard\nEvery shift, Covered.\nAccount Manager\n$90K - $105K CAD • CA / Remote (CA)\nJob type\nFull-time\nRole\nSales\nExperience\n5+ years\nVisa\nUS citizenship/visa not required\nApply to Clipboard and hundreds of other fast-growing YC startups with a single profile.\nApply to role ›\nAbout the role\nAbout Clipboard\nThis enables hundreds of thousands of people to achieve financial stability for themselves and their families while providing essential care to millions of people across the U.S.\nFounded in 2016, we are a remote-first team of over 1,000 people building a top Y-Combinator company and have been profitable since 2022.\nThe Account Manager ensures the continued success of the partnership between Clipboard and its facility partners, working to deliver an optimal experience at every level of clients’ organizations.\nAbout Clipboard\nThis enables hundreds of thousands of people to achieve financial stability for themselves and their families while providing essential care to millions of people across the U.S.\nFounded in 2016, we are a remote-first team of over 1,000 people building a top YC company and have been profitable since 2022.\nWe’re the leader in Long-Term Care staffing and are rapidly expanding into Home Health, Hospitals, and more, meaning we have more work to do than people to do it, and are growing our team to support millions more people and their communities.\nClipboard\nClipboard\nFounded: 2016\nBatch: W17\nTeam Size: 1000\nStatus: Active\nLocation: San Francisco\nX (Twitter) logo\nFounders\nWei Deng\nWei Deng\nCEO\nWei Deng\nWei Deng\nCEO\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/clipboard/jobs/RbmLOFG-tooling-program-manager",
+    "title": "Tooling Program Manager at Clipboard | Y Combinator",
+    "excerpts": [
+     "Clipboard\nEvery shift, Covered.\nTooling Program Manager\n• Remote (US)\nJob type\nFull-time\nRole\nOperations\nExperience\n5+ years\nVisa\nUS citizen/visa only\nApply to Clipboard and hundreds of other fast-growing YC startups with a single profile.\nApply to role ›\nAbout the role\nAbout Clipboard\nThis enables hundreds of thousands of people to achieve financial stability for themselves and their families while providing essential care to millions of people across the U.S.\nFounded in 2016, we are a remote-first team of over 1,000 people building a top Y-Combinator company and have been profitable since 2022.\nWe’re the leader in Long-Term Care staffing and are rapidly expanding into Home Health, Hospitals, and more, meaning we have more work to do than people to do it, and are growing our team to support millions more people and their communities.\nThe Technical Operations team is hiring a Tooling Program Manager to own and scale our internal automation and AI tooling portfolio.\nAbout Clipboard\nThis enables hundreds of thousands of people to achieve financial stability for themselves and their families while providing essential care to millions of people across the U.S.\nFounded in 2016, we are a remote-first team of over 1,000 people building a top YC company and have been profitable since 2022.\nWe’re the leader in Long-Term Care staffing and are rapidly expanding into Home Health, Hospitals, and more, meaning we have more work to do than people to do it, and are growing our team to support millions more people and their communities.\nClipboard\nClipboard\nFounded: 2016\nBatch: W17\nTeam Size: 1000\nStatus: Active\nLocation: San Francisco\nX (Twitter) logo\nFounders\nWei Deng\nWei Deng\nCEO\nWei Deng\nWei Deng\nCEO\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/clipboard",
+    "title": "Clipboard: Every shift, Covered. | Y Combinator",
+    "excerpts": [
+     "Clipboard\nEvery shift, Covered.\nWinter 2017\nActive\nMarketplace Consumer Health Services Health Tech Healthcare San Francisco\nCompany\nJobs 28\nNews\nhttps://www.clipboardworks.com/careers\nEvery shift, Covered.\nOur Team Founded in 2016, we are a remote-first team of over 1,000 people working to uplift communities across the country.\nActive Founders\nWei Deng\nWei Deng\nFounder/CEO\nI'm a graduate of Yale and Yale Law School.\nHave done law, finance, product and operations, and am currently running a company that matches healthcare facilities with available nurses nearby.\nWei Deng\nWei Deng\nFounder/CEO\nI'm a graduate of Yale and Yale Law School.\nHave done law, finance, product and operations, and am currently running a company that matches healthcare facilities with available nurses nearby.\nLatest News\nClipboard Health, which matches health workers with facilities, raises $80M – TechCrunch\nApr 18, 2022\nJobs at Clipboard\nView all jobs\nClient Support Specialist (Healthcare Facilities - B2B)\nRemote\n1+ years\nApply Now ›\nOnboarding Documents Associate\nRemote (US)\n1+ years\nApply Now ›\nClient Support Specialist (Workplaces - B2B)\nRemote (US)\nAny (new grads ok)\nApply Now ›\nTooling Program Manager\nRemote (US)\n5+ years\nApply Now ›\nRevenue Strategy & Growth Associate\nRemote (US)\nAny (new grads ok)\nApply Now ›\nClipboard\nClipboard\nFounded: 2016\nBatch: Winter 2017\nTeam Size: 1000\nStatus: Active\nLocation: San Francisco\nPrimary Partner: Garry Tan\nX (Twitter) logo\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.clipboardworks.com/careers",
+    "title": "Clipboard | Careers",
+    "excerpts": [
+     "I love getting to build a company where I’m surrounded by people who not only challenge me intellectually but also bring genuine joy and laughter to my life. There is nothing more refreshing than waking up excited each morning about the problems we get to solve and the people I get to solve them with.\nRiley\nRiley\nWe’re a labor marketplace that supports the healthcare, dental, and childcare industries.\nEvery day, workers browse tens of thousands of shifts posted by facilities around the U.S. and provide care to hundreds of thousands of patients, students, and families.\nOur Culture\nClipboard is remote first, high trust, and written. We thrive on autonomy, make decisions in live documents, and move fast so our customers can work faster.\nWe also laugh a ton, celebrate wins in a big way, and send way too many memes.\nOUR IMPACT\n$1.3B Valuation\nbacked by Sequoia and Y‑Combinator\n9M+\nshifts covered across healthcare industries\nProfitable\nsince 2022 with heavy reinvestment in growth\nRemote First\nwith offices in LA, NYC, SF, and Seattle\n$1.3B Valuation\nbacked by Sequoia and Y‑Combinator\n9M+\nshifts covered across healthcare industries\nProfitable\nsince 2022 with heavy reinvestment in growth\nRemote First\nwith offices in LA, NYC, SF, and Seattle\nWant to Learn More?\nVisit our Hiring Hub to learn more about our teams and culture, or read some of our blogs to get a better sense for the work we do and how we do it.\nVisit Our Hiring Hub Read Our Blog\nOpen Roles\nOwn your work, build your career.\nView all open positions on our hiring hub →\nClipboard\n© 2026 Twomagnets LLC d/b/a Clipboard Health\nCompany\nCareers About Blog\nLegal\nTerms Privacy CA Privacy Do Not Sell My Information\nLegal\nTerms Privacy CA Privacy Do Not Sell My Information"
+    ]
+   },
+   {
+    "url": "https://www.clipboard.com/careers",
+    "title": "Careers | Clipboard",
+    "excerpts": [
+     "I love getting to build a company where I’m surrounded by people who not only challenge me intellectually but also bring genuine joy and laughter to my life. There is nothing more refreshing than waking up excited each morning about the problems we get to solve and the people I get to solve them with.\nRiley\nRiley\nClipboard is remote first, high trust, and written. We thrive on autonomy, make decisions in live documents, and move fast so our customers can work faster.\nWe also laugh a ton, celebrate wins in a big way, and send way too many memes.\nOUR IMPACT\n$1.3B Valuation\nbacked by Sequoia and Y‑Combinator\n9M+\nshifts covered across healthcare industries\nProfitable\nsince 2022 with heavy reinvestment in growth\nRemote First\nwith offices in LA, NYC, SF, and Seattle\n$1.3B Valuation\nbacked by Sequoia and Y‑Combinator\n9M+\nshifts covered across healthcare industries\nProfitable\nsince 2022 with heavy reinvestment in growth\nRemote First\nwith offices in LA, NYC, SF, and Seattle\nWant to Learn More?\nVisit our Hiring Hub to learn more about our teams and culture, or read some of our blogs to get a better sense for the work we do and how we do it.\nVisit Our Hiring Hub Read Our Blog\nOpen Roles\nOwn your work, build your career.\nView all open positions on our hiring hub →\nClipboard\n© 2026 Twomagnets LLC d/b/a Clipboard Health\nHome Health & Hospice Long-Term Care Hospitals Dental Infusion Nursing Travel\nCompany\nCareers About Blog All Posts Newsroom\nCompany\nCareers About Blog All Posts Newsroom\nLegal\nTerms Privacy Do Not Sell My Information Biometric Data\nLegal\nTerms Privacy Do Not Sell My Information Biometric Data"
+    ]
+   },
+   {
+    "url": "https://www.cbinsights.com/company/clipboard",
+    "title": "Clipboard - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "excerpts": [
+     "Clipboard provides an online clipping service. It offers a site that can save and share images and data from the website. It allows users to gather links on various topics and store them online. It was founded in 2011 and is based in Bellevue, Washington. In May 2013, Clipboard was acquired by Salesforce.\nHeadquarters Location\n10220 Northeast 1st Place Suite 100\nBellevue, Washington, 98004,\nUnited States\nLoading...\nLoading...\nClipboard Patents\nClipboard has filed 2 patents.\nThe 3 most popular patent topics include:\nBeloved Silicon Valley entrepreneur Blake Krikorian has died\nAug 4, 2016\nBeloved Silicon Valley entrepreneur Blake Krikorian has died The Slingbox founder had been involved with Microsoft, Amazon and dozens of startups Linkedin Blake Krikorian, longtime and much beloved Silicon Valley entrepreneur, died yesterday.\n(I will update this to reflect any information about a memorial event for Krikorian and can pass along any condolences sent to me to the family. ) recode_divider\nMay 10, 2013\nWeb Clipping Service Clipboard Acquired By Salesforce For $12M, Will Be Shuttered On June 30th\nMay 10, 2013\nSalesforce Collects Flake and His Seattle Startup Clipboard\nMay 10, 2013\nSalesforce buys (and shutters) Pinterest clone Clipboard\nMay 10, 2013\nSalesforce acquires visual web clipping service Clipboard\nLearn more by requesting a demo\nThe company offers services such as audit, financial accounting advisory, strategic consulting, tax compliance, transaction advisory, and sustainability consulting. EY serves sectors including financial services, government and public sector, health, technology, media & entertainment, and telecommunications. EY was formerly known as Ernst & Young."
+    ]
+   },
+   {
+    "url": "https://www.clipboardworks.com/",
+    "title": "Clipboard | Cover Every Shift",
+    "excerpts": [
+     "Post your open shifts and we'll connect you with qualified professionals to fill them.\nWorkplaces: Get Started\nProfessionals: Sign-Up\nOver 6,500 workplaces and 1 million workers across the U.S. use Clipboard.\ncheckmark\nShifts are filled by reliable workers in minutes\ncheckmark\nWorkers are vetted and screened in advance\ncheckmark\nEverything, from posting to payment, is in one place\nWorkplaces: Get Started\nProfessionals: Sign-Up\nClipboard\n© 2026 Twomagnets LLC d/b/a Clipboard Health\nCustomers\nWorkplace Login Customer Stories Events For Workers Pricing Support\nCustomers\nWorkplace Login Customer Stories Events For Workers Pricing Support\nIndustries\nHome Health & Hospice Long-Term Care Hospitals Dental Travel\nIndustries\nHome Health & Hospice Long-Term Care Hospitals Dental Travel\nCompany\nCareers About Blog\nCompany"
+    ]
+   },
+   {
+    "url": "https://www.tamtam.ai/c/clipboard",
+    "title": "Clipboard: Connecting professionals with shifts | Tamtam",
+    "excerpts": [
+     "Tamtam Try Tamtam free\nTamtam › Companies › Clipboard\nClipboard logo\nClipboard\nConnecting professionals with shifts\n* B2B\n  Overview Phone number\nAbout Clipboard\nPlatform connecting healthcare facilities and schools with local professionals for unfilled shifts, improving care and offering flexible, higher-paying work.\nKey facts\nIndustry Internet Marketplace Platforms\nCompany size 1,001–5,000 employees\nHeadquarters san francisco, california, United States\nFounded 2016\nRevenue $73.2M – $1.8B Tamtam estimate\nWebsite clipboardworks.com\nLinkedIn linkedin.com/company/clipboard\nClipboard at a glance\nClipboard is a B2B company in the Internet Marketplace Platforms industry, headquartered in san francisco, california, United States.\nClipboard was founded in 2016.\nClipboard has 1,001–5,000 employees.\nClipboard's revenue is $73.2M – $1.8B (Tamtam estimate).\nFrequently asked questions about Clipboard\nWhat is Clipboard's revenue?\nTamtam estimates Clipboard's annual revenue at $73.2M – $1.8B.\nHow many employees does Clipboard have?\nClipboard has 1,001–5,000 employees.\nWhere is Clipboard headquartered?\nClipboard is headquartered in san francisco, california, United States.\nSelling to companies like Clipboard?"
+    ]
+   }
+  ],
+  "decision_id": "decisions_56a68c49eb1739262fd1f5dabeb0853b"
+ }
+}

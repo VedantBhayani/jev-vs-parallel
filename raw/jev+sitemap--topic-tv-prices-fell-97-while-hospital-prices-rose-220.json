@@ -1,0 +1,16 @@
+{
+ "seconds": 0.315,
+ "response": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "published": {
+    "type": "noul",
+    "noul": 0.13
+   }
+  },
+  "usage": {
+   "input_tokens": 670,
+   "output_tokens": 20
+  }
+ }
+}

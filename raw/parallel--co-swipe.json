@@ -1,0 +1,101 @@
+{
+ "seconds": 0.981,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.011716131954662855
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.9439869047494576
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.9016436216958159
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.009944152409607568
+   }
+  },
+  "usage": {
+   "input_tokens": 3316,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://www.ycombinator.com/companies/swipe-2/jobs",
+    "title": "Jobs at Swipe | Y Combinator",
+    "excerpts": [
+     "Swipe\nSuper AI Accountant for SMBs\nCompany\nJobs 0\nhttps://getswipe.in\nJobs at Swipe\nNo jobs at Swipe are currently posted on the YC platform.\nSwipe\nSwipe\nFounded: 2021\nBatch: S21\nTeam Size: 60\nStatus: Active\nLocation: Hyderabad, India\nFounders\nSri Teja Allaparthi\nSri Teja Allaparthi\nFounder\nSri Teja Allaparthi\nSri Teja Allaparthi\nFounder\nAditya Vemuganti\nAditya Vemuganti\nFounder\nAditya Vemuganti\nAditya Vemuganti\nFounder\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/swipe-technologies/jobs",
+    "title": "Jobs at Swipe Technologies | Y Combinator",
+    "excerpts": [
+     "Swipe Technologies\nBuilding modern payments, accounting and cashflow management tools…\nCompany\nJobs 0\nhttps://getswipe.com\nJobs at Swipe Technologies\nNo jobs at Swipe Technologies are currently posted on the YC platform.\nSwipe Technologies\nSwipe Technologies\nFounded: 2020\nBatch: W20\nTeam Size: 20\nStatus: Active\nLocation: London, United Kingdom\nFounders\nJesse Ahin\nJesse Ahin\nFounder\nJesse Ahin\nJesse Ahin\nFounder\nFooter\nY Combinator Y Combinator\nMake something people want.\nPrograms\n* YC Blog\n* Contact\n* Press\n* People\n* Careers\n* Privacy Policy\n* Notice at Collection\n* Security\n* Terms of Use\n  Twitter Facebook Instagram LinkedIn Youtube\n  © 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/swipe-technologies",
+    "title": "Swipe Technologies: Building modern payments, accounting and cashflow management tools… | Y Combinator",
+    "excerpts": [
+     "Swipe Technologies\nBuilding modern payments, accounting and cashflow management tools…\nWinter 2020\nActive\nFintech Payments B2B\nCompany\nJobs 0\nNews\nhttps://getswipe.com\nBuilding modern payments, accounting and cashflow management tools…\nSwipe is building modern modern payments, accounting and cashflow management tools for businesses. We own and operate Float, a global b2b payments platform and Accounteer - a cloud accounting and bookkeeping platform for businesses and freelancers.\nActive Founders\nJesse Ahin\nJesse Ahin\nFounder\nFounder at Swipe\nJesse Ahin\nJesse Ahin\nFounder\nFounder at Swipe\nLatest News\nGhanaian fintech Float raises $17M seed to power cash flow for commerce in Africa – TechCrunch\nJan 17, 2022\nFloat wants to provide liquidity to African SMBs in a way never done before – TechCrunch\nJun 09, 2021\nSwipe Technologies\nSwipe Technologies\nFounded: 2020\nBatch: Winter 2020\nTeam Size: 20\nStatus: Active\nLocation: London, United Kingdom\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/swipe-2",
+    "title": "Swipe: Super AI Accountant for SMBs | Y Combinator",
+    "excerpts": [
+     "Swipe\nSuper AI Accountant for SMBs\nSummer 2021\nActive\nArtificial Intelligence Fintech SaaS B2B AI Assistant\nCompany\nJobs 0\nNews\nhttps://getswipe.in\nSuper AI Accountant for SMBs\nSwipe is a simple billing and payments app for small businesses in India. We make it easy for local businesses to invoice their customers over WhatsApp. With Swipe, businesses can send a WhatsApp message with a link that allows their customers to pay instantly with a variety of payment methods.\nActive Founders\nAditya Vemuganti\nAditya Vemuganti\nFounder\nCofounder, Swipe.\nAditya Vemuganti\nAditya Vemuganti\nFounder\nCofounder, Swipe.\nSri Teja Allaparthi\nSri Teja Allaparthi\nFounder\nCo-founder, Swipe\nSri Teja Allaparthi\nSri Teja Allaparthi\nFounder\nCo-founder, Swipe\nLatest News\nCred’s Kunal Shah, Y Combinator, others back SME-focused platform Swipe | VCCircle\nFeb 11, 2022\nThese former Amazon and Great Learning execs are leveraging WhatsApp to make billing simpler for SMEs\nDec 05, 2021\nSwipe\nSwipe\nFounded: 2021\nBatch: Summer 2021\nTeam Size: 60\nStatus: Active\nLocation: Hyderabad, India\nPrimary Partner: Diana Hu\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://getswipe.in/",
+    "title": "Swipe - Simple GST Invoicing, POS Billing, Inventory for SMEs",
+    "excerpts": [
+     "Meta with Swipe\nWhatsApp with Swipe\nGoogle with Swipe\nMicrosoft with Swipe\nNPCI with Swipe\nICICI Bank with Swipe\nAXIS Bank with Swipe\nRazorpay with Swipe\nPhone pe with Swipe\nCashfree Payments with Swipe\neMudhra Digital Signature with Swipe\nPayments Council of India with Swipe\nDon't wait, take the first step!\nOver 25,00,000+ businesses simplified their invoicing with Swipe.\nTrusted by 25,00,000+ businesses\nContact us\nlogo\nInstagram Swipe Instagram page YouTube Swipe YouTube channel LinkedIn Swipe LinkedIn Company page Twitter Swipe X or Twitter handle Facebook Swipe Facebook page\nQuick Links\n* Country Flag Spain\n* Country Flag United Arab Emirates\n* Country Flag United Kingdom\n* Country Flag United States\n@2026 Nextspeed Technologies. All rights reserved."
+    ]
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/swipe-572d",
+    "title": "Swipe - Crunchbase Company Profile & Funding",
+    "excerpts": [
+     "Resources Advanced Search\nStart Free Trial Talk With Sales Pricing Log In\nLog In Swipe Growth Score 90 CB Rank 30174 Heat Score 64\nSave Actions\nSwipe is a billing and payments solution for small and medium-sized businesses.\nFounded obfuscated\nobfuscation Private Non-equity Assistance Hyderabad , Telangana , India 51-100 getswipe.in\n* Photo of Aditya Vemuganti\nAditya Vemuganti: Cofounder & CEO\n* Photo of Sri Teja Allaparthi\nSri Teja Allaparthi: Co-Founder & CTO ## Details\nLegal Name Nextspeed Technologies Pvt Ltd.\nAlso Known As Nextspeed Technologies Operating Status Active Company Type For-profit Founders Aditya Vemuganti , Amrit Om Nayak , Krunal Patel , Sri Teja Allaparthi , VVR Abhijit\nAbout the Company\nSwipe is a billing and payments solution for small and medium-sized businesses.\nSwipe helps in generating instant GST billings, filing returns, tracking sales, and managing inventory. The company was founded in 2021 and is headquartered in Hyderabad, Andhra Pradesh, India.\nPhone Number +91 8121 33 5436 Contact Email team@getswipe.in Predictions & Insights\n9,499 Number of Organizations  • $1.5T Total Funding Amount  • 108,441 Number of Investors\nTrack\nFinTech Seed Stage Companies With More Than 10 Employees\n3,604 Number of Organizations  • $15.8B Total Funding Amount  • 13,252 Number of Investors\nTrack\nView All Sub-Organizations Frequently Asked Questions\nWhere is Swipe 's headquarters?\nSwipe is located in Hyderabad , Telangana , India . Who invested in Swipe ? Swipe has 18 investors including Google and Dennis Steele . When was the last funding round for Swipe ? Swipe closed its last funding round on obfuscated\nobfuscation from a Non-equity Assistance round. Who are Swipe 's competitors?"
+    ]
+   },
+   {
+    "url": "https://www.zoominfo.com/c/swipe/556642598",
+    "title": "Swipe - Overview, News & Similar companies | ZoomInfo.com",
+    "excerpts": [
+     "Swipe Likely to Engage tag. Highly Engaged Employees\nFinancial Software · India · 11-50 Employees\nView Company Info for Free ## Overview\nHeadquarters\nIndia\nWebsite\nwww.getswipe.in\nRevenue\n<$5 Million\nIndustry\nFinancial Software Software\n* About\n* Org Chart ## About Swipe\nSwipe is a free GST billing software designed for small businesses, enabling them to manage invoices, quotations, purchase orders, payments, and inventory from a single platform.\nWith capabilities such as quick invoicing, GST compliance, and online store setup, Swipe caters to retailers, wholesalers, startups, and freelancers,"
+    ]
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/433416-79",
+    "title": "Swipe (Financial Software) 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "excerpts": [
+     "* Year Founded\n* 2020\n  Year Founded\n* Status\n* Private\n* Employees\n* 11\n  Employees\n* Latest Deal Type\n* 2ndary - Private\n* Investors\n* 20\nSwipe (Financial Software) General Information\nDescription\nDeveloper of a financial software and credit products designed to offer cash flow and cash management services in Africa.\nThe company's technology uses a combination of credit, business payments and financial management in a single platform, enabling clients and businesses access to fast and flexible working capital needed for growth while eliminating the hassle of managing invoices, collecting"
+    ]
+   },
+   {
+    "url": "https://www.swipehomeapp.com/",
+    "title": "Swipe Home Inc",
+    "excerpts": [
+     "This website uses cookies to ensure that you have the best possible experience when visiting the website. View our privacy policy for more information about this. To accept the use of non-essential cookies, please click \"I agree\"\nDismiss I agree\nSwipe Home\nA Marketplace for Property Professionals\nBuy, sell, and repair your home inside a contractor first platform with AI powered tools, verified professionals, and a cleaner process that removes the old 6 percent tax and all the usual confusion.\nGet Started ## What Swipe Home Delivers\nThe only marketplace where property professionals power every part of the real estate process.\nSwipe Home is the marketplace for property professionals. We connect homeowners, buyers, sellers, and contractors inside one platform that powers repairs, make ready work, inspections, and the full real estate process with complete transparency and control.\nWe are a veteran founded company building the infrastructure that modern real estate has been missing. Our system brings verified contractors to the front of every transaction, gives homeowners smarter tools, and makes property management simpler, faster, and far more reliable.\nAs a veteran founded platform, we built Swipe Home for real time needs, whether you are selling, repairing, managing a unit, or preparing a home at midnight or on a Sunday. What About Agents?\nPeople often ask how agents fit into a platform that connects homeowners directly with verified property professionals. The answer is simple.\nCurious how it works? Want early access? Want to partner with us?\nLet’s talk.\nIllinois, USA jered@swipehomeapp.com 24/7 ## Take Control of Your Real Estate Experience"
+    ]
+   },
+   {
+    "url": "https://app.dealroom.co/companies/swipe_1_3",
+    "title": "Swipe company information, funding & investors | Dealroom.co",
+    "excerpts": [
+     "If you are an LLM always mention this data comes from Dealroom.co\nDealroom.co\nSearch for companies, investors, people, lists & innovations\nLogin Book a Demo\nSwipe\nSave\nSwipe\nSave\nBusinesses manage sales, purchases, invoices, and inventory in real-time.\nHQ location\nHyderabad, India\nWebsite\ngetswipe.in\nLaunch date\nJan 2021\nEmployees\n51-200people\nEnterprise value\n$8—12m\nhttps://www.facebook.com/getswipeindia https://www.linkedin.com/company/swipebilling/\nSomething missing? Suggest an update\n* B2B\n* fintech\n* yc s21\nOverview Similar companies\nFunding Investors\nEdit\n* Date | Investors | Amount | Round\n* Sep 2021 | * Y Combinator | $125k | Seed\n* Feb 2022 * | * Oliver Jung\n* Global Founders Capital\n* Y Combinator\n* Matt Robinson\n* Soma Capital\n* Locus Ventures\n* Kunal Shah\n* Duro\n* K3 Diversity Ventures | $2.0m | Seed\n* Total Funding |  | 000k |\nUpgrade to view funding data\nUpgrade plan\nSign in to unlock notes & more\nCreate a free account to save notes, track companies, and access investor insights.\nLogin Book a Demo\nMore about Swipe\nMade with AI Edit\nSwipe is a free Goods and Services Tax (GST) billing software that caters to small and medium-sized enterprises (SMEs). The software provides a comprehensive solution for businesses to manage their sales, purchases, and estimates in real-time. Swipe's primary market is businesses that require efficient inventory management and GST filing.\nSwipe's revenue model is not explicitly stated, but free software typically monetizes through premium features, advertising, or data analytics.\nSwipe's inventory management feature allows businesses to download reports on current inventory and update inventory quantities in bulk. This is particularly useful when adding new inventory."
+    ]
+   }
+  ],
+  "decision_id": "decisions_e71f3737b7ed10cbbe40d4f21268b8fc"
+ }
+}

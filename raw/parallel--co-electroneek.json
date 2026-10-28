@@ -1,0 +1,101 @@
+{
+ "seconds": 0.835,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.9980642101918418
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.19220419906387068
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.9982412464973696
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.021676810735093102
+   }
+  },
+  "usage": {
+   "input_tokens": 3892,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://www.ycombinator.com/companies/electroneek",
+    "title": "ElectroNeek: Robotic Process Automation and Document Processing Platform | Y Combinator",
+    "excerpts": [
+     "ElectroNeek\nRobotic Process Automation and Document Processing Platform\nWinter 2020\nActive\nDeveloper Tools Robotic Process Automation B2B Austin\nCompany\nJobs 0\nNews\nhttps://electroneek.com\nRobotic Process Automation and Document Processing Platform\nWe help Enterprises transform their business processes with RPA workflows and enable structured data extraction from any document types (Intelligent Document Processing, IDP). Awesome YC deals for founders (check out us in 'Deals'). Connect any system, automate any process.\nActive Founders\nSergey Yudovskiy\nSergey Yudovskiy\nTwitter account\nFounder/CEO\n2x YC Founder. Building Adentris to bring AI-driven systems into healthcare operations - a personal mission inspired by the legacy of my fully medical family. As a mathematician, I bring a data-driven, systems approach to product development and GTM strategy. Previously, I led ElectroNeek (W20) as CEO, scaling it to ~$5M ARR.\nBuilt a global B2B distribution and partnership network across 30+ countries (North & South America, Europe, Asia), and disrupted the RPA market with a novel GTM playbook.\nLatest News\nElectroNeek is Named One of 20 Rising Stars as Part of Forbes Cloud 100 List | ElectroNeek\nDec 18, 2023\nMSP Bet Works Out for ElectroNeek in 2021: The Only Hyperautomation Vendor for IT Service Providers Reports Hypergrowth\nFeb 02, 2022\nElectroNeek Raises A $20 Million Series A To Drive Mass RPA Industry Adoption\nJan 06, 2021\nElectroNeek\nElectroNeek\nFounded: 2019\nBatch: Winter 2020\nTeam Size: 175\nStatus: Active\nLocation: Austin, TX\nX (Twitter) logo\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.cbinsights.com/company/electroneek",
+    "title": "ElectroNeek - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "excerpts": [
+     "* About Us\n* Overview\n* Our teams\n* Business Development\n* Engineering\n* Operations\n* Product\n* See all →\n* Open Jobs\nLoading...\nElectroNeek company logo\nElectroNeek provides automation solutions for various business sectors. The company offers no-code desktop and SaaS integrations that aim to improve workflows and automate processes across functions such as sales, finance, product development, customer support, HR, and IT operations.\nHeadquarters Location\n1205 BMC Drive Suite #408\nCedar Park, Texas, 78613,\nUnited States\n512-333-1508\nLoading...\nElectroNeek's Products & Differentiators\nStudio Pro\nAn integrated development environment for rapid automation\nLoading...\nExpert Collections containing ElectroNeek\nHyperautomation Market Forecast: AI, RPA, and Intelligent Automation Reshaping Global Industries\nJun 8, 2026\n— Allied Market Research WILMINGTON, DE, UNITED STATES, June 8, 2026 / EINPresswire.com / -- The Hyperautomation Market is emerging as one of the fastest-growing segments within the global digital transformation ecosystem.\nElectroNeek Frequently Asked Questions (FAQ)\n* When was ElectroNeek founded?\nElectroNeek was founded in 2019.\n* Where is ElectroNeek's headquarters?\nElectroNeek's headquarters is located at 1205 BMC Drive , Cedar Park.\n* What is ElectroNeek's latest funding round?\nElectroNeek's latest funding round is Series A.\n* How much did ElectroNeek raise?\nElectroNeek raised a total of $23.34M.\nHyperscience provides enterprise artificial intelligence (AI) infrastructure software focused on hyperautomation. The company automates and orchestrates end-to-end processes to utilize back-office data and documents. Its solutions help with decision-making and customer experiences. It was founded in 2014 and is based in New York, New York."
+    ]
+   },
+   {
+    "url": "https://pitchbook.com:8443/profiles/company/268082-56",
+    "title": "ElectroNeek 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "excerpts": [
+     "Developer of an intelligent automation platform designed to empower businesses of all sizes, as well as managed services providers. The company's technology seamlessly automates business processes (end-to-end)and offers a range of low-code/no-code automation tools, enabling firms to turn process descriptions into executable workflows.\nContact Information\nWebsite\nwww.electroneek.com\nOwnership Status\nPrivately Held (backing)\nFinancing Status\nVenture Capital-Backed\nCorporate Office\nDescription\nPrimary Industry\nHQ Location\nEmployees\nTotal Raised\nPost Valuation\nLast Financing Details\nElectroNeek"
+    ]
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/electroneek",
+    "title": "ElectroNeek - Crunchbase Company Profile & Funding",
+    "excerpts": [
+     "Resources Advanced Search\nStart Free Trial Talk With Sales Pricing Log In\nLog In ElectroNeek Growth Score 44 CB Rank 100226 Heat Score 54\nSave Actions\nElectroNeek is a robotic process automation platform for MSPs & IT service providers.\nFounded obfuscated\nobfuscation Private Series A Austin , Texas , United States 51-100 www.electroneek.com/\n* Photo of Sergey Yudovskiy\nSergey Yudovskiy: CEO\n* Photo of Mike Rozhin\nMike Rozhin: CTO ## Details\nLegal Name ElectroNeek Robotics, Inc. Operating Status Active Company Type For-profit Founders Alex Astafyev , Dmitry Karpov , Mike Rozhin , Sergey Yudovskiy\nAbout the Company\nElectroNeek is an Intelligent Automation platform empowering MSPs (Managed Service Providers) and their clients with cutting-edge technology that seamlessly automates business processes (end-to-end).\nThis MSP-oriented platform offers a wide range of exciting low-code automation tools, based on RPA, IDP, AI, and GPT4 (Conversational and Generative) technologies. ElectroNeek is headquartered in Austin, Texas, and was founded in 2019.\nRead More\nPhone Number 512-333-1508 Contact Email founders@electroneek.com Predictions & Insights\nData source: ## Active Website Tech Count\n100 ElectroNeek is actively using 100 technologies for its website, according to BuiltWith . These include Google Font API , Google Tag Manager , and Cloudflare CDN .\nData source: Lists Featuring This Company\nLists Featuring This Company\nTrack\nView All Sub-Organizations Frequently Asked Questions\nWhere is ElectroNeek 's headquarters? ElectroNeek is located in Austin , Texas , United States . Who invested in ElectroNeek ? ElectroNeek has 19 investors including Baring Vostok Capital Partners and Dragon Capital . When was the last funding round for ElectroNeek ?"
+    ]
+   },
+   {
+    "url": "https://electroneek.com/",
+    "title": "Smarter Automation, Powered by AI Agents.",
+    "excerpts": [
+     "Receive real leads, gain project opportunities tailored to your expertise, and close deals faster with our support.\nBecome a Partner\nKeith Cote\nThe interface is efficient and intuitive. The support has been exceptional while getting started with the product.\nOur first proof of concept was easy to create and we worked through the full implementation confident that we’ve made a good choice with ElectroNeek.\nKeith Cote\nVP of IT | UFP Technology\nRyan Detlaff\nWe could easily find ourselves lost in the larger ponds of traditional RPA vendors.\nElectroNeek, from the very beginning, has prioritized our success, collaborating with us to provide business expertise regarding subscription-based pricing models to ultimately bring truly affordable and flexible RPA solutions to our clients.\nRyan Detlaff\nCEO | Trumpet\nHaadi Ladha\nWe realized that the usual per-bot model offered by traditional RPA vendors didn’t meet the requirements of SMBs. In my search, I found out about ElectroNeek’s unique licensing model and we’ve been partners since 2020.\nHaadi Ladha\nHead of Development | Thrive Automation\nDaniel Heckman\nWe chose ElectroNeek because you are the only player who allowed us to get closer to the SMB market and provide value with your agile pricing structure.\nDaniel Heckman\nCEO | MSI Pros\nElectroNeek Awards See all awards\nPrivacy Policy Terms and Conditions\nCompany\nAbout Us NewsRoom Awards Careers Contacts\nSOC II Type 2 Certified GDPR Certified HIPAA Certified\n© 2026 ElectroNeek Robotics Inc.\nAll rights reserved."
+    ]
+   },
+   {
+    "url": "https://electroneek.com/about-us/",
+    "title": "About Us | ElectroNeek",
+    "excerpts": [
+     "background image\nHome\n/\nCompany /\nAbout Us\nAbout ElectroNeek\nWorkflows and AI agents for repetitive tasks are the future of enterprise IT\nThe number and complexity\nThe future of work is integration and automation, they are the key to employee productivity\nAutomation and AI strategy are a C-level agenda in 2024\nThere was no better time to automate business routines than now\n* 2019\nThe company started in New York in Jan 2019, opening the first East Coast office on Manhattan\n* 2020\nWent to Y Combinator in 2020, moving global HQ to South San Francisco\n* 2021\nIn 2021, opened LatAm, APAC and EMEA hubs\n* 2022\nNamed one of 20 Rising stars as Part of Forbes' Cloud 100 List\n* 2023\nWe are responsible for long-term impact on not just business, but all of society\nElectroNeek Team\nHow we disrupt the industry\n1\nWe created a new market category\nby truly enabling IT Service Business to offer intelligent automation\n2\nFor the fourth quarter in a row, we are G2\nMomentum Market leader in RPA Category\n3\nWe achieved the best result\nin Global RPA challenge among RPA vendors\n4\nWe started as a remote-only company\nin 2019\n5\nWe are the youngest vendor\nin Everest RPA PEAK Matrix\n6\nWe are the first and the only Y Combinator-backed\nintelligent automation company\nExclamation\nRemote-first team\nOur locations\nMap"
+    ]
+   },
+   {
+    "url": "https://www.zoominfo.com/c/electroneek-robotics-inc/465647798",
+    "title": "ElectroNeek - Overview, News & Similar companies | ZoomInfo.com",
+    "excerpts": [
+     "ElectroNeek Likely to Engage tag. Highly Engaged Employees\nEngineering Software · Texas, United States · 51-200 Employees\nView Company Info for Free ## Overview\nHeadquarters\n701 Brazos St Ste 640, Austin, Texas, 78...\nPhone Number\n(512) 333-1508\nWebsite\nwww.electroneek.com\nRevenue\n$25 Million\nIndustry\n* About\n* Org Chart\n* Similar Companies\n* Company Insights\n* News & Media ## About ElectroNeek\nElectroNeek provides IT professionals with a platform to quickly implement application programming interface (API)-free RPA bots to execute repetitive tasks. The company was founded in 2019 and is"
+    ]
+   },
+   {
+    "url": "https://electroneek-frontend.vercel.app/about-us",
+    "title": "About Us | ElectroNeek",
+    "excerpts": [
+     "background image\nHome\n/\nCompany /\nAbout Us\nAbout ElectroNeek\nOur Platform empowers IT Services companies build RPA business\nWe enable IT entrepreneurs to automate their client`s work We enable IT entrepreneurs to automate their client`s work\nWe provide tools and support services to assist in both starting and scaling-up intelligent automation businesses\nThe number and complexity of IT tools needed for work constantly goes up\nThe number and complexity\nThe future of work is integration and automation, they are the key to employee productivity\nThe majority of companies don’t have the talent and resources to automate work themselves\nin Global RPA challenge among RPA vendors\n4\nWe started as a remote-only company\nin 2019\n5\nWe are the youngest vendor\nin Everest RPA PEAK Matrix\n6\nWe are the first and the only Y Combinator-backed\nintelligent automation company\nExclamation\nRemote-first team\nOur locations\nMap"
+    ]
+   },
+   {
+    "url": "https://www.cbinsights.com/company/electroneek/people",
+    "title": "ElectroNeek CEO, Founder, Key Executive Team, Board of Directors & Employees",
+    "excerpts": [
+     "* About Us\n* Overview\n* Our teams\n* Business Development\n* Engineering\n* Operations\n* Product\n* See all →\n* Open Jobs\nLoading...\nElectroNeek company logo\nElectroNeek\nAnalyst Briefing Submitted\nelectroneek.com\n* Overview & Products\n* Financials\n* People\n* Alternatives & Competitors\n* Customers\nExecutives\n17\nElectroNeek Management Team\n17 Team Members\nElectroNeek has 17executives. ElectroNeek's founder is Alexey Astafyev. ElectroNeek's is .\n* Name | Work History | Title | Status\n* Alexey Astafyev | Improvado | Founder | Current\n* Subscribe to see more | Subscribe to see more | Subscribe to see more | Subscribe to see more\n* Subscribe to see more | Subscribe to see more | Subscribe to see more | Subscribe to see more\nHyperscience provides enterprise artificial intelligence (AI) infrastructure software focused on hyperautomation. The company automates and orchestrates end-to-end processes to utilize back-office data and documents. Its solutions help with decision-making and customer experiences. It was founded in 2014 and is based in New York, New York.\n* AI 100\n* Fintech 100\n* Digital Health 50\n* Tech Trends 2024\n* Generative AI Predictions\n* Unicorn Tracker\n* VC Glossary\n* Company List Applications\n* CB Insights Website Terms of Use\n* Privacy Policy\n* Do Not Sell My Info\n* Partnership\nCopyright 2026 CB Information Services, Inc. All rights reserved."
+    ]
+   },
+   {
+    "url": "https://app.dealroom.co/companies/electroneek",
+    "title": "ElectroNeek company information, funding & investors | Dealroom.co",
+    "excerpts": [
+     "Save\nThe Only Robotic Process Automation (RPA) Platform for IT Service Providers.\nHQ location\nAustin, United States\nWebsite\nelectroneek.com\nLaunch date\nJan 2019\nEmployees\n51-200people\nEnterprise value\n$100m\nJobs\nView job openings\nhttps://twitter.com/electroneek https://www.facebook.com/electroneekrpa https://www.linkedin.com/company/electroneek/\nElectroNeek is a dynamic player in the rapidly expanding Robotic Process Automation (RPA) market, which is one of the fastest-growing segments within IT services. The company specializes in providing RPA solutions that help businesses streamline operations by automating repetitive tasks.\nThis not only saves time but also reduces costs, making it an attractive proposition for companies looking to enhance efficiency.\nElectroNeek primarily serves Managed Service Providers (MSPs) and Small to Medium-sized Businesses (SMBs).\nMSPs benefit from ElectroNeek's automation capabilities in areas such as provisioning, licensing, network management, and cybersecurity. The company’s platform integrates seamlessly with popular MSP products like Pax8, Kaseya, Connectwise, and Datto, making it easier for MSPs to adopt and deploy automation solutions.\nThe business model of ElectroNeek revolves around a subscription-based revenue stream. Clients subscribe to the platform to access its powerful, no-code automation tools, which allow them to automate various business processes without needing extensive technical expertise.\nThis model ensures a steady and recurring income for the company, while also providing clients with ongoing support and updates.\nElectroNeek makes money through these subscription fees, as well as by offering additional services such as technical support and training."
+    ]
+   }
+  ],
+  "decision_id": "decisions_7b670bdf45cc7f2883b488814e9498f9"
+ }
+}

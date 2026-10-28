@@ -1,0 +1,101 @@
+{
+ "seconds": 0.852,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.8954044806505255
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.08709439995189033
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.9988468288458082
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.9977258578805235
+   }
+  },
+  "usage": {
+   "input_tokens": 4227,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://www.ycombinator.com/companies/twenty",
+    "title": "Twenty: Open Source CRM | Y Combinator",
+    "excerpts": [
+     "Twenty\nOpen Source CRM\nSummer 2023\nActive\nSaaS B2B Open Source Sales CRM\nCompany\nJobs 2\nNews\nhttps://twenty.com\nOpen Source CRM\nBuilding a modern alternative to Salesforce: https://github.com/twentyhq/twenty\nLatest News\nTwenty is building an open source alternative to Salesforce | TechCrunch\nNov 18, 2024\nJobs at Twenty\nView all jobs\nJunior Product Designer - Intership Paris\nParis, IDF, FR / Paris, Île-de-France, FR\n€1.5K - €2K EUR / monthly\nAny\nApply Now ›\nProduct Designer\nParis, IDF, FR / Paris, Île-de-France, FR / Remote\n€5K - €7.5K EUR / monthly\n0.10% - 0.20%\n3+ years\nApply Now ›\nTwenty\nTwenty\nFounded: 2023\nBatch: Summer 2023\nTeam Size: 11\nStatus: Active\nLocation: Paris, France\nPrimary Partner: Pete Koomen\nX (Twitter) logo\nFounders\nFélix Malfait\nFélix Malfait\nFounder\nFélix Malfait\nFélix Malfait\nFounder\nCharles Bochet\nCharles Bochet\nFounder\nCharles Bochet\nCharles Bochet\nFounder\nThomas des Francs\nThomas des Francs\nTwitter account\nFounder\nThomas des Francs\nThomas des Francs\nTwitter account\nFounder\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/twenty/jobs",
+    "title": "Jobs at Twenty | Y Combinator",
+    "excerpts": [
+     "Twenty\nOpen Source CRM\nCompany\nJobs 2\nhttps://twenty.com\nJobs at Twenty\nProduct Designer\nParis, IDF, FR / Paris, Île-de-France, FR / Remote\n€5K - €7.5K EUR / monthly\n0.10% - 0.20%\n3+ years\nApply Now ›\nJunior Product Designer - Intership Paris\nParis, IDF, FR / Paris, Île-de-France, FR\n€1.5K - €2K EUR / monthly\nAny\nApply Now ›\nWhy you should join Twenty\nOpen Source CRM\nTwenty\nTwenty\nFounded: 2023\nBatch: S23\nTeam Size: 11\nStatus: Active\nLocation: Paris, France\nX (Twitter) logo\nFounders\nCharles Bochet\nCharles Bochet\nFounder\nCharles Bochet\nCharles Bochet\nFounder\nThomas des Francs\nThomas des Francs\nTwitter account\nFounder\nThomas des Francs\nThomas des Francs\nTwitter account\nFounder\nFélix Malfait\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/twenty/jobs/jQaeiD0-product-designer",
+    "title": "Product Designer at Twenty | Y Combinator",
+    "excerpts": [
+     "Twenty\nOpen Source CRM\nProduct Designer\nBy prioritizing smart defaults over complex setup, we ensure the product is simple to start with , while retaining unlimited possibilities for advanced configuration—serving as a programmable operating system for a company's unique intelligence.\nRole\nYou’ll be working with Thomas, our CPO (current designer of the app & website), on Twenty designs:\n1. UI/UX Design\n* Handle the app UX design\n* Handle the website design (Framer)\n2. Design System\n* Keep design elements consistent across the product\n* Collaborate with designers and devs to maintain a polished look and feel\n3. Project management\n* Tech Lover: You’re familiar with the tech ecosystem. You love productivity tools (Notion, Cursor, Raycast, Comet…) etc.\nTwenty\n* Building the #1 open-source CRM with a focus on extensibility and great design\n* One of the fastest-growing open-source projects ever: 550+ contributors, 35k+ stars in 24 months\n* Team of 10 (90% engineers), with repeat founders (previous exit to Airbnb)\n* Backed by YC and the founders of companies like Front, HubSpot, Alan, Strapi, eFounders, Resilience, Sqreen, Cal.com\n* Operating in one of the biggest markets in software (CRM)\n* Engineering-driven culture; passion for craft and quality.\nAbout the interview\n1. 15-20mins intro call\n2. 1h Figma case\n3. 1h Interview with Thomas (CPO)\n4. 2h peer designing\n5. Final interview with Felix (CEO) & Charles (CTO).\nAbout Twenty\nOpen Source CRM\nTwenty\nTwenty\nFounded: 2023\nBatch: S23\nTeam Size: 11\nStatus: Active\nLocation: Paris, France\nX (Twitter) logo\nFounders\nCharles Bochet\nCharles Bochet\nFounder\nCharles Bochet\nCharles Bochet\nFounder\nThomas des Francs\nThomas des Francs\nTwitter account\nFounder\nThomas des Francs\nThomas des Francs\nTwitter account\nFounder\nFélix Malfait"
+    ]
+   },
+   {
+    "url": "https://twenty.com",
+    "title": "Twenty | #1 Open Source CRM",
+    "excerpts": [
+     "Assemble, iterate and adapt a robust CRM, that's quick to flex\nCompose your CRM and internal apps with a single extensibility toolkit.\nProduction grade quality\nW3villa used Twenty as a production-grade framework for the data model, permissions, authentication, and workflow engine they would otherwise have rebuilt themselves.\nAI for rapid iterations\nAlternative Partners used agentic AI to compress what would typically be weeks of Salesforce migration work into something a single person could oversee.\nControl without drag\nAC&T moved to a self-hosted Twenty instance with no vendor risk, no forced migration, and CRM costs reduced by more than 90%.\n01\n02\n03\nFast path to action\nSmart patterns, shortcuts, and layouts make everyday tasks faster and easier to execute.\nIn production.\nDev teams power company-wide change with Twenty\nW3villa\nShip a product on Twenty\nW3villa built W3Grads for AI mock interviews at scale, with Twenty as the operational backbone.\nRead the case\nAC&T\nOwn your CRM end to end\nAC&T replaced a shuttered vendor CRM with self-hosted Twenty and cut CRM costs by more than 90%.\nRead the case\nNetZero\nGrow with a flexible foundation\nStop fighting custom. Start building, with Twenty\nGet startedTalk to us\nIs Twenty really open-source?\nYes. Twenty is the #1 Open Source CRM on GitHub. You can self-host to fully own your infrastructure, or run it on our managed cloud for a zero-ops setup.\nHow long does it take to get started?\nCloud Pro is $9/user/month (yearly). Organization is $19/user/month and unlocks SSO and row-level permissions for teams that need finer access control.\n{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Is Twenty really open-source?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes."
+    ]
+   },
+   {
+    "url": "https://neuron.com/companies/4239652711/twenty-1023",
+    "title": "Twenty: Technology, Information and Internet Contacts & Emails",
+    "excerpts": [
+     "2. Companies >\n3. Twenty\n  Company Information\nTwenty\nWebsite\nhttps://twenty.co/\nEmployee count\n30\nIndustry\nTechnology, Information and Internet\nHeadquarter\nStaten Island, New York, United States\nEmployees\nSean Gee Frontend Developer Britny Cholost Marketing Manager Daniel Singer Android Engineer Isabel Supera Brand Ambassador Valerie Chocklett Data Scientist\nFrequently Asked Questions About Twenty\nWhat industry is Twenty in?\nWhere is Twenty located?\nWhat is Twenty's official website?\nHow many employees does Twenty have?\nHow do I contact Twenty?\nProduct\nData Integrations Security Workflow\nGet the app\nDownload Extension\nResources\nHelp Center Pricing Directory Prompt Cheatsheet\nCompany\nAbout Us Contact\nSocial\nLinkedIn G2 TrustRadius\nLegal\nTerms Privacy\n© 2014 - 2026 Neuron. All rights reserved."
+    ]
+   },
+   {
+    "url": "https://www.cbinsights.com/company/twenty",
+    "title": "Twenty - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "excerpts": [
+     "* About Us\n* Overview\n* Our teams\n* Business Development\n* Engineering\n* Operations\n* Product\n* See all →\n* Open Jobs\nLoading...\nTwenty company logo\nThe Mosaic Score is an algorithm that measures the overall financial health and market potential of private companies.\n-188 points in the past 30 days\nAbout Twenty\nTwenty develops an open-source customer relationship management (CRM) platform in the software industry. The company offers a customizable and powerful system for managing customer relationships. It primarily serves sectors that require customer relationship management tools.\nThe company was founded in 2023 and is based in San Francisco, California.\nHeadquarters Location\nParis Street\nSan Francisco, California, 94112,\nUnited States\nLoading...\nLoading...\nLatest Twenty News\nImproving Storage Integration in Twenty Radhakrishnan further contributed to Twenty, a modern, open-source CRM platform that has received over 35000 stars on GitHub. Twenty was developed with TypeScript, React, and PostgreSQL; it is backed by Y Combinator and positioned as a flexible alternative to proprietary CRM platforms.\nIn addition to his corporate roles, he actively participates in open-source projects such as Storybook, ConvertX, Twenty, Resume-Matcher, and ApostropheCMS, helping to improve tools that developers and organisations across the world use every day.\nGeliştiriciler ve iş ekipleri için tasarlanmış açık kaynaklı CRM çözümü: Twenty\nJul 21, 2025\n„KI-basierte Code-Generatoren führen dazu, dass Software kein Burggraben mehr ist“\nJul 18, 2025\nDrei Fragen und Antworten: So will Twenty das proprietäre Vertriebs-CRM ablösen\nJul 6, 2025\nTwenty Delivers Open-Source CRM That Puts You In Control"
+    ]
+   },
+   {
+    "url": "https://indexed.vc/companies/twenty",
+    "title": "Twenty — Company Profile & Funding | Indexed.vc",
+    "excerpts": [
+     "Open Source CRM\nTwenty was founded in 2023, is headquartered in San Francisco, United States, lists 1–10 employees, and has $100.0M in recorded funding across 2 rounds.\nFollow\nSave\nShare\nCRM Open Source SaaS\nYC S23\nSuggest a correction\nHeadquarters San Francisco, California\nEmployees 1–10\nFounded 2023\nBusiness Model B2B\nWebsite twenty.com\nTotal Funding $100.0M\nLast Round $100.0M Series B Jun 2026\nRounds 2\nTotals include recorded grants and other qualifying funding, not just equity. What counts toward funding .\nIndexed holds 2 funding rounds and 1 investor for this company. The full record is free with an account or through the API .\nAbout\nTwenty is an open source CRM that technical teams use to build custom CRM and internal apps. W3villa used Twenty as a production-grade framework for the data model, permissions, authentication, and workflow engine they would otherwise have rebuilt themselves.\nAC&T moved to a self-hosted Twenty instance with no vendor risk, no forced migration, and CRM costs reduced by more than 90%.\nSummary\nTwenty is a CRM company based in San Francisco, United States, founded in 2023. It lists 1–10 employees. It has raised $100.0M in total across 2 rounds, most recently a $100.0M Series B round in Jun 2026.\nFunding History\nSeries B Series B Jun 2026\n$100.0M\nJun 2026\nSeed\n2024\nSign up to see all 2 events\nFunding: Seed through Series B. Amounts, valuations, and investors where available.\nCreate Free Account\nInvestors\nAccel Lead 1 round\nSimilar Companies\n* Top Developer Tools Startups in SF\n* Recently Funded US Startups — 180 Days\n* US Series B Companies\n* Companies Funded in 2026\nYour company? Embed this profile\nAdd the live badge to your site — it stays current as yourfunding data updates.\nTwenty on Indexed.vc"
+    ]
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/twenty-79a2",
+    "title": "Twenty - Crunchbase Company Profile & Funding",
+    "excerpts": [
+     "Resources Advanced Search\nStart Free Trial Talk With Sales Pricing Log In\nLog In Twenty Growth Score 62 CB Rank 21337 Heat Score 72\nSave Actions\nTwenty builds the modern salesforce, powered by the open source community.\nFounded obfuscated\nobfuscation Private Seed San Francisco , California , United States 1-10 twenty.com/\n* Photo of Thomas Colas des Francs\n  Thomas Colas des Francs: CPO\n* Photo of Charles Bochet\n  Charles Bochet: CTO ## Details\n  Legal Name Twenty PBC Operating Status Active Company Type For Profit Founders Charles Bochet , Félix Malfait , Thomas Colas des Francs Predictions & Insights\nGrowth Prediction\nSee this Growth Prediction\nExplore Prediction ## Products & Services\nTwenty CRM\nAn open-source customer relationship management platform that allows businesses to manage customer data, workflows, and communications.\nCustom Objects and Fields\n* Full access to financial & funding data on unlimited profiles\n* Export up to 2k results/month for analysis\n* Track market signals on competitors, products, and R&D\n* Preview private company insights and predictions\n  Try Pro Free Financials\nCompany Funding\nNews • Jul 10, 2026\nobfuscated\nobfuscated obfuscated obfuscated obfuscated obfuscated obfuscated obfuscated obfuscated obfuscated\nNews • Apr 23, 2026\nobfuscated\nobfuscated obfuscated obfuscated obfuscated obfuscated obfuscated obfuscated obfuscated obfuscated\nNews • Jan 13, 2026\nobfuscated\nLists Featuring This Company\n9,908 Number of Organizations  • $346B Total Funding Amount  • 19,589 Number of Investors\nTrack\nUnited States Software Companies (Top 10K)\n9,920 Number of Organizations  • $1.3T Total Funding Amount  • 71,018 Number of Investors\nTrack\nView All Sub-Organizations Frequently Asked Questions\nWhere is Twenty 's headquarters?"
+    ]
+   },
+   {
+    "url": "https://tracxn.com/d/companies/twenty/__oyf_sCMiigApXb-QCd9gzMXlCdKb6Za7OSNrSEGQJ7E",
+    "title": "Twenty - 2026 Company Profile, Team, Funding & Competitors - Tracxn",
+    "excerpts": [
+     "Twenty - About the company\nTwenty is a seed company based in San Francisco (United States), founded in 2023 by Charles Bochet and Felix Malfait . It operates as an Open source CRM platform for enterprises. Twenty has raised $5.5M in funding from Y Combinator and Runa Capital , with a current valuation of $***** .\nThe company has 2665 active competitors, including 107 funded and 68 that have exited. Its top competitors include companies like Salesforce , HubSpot and Freshworks .\nCompany Details\nOpen source CRM platform for enterprises. It combines data integration and an interface to manage"
+    ]
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/twenty-6919",
+    "title": "Twenty (YC S23) - Crunchbase Company Profile & Funding",
+    "excerpts": [
+     "Resources Advanced Search\nStart Free Trial Talk With Sales Pricing Log In\nLog In Twenty (YC S23) Growth Score 58 CB Rank 43804 Heat Score 69\nSave Actions\nOpen-source CRM without compromise\nFounded obfuscated\nobfuscation Private Seed San Francisco , California , United States 1-10 twenty.com/\nCRM Enterprise Software Open Source Sales Software\nFounded obfuscated\nobfuscation Private Seed San Francisco , California , United States 1-10 twenty.com/\nCRM Enterprise Software Open Source Sales Software ## Funding Rounds\nSeed obfuscated\nOBF in obfuscated\nobfuscation\nPre-Seed obfuscated\nOBF in obfuscated\nobfuscation\nView all 2 rounds ## Details\nLegal Name Twenty.com PBC Operating Status Active Company Type For Profit Founders Félix Malfait\nAbout the Company\nBuilding a better Salesforce, powered by the Open Source community. Predictions & Insights\nSee this Growth Prediction\nExplore Prediction ## Products & Services\nTwenty Open-Source CRM Platform\nAn open-source customer relationship management platform that allows businesses to manage customer data, workflows, and communications with customizable objects and API access.\nAPIs (GraphQL and REST)\n* Full access to financial & funding data on unlimited profiles\n* Export up to 2k results/month for analysis\n* Track market signals on competitors, products, and R&D\n* Preview private company insights and predictions\n  Try Pro Free Financials\nCompany Funding\nView All Sub-Organizations Frequently Asked Questions\nWhere is Twenty (YC S23) 's headquarters? Twenty (YC S23) is located in San Francisco , California , United States . Who invested in Twenty (YC S23) ? Twenty (YC S23) has 16 investors including Automattic and Y Combinator . When was the last funding round for Twenty (YC S23) ?"
+    ]
+   }
+  ],
+  "decision_id": "decisions_f4a8824cc7d1bb2b9bcf12285bb990bf"
+ }
+}

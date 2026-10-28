@@ -1,0 +1,101 @@
+{
+ "seconds": 1.048,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.43987916114012365
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.9689124637012352
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.9974085424691991
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.9915952764711529
+   }
+  },
+  "usage": {
+   "input_tokens": 4449,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://www.ycombinator.com/companies/lago/jobs",
+    "title": "Jobs at Lago | Y Combinator",
+    "excerpts": [
+     "Lago\nThe AI Native Billing Platform\nCompany\nJobs 1\nhttps://www.getlago.com/\nJobs at Lago\nEngineering Squad Lead\nFR / ES / DE / PT / IT / Remote (FR; ES; DE; PT; IT)\n€90K - €120K EUR\n5+ years\nApply Now ›\nWhy you should join Lago\nAt Lago, we’re on a mission to make billing simpler, more transparent, and more adaptable for SaaS companies.\nAs the leading open-source billing platform, we empower businesses to build flexible pricing models and scale with confidence.\nWe’ve raised over $22 million in funding from top-tier investors, reflecting strong confidence in our vision and growth.\nOur platform has garnered over 8,000 stars on GitHub, a testament to our active and growing developer community. Next-gen companies such as Mistral.ai , Groq, and Laravel chose Lago for their billing.\nWe’re a team of ambitious, focused individuals who work together to solve hard problems with excellence and accountability. At Lago, we value reliability and proactivity—we trust each other to own tasks, drive them to completion, and adapt quickly.\nWhile we encourage you to try fast and “fail fast”, we also expect you to learn fast: make mistakes, but don’t make the same one twice.\nIf you’re excited by challenges and want to grow alongside a high-performing, supportive team, this is the place for you.\nLago\nLago\nFounded: 2021\nBatch: S21\nTeam Size: 27\nStatus: Active\nLocation: San Francisco\nX (Twitter) logo\nFounders\nAnh-Tho CHUONG\nAnh-Tho CHUONG\nTwitter account\nFounder\nAnh-Tho CHUONG\nAnh-Tho CHUONG\nTwitter account\nFounder\nRaffi SARKISSIAN\nRaffi SARKISSIAN\nFounder\nRaffi SARKISSIAN\nRaffi SARKISSIAN\nFounder\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://ycombinator.com/companies/lago",
+    "title": "Lago: The AI Native Billing Platform | Y Combinator",
+    "excerpts": [
+     "Lago\nThe AI Native Billing Platform\n[Summer 2021](/companies?batch=Summer 2021)\nActive\nFinOps Fintech SaaS [Open Source](/companies/industry/Open Source) Billing San Francisco\nCompany\nJobs 13\nNews\nhttps://www.getlago.com/\nThe AI Native Billing Platform\nAt Lago, we're on a mission to make billing simpler, more transparent, and more adaptable for SaaS companies. As the leading open-source billing platform, we empower businesses to build flexible pricing models and scale with confidence.\nShe then launched Weebly (YC W07) in France, before becoming the 1st employee at Qonto, one of the European fintech unicorns. During her tenure as VP Growth, she grew ARR from 0 to dozens of millions.\nRaffi SARKISSIAN\nRaffi SARKISSIAN\nFounder\nA 2nd time founder, Raffi is a Growth Product & Data expert, and leads Product at Lago.\nThe open source billing startup that wants to take on Stripe | Sifted\nMar 14, 2024\nLago, a Paris-based open source billing platform, banks $22M | TechCrunch\nMar 14, 2024\nFrench Tech : Anh-Tho Chuong, l'entrepreneuse française à fond dans l'open source | Les Echos\nMar 14, 2024\nLago: Buzzy Y Combinator-Backed Billing Startup Raises $22 Million\nParis / Remote (FR)\n€70K - €100K EUR\n6+ years\nApply Now ›\nProduct Designer\nParis / Remote (FR; ES; DE; IT; PT)\n€70K - €100K EUR\n6+ years\nApply Now ›\nSenior Backend Engineer\nCA / BR / Remote (CA; BR)\n$80K - $120K\n5+ years\nApply Now ›\nLago\nLago\nFounded: 2021\nBatch: Summer 2021\nTeam Size: 45\nStatus: Active\nLocation: San Francisco\nPrimary Partner: Nicolas Dessaigne\nX (Twitter) logo\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.getlago.com/docs/faq/about-lago",
+    "title": "About Lago - Lago",
+    "excerpts": [
+     "1. What is Lago?\nLago is the leading open-source pricing solution focused on complex billing: multi-product/geographies, transactional, usage-based, subscription hybrids, etc, chosen by unicorns like Mistral (AI, $13.7 billion valuation), Accel-backed Swan (Embedded banking), or Groq (AI, $6.9 billion valuation).\nLago is API-first, the most loved billing solution on Github, and was voted Product of the day week, and month on Product Hunt.\nLago raised a total of $22M of funding from investors including Y Combinator, FirstMark Capital, SignalFire, Meghan Gill , who has led the monetization efforts of MongoDB for 14 years, Romain Huet , former head of Developer Relations at Stripe - now leading OpenAI developer experience, and Clément Delangue , CEO of AI open platform Hugging Face.\n3. What is Lago origin story?\nLago was founded in 2021 by Anh-Tho and Raffi, who were among the earliest employees at Qonto.com – a $5B B2B neobank. They led Qonto’s revenue growth from pre-product to Series D, and built and scaled the monetization system that took the company from 0 to $100M+ of revenue.\nThe worst was that at some point, the “pricing strategy” nearly switched to “what’s the easiest option to implement”, rather than “what’s the best for the company”.\nRaffi and Anh-Tho, and the founding Lago team then spent a lot of time carefully analyzing why no one had solved this huge problem yet, as they thought solid companies like Stripe or Chargebee had partially addressed it.\nThat’s how they built our conviction on the open-source and “platform” approach of Lago, to not be another “buy billing” option, but rather a “Lego ” that engineers build with to create their tailored monetization stack."
+    ]
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/getlago",
+    "title": "Lago - Crunchbase Company Profile & Funding",
+    "excerpts": [
+     "* Photo of Raffi Sarkissian\nRaffi Sarkissian: Co-Founder\n* Photo of Anh-tho Chuong\nAnh-tho Chuong: Co-founder & CEO\nPast Role: Qonto, VP Growth ## Details\nLegal Name GetLago Corp. Also Known As GetLago Operating Status Active Company Type For-profit Founders Anh-tho Chuong , Raffi Sarkissian\nAbout the Company\nLago synchronizes customer data to business tools. The company was founded in 2021 and is headquartered in New Castle County, Delaware.\nDiversity Spotlight Women Founded Women Led Predictions & Insights\nNews • Mar 12, 2026\nobfuscated\nobfuscated obfuscated obfuscated obfuscated obfuscated obfuscated obfuscated obfuscated obfuscated\nNews • Mar 11, 2026\nobfuscated\nobfuscated obfuscated obfuscated obfuscated obfuscated obfuscated obfuscated obfuscated obfuscated\nNews • Mar 11, 2026\nobfuscated\n24,949\n44.98% in past month\nData source: ## IT Spend\n$3.2M This year, Lago is projected to spend $3.2M on IT, according to Aberdeen .\nData source: ## Active Website Tech Count\n18 Lago is actively using 18 technologies for its website, according to BuiltWith . These include DNSSEC , IPv6 , and Mobile Non Scaleable Content .\nLists Featuring This Company\n9,768 Number of Organizations  • $29.2B Total Funding Amount  • 5,595 Number of Investors\nTrack\nParis Companies With Fewer Than 50 Employees (Top 10K)\n9,734 Number of Organizations  • $17.7B Total Funding Amount  • 9,050 Number of Investors\nTrack\nView All Sub-Organizations Frequently Asked Questions\nWhere is Lago 's headquarters?\nLago is located in Paris , Ile-de-France , France . Who invested in Lago ? Lago has 11 investors including New Wave (VC) and Romain Huet . When was the last funding round for Lago ? Lago closed its last funding round on obfuscated\nobfuscation from a Series A round. Who are Lago 's competitors?"
+    ]
+   },
+   {
+    "url": "https://getlago.com/about-us",
+    "title": "About Lago | Building the Future of Billing Infrastructure",
+    "excerpts": [
+     "About us\nThe AI-native billing platform\nEvery company needs billing. Lago is open-source and gives you the flexibility of a homegrown system with the features of an enterprise-grade vendor.\nBook demo Explore open roles\nBilling shouldn't suck\nGetting paid should be the easy part. But billing systems make it hard. For the longest time, you had to buy a third-party black box or waste time constructing your own billing. Lago fixes that.\nIt's not a problem that goes viral on social media, but it's ubiquitous in tech companies.\nAt one of Europe's biggest fintechs, we saw the “billing nightmare”: 10+ full-time engineers worked on billing alone. Product grew frustrated because pricing took months. Finance labored in spreadsheets they shouldn't need.\nMillions of invoices later, we're happy to support emerging and established leaders on billing so they can focus on building, not billing.\nLago Founders\nAnh-Tho Chuong\nAnh-Tho Chuong\nCEO & co-founder at Lago\nRaffi Sarkissian\nRaffi Sarkissian\nCPO & co-founder at Lago\nA few facts\n#1\nOpen-Source Billing Platform\n$22M\nRaised from tier 1 investors\n$829M\nof invoices issued monthly\nTrusted by the most innovative companies\nRead customer stories\nMistral AI\nPayPal\nGroq\nSynthesia\nLaravel\nSwan\nEpicor\n1NCE\nCerebrium\nBlacksmith\nLune\nOQC\nBuilt for the best\nBacked by the best\nOur backers include highly accomplished venture firms and some of the world’s most exceptional founders and product builders.\nFirstmark Capital\nFirstmark\nSignalFire\nSignalFire\nY Combinator\nY Combinator\nArthur Waller\nCofounder, Pennylane\nClément Delangue\nCofounder & CEO, Hugging Face\nElena Verna\nGrowth, Lovable\nJulien Codorniou"
+    ]
+   },
+   {
+    "url": "https://doc.getlago.com/about",
+    "title": "About Lago - Lago",
+    "excerpts": [
+     "On this page\n* Why Lago exists\n* Open-source foundation\n* Company\n* Trust and transparency\nAbout Lago\nCopy page Copy page\nLago is the company and open-source project building transparent, programmable billing infrastructure.\nCopy page Copy page\nLago builds open-source, API-first billing infrastructure.\nThe platform helps engineering, product, and finance teams meter usage, manage subscriptions, configure pricing, issue invoices, orchestrate payments, and understand revenue without relying on an opaque billing black box.\n​\nWhy Lago exists\nBilling becomes difficult when a company supports multiple products, geographies, contract types, usage dimensions, and payment providers. Internal systems often grow into fragile collections of jobs and spreadsheets, while closed vendors can make pricing changes and data access hard.\nLago combines a programmable API and open-source codebase with a visual interface so teams can keep control while avoiding the cost of building every billing primitive themselves.\n​\nCompany\nLago was founded in 2021 by Anh-Tho Chuong and Raffi Sarkissian after experiencing the operational cost of complex billing systems firsthand. Get Lago Corp. develops and supports the Lago platform. Read the fuller company story , explore open roles , or visit the contact page for help and commercial questions.\n​\nCompany\nAbout Lago Customers Blog Contact Trust center Status\nPowered by This documentation is built and hosted on Mintlify, a developer documentation platform"
+    ]
+   },
+   {
+    "url": "https://app.welcometothejungle.com/companies/Lago",
+    "title": "Lago Jobs and Careers | Welcome to the Jungle (formerly Otta)",
+    "excerpts": [
+     "* Jobs Explore jobs\n* Companies Discover companies\n* Sign in Sign in\nLago\nOpen source metering and usage-based billing\nLago logo\n1-20 employees\n* Fintech\n* B2B\n  Delaware, USA\n  Lago logo\n  Lago headquarter Google Maps location HQ\n  Jump to section\n* Company mission\n* Our take\n* Funding\n* Leadership and people\n* Office\nCompany mission\nTo make data accessible and usable to anybody, starting with growth teams.\nOur take\nLago is an open-source billing API for product-led SaaS with a pricing that combines subscription and usage-based dimensions, self-serve and sales-led go-to-market.\nWhile traditional tools to segment and synchronize customer data are often costly and require dedicated engineers to implement, Lago offers an alternative.\nThe company allows growth teams to do this themselves without having to code by offering an spreadsheet-like interface on which to manage and plan their audience.\nLago received investment from Y Combinator to help it reach global stage from the get-go.\nCapital and resources enabled Lago to reach a global audience immediately with users from all continents and world-class mentors and investors that will help the company grow and develop its product.\nFreddie headshot\nFreddie\nCompany Specialist at Welcome to the Jungle\nFunding (last 2 of 4 rounds)\nMar 2024\n$15m\nSERIES A\nSep 2023\n$7m\nSEED\nTotal funding: $22.3m\nThis company has top investors\nLeadership\nAnh-Tho Chuong Degroote (CEO & Co-founder)\nPreviously served as Vice President of Growth for Qonto, Country Manager for Weebly, in Strategy and Special Projects for Mailjet, as a Consultant for McKinsey & Company, Business Analyst for Orange, and as President of ABCDE Vietnam.\nRaffi Sarkissian (Co-founder)\nOffice\n251 Little Falls Dr, Wilmington, DE 19808, USA"
+    ]
+   },
+   {
+    "url": "https://ventureloop.com/companies/lago",
+    "title": "Lago | VentureLoop Company Profile | VentureLoop",
+    "excerpts": [
+     "VentureLoop membership Free · All Jobs · Data + Radar Compare plans ->\nVentureLoop\nSearch Jobs Find Companies Hot Jobs! My Dashboard Pricing\nMenu\nSign in Start free\nCompanies / Lago\nLago logo\nLago\nVerified by VentureLoop\nThe AI Native Billing Platform\nWebsite LinkedIn Careers VentureLoop roles\n* Billing\n* Usage Based Billing\n* AI Billing\n* Metering\n* Pricing\n* Invoicing\n* Revenue Management\n  Open roles 0 Current company openings\n  Headquarters San Francisco, CA, USA getlago.com\n  Verification Verified company link Profile ready\n  Company overview\nWhat Lago builds\n* Member-visible leadership jobs appear below the company brief.\n* Useful company context stays attached to the profile.\n  Unlock company\nCreate a free account first.\nCompany profiles include key links, funding context, leadership notes, and active role context.\nCreate free account Watch company jobs\nLago logo\nCompany\nLago"
+    ]
+   },
+   {
+    "url": "https://linkedin.com/company/getlago",
+    "title": "Lago | LinkedIn",
+    "excerpts": [
+     "Open Source Metering & Usage-Based Billing\nSee jobs Follow\n* Discover all 84 employees\n* Report this company\nAbout us\nOpen Source Metering & Usage-Based Billing The best alternative to Chargebee, Recurly and Stripe Billing. For usage-based, subscription-based, and all the nuances of pricing in between. We’re hiring! (https://getlago.com/hiring)\nWebsite https://www.getlago.com/\nExternal link for Lago\nIndustry IT Services and IT Consulting\nCompany size 11-50 employees\nHeadquarters Paris\nType Privately Held\nFounded 2021\nSpecialties Billing, OSS, SaaS, Pricing, Invoicing, Open-source, and Metering\nProducts\nLago\nLago\nBilling & Invoicing Software\nLago is the leading metering and usage-based billing API, trusted by companies like Mistral AI and Together AI to scale their revenue while streamlining their billing engine.\nThe platform's key features include: Consumption tracking, Subscription management, Pricing iterations, Customer portal, Payment orchestration & Revenue analytics Lago is a developer first and event-based architecture solution and can be cloud or self-hosted. The best alternative to Chargebee, Recurly and Stripe Billing.\nFor usage-based, subscription-based, and all the nuances of pricing in between.\nEmployees at Lago\n* Vincent Pochet\nLinkedIn Member\nLinkedIn Member\nLinkedIn Member\nLinkedIn Member\nLinkedIn Member\nView 84 employees at Lago\nSign in\nWelcome back\nLago is now a member of NVIDIA Inception, a program for startups building AI products. Our open-source monetization platform helps companies including Mistral, Groq and Synthesia meter usage, set pricing and bill customers, whether they are Humans or AI agents. We're excited to be part of NVIDIA Inception!\n6\nLike Comment Share"
+    ]
+   },
+   {
+    "url": "https://getlago.com/hiring",
+    "title": "Join Lago | Build the Future of Open Billing",
+    "excerpts": [
+     "Hiring\nHelp us build open-source billing.\nWe're building open-source, usage-based billing to serve the most complex use cases and empower teams to ship quickly.\nExplore open roles\nTrusted by the most innovative companies\nRead customer stories\nMistral AI\nPayPal\nGroq\nSynthesia\nLaravel\nSwan\nEpicor\n1NCE\nCerebrium\nBlacksmith\nLune\nOQC\nOpen roles\nJoin us to support teams in shipping product, not building billing.\n* Engineering | Location |\n* Engineering Squad Lead | Remote Europe | Apply\nWhy the team loves Lago\nSales Product Engineering Customer Support Operations\nSales customer story\nQuote\nSelling an open-source product is a game-changer. Prospects often already know us, many have run Lago themselves, and conversations start from trust instead of a pitch.\nLago solves complex billing.\nBook demo Deploy open source\nGetlago\nGet the latest news and updates — no hidden fees\nSubscribe\nBy signing up, you agree to Lago's Privacy and Terms.\nTeam solutions\nEngineering Product Finance Operations\nIndustry solutions\nAI Enterprise Finance IoT\nAll systems normal\n© 2026 Lago"
+    ]
+   }
+  ],
+  "decision_id": "decisions_87fdfd72a4b90b88df5c1d741195b44b"
+ }
+}

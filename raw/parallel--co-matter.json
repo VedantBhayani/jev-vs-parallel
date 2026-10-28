@@ -1,0 +1,101 @@
+{
+ "seconds": 0.952,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.9983336461821012
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.008009727895986462
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.024612149273356573
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.9954639330515959
+   }
+  },
+  "usage": {
+   "input_tokens": 3982,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://www.ycombinator.com/companies/matter/jobs",
+    "title": "Jobs at Matter | Y Combinator",
+    "excerpts": [
+     "Matter\nBuilding the future of reading\nCompany\nJobs 1\nhttps://getmatter.app\nJobs at Matter\nSoftware Engineer, Backend\nRemote (US)\n$160K - $200K\n1.00% - 2.00%\n6+ years\nApply Now ›\nWhy you should join Matter\nMatter is building the future of reading.\nWe're a small, productive team that obsesses about craft, speed, and pushing technical boundaries in service of building the best reading experience imaginable.\nWe've raised $9M while in private beta from GV, Y Combinator, and many stellar angels, and we just launched to public beta.\nMatter\nMatter\nFounded: 2019\nBatch: S20\nTeam Size: 7\nStatus: Active\nLocation: San Francisco\nX (Twitter) logo\nFounders\nRobert Mackenzie\nRobert Mackenzie\nFounder\nRobert Mackenzie\nRobert Mackenzie\nFounder\nBen Springwater\nBen Springwater\nTwitter account\nFounder\nBen Springwater\nBen Springwater\nTwitter account\nFounder\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.getmatter.com/company",
+    "title": "Matter | Company",
+    "excerpts": [
+     "Matter\nOverview\nDeveloper\nWords That Matter\nX\nSign In\nGet Matter\nWe believe\nWe’re building a tool to give you more of those moments. A tool that chooses agency over algorithm. Debate over noise. Quality over recency. We’re a team of fanatic readers who saw internet technology change drastically while our tools for reading remained, dismayingly, the same.\nSo with the backing of GV, Y Combinator, and many stellar angels, we set out to build something better.\nWe’re looking for creative,\nWe’re looking for creative,\nambitious people to help us\ncraft the future of reading.\nYou’ll fit right in if you want to take ownership of a product, codebase, and company from the ground up. We’ve developed a passionate following because we ship fast, listen to our users, and sweat the details.\nWe’re constantly pushing the boundaries of technology and design to rethink what’s possible when it comes to reading. If that excites you, we should talk.\nSoftware Engineer, Backend Fully Remote #### Open role Think you can help us? We’d love to chat.\nBenefits\nBenefits\n* Top-tier health and dental insurance.\n* Freedom to buy or build your ideal work set up.\n* Stipend for personal office space. (We’re fully remote.)\n* Competitive salary and equity.\n* Unlimited budget for books.\nWe always love\nSoftware Engineer, Backend Fully Remote #### Open role Think you can help us? We’d love to chat.\nWe always love\nto chat.\nFor feature requests, press inquiries and more, reach out at hello@getmatter.com\nWords are my matter.\n–Ursula K. LeGuin\nGet Matter\nTerms Privacy X Say hello"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/matter",
+    "title": "Matter: Building the future of reading | Y Combinator",
+    "excerpts": [
+     "Matter\nBuilding the future of reading\n[Summer 2020](/companies?batch=Summer 2020)\nActive\nSan Francisco\nCompany\nJobs 1\nNews\nhttps://getmatter.app\nBuilding the future of reading\nMatter is a powerful, modern reading app that lets you save media from anywhere, pulls in your newsletters, lets you listen to your articles in a natural voice, and much more.\nLatest News\nMatter raises $7 million Series A to build a better reading app – TechCrunch\nOct 06, 2021\nJobs at Matter\nView all jobs\nSoftware Engineer, Backend\nRemote (US)\n$160K - $200K\n1.00% - 2.00%\n6+ years\nApply Now ›\nMatter\nMatter\nFounded: 2019\nBatch: Summer 2020\nTeam Size: 7\nStatus: Active\nLocation: San Francisco\nX (Twitter) logo\nFounders\nBen Springwater\nBen Springwater\nTwitter account\nFounder\nBen Springwater\nBen Springwater\nTwitter account\nFounder\nRobert Mackenzie\nRobert Mackenzie\nFounder\nRobert Mackenzie\nRobert Mackenzie\nFounder\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://hq.getmatter.com/company",
+    "title": "Matter | Company",
+    "excerpts": [
+     "Overview\nDeveloper\nWords That Matter\nX\nGet Matter\nWe believe\nWe believe\nthat reading is\nmagic.\nAnd that we need new tools to keep that magic alive. Think about a moment when a piece of writing opened you up to a totally new understanding of your world. Or when a friend had you read something that ignited a conversation and forced you to articulate a belief you didn’t quite have the words for.\nWe’re building a tool to give you more of those moments. A tool that chooses agency over algorithm. Debate over noise. Quality over recency. We’re a team of fanatic readers who saw internet technology change drastically while our tools for reading remained, dismayingly, the same.\nSo with the backing of GV, Y Combinator, and many stellar angels, we set out to build something better.\nWe’re looking for creative,\nWe’re looking for creative,\nambitious people to help us\ncraft the future of reading.\nYou’ll fit right in if you want to take ownership of a product, codebase, and company from the ground up. We’ve developed a passionate following because we ship fast, listen to our users, and sweat the details.\nWe’re constantly pushing the boundaries of technology and design to rethink what’s possible when it comes to reading. If that excites you, we should talk.\nSoftware Engineer, Backend Fully Remote #### Open role Think you can help us? We’d love to chat.\nWe always love\nto chat.\nFor feature requests, press inquiries and more, reach out at hello@getmatter.com\nWords are my matter.\n–Ursula K. LeGuin\nGet Matter\nTerms Privacy X Say hello"
+    ]
+   },
+   {
+    "url": "https://getmatter.org/",
+    "title": "Official Matter Website: Simple, Secure, Connected Smart Home",
+    "excerpts": [
+     "Latest Posts\nWe’re constantly updating the Matter website, so be sure to check back for all the latest information.\n* matter ecosystems\nSmart Home Ecosystems\n* unified matter smart home devices\nMatter Bridges–Essential Guide\n* Thread Matter smart home connections\nMatter and Thread Explained\n* Privacy\n* Terms\n* Glossary\n* FAQs\n* Developers\n  © 2026 Connectivity Standards Alliance. All Rights Reserved.\n  Close\n* Your Smart Home\n* Why Matter\n* How It Works"
+    ]
+   },
+   {
+    "url": "https://app.dealroom.co/companies/matter_6",
+    "title": "Matter company information, funding & investors | Dealroom.co",
+    "excerpts": [
+     "Save\nMobile app enhancing writing skills through personalized features and secure data management.\nHQ location\nSan Francisco, United States\nWebsite\ngetmatter.com\nLaunch date\n2019\nEmployees\n2-10people\nEnterprise value\n$28—42m\nhttps://twitter.com/getmatterapp https://www.linkedin.com/company/getmatterapp/\nSomething missing? Suggest an update\n* B2C\n* yc s20\nOverview Similar companies Job openings\nFunding Investors\nEdit\n* Date | Investors | Amount | Round\n* Sep 2020 | * Y Combinator | $125k | Seed\n* Oct 2021 | * GV\n* Calvin French-Owen\n* Patrick Collison\n* James Beshara\n* Kevin Hartz\n* Lachy Groom\n* Shrug Capital\n* Julia Hartz\n* Unpopular Ventures\n* Outliers Venture Capital | $7.0m | Series A\n* Total Funding | 000k |\nUpgrade to view funding data\nUpgrade plan\nSign in to unlock notes & more\nCreate a free account to save notes, track companies, and access investor insights.\nLogin Book a Demo\nMore about Matter\nMade with AI Edit\n**Company Overview:**\nMatter, accessible via getmatter.app, is a startup focused on enhancing the reading experience for its users through a mobile application. The company operates in the digital content and mobile app market, targeting avid readers and individuals who seek personalized and curated reading material.\nMatter's primary clients are tech-savvy consumers who value high-quality, customized content delivered directly to their mobile devices.\n**Business Model:**\nMatter employs a freemium business model. This means that the basic version of the app is free to use, but users can opt for premium features through a subscription service.\nMatter places a strong emphasis on user privacy and data security. The company collects personal information based on user interactions with the app and ensures that all data is handled with the utmost care."
+    ]
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/matter-ec5e",
+    "title": "Matter - Crunchbase Company Profile & Funding",
+    "excerpts": [
+     "Resources Advanced Search\nStart Free Trial Talk With Sales Pricing Log In\nLog In Matter Growth Score 30 CB Rank 44414 Heat Score 60\nSave Actions\nMatter is a social reading app for articles, blogs, and newsletters to help users find better content online.\nFounded obfuscated\nobfuscation Private Series A San Francisco , California , United States 1-10 getmatter.app/\nApps Content Content Marketing\nMatter\nSection: Overview Actions\nOverview\nMatter\nTotal Funding obfuscated\nobfuscation\nGrowth Score 30 Heat Score 60 Unlock best-in-class private company insights with Crunchbase Pro\n* Photo of Ben Springwater\nBen Springwater: Co-Founder & CEO\n* Robert Mackenzie Logo\nRobert Mackenzie: Co-founder ## Details\nLegal Name Dig Wells, Inc. Also Known As getmatter, getmatter.app Operating Status Active Company Type For Profit Founders Ben Springwater , Robert Mackenzie\nAbout the Company\nMonthly Web Visits\n76\n-13.64% in past month\nData source: ## Active Website Tech Count\n8 Matter is actively using 8 technologies for its website, according to BuiltWith . These include DNSSEC , IPv6 , and Amazon Virginia Region .\nData source: Lists Featuring This Company\nLists Featuring This Company\nView All Sub-Organizations Frequently Asked Questions\nWhere is Matter 's headquarters? Matter is located in San Francisco , California , United States . Who invested in Matter ? Matter has 12 investors including Adapt Ventures and Shrug Capital . When was the last funding round for Matter ? Matter closed its last funding round on obfuscated\nobfuscation from a Series A round. Who are Matter 's competitors? Alternatives and possible competitors to Matter may include Raindrop , Readwise , and Instapaper . How much funding has Matter raised to date? Matter has raised obfuscated\nobfuscation .\nWho We Are"
+    ]
+   },
+   {
+    "url": "https://indexed.vc/companies/getmatterapp",
+    "title": "Matter — Company Profile & Funding | Indexed.vc",
+    "excerpts": [
+     "Building the future of reading\nMatter was founded in 2019, is headquartered in San Francisco, United States, lists 1–10 employees, and has $9.0M in recorded funding across 2 rounds.\nFollow\nSave\nShare\nMarketing Tech\nYC S20\nSuggest a correction\nHeadquarters San Francisco, California\nEmployees 1–10\nFounded 2019\nBusiness Model B2C\nWebsite getmatter.com\nTotal Funding $9.0M\nLast Round $7.0M Series A Oct 2021\nRounds 2\nTotals include recorded grants and other qualifying funding, not just equity. What counts toward funding .\nIndexed holds 2 funding rounds and 8 investors for this company. The full record is free with an account or through the API .\nAbout\nMatter is building new tools to keep the magic of reading alive. The company is a team of fanatic readers who saw internet technology change drastically while tools for reading remained the same, and set out to build something better.\nMatter is building a tool that chooses agency over algorithm, debate over noise, and quality over recency, so people can have more moments when a piece of writing opens a new understanding of the world.\nSummary\nMatter is a Marketing Tech company based in San Francisco, United States, founded in 2019. It lists 1–10 employees.\nIt has raised $9.0M in total across 2 rounds, most recently a $7.0M Series A round in Oct 2021. Investors include GV, Outliers Venture Capital and Shrug Capital.\nLinkedIn X (Twitter)\n* Top Marketing Tech Companies\n* Top SF Startups\n* US Series A Companies\n* Most Funded Companies\nYour company? Embed this profile\nAdd the live badge to your site — it stays current as yourfunding data updates.\nMatter on Indexed.vc"
+    ]
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/matter-a37c",
+    "title": "Matter - Crunchbase Company Profile & Funding",
+    "excerpts": [
+     "Resources Advanced Search\nStart Free Trial Talk With Sales Pricing Log In\nLog In Matter CB Rank 3432102 Heat Score 33\nSave Actions\nMatter provides a read-later app that stores articles, newsletters and transcripts with tools for listening, highlighting and search.\nFounded obfuscated\nobfuscation Private San Francisco , California , United States 1-10 getmatter.app\nInformation Technology Software\nMatter\nSection: Overview Actions\nOverview\nMatter\nHeat Score 33 Unlock best-in-class private company insights with Crunchbase Pro\nMatter provides a read-later app that stores articles, newsletters and transcripts with tools for listening, highlighting and search.\nFounded obfuscated\nobfuscation Private San Francisco , California , United States 1-10 getmatter.app\nInformation Technology Software ## Details\nOperating Status Active Company Type For Profit\n* Explore Competitors and Market Maps\n* Export up to 2K accounts/month\n* Search 4M+ private companies\nTry Pro Free People\nView Profiles & Contacts\nHeadcount 1-10 News Technology\nView Tech Report\nIT Spend\n$8.8M This year, Matter is projected to spend $8.8M on IT, according to Aberdeen .\nData source: Lists Featuring This Company\nLists Featuring This Company\nSan Francisco Software Companies\n8,542 Number of Organizations  • $184.7B Total Funding Amount  • 23,073 Number of Investors\nTrack\nSan Francisco Information Technology Companies\n4,471 Number of Organizations  • $307.8B Total Funding Amount  • 10,444 Number of Investors\nTrack\nView All Sub-Organizations Frequently Asked Questions\nWhere is Matter 's headquarters? Matter is located in San Francisco , California , United States .\nWho We Are"
+    ]
+   },
+   {
+    "url": "https://matterlabs.com/",
+    "title": "Matter Labs: The Company Behind Prividium",
+    "excerpts": [
+     "Prividium Technology Careers\nTalk to our team\nThe company behind Prividium®\nMatter Labs builds Prividium\nThe Ethereum-secured blockchain platform for banks and financial institutions.\nTalk to our team Explore the platform\nWhat is Matter Labs\nMatter Labs is the engineering company behind Prividium® , the blockchain platform that lets banks and financial institutions issue, settle, and manage digital assets with privacy, compliance, and full control of their data.\nWhat does Matter Labs do?\nMatter Labs is the engineering company that builds Prividium, the Ethereum-secured blockchain platform for banks and financial institutions. Prividium runs as a private, permissioned chain in the institution's own infrastructure, with every transaction anchored to Ethereum.\nMatter Labs also builds ZKsync, the public zero-knowledge network based on the same technology.\nWhat is Prividium?\nPrividium is Matter Labs' enterprise blockchain platform: a private, permissioned blockchain you run in your own infrastructure, with every transaction anchored to Ethereum for finality.\nMatter Labs is the company. Prividium is its enterprise platform for financial institutions, and ZKsync is the public zero-knowledge network it also builds. When you read about Prividium deployments or ZKsync technology, that's Matter Labs' work.\nHow do we get started with Prividium?\nTalk to the Matter Labs team for a platform walkthrough and an architecture review for your use case. Technical documentation is public at docs.zksync.io, so your engineers can evaluate the stack directly.\nMatter Labs, the company behind Prividium®.\nApplicant Privacy Notice\n2026 Matter Labs. Company Registered Number: 352369.\nPrividium® is a registered trademark of Matter Labs in the United States."
+    ]
+   }
+  ],
+  "decision_id": "decisions_57437066e2be2d0bbe276f70fafbe353"
+ }
+}

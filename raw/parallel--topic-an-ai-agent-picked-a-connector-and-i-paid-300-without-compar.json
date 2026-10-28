@@ -1,0 +1,89 @@
+{
+ "seconds": 0.843,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "published": {
+    "type": "noul",
+    "noul": 0.10996274707565491
+   }
+  },
+  "usage": {
+   "input_tokens": 3430,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://www.singlegrain.com/llms.txt",
+    "title": "https://www.singlegrain.com/llms.txt",
+    "excerpts": [
+     "Product-focused blog content: Educational posts covering product comparisons, installation guides, design planning, maintenance, trends, and home value. These helped establish authority, improve rankings, and build trust.\nTargeting High-Value Keywords: The strategy required identifying and targeting high-volume, high-intent keywords that would drive both organic traffic and AI-powered results. Building Topical Authority: To gain visibility in AI search, we had to build deep topical authority around key product categories like siding, windows, roofing, and decking.\nBuilding Topical Authority: To gain visibility in AI search, we had to build deep topical authority around key product categories like siding, windows, roofing, and decking.\nOur team at Single Grain launched a Meta prospecting campaign targeting high-intent audiences, proving that Meta can generate high-quality leads at a cost per lead (CPL) comparable to search.\nCategories: Paid Media\nCover text: As a digital marketing agency, Our team at Single Grain set an ambitious goal for our own internal marketing: increase search traffic, generate high-quality leads, and improve conversion rates—without significantly increasing content production costs.\nAfter implementing a programmatic SEO (pSEO) strategy powered by AI, we successfully ranked for 6,900 long-tail keywords, secured 742 leads, and achieved a 300% ROI within nine months.\nCategories: SEO\nResults\nIn using AI and pSEO the right way, we scaled our inbound marketing without sacrificing quality—directly growing revenue through new client acquisitions.\nResult numbers:\nCover text: In less than three months, Single Grain helped WineDeals achieve remarkable growth by optimizing their blog content with AI, driving a 268% increase in clicks.\nCategories: SEO\nProblem"
+    ]
+   },
+   {
+    "url": "https://www.singlegrain.com/artificial-intelligence/ai-agent-security",
+    "title": "AI Agent Security for Marketing Teams: A Permission Guide",
+    "excerpts": [
+     "AI Agent Security for Marketing Teams: A Permission Guide\nMarketing AI agents hold live budgets and publish rights. The security risk nobody's pricing, the permission ladder, and what to audit this\nAI Agent Security for Marketing Teams: A Permission Guide\nMarketing AI agents hold live budgets and publish rights. Accelerate Your Marketing Without Growing Headcount\nAI Agent Security for Marketing Teams: A Permission Guide\nSingle Grain is a full-service digital marketing agency that helps great companies grow their revenues online. : contact@singlegrain.com\nAI Agent Security for Marketing Teams: A Permission Guide\nMarketing AI agents hold live budgets and publish rights. Security teams will catch up to agentic AI, Single Grain is a full-service digital"
+    ]
+   },
+   {
+    "url": "https://www.singlegrain.com/ai-tools/",
+    "title": "AI Tools",
+    "excerpts": [
+     "* Oracle: Always-on SEO intelligence. Weekly performance reports, keyword gap analysis, and rank decay detection.\n* Arrow: Sales pipeline visibility without the CRM grind. Monitors deal health, flags stalled opportunities.\n* Flash: Content engine that never stalls. Spots trending topics, drafts platform-ready content.\nagents\n✓ Newsletter segment — draft ready\n✓ Blog expansion — publishing tonight\n⏳ YouTube script — in progress\nRun same hook pattern on 3 more topics?\nAr\nArrow7:00 AM\nWeekly outbound report:\nEmails sent1,847\nOpen rate41.2%\nMeetings booked23\nPipeline added$287K\n4 new targets drafted. Ready on your approval.\nAlfred is typing...\nagents\nSelf-serve Managed\nagents\nClickFlow: AI-Powered SEO\nagents\nOkay, thanks\n{\n\"@context\": \"http://schema.org/\",\n\"@type\": \"LocalBusiness\",\n\"@id\": \"https://www.singlegrain.com/\",\n\"name\": \"Single Grain, LLC\",\n\"description\": \"Single Grain is a revenue-focused digital marketing agency that helps venture backed startups to Fortune 500 companies grow their revenues online.\",\nagents\n\"logo\": \"https://www.singlegrain.com/wp-content/themes/singlegrain/assets/legacy/images/def-logo.png\",\n\"image\": \"https://www.singlegrain.com/wp-content/themes/singlegrain/assets/legacy/images/def-logo.png\",\n\"url\": \"https://www.singlegrain.com\",\n\"telephone\": \"800-701-0793\",\n\"address\": {\n\"@type\": \"PostalAddress\",\nagents\n[{\"@context\":\"https://schema.org/\",\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.singlegrain.com/ai-tools/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@id\":\"https://www.singlegrain.com\",\"name\":\"Single\nagents\nGrain\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@id\":\"https://www.singlegrain.com/ai-tools/\",\"name\":\"AI Tools\"}}]}]"
+    ]
+   },
+   {
+    "url": "https://www.singlegrain.com/agency/ai-content-agency/",
+    "title": "AI Content Agency",
+    "excerpts": [
+     "Our AI tools identify high-opportunity topics, search intent patterns, and content gaps your human team might miss.\nAI-Powered Content Creation\nWe leverage cutting-edge AI systems to draft content at scale, using specialized prompting techniques to maintain quality and brand voice.\nContent opportunity analysis Competitive content gaps AI-optimized editorial calendars Topic cluster planning Audience intent mapping Content performance forecasting Platform-specific strategies\nBlog articles & guides Product descriptions Website copy Social media content Email campaigns Lead magnets & ebooks Video scripts\n\"@context\": \"http://schema.org/\",\n\"@type\": \"LocalBusiness\",\n\"@id\": \"https://www.singlegrain.com/\",\n\"name\": \"Single Grain, LLC\",\n\"description\": \"Single Grain is a revenue-focused digital marketing agency that helps venture backed startups to Fortune 500 companies grow their revenues online.\",\n\"logo\": \"https://www.singlegrain.com/wp-content/themes/singlegrain/assets/legacy/images/def-logo.png\",\n\"image\": \"https://www.singlegrain.com/wp-content/themes/singlegrain/assets/legacy/images/def-logo.png\",\n\"url\": \"https://www.singlegrain.com\",\n\"telephone\": \"800-701-0793\",\n\"address\": {\n\"@type\": \"PostalAddress\",\n[{\"@context\":\"https://schema.org/\",\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.singlegrain.com/agency/ai-content-agency/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@id\":\"https://www.singlegrain.com\",\"name\":\"Single\nGrain\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@id\":\"https://www.singlegrain.com/agency_page/\",\"name\":\"Agency Pages\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@id\":\"https://www.singlegrain.com/agency/ai-content-agency/\",\"name\":\"AI Content Agency: Human Quality at Scale | Single Grain\"}}]}]"
+    ]
+   },
+   {
+    "url": "https://www.singlegrain.com/blog/ms/ai-content-sources/",
+    "title": "Contribute to Our Blog on AI, Chatbots & Ethics",
+    "excerpts": [
+     "Eric Siu\nLast updated: February 16th, 2026\nChatGPT Summarize with ChatGPT Ask questions about this article Arrow\nAI technologies like ChatGPT are transforming content creation as we know it. They make generating various types of content faster and easier.\nBoost Content Trust\nFor more insights and lessons about marketing, check out our Marketing School podcast on YouTube.\nWritten By Eric Siu\nEric Siu is a seasoned entrepreneur and CEO of the digital marketing agency Single Grain, which drives scalable and predictable revenue growth using paid ads, SEO, and content marketing.\nUltimate LLM SEO Guide: LLMO Best Practices + Examples Company Intelligence for AI-Powered Growth Teams AI Revenue Agents Explained for Growth-Stage SaaS Teams How LLMs Interpret Positioning Statements and Taglines Writing Headlines That Work for Humans and AI Models How LLMs Influence Brand Recall After Ad Exposure When Paid Media Should Support\nContent Refresh Efforts\nSingle Grain Logo Single Grain\nSingle Grain is a full-service digital marketing agency that helps great companies grow their revenues online. Get in touch: contact@singlegrain.com\nYou’ll be hearing from us very soon.\nClose Visit SingleGrain.com\najax-loader\n×\nTwo ways to fill your pipeline. Pick yours.\nTrusted by teams at Amazon, Uber, Salesforce, and Airbnb\nClickFlow\nSEO & Content Teams\n“Our AI content isn’t converting”"
+    ]
+   },
+   {
+    "url": "https://www.singlegrain.com/agency/ai-chatbot-agency/",
+    "title": "AI Chatbot Agency for Customer Service | Single Grain",
+    "excerpts": [
+     "How Learning A-Z Increased Revenue by 65% Using Paid Media in 2024\nRead Full Case Study\n* Learn\n* Blog Blog Youtube Youtube Leveling Up Podcast Leveling Up Podcast Marketing School Podcast Marketing School Podcast AI Tools AI Tools\n* Top 5 Blog Posts\n* Just the Stats: Why Should You Leverage Video Marketing\n* Account-Based Marketing\n* Pay Per Click\n* Featured Blog Post\nUltimate LLM SEO Guide: LLMO Best Practices + Examples\nView Blog Post\n* Top 5 YouTube Videos\n* AI Steals Clicks, Google vs Publishers & Strategy\n* Buying & Valuing Podcasts: Risks & Insights\n* Surviving AI: Future of Marketing & Agency Guide\n* Future Pricing Model?\n* 7 Effective SEO Strategies for 2026\n* Top Categories\n* Daily Marketing Tips\n* Blogging\n* Advertising Strategy\n* Featured Episode\nFounder Mode Exists: Proof from Airbnb, Flexport & Apple\nListen Now\n* ClickFlow\nClickFlow Logo\nAI Content That Actually Works\nAI learns your voice\nIntelligent research\nAuto-publish to CMS\nYour chatbot won't just answer questions—it'll understand context, handle complex requests, and seamlessly transfer to humans when needed.\nDeploy Across Channels\nWe implement your chatbot where your customers already are—your website, mobile app, social platforms, and messaging channels.\nGrow My Marketing Without More Headcount\nThank you!\nYou’ll be hearing from us very soon.\nClose Visit SingleGrain.com\najax-loader"
+    ]
+   },
+   {
+    "url": "https://www.singlegrain.com/agency/ai-digital-marketing-agency",
+    "title": "AI Digital Marketing Agency - Boost ROI | Single Grain",
+    "excerpts": [
+     "Content strategy automation AI-assisted content creation Intelligent topic research Performance prediction Dynamic content optimization Personalized content delivery Automated A/B testing\nCustomer journey mapping Propensity modeling Churn prediction Market trend forecasting Attribution modeling\nYou’ll be hearing from us very soon.\nClose Visit SingleGrain.com\najax-loader"
+    ]
+   },
+   {
+    "url": "https://www.singlegrain.com/location/ai-marketing-agency-las-vegas/",
+    "title": "Best AI Marketing Agency in Las Vegas | Single Grain - Single Grain",
+    "excerpts": [
+     "* Account-Based Marketing\n* Pay Per Click\n* Featured Blog Post\nCompany Intelligence for AI-Powered Growth Teams\nView Blog Post\n* Top 5 YouTube Videos\n* AI Steals Clicks, Google vs Publishers & Strategy\n* Buying & Valuing Podcasts: Risks & Insights\n* Surviving AI: Future of Marketing & Agency Guide\n* $100M Mindset Alex Hormozi Stress-Tested\n* Elon Musk's 5-Minute Productivity System\n* Latest Podcasts\n* Future Pricing Model?\n* 7 Effective SEO Strategies for 2026\n* Guy Built a $1.8B Company Against Odds\n* Senior vs Junior: Now It's Good vs Bad With AI\n* Website Traffic Is Nearly Obsolete Today\n* Top Categories\n* Daily Marketing Tips\n* Blogging\nYour Dedicated AI Marketing Partner in the Heart of Las Vegas\nGaming & Casino AI Solutions That Beat the House\nEmail: contact@singlegrain.com\nService Hours: 9 AM – 5 PM (PT), Mon - Fri\nOur Team\nLLM positioning statements and taglines act as the “source code” for how AI agents describe your brand to potential buyers. As more research happens through chat-style interfaces, those short lines...\nSingle Grain Logo\nSingle Grain is a full-service digital marketing agency that helps great companies grow their revenues online.\nPrivacy Policy Personal Data Removal Request Notice of Non-Affiliation Accessibility\n© 2026 Single Grain. All rights reserved.\nPaid Advertising\nof Generic Keywords\nSitemap Privacy Policy Personal Data Removal Request Notice of Non-Affiliation Accessibility\n© 2026 Single Grain. All rights reserved.\nWe typically respond the same day.\nAccelerate Your Marketing Without Growing Headcount\nEric Siu\nPersonal attention guaranteed\nYou'll hear back from me or one of our senior strategists directly.\nYou’ll be hearing from us very soon.\nClose Visit SingleGrain.com\najax-loader"
+    ]
+   },
+   {
+    "url": "https://www.singlegrain.com/artificial-intelligence/choosing-the-right-ai-copywriting-tool-for-your-business",
+    "title": "Choosing the Right AI Copywriting Tool for Your Business",
+    "excerpts": [
+     "Choosing the Right AI Copywriting Tool for Your Business\nNov 19, 2024 — Budget AI copywriting tools come in various price ranges, from free plans to premium subscriptions."
+    ]
+   },
+   {
+    "url": "https://www.singlegrain.com/agency/ai-seo-agency/",
+    "title": "AI SEO Agency & Consultancy for Top Rankings",
+    "excerpts": [
+     "Traditional SEO tactics aren't enough in today's AI-driven search landscape. Search engines now use sophisticated algorithms, and your competitors are already leveraging artificial intelligence.\nAt Single Grain, we harness AI to transform your SEO results with advantages in:\nAdvanced Keyword Intelligence\nPredictive topic modeling NLP-enhanced content briefs E-E-A-T signaling strategies AI-friendly formatting Semantic content enrichment Featured snippet targeting AI overview optimization\nAutomated site auditing AI performance analysis Structured data optimization Programmatic SEO implementation Algorithm-adaptive strategies\n\"@context\": \"http://schema.org/\",\n\"@type\": \"LocalBusiness\",\n\"@id\": \"https://www.singlegrain.com/\",\n\"name\": \"Single Grain, LLC\",\n\"description\": \"Single Grain is a revenue-focused digital marketing agency that helps venture backed startups to Fortune 500 companies grow their revenues online.\",\n\"logo\": \"https://www.singlegrain.com/wp-content/themes/singlegrain/assets/legacy/images/def-logo.png\",\n\"image\": \"https://www.singlegrain.com/wp-content/themes/singlegrain/assets/legacy/images/def-logo.png\",\n\"url\": \"https://www.singlegrain.com\",\n\"telephone\": \"800-701-0793\",\n\"address\": {\n\"@type\": \"PostalAddress\",\n[{\"@context\":\"https://schema.org/\",\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.singlegrain.com/agency/ai-seo-agency/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@id\":\"https://www.singlegrain.com\",\"name\":\"Single\nGrain\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@id\":\"https://www.singlegrain.com/agency_page/\",\"name\":\"Agency Pages\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@id\":\"https://www.singlegrain.com/agency/ai-seo-agency/\",\"name\":\"AI SEO Agency & Consultancy for Top Rankings | Single Grain\"}}]}]"
+    ]
+   }
+  ],
+  "decision_id": "decisions_10d86f43e94c9f70cb6258c21c759dec"
+ }
+}

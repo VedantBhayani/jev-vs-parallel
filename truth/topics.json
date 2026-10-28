@@ -1,0 +1,212 @@
+[
+ {
+  "topic": "7 tips creating killer blog posts no one else writing",
+  "truth": {
+   "published": true
+  },
+  "evidence": "https://www.singlegrain.com/blog-posts/blogging/7-tips-creating-killer-blog-posts-no-one-else-writing/"
+ },
+ {
+  "topic": "16 branding trends that will increase awareness",
+  "truth": {
+   "published": true
+  },
+  "evidence": "https://www.singlegrain.com/blog-posts/branding/16-branding-trends-that-will-increase-awareness/"
+ },
+ {
+  "topic": "content marketing funnel using different types content",
+  "truth": {
+   "published": true
+  },
+  "evidence": "https://www.singlegrain.com/blog-posts/content-marketing/content-marketing-funnel-using-different-types-content/"
+ },
+ {
+  "topic": "were looking for a content marketing intern",
+  "truth": {
+   "published": true
+  },
+  "evidence": "https://www.singlegrain.com/blog-posts/content-marketing/were-looking-for-a-content-marketing-intern/"
+ },
+ {
+  "topic": "how neil patel built and grew his personal brand",
+  "truth": {
+   "published": true
+  },
+  "evidence": "https://www.singlegrain.com/blog-posts/branding/how-neil-patel-built-and-grew-his-personal-brand/"
+ },
+ {
+  "topic": "retrieval source allowlists content agents",
+  "truth": {
+   "published": true
+  },
+  "evidence": "https://www.singlegrain.com/blog-posts/retrieval-source-allowlists-content-agents/"
+ },
+ {
+  "topic": "meta advantage plus ai tools",
+  "truth": {
+   "published": true
+  },
+  "evidence": "https://www.singlegrain.com/blog-posts/meta-advantage-plus-ai-tools/"
+ },
+ {
+  "topic": "seeking a brilliant content marketing intern",
+  "truth": {
+   "published": true
+  },
+  "evidence": "https://www.singlegrain.com/blog-posts/content-marketing/seeking-a-brilliant-content-marketing-intern/"
+ },
+ {
+  "topic": "the art of ethical content stealing",
+  "truth": {
+   "published": true
+  },
+  "evidence": "https://www.singlegrain.com/blog-posts/content-marketing/the-art-of-ethical-content-stealing/"
+ },
+ {
+  "topic": "call center phone systems everything you need to know",
+  "truth": {
+   "published": true
+  },
+  "evidence": "https://www.singlegrain.com/blog-posts/business/call-center-phone-systems-everything-you-need-to-know/"
+ },
+ {
+  "topic": "llm disambiguation seo how to ensure ai knows exactly who you are",
+  "truth": {
+   "published": true
+  },
+  "evidence": "https://www.singlegrain.com/blog-posts/link-building/llm-disambiguation-seo-how-to-ensure-ai-knows-exactly-who-you-are/"
+ },
+ {
+  "topic": "4 steps to expand and promote your epic content",
+  "truth": {
+   "published": true
+  },
+  "evidence": "https://www.singlegrain.com/blog-posts/content-marketing/4-steps-to-expand-and-promote-your-epic-content/"
+ },
+ {
+  "topic": "how to create a content marketing strategy if you are a beginner",
+  "truth": {
+   "published": true
+  },
+  "evidence": "https://www.singlegrain.com/blog-posts/content-marketing/how-to-create-a-content-marketing-strategy-if-you-are-a-beginner/"
+ },
+ {
+  "topic": "paid content promotion comparison different platforms",
+  "truth": {
+   "published": true
+  },
+  "evidence": "https://www.singlegrain.com/blog-posts/content-marketing/paid-content-promotion-comparison-different-platforms/"
+ },
+ {
+  "topic": "ai agent adoption statistics 2026",
+  "truth": {
+   "published": true
+  },
+  "evidence": "https://www.singlegrain.com/blog-posts/ai-agent-adoption-statistics-2026/"
+ },
+ {
+  "topic": "What OpenAI DevDay 2026 changed for marketers",
+  "truth": {
+   "published": false
+  },
+  "evidence": "no post URL contains any of ['devday', 'dev-day']"
+ },
+ {
+  "topic": "Using an AI tennis coach built on Jev Images to review match footage",
+  "truth": {
+   "published": false
+  },
+  "evidence": "no post URL contains any of ['tennis']"
+ },
+ {
+  "topic": "NY Fed survey: small businesses using AI plan to hire more people",
+  "truth": {
+   "published": false
+  },
+  "evidence": "no post URL contains any of ['fed', 'small-business-ai']"
+ },
+ {
+  "topic": "Scanning your X followers with Grok Bot to find M&A targets",
+  "truth": {
+   "published": false
+  },
+  "evidence": "no post URL contains any of ['follower']"
+ },
+ {
+  "topic": "Using state charts so a bot improver can find where AI agents break",
+  "truth": {
+   "published": false
+  },
+  "evidence": "no post URL contains any of ['state-chart', 'statechart']"
+ },
+ {
+  "topic": "An AI agent picked a connector and I paid $300 without comparing options",
+  "truth": {
+   "published": false
+  },
+  "evidence": "no post URL contains any of ['connector']"
+ },
+ {
+  "topic": "Spying on competitors' Meta ads with Jev Images for under a penny",
+  "truth": {
+   "published": false
+  },
+  "evidence": "no post URL contains any of ['spy', 'ad-library']"
+ },
+ {
+  "topic": "Meta glasses footage as input for AI coaching",
+  "truth": {
+   "published": false
+  },
+  "evidence": "no post URL contains any of ['glasses']"
+ },
+ {
+  "topic": "The 1-3-1 decision rule for running a bot fleet",
+  "truth": {
+   "published": false
+  },
+  "evidence": "no post URL contains any of ['1-3-1', '131']"
+ },
+ {
+  "topic": "Trusted Continuation: handing work between AI agents",
+  "truth": {
+   "published": false
+  },
+  "evidence": "no post URL contains any of ['continuation']"
+ },
+ {
+  "topic": "Grok Bot can read your DMs, bookmarks and followers",
+  "truth": {
+   "published": false
+  },
+  "evidence": "no post URL contains any of ['bookmark']"
+ },
+ {
+  "topic": "Riverside as a podcast recording sponsor workflow",
+  "truth": {
+   "published": false
+  },
+  "evidence": "no post URL contains any of ['riverside']"
+ },
+ {
+  "topic": "TV prices fell 97% while hospital prices rose 220%",
+  "truth": {
+   "published": false
+  },
+  "evidence": "no post URL contains any of ['hospital-price', 'tv-price']"
+ },
+ {
+  "topic": "Rent protests in Madrid and what drives housing costs",
+  "truth": {
+   "published": false
+  },
+  "evidence": "no post URL contains any of ['madrid', 'rent-protest', 'housing-cost']"
+ },
+ {
+  "topic": "Analyzing Lily Ray's followers for about $15",
+  "truth": {
+   "published": false
+  },
+  "evidence": "no post URL contains any of ['lily']"
+ }
+]

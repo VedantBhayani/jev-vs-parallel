@@ -1,0 +1,101 @@
+{
+ "seconds": 0.809,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.9858877468250725
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.005715627307758192
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.9965864279908193
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.995870254310116
+   }
+  },
+  "usage": {
+   "input_tokens": 3950,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "http://ycombinator.com/companies/ellipsis/jobs",
+    "title": "Jobs at Ellipsis | Y Combinator",
+    "excerpts": [
+     "Ellipsis\nAI code reviews & bug fixes\nCompany\nJobs 1\nhttps://ellipsis.dev\nJobs at Ellipsis\nFounding AI Engineer\nNew York, NY, US\n$100K - $200K\n0.50% - 5.00%\n1+ years\nApply Now ›\nWhy you should join Ellipsis\nEllipsis is an AI developer tool that automatically reviews code and fixes bugs, and is used by hundreds of companies to ship faster. Our mission is to build an AI software engineer.\nEllipsis\nEllipsis\nFounded: 2023\nBatch: W24\nTeam Size: 2\nStatus: Active\nLocation: New York City, NY\nX (Twitter) logo\nFounders\nHunter Brooks\nHunter Brooks\nTwitter account\nCo-founder & CEO\nHunter Brooks\nHunter Brooks\nTwitter account\nCo-founder & CEO\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/ellipsis",
+    "title": "Ellipsis: Cloud platform for coding agents | Y Combinator",
+    "excerpts": [
+     "Ellipsis\nCloud platform for coding agents\nWinter 2024\nActive\nDeveloper Tools Machine Learning AI\nCompany\nJobs 1\nNews\nhttps://ellipsis.dev\nCloud platform for coding agents\nEllipsis is a cloud platform that allows engineering teams to deploy fleets of coding agents. Each agent gets an isolated sandbox, scoped permissions, and hard budget caps. Full observability included. Get started with a $100 credit at www.ellipsis.dev. You can deploy agents for feature development, code review, and workflow automation.\nCreating an agent is simple: simply commit a YAML file to Github. Spawn agents from Github/Linear/Slack/etc., or via a REST API or our CLI. Organizations get full observability and governance of their cloud coding agents. Agent session logs are downloadable so companies own their own data. Full documentation: https://www.ellipsis.dev/docs\nI've worked as an ML Engineer at AWS and Amazon Ads, in addition to filling various engineering roles at companies like Brigit and Capital One. Before that, I published in the field of Astrophysics.\nHunter Brooks\nHunter Brooks\nTwitter account\nFounder/CEO\nBuilding www.ellipsis.dev, a Managed Cloud Agents platform.\nAI Coding Startups That Have Raised the Most From VCs Like A16z - Business Insider\nOct 13, 2024\nEllipsis raises a $2M Seed Round - Ellipsis.dev | Automated code reviews\nJun 19, 2024\nCompany Launches\n🤖 Ellipsis: Automated code reviews & bug fixes\nSee original launch post\nJobs at Ellipsis\nView all jobs\nFounding AI Engineer\nNew York, NY, US\n$100K - $200K\n0.50% - 5.00%\n1+ years\nApply Now ›\nEllipsis\nEllipsis\nFounded: 2023\nBatch: Winter 2024\nTeam Size: 2\nStatus: Active\nLocation: New York City, NY\nX (Twitter) logo\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ellipsis.dev/",
+    "title": "Ellipsis | Enterprise Platform for Cloud Coding Agents",
+    "excerpts": [
+     "ellipsis.dev ellipsis.dev\nPlatform\nUse cases\nEnterprise Pricing Documentation\nSign in Install on GitHub\nBacked by Y Combinator\nManaged Agent Platform for Developers, Software Factories, Code Review, and Background Agents, for Any Model and Any Harness for Developers\n1\nellipsis :\n2\nkind : agent\n3\nname : check-api-changes\n4\ntrigger :\n5\ntype : react\n6\npull_request :\n7\non : [ pushed ]\n8\nrepositories : [ api-repo ]\n9\nsession :\n10\nclaude_code :\n11\nmodel : claude-opus-5-5\n12\nprompt : |\n13\nCheck the changed API routes for\n14\nmissing test coverage.\n15\nenvironment :\n16\nrepositories :\n17\n\"cost\" : 0.0142 ,\n28\n\"created_at\" : \"2026-09-10T14:00:00Z\"\n29\n}\nInstall on GitHub\nDocumentation Schedule a Demo\nellipsis.dev\nCloud agent platform built for developers\n#4 Product of the Day Backed by Y Combinator Platform status\n© 2026 Ellipsis AI Inc.\nPrivacy policy Terms of service llms.txt"
+    ]
+   },
+   {
+    "url": "https://www.ellipsis.dev/enterprise",
+    "title": "Coding Agents for Enterprise | Ellipsis",
+    "excerpts": [
+     "ellipsis.dev ellipsis.dev\nPlatform\nUse cases\nEnterprise Pricing Documentation\nSign in Install on GitHub\nGovern the agents your engineers already use\nYour engineers are already using AI coding agents. Ellipsis gives platform teams one place to deploy, secure, govern, and measure them across every repo, with SOC 2 compliance and zero source code retention\nTalk to us\nDocumentation\nHow it Works Set up an environment for your agent, spawn sessions, observe every token.\nPrepare browser tests\nresult = client.agents.start(\n7\n\"check-tests\" ,\n8\nclaude_code = { \"prompt\" : \"Run the tests.\" },\n9\n)\n10\nprint (result)\nPrepare browser tests\nYou don't need a support package to use Ellipsis. The platform is fully self-serve; these are for enterprises that want a direct line to our team.\nFeatures\nStandard\n$5,000 / month\nAdvanced\n$10,000 / month\nPremier\n$15,000 / month\nStandard\n$5,000 / month\nAdvanced\n$10,000 / month\nPremier\n$15,000 / month\nPrepare browser tests\n* Support engineer | Shared | Shared | Named\nellipsis.dev Platform status Backed by Y Combinator\n© 2026 Ellipsis AI Inc. All rights reserved.\n215 Park Ave S, Floor 11, Suite 42, New York, NY 10003"
+    ]
+   },
+   {
+    "url": "https://www.ellipsis.dev/platform",
+    "title": "The Coding Agent Platform | Ellipsis",
+    "excerpts": [
+     "ellipsis.dev ellipsis.dev\nPlatform\nUse cases\nEnterprise Pricing Documentation\nSign in Install on GitHub\nAgents-as-a-Service\nRun agents in isolated cloud environments with scoped permissions, budget controls, and logs for every run.\nInstall on GitHub\nSchedule a demo Documentation\nellipsis.dev Platform status Backed by Y Combinator\n© 2026 Ellipsis AI Inc. All rights reserved.\n215 Park Ave S, Floor 11, Suite 42, New York, NY 10003"
+    ]
+   },
+   {
+    "url": "https://beta-landing.ellipsis.dev/about",
+    "title": "About | Ellipsis",
+    "excerpts": [
+     "ellipsis.dev ellipsis.dev\nPlatform\nUse cases\nEnterprise Pricing Documentation\nSign in Install on GitHub\nWhy we built Ellipsis\nCode review. Production debugging. Standup reports. The 47 stale PRs nobody's looking at. We started Ellipsis because we were tired of doing all of it ourselves.\nRead our blog View us on Y Combinator\nOur mission\nEvery engineering team has more work than people. AI agents should handle the repetitive, time-consuming work so your engineers can focus on what actually needs a human. We're not building AGI. We're building the control plane that lets teams put agents to work safely.\nHow we got here\nEllipsis started in 2023 when we saw that AI could do more than autocomplete: it could review, reason, and ship. We went through Y Combinator (W24), launched with automated code review, and quickly expanded into a full platform of AI agents connected to the tools teams already use.\nToday, Ellipsis is installed on 67,000+ repositories across 400+ companies.\nellipsis.dev Platform status Backed by Y Combinator\n© 2026 Ellipsis AI Inc. All rights reserved.\n215 Park Ave S, Floor 11, Suite 42, New York, NY 10003"
+    ]
+   },
+   {
+    "url": "https://docs.ellipsis.dev/introduction",
+    "title": "Introduction - Ellipsis | AI Code Reviews & Bug Fixes",
+    "excerpts": [
+     "Ellipsis | AI Code Reviews & Bug Fixes home page light logo dark logo\nSearch...\n⌘K Ask AI\n* Get help\n* Blog\n* Sign in\n* Sign in\n  Search...\n  Navigation\n  Getting Started\n  Introduction\n  Getting Started\nIntroduction\nEllipsis is an AI teammate that reviews code, fixes bugs, and more.\nWe’re hiring! Join our team as a Founding AI Engineer 🚀\nEllipsis is an AI teammate that installs into your GitHub repositories. It can: Ellipsis gives every software engineer a second pair of eyes to spot problems, and second pair of hands to fix them."
+    ]
+   },
+   {
+    "url": "https://getellipsis.com/about",
+    "title": "We get B2B technology companies ==recommended by AI==. ⋆ Ellipsis®",
+    "excerpts": [
+     "/About /Research /News /Contact\nAbout Ellipsis\nWe get B2B technology companies recommended by AI.\nEllipsis built its first AI search product in 2021 — on GPT-2, two years before ChatGPT launched. We've been ahead since.\n↗\nVP Marketing • This morning\nWhat are the best B2B SaaS tools for customer onboarding?\nChatGPT's Recommendations:\n1. Competitor 1\n2. Competitor 2\n3. Competitor 3\nRevOps Lead • Yesterday\nWhich platforms should a scaling SaaS team shortlist?\nAI Overview shows:\n4. Competitor 1\n5. Competitor 2\n6. Competitor 3\nMost agencies are applying SEO logic to a fundamentally different system.\nWe've run 50,000+ queries through our own systems, and 92% of the content we ship gets cited by AI within weeks.\nFounder-led. Bootstrapped. Profitable since day one. We're not going anywhere.\n2018 Founded\n20-30% AI presence increase per month\n25 Team, fully remote\nWhat we actually do\nStrategy and implementation, end-to-end.\nego\nAI search changes fast. We learn and adapt without overcomplicating.\nThe team at dinner, at our 2025 meetup in Istanbul — shortly after exchanging gifts\nReady to become the #1 recommendation?\nGet in touch\nEllipsis® is at 5 St. John's Lane, London, EC1M 4BH. +44 208 0506808\nCompany\n/About /Research /News /Contact\nConnect\nAlex Denning (Founder) Ellipsis on LinkedIn\n© 2018-2026 Ellipsis. All rights reserved.\nYou can read our privacy policy and website terms ."
+    ]
+   },
+   {
+    "url": "https://getlatka.com/companies/ellipsis.dev",
+    "title": "Ellipsis Revenue, Valuation & Funding History (2025)",
+    "excerpts": [
+     "description: \"Ellipsis 2025 estimated revenue: $330K. 3 employees. Industry: AI Code Generation Software. Founded 2023. HQ: United States. Updated Sep 2, 2026.\" title: \"Ellipsis Revenue 2025: $330K Est.\" image: https://getlatka.com/companies/ellipsis.dev/opengraph-image.png\n<Ellipsis logo>\nEllipsisrevenue\nAI Code Generation Software · United States · Founded 2023 · CEO Hunter Brooks\nEllipsis is an AI Code Generation Software company based in the United States, founded in 2023.\nellipsis.dev LinkedInUpdated Sep 2, 2026\n* Annual revenue\n* $330K\n* Sep 2025EST.\n* Employees\n* 3\n* Jun 2024\nEllipsis revenue\n{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"@id\":\"https://getlatka.com/companies/ellipsis.dev\",\"url\":\"https://getlatka.com/companies/ellipsis.dev\",\"name\":\"Ellipsis Revenue 2025: $330K Est.\",\"description\":\"Ellipsis 2025 estimated revenue: $330K. 3 employees. Industry: AI Code Generation Software. Founded 2023. HQ: United States.\n2026.\",\"dateModified\":\"2026-09-02\",\"inLanguage\":\"en\",\"isPartOf\":{\"@type\":\"WebSite\",\"@id\":\"https://getlatka.com/#website\",\"name\":\"GetLatka\",\"url\":\"https://getlatka.com\"},\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https://getlatka.com/#organization\",\"name\":\"GetLatka\",\"url\":\"https://getlatka.com\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://storage.ge\nEllipsis 2025 estimated revenue: $330K. 3 employees. Industry: AI Code Generation Software. Founded 2023. HQ: United States. Updated Sep 2,\n2026.\",\"url\":\"https://getlatka.com/companies/ellipsis.dev\",\"creator\":{\"@type\":\"Organization\",\"@id\":\"https://getlatka.com/#organization\",\"name\":\"GetLatka\",\"url\":\"https://getlatka.com\"},\"license\":\"https://getlatka.com/tos\",\"isAccessibleForFree\":true,\"dateModified\":\"2026-09-02\",\"about\":{\"@id\":\"https://getlatka.com/companies/ellipsis.dev#organization\"}"
+    ]
+   },
+   {
+    "url": "https://aventure.vc/companies/ellipsis/fundraising",
+    "title": "Ellipsis Funding History, Valuation and Investors - aVenture",
+    "excerpts": [
+     "description: Funding rounds, valuation history, and investor coverage across 1 investors for Ellipsis. title: Ellipsis Funding History, Valuation and Investors - aVenture image: https://aventure.vc/api/og/entity/d8fa1f67-77f2-464d-a513-2934e2fa6e07\nUpdatedOct 10, 2026\n<Ellipsis logo>\nEllipsis\nEllipsis: AI devtool for code writing & review, streamlining development with cloud-based automation.\n* Employees\n* 2\n* Stage\n* Seed\n* Founded\n* 2023\n* Accelerator\n* ![Y Combinator logo](https://images-v2.aventure.vc/logos/xvy/xVygyeHuWH197n4u8rxQ4.png)Y Combinator W24\n  website crunchbase github linkedin twitter ycombinator\n  Disclosed Funding$500,000\n  Last Deal Details$500,000Seed\nFunding History\n* Round | Date | Amount Raised | Raised To-Date\n* Seed | January 2024 | $500,000 | $500,000\nInvestors\nEllipsis has raised money from at least 1 investor as of October 19, 2026\n* Name | Location | Links | Type | Employees | Round(s)\n* <Y Combinator> Y Combinator | Mountain View, CA, US | Website LinkedIn | Investment Firm | 68 | Seed\n{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://aventure.vc/companies/ellipsis#organization\",\"url\":\"https://aventure.vc/companies/ellipsis\",\"name\":\"Ellipsis\",\"description\":\"Ellipsis: AI devtool for code writing \\u0026 review, streamlining development with cloud-based\nv\",\"https://www.linkedin.com/company/ellipsis-dev\",\"https://x.com/ellipsis_dev\",\"https://www.ycombinator.com/companies/ellipsis\"],\"foundingDate\":\"2023\"}\nEllipsis.\",\"about\":{\"@type\":\"Organization\",\"@id\":\"https://aventure.vc/companies/ellipsis#organization\"},\"mainEntity\":{\"@type\":\"Organization\",\"@id\":\"https://aventure.vc/companies/ellipsis#organization\"},\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"aVenture\",\"url\":\"https://aventure.vc\"},\"dateModified\":\"2026-10-10T14:48:23.387Z\"}"
+    ]
+   }
+  ],
+  "decision_id": "decisions_69a931559b34f98a6e7028775ef5941f"
+ }
+}

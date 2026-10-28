@@ -1,0 +1,101 @@
+{
+ "seconds": 0.886,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.9100041348811695
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.016019906951278962
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.3221397665883387
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.0053223385457498535
+   }
+  },
+  "usage": {
+   "input_tokens": 3930,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://www.ycombinator.com/companies/kaiten/jobs",
+    "title": "Jobs at Kaiten | Y Combinator",
+    "excerpts": [
+     "Kaiten\nFind culinary products and experiences from great makers everywhere\nCompany\nJobs 0\nhttp://www.onkaiten.com\nJobs at Kaiten\nNo jobs at Kaiten are currently posted on the YC platform.\nKaiten\nKaiten\nFounded: 2019\nBatch: W20\nTeam Size: 4\nStatus: Active\nLocation: New York City, NY\nX (Twitter) logo\nFounders\nDaniel Shein\nDaniel Shein\nTwitter account\nFounder\nDaniel Shein\nDaniel Shein\nTwitter account\nFounder\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/kaiten",
+    "title": "Kaiten: Find culinary products and experiences from great makers everywhere | Y Combinator",
+    "excerpts": [
+     "Kaiten\nFind culinary products and experiences from great makers everywhere\nWinter 2020\nActive\nMarketplace Creator Economy\nCompany\nJobs 0\nhttp://www.onkaiten.com\nFind culinary products and experiences from great makers everywhere\nKaiten is a discovery app that gives you access to culinary products and experiences from quality makers around the world. We are home to hundreds of makers from around the world including restaurants, chefs, farmers, vineyards and even knife makers and ceramicists. Find new ways to enjoy the culinary world every day.\nA special bottle of wine, soy sauce from a 100 year old brewery in Kyoto, working a day at a Michelin star restaurant - if amazing people make it and sell it, you'll find it on Kaiten.\nActive Founders\nAlex Matsenov\nAlex Matsenov\nFounder\nAlex is the co-founder and CEO of Gauss Money. Alex led credit at Nordea Bank and MDM Bank.\nHe's a 3x founder, 2x YC. Alex has an advance degree in machine learning, was a late stage venture investor in the machine learning space, and is a huge fan of fundamental physics and artificial intelligence research.\nAlex Matsenov\nAlex Matsenov\nFounder\nAlex is the co-founder and CEO of Gauss Money. Alex led credit at Nordea Bank and MDM Bank.\nTwitter account\nFounder\nLife long engineer, 2nd life as restauranteur.\nKaiten\nKaiten\nFounded: 2019\nBatch: Winter 2020\nTeam Size: 4\nStatus: Active\nLocation: New York City, NY\nX (Twitter) logo\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://kaiten.sh/",
+    "title": "Kaiten | The Open Source Unified SaaS Control Plane for ...",
+    "excerpts": [
+     "Kaiten is the open-source control plane for B2B SaaS: one model for what each customer bought, what they can use and what runs for them — licenses, entitlements, feature flags and releases. Self-host it, or join the private beta of Kaiten Cloud.\nJoin the private beta Browse the source\nYour CRM still closes deals. Your billing engine still invoices. Your pipeline still deploys. Kaiten holds the one answer they need to agree on: what each customer bought, can use and runs.\nBilling & Invoicing\nWhere invoices are taxed, sent and collected.\nStripe Your ERP\nCRM & Business APIs\nWhere deals and customer context live.\nHubSpot Salesforce Attio\nKaiten Control Plane\nBusiness-to-Infrastructure State Controller\nLicenses & Entitlements\nHolds what each customer bought, and meters usage against it: a report past the allowance is refused on the server.\nOpenFeature Engine\n“Report usage, evaluate flags, receive events — without wrestling the integration.”\nThe person who wires Kaiten into the SaaS. Flags evaluate through the OpenFeature SDK you already use, usage goes through one call, and every change comes back as a typed event. Types generated from your catalog and React components are on the roadmap.\nToday\nBackground (),  nil ) \tif  err  !=  nil  { \t\tlog . Fatal ( err ) \t} \tlog . Printf ( \" %d  instances\" ,  len ( instances )) }\nJava, .NET, Ruby: no Kaiten package, and none needed for flag evaluation — OpenFeature publishes an OFREP provider for each.\nOPEN SOURCE\n* Feature Management\n* Entitlements & Metering\n* Licensing & Monetization\n* Orchestration\n* Kaiten Edge\n  Resources\n* Documentation\n* Developers\n* GitHub\n  Company\n* About Us\n* Why Kaiten\n* Pricing\n* Brand Assets\n  Legal\n* Legal Notice\n* Cookie settings\n  © 2026 Kaiten. Open Source.\n  YouTube LinkedIn GitHub X"
+    ]
+   },
+   {
+    "url": "https://kaiten.sh/about-us",
+    "title": "About Kaiten | The Team Behind the B2B SaaS Control Plane",
+    "excerpts": [
+     "About us\nWe build Kaiten. Then we run on it.\nKaiten is the control plane for B2B SaaS: one model for what each customer bought, what they can use and what runs for them. We are four engineers, all co-founders, at Station F in Paris — and our own releases, hosted environments and Kaiten Cloud organizations live in our own Kaiten, so we meet its rough edges before you do.\nKaiten is built by four engineers — all co-founders — at Station F in Paris. Each of us had built the same thing before, by hand, in the SaaS companies we come from: the code that decides what a product does for each customer. Kaiten is that code, built once, as infrastructure.\nHow Kaiten started.\n1. 01\nWe built it before\nEach of us had built this second product by hand in the SaaS companies we come from: a licensing service here, a flag wrapper there, a spreadsheet of who runs which version.\n2. 02\nWe looked for it elsewhere\nFour engineers, all co-founders. We started Kaiten at Station F after years of building this kind of infrastructure together.\nAlexandre Bergere Alexandre Bergere\nAlexandre Bergere\nAlexandre co-founded Kaiten to eradicate 'Spaghetti SaaS' and the practice of hardcoding pricing plans, building an open-source control plane that restores engineering freedom by decoupling business logic from the codebase.\nWhere we work: Station F, 5 Parvis Alan Turing, 75013Paris,France\nKaiten\nThe open-source control plane that unifies licenses, entitlements, feature flags and releases.\nProduct\n* Feature Management\n* Entitlements & Metering\n* Licensing & Monetization\n* Orchestration\n* Kaiten Edge\nResources\n* Documentation\n* Developers\n* GitHub\nCompany\n* About Us\n* Why Kaiten\n* Pricing\n* Brand Assets\nLegal\n* Legal Notice\n* Cookie settings\n© 2026 Kaiten. Open Source.\nYouTube LinkedIn GitHub X"
+    ]
+   },
+   {
+    "url": "https://www.onkaiten.com/home",
+    "title": "Explore Cards – Kaiten | Kaiten",
+    "excerpts": [
+     "Terms of Use Privacy Policy\n© 2024 Kaiten (Agnoris, Inc)\nUS$"
+    ]
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/kaiten-2185",
+    "title": "Kaiten - Crunchbase Company Profile & Funding",
+    "excerpts": [
+     "Resources Advanced Search\nStart Free Trial Talk With Sales Pricing Log In\nLog In Kaiten Growth Score 76 CB Rank 372430 Heat Score 37\nSave Actions\nKaiten is an online marketplace that connects and gathers food makers from around the world.\nFounded obfuscated\nobfuscation Private Pre-Seed New York , New York , United States 1-10 www.onkaiten.com\nE-Commerce Food and Beverage Marketplace Online Portals\nKaiten\nSection: Overview Actions\nOverview\nKaiten\nGrowth Score 76 Heat Score 37 Unlock best-in-class private company insights with Crunchbase Pro\nAlso Known As kaiten Operating Status Active Company Type For Profit\nAbout the Company\nKaiten is an online marketplace that connects and gathers food makers from around the world. It operates a platform that shares and sells packages of various products from different food makers. Kaiten is based in New York, USA.\nHeadcount 1-10 Contacts 1 News\n3,711\n745.33% in past month\nData source: ## Active Website Tech Count\n9 Kaiten is actively using 9 technologies for its website, according to BuiltWith . These include Google Font API , Common Crawl , and DNSSEC .\nData source: Lists Featuring This Company\nLists Featuring This Company\n1,901 Number of Organizations  • $13.3B Total Funding Amount  • 5,842 Number of Investors\nTrack\nNew York Marketplace Companies\n1,311 Number of Organizations  • $7.5B Total Funding Amount  • 1,665 Number of Investors\nTrack\nView All Sub-Organizations Frequently Asked Questions\nWhere is Kaiten 's headquarters?\nKaiten is located in New York , New York , United States . Who invested in Kaiten ? Kaiten is funded by Y Combinator . When was the last funding round for Kaiten ? Kaiten closed its last funding round on obfuscated\nobfuscation from a Pre-Seed round. Who are Kaiten 's competitors?"
+    ]
+   },
+   {
+    "url": "https://www.cbinsights.com/company/kaiten",
+    "title": "Kaiten - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "excerpts": [
+     "* About Us\n* Overview\n* Our teams\n* Business Development\n* Engineering\n* Operations\n* Product\n* See all →\n* Open Jobs\nLoading...\nKaiten company logo\nKaiten\nUnclaimed\nonkaiten.com\n* Overview & Products\n* Financials\n* Alternatives & Competitors\nFounded Year\n2019\nStage\nConvertible Note | Alive\nTotal Raised\n$500K\nLast Raised\n$500K | 7 yrs ago\nMosaic Score\nThe Mosaic Score is an algorithm that measures the overall financial health and market potential of private companies.\n-33 points in the past 30 days\nAbout Kaiten\nKaiten is a platform that connects food lovers with culinary artisans, operating within the food and beverage industry. The company curates and offers a variety of hand-picked products and experiences, such as organic olive oils, handcrafted ceramics, and artisanal beverages, crafted by makers from different regions.\nKaiten emphasizes building sustainable relationships between quality products and the culinary community. Kaiten was formerly known as Agnoris. It was founded in 2019 and is based in New York, New York.\nHeadquarters Location\nNew York, New York,\nUnited States\nLoading...\nLoading...\nKaiten Frequently Asked Questions (FAQ)\nInvestors of Kaiten include Y Combinator, Y Combinator Demo Day and L&Co.\n* Who are Kaiten's competitors?\nCompetitors of Kaiten include Here Here Market and 6 more.\nLoading...\n* AI 100\n* Fintech 100\n* Digital Health 50\n* Tech Trends 2024\n* Generative AI Predictions\n* Unicorn Tracker\n* VC Glossary\n* Company List Applications\n* CB Insights Website Terms of Use\n* Privacy Policy\n* Do Not Sell My Info\n* Partnership\nCopyright 2026 CB Information Services, Inc. All rights reserved."
+    ]
+   },
+   {
+    "url": "https://www.onkaiten.com/",
+    "title": "Meet Your New Chef Bestfriend | Kaiten",
+    "excerpts": [
+     "Terms of Use Privacy Policy\n© 2024 Kaiten (Agnoris, Inc)\nUS$"
+    ]
+   },
+   {
+    "url": "https://dev.kaitensoftware.com/",
+    "title": "Kaiten Solutions LLP — We build ERPs, your products, and ours",
+    "excerpts": [
+     "Two products live today. More in build.\nWe build ERPs, your products, and ours.\nKaiten Solutions LLP is a Jaipur software company. We take ERP and custom product work for your team. SuryaHub and RankBag are products we run ourselves. More of ours are in build. Since 2019.\nYour products\nCustom software we build with your operators, then stay on after go-live.\nERPs\nKaiten Solutions LLP has shipped software since 2019. We take ERP and custom product work for your team. SuryaHub and RankBag are ours, and live. More of our products are in build.\nOn the floor with Suryantra, Raj Solar, Hs Darda.\nAbout Kaiten\nFounded in Jaipur 2019\nBusinesses shipped for 200+\nStay with us 98%\nHow an engagement with Kaiten starts\nWho is Kaiten?\nKaiten Solutions LLP is a software company. We do service-based work and ERP systems, and we ship products we run ourselves.\nDo you only do ERP?\nWhat products do you have?\nWe run a solar company. Is this for us?\nWe need Google reviews, not solar software.\nCan you build something that is not a product yet?\nPick a time. Service work, an ERP, SuryaHub, RankBag, or a product still in build.\n+91 90014 49944 hello@kaitensoftware.com\nOffice: B-95, 9B, II Floor, Prince Road, Off Queens Road, Sarovar Portico, Vidyut Nagar, Vaishali Nagar, Jaipur, Rajasthan 302021, India\nRegistered office\nKaiten Solutions LLP S1 B 2/25, Gandhi Path, Chitrakut, Jaipur, Rajasthan 302021, India\nLLPIN AAT-1309 GSTIN 08AAWFK1859K1ZI\nOffice: B-95, 9B, II Floor, Prince Road, Off Queens Road, Sarovar Portico, Vidyut Nagar, Vaishali Nagar, Jaipur, Rajasthan 302021, India\nkaiten\nKaiten Software\nKaiten Software is a brand of Kaiten Solutions LLP ."
+    ]
+   },
+   {
+    "url": "https://kaiten.sh/why-kaiten",
+    "title": "Kaiten | Why Kaiten — The Missing Layer Between Your Business ...",
+    "excerpts": [
+     "Argo CD, Flux or your CI keep deploying. Kaiten records which release runs where, and for whom.\n*\nA data warehouse\nYour warehouse keeps the analysis. Kaiten emits a typed event for every change it records.\n*\nA general-purpose automation tool\nKaiten is for teams that already shipped something and now operate it across many customers, regions and pricing tiers. Below that threshold, you don’t need us. Above it, the glue code starts costing more than the product it connects.\n* Best fit\nB2B SaaS selling negotiated enterprise contracts\n* Costs per token, per model or per call\n* Pricing that moves with those costs\n* Each customer’s AI consumption metered and capped — AI credits are an entitlement type today\n* Per-model conversion rules — on the roadmap\n* Strong fit\nRegulated SaaS with dedicated deployments\n* Customers in banking, defense or healthcare who require isolation\n* Ground truth on which release runs for which customer\n* An audit trail you can query instead of logs you grep\n* Self-hosted on your own Kubernetes today — an air-gapped runtime is on the roadmap\n* Emerging fit\nApps built by coding agents\n* You only sell self-serve consumer subscriptions — your billing provider’s customer portal is enough on its own.\n* You have one plan and one region — a config file will do.\n  See what each team does in Kaiten\n  WHERE WE’RE GOING\nThree horizons, one question each.\n* Feature Management\n* Entitlements & Metering\n* Licensing & Monetization\n* Orchestration\n* Kaiten Edge\n  Resources\n* Documentation\n* Developers\n* GitHub\n  Company\n* About Us\n* Why Kaiten\n* Pricing\n* Brand Assets\n  Legal\n* Legal Notice\n* Cookie settings\n  © 2026 Kaiten. Open Source.\n  YouTube LinkedIn GitHub X"
+    ]
+   }
+  ],
+  "decision_id": "decisions_ab8a5cc522d9530e8e5073e814a712d2"
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "seconds": 0.748,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.9855328519264998
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.019750307039719257
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.9701799274627203
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.10415484934254937
+   }
+  },
+  "usage": {
+   "input_tokens": 3158,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://www.ycombinator.com/companies/bluelight/jobs",
+    "title": "Jobs at Bluelight | Y Combinator",
+    "excerpts": [
+     "Bluelight\nAnalytics, built for the trades.\nCompany\nJobs 0\nhttps://usebluelight.com/\nJobs at Bluelight\nNo jobs at Bluelight are currently posted on the YC platform.\nBluelight\nBluelight\nFounded: 2020\nBatch: W21\nTeam Size: 3\nStatus: Active\nLocation: San Francisco\nFounders\nAlex Dixon\nAlex Dixon\nFounder\nAlex Dixon\nAlex Dixon\nFounder\nStewart Lamke\nStewart Lamke\nFounder\nStewart Lamke\nStewart Lamke\nFounder\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/bluelight",
+    "title": "Bluelight: Analytics, built for the trades. | Y Combinator",
+    "excerpts": [
+     "Bluelight\nAnalytics, built for the trades.\nWinter 2021\nActive\nSaaS B2B Analytics San Francisco\nCompany\nJobs 0\nhttps://usebluelight.com/\nAnalytics, built for the trades.\nBluelight gives home service contractors the power of real-time data to optimize and scale their business.\nActive Founders\nAlex Dixon\nAlex Dixon\nFounder\nFounder Bluelight (W21) Analytics built for the trades: usebluelight.com\nAlex Dixon\nAlex Dixon\nFounder\nFounder Bluelight (W21) Analytics built for the trades: usebluelight.com\nStewart Lamke\nStewart Lamke\nFounder\nWorked in revenue management and strategy. Passionate about using analytics to drive great decision making.\nStewart Lamke\nStewart Lamke\nFounder\nWorked in revenue management and strategy. Passionate about using analytics to drive great decision making.\nBluelight\nBluelight\nFounded: 2020\nBatch: Winter 2021\nTeam Size: 3\nStatus: Active\nLocation: San Francisco\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/founders/stewart-lamke",
+    "title": "Bluelight: Analytics, built for the trades. | Y Combinator",
+    "excerpts": [
+     "Bluelight: Analytics, built for the trades. | Y Combinator\nAnalytics, built for the trades. Founded in 2020 by Alex Dixon and Stewart Lamke, Bluelight has 3 employees based in San Francisco. Bluelight is hiring for 1 roles in engineering.\nBluelight: Analytics, built for the trades. | Y Combinator\nFounded in 2020 by Alex Dixon and Stewart Lamke, Bluelight has 3 employees based in San Francisco. Bluelight is hiring for 1 roles in engineering."
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/bluelight/jobs/wGaqocA-product-engineer",
+    "title": "Product Engineer at Bluelight | Y Combinator",
+    "excerpts": [
+     "Bluelight\nAnalytics, built for the trades.\nProduct Engineer\n$120K - $150K • 0.10% - 0.50% • San Francisco, CA, US / Remote (US)\nJob type\nFull-time\nRole\nEngineering, Full stack\nExperience\n3+ years\nVisa\nUS citizen/visa only\nConnect directly with founders of the best YC-funded startups.\nApply to role ›\nAlex Dixon\nAlex Dixon\nFounder\nAlex Dixon\nAlex Dixon\nFounder\nAbout the role\nLocation: Remote (±3 timezones from PST)\nAbout Bluelight\nBluelight is building software tools to help home service contractors build successful businesses.\nWe are relentlessly pursuing a world where analytics and AI products deliver actual real-world value, not just hype.\nThe Job at a Glance\nProduct engineers at Bluelight are truly full stack. You’ll design and ship the front end in React/Next.js, write Postgres and/or Clickhouse queries, and, depending on the team, develop and fine-tune machine learning models in Python.\n* Work remotely with flexible hours.\n* Engage with a team that’s driven by innovation and committed to operational excellence.\n* Play a key role in a startup environment where your contributions have visible impacts.\n* Enjoy the potential for contract extension and further professional growth within our company.\nHow to Apply\nPlease submit your resume and a brief cover letter explaining why you are a good fit for this role and Bluelight. Include examples of past projects related to user experience improvements or startup environments.\nAbout Bluelight\nBluelight\nBluelight\nFounded: 2020\nBatch: W21\nTeam Size: 3\nStatus: Active\nLocation: San Francisco\nFounders\nAlex Dixon\nAlex Dixon\nFounder\nAlex Dixon\nAlex Dixon\nFounder\nStewart Lamke\nStewart Lamke\nFounder\nStewart Lamke\nStewart Lamke\nFounder\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/463304-08",
+    "title": "Bluelight (Business/Productivity Software) 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "excerpts": [
+     "The company's platform integrates data from multiple service-management systems, automates key performance indicator (KPI) reporting, provides forecasts and industry benchmarks, and centralises insights across the business lifecycle, enabling trade businesses to focus on growth, improve decision-making, and manage their operations with greater\nclarity and efficiency.\nContact Information\nWebsite\nwww.usebluelight.com\nOwnership Status\nPrivately Held (backing)\nFinancing Status\nAccelerator/Incubator Backed\nCorporate Office\n* 2261 Market Street\n* Suite 5539\n* San Francisco, CA 94114\n* United States"
+    ]
+   },
+   {
+    "url": "https://usebluelight.com/",
+    "title": "Bluelight | Revenue Planning for ServiceTitan Operators",
+    "excerpts": [
+     "Bluelight Logo\n* Case Studies\n* Blog\n  Book a Demo\n  NEW: WyattWorks doubles revenue run rate with Bluelight\nYOUR BUDGET IS STALE. WE FIX IT.\nLandry Mechanical Landry Mechanical\nDrainWorks Plumbing & Septic DrainWorks Plumbing & Septic\nAndy Wyatt\n“\nWe scaled from $500K to $1.2M per month this past year.\nAndy Wyatt\nFounder at WyattWorks\nLearn more\n”\n* Home\n* Case Studies\n* Contact Us\n* Get Quote\n  Leave this field empty\n  Get updates\n  © 2026 Bluelight Technologies, Inc. All rights reserved.\n* Privacy Policy\n* Terms of Service"
+    ]
+   },
+   {
+    "url": "https://bluelight.co/about-us",
+    "title": "Meet Bluelight  Experts",
+    "excerpts": [
+     "About Us\nWe are Built for Businesses of Every Size, from Startups to Iconic Brands\nBluelight is changing how businesses approach and architect their digital future.\nWhy Choose\nBluelight\nWe are a fully remote company comprising Software Development experts spread across 6+ different countries with decades of technical know-how and cross-industry understanding of building technology solutions that enable businesses to scale fast.\nOur Mission\nAt Bluelight, our commitment is to help companies succeed by providing cutting-edge software, technology, and infrastructure solutions that deliver value and contribute to the advancement of humanity.\nexpand your team\nOur Values\nBluelight is committed to making a difference and delivering exceptional client experiences\nInnovation\nWe strive to be people our clients can trust, in every step of the way. All the time, always.\nRelationship Building\nWe are constantly seeking opportunities to share our expertise to help businesses grow and are always on the lookout to learn.\nThe top-rated nearshore software development company, with five-star reviews from our clients\nFAQs\nWhat Types of Companies Does Bluelight Work With?\na blue dropdown button\nWe work with businesses at every stage, from startups building their first product to established enterprises managing complex digital ecosystems. The common thread isn't company size; it's the challenge.\nTell us the skills you need and we'll find the best developer for your needs in days, not weeks.\nFirst Name *\nLast Name *\nWork Email *\nPhone Number *\n🇺🇸\nType of Project *\nBudget *\nHow can we help? *\nJump-start Your Projects\n© 2026 Bluelight Consulting LLC All Rights Reserved"
+    ]
+   },
+   {
+    "url": "https://www.cbinsights.com/company/bluelight1",
+    "title": "Bluelight - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "excerpts": [
+     "Bluelight\nUnclaimed\nbluelightapp.com\n* Overview & Products\n* Financials\nStage\nSeries B | Dead\nTotal Raised\n$142.87M\nLast Raised\n$80M\nAbout Bluelight\nBluelight is a company that provides an iPhone ap that notifies friends and family in the event of an emergency.\nHeadquarters Location\n213 N Racine Suite 102\nChicago, Illinois, 60607,\nUnited States\nLoading...\nLoading...\nBluelight Patents\nBluelight has filed 9 patents.\nThe 3 most popular patent topics include:\n* data management\n* data modeling\n* database management systems\npatents chart\nView Patents Chart\n* Application Date | Grant Date | Title | Related Topics | Status\n* 3/24/2023 | 8/6/2024 | On-demand data from heterogeneous sources | Data management, Data modeling, Database management systems, Databases, Business intelligence | Grant\n* Where is Bluelight's headquarters?\nBluelight's headquarters is located at 213 N Racine, Chicago.\n* What is Bluelight's latest funding round?\nBluelight's latest funding round is Series B.\n* How much did Bluelight raise?\nBluelight raised a total of $142.87M.\nLoading...\nLoading...\nCB Insights\n* AI 100\n* Fintech 100\n* Digital Health 50\n* Tech Trends 2024\n* Generative AI Predictions\n* Unicorn Tracker\n* VC Glossary\n* Company List Applications\n* CB Insights Website Terms of Use\n* Privacy Policy\n* Do Not Sell My Info\n* Partnership\nCopyright 2026 CB Information Services, Inc. All rights reserved."
+    ]
+   },
+   {
+    "url": "https://bluelight.co/",
+    "title": "Bluelight | Leading Nearshore Software Development Company",
+    "excerpts": [
+     "Custom Software Development\nIn today’s interconnected world, companies must shift from traditional products to smart, innovative ones.\nIn today’s interconnected world, companies must shift from traditional products to smart, innovative ones.\nThe top-rated nearshore software development company, with five-star reviews from our clients\nclutch badge glassdoor badge\ngoodfirms badge\nSOC2 Badge\nWhat's Different About Bluelight vs Other Nearshore Software Development Companies?\na blue dropdown button\nUnlike talent marketplaces where you're left to vet developers yourself, Bluelight provides deeply vetted candidates with full transparency.\nTell us the skills you need and we'll find the best developer for your needs in days, not weeks.\nFirst Name *\nLast Name *\nWork Email *\nPhone Number *\n🇺🇸\nType of Project *\nBudget *\nHow can we help? *\nJump-start Your Projects\nContact Us\n1610 R St Suite 300, Sacramento, CA 95811\n© 2026 Bluelight Consulting LLC All Rights Reserved"
+    ]
+   },
+   {
+    "url": "https://www.employbl.com/companies/Bluelight",
+    "title": "Bluelight — Jobs, Funding & Culture",
+    "excerpts": [
+     "Employbl logo Employbl\nProduct\nFor companies Pricing Blog Docs\nSign in Sign up free\nSign up free\nCOMPANY PROFILE · UPDATED 21 SEP 2026\nBluelight\nBlue Light Co was founded in 2002. The Company provides telephone voice and data communications services.\nBluelight logo\nSan Francisco, CA\nusebluelight.com↗\nThis profile is unclaimed — do you work here? Claim it\nClaim it →\nFounded 2020\nHeadcount 2\nOpen roles 1\nLast raised —\nContents\nTech Stack Leadership Open Roles Collections Locations Similar Companies\nTECH STACK\nHiring at Bluelight\n* Product Engineer San Francisco, CA, US / Remote (US)\n  TAGS\nCategorized in\nIndustry\nDeveloper Tools & Infrastructure Cloud & Compute Platforms\nInvestors\nY Combinator\nIndustries\nSoftware Companies Media And Information Companies Financial Technology Companies Financial Services Companies\nTech Stack\nReact Node.js Next.js C++ Java Nodejs\nLOCATIONS\nWhere they work\nBluelight offices\nLoading map…"
+    ]
+   }
+  ],
+  "decision_id": "decisions_941ac1066321106b3c76e1dc8c3a214d"
+ }
+}

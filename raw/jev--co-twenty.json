@@ -1,0 +1,28 @@
+{
+ "seconds": 0.323,
+ "response": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.28
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.51
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.74
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.51
+   }
+  },
+  "usage": {
+   "input_tokens": 373,
+   "output_tokens": 80
+  }
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "checked_on": "2026-10-28",
+ "method": "web search and page fetches, independent of Parallel. Verdicts change scoring only in adjusted.py; truth/ is untouched.",
+ "verdicts": [
+  {"company": "Directed Edge", "question": "b2b", "verdict": "parallel", "real_answer": true, "why": "directededge.com: recommendations plugin for Shopify stores"},
+  {"company": "nunu.ai", "question": "b2b", "verdict": "parallel", "real_answer": true, "why": "nunu.ai: AI agents for game/app QA, enterprise security, customer case studies"},
+  {"company": "Clipboard", "question": "b2b", "verdict": "parallel", "real_answer": true, "why": "clipboard.com: facilities post shifts; Solutions/Customers/Workplace login for facilities"},
+  {"company": "Hogaru", "question": "b2b", "verdict": "unclear", "why": "hogaru.com: cleaning for homes AND offices"},
+  {"company": "Pair AI", "question": "b2b", "verdict": "parallel", "real_answer": true, "why": "pairai.com: engineering hiring service sold to employers"},
+  {"company": "Dydema", "question": "b2b", "verdict": "parallel", "real_answer": true, "why": "dydema.com: brain-signal models and data for developers/researchers"},
+  {"company": "Camp", "question": "b2b", "verdict": "key", "real_answer": false, "why": "nouns.camp: community governance client; site says no longer active since Sep 30, 2026"},
+  {"company": "treble.ai", "question": "us_based", "verdict": "unclear", "why": "YC: Sao Paulo; aggregators: Seattle; operations in Colombia"},
+  {"company": "Cuckoo Labs", "question": "us_based", "verdict": "parallel", "real_answer": true, "why": "Built In and The VC list San Francisco HQ; YC lists Seoul"},
+  {"company": "Twenty", "question": "us_based", "verdict": "unclear", "why": "Paris roots and team; Preqin/CB Insights list San Francisco"},
+  {"company": "Camp", "question": "us_based", "verdict": "unclear", "why": "Stockholm and San Francisco listed; company inactive"},
+  {"company": "Lago", "question": "us_based", "verdict": "parallel", "real_answer": false, "why": "Dealroom and Sifted: Paris HQ, team in Paris"},
+  {"company": "SigmaOS", "question": "us_based", "verdict": "parallel", "real_answer": false, "why": "Dealroom, EveryDev, YC job listing: London"},
+  {"company": "nunu.ai", "question": "size_20_100", "verdict": "unclear", "why": "Dealroom 11-50, PremierAlts 7, YC 5"},
+  {"company": "Confident AI", "question": "size_20_100", "verdict": "key", "real_answer": false, "why": "YC, EveryDev, YESPress: about 7 people"},
+  {"company": "Algolia", "question": "yc_job_open", "verdict": "parallel", "real_answer": false, "why": "ycombinator.com/companies/algolia/jobs: 'No jobs at Algolia are currently posted on the YC platform.'"}
+ ],
+ "controls": [
+  {"company": "Quotient Labs", "question": "yc_job_open", "result": "parallel right", "why": "YC jobs page: none posted"},
+  {"company": "Swipe", "question": "size_20_100", "result": "parallel right", "why": "Built In 50, Inc42 54, Latka 39"},
+  {"company": "Pave", "question": "size_20_100", "result": "parallel right", "why": "Pave job posting: 150 employees"},
+  {"company": "Flip", "question": "b2b", "result": "unverified", "why": "site would not load (certificate error)"},
+  {"company": "Plura", "question": "us_based", "result": "unverified", "why": "no reliable source found"},
+  {"company": "Vexo", "question": "us_based", "result": "unverified", "why": "no reliable source found"}
+ ],
+ "topics": {"result": "all 15 'not published' topics: no singlegrain.com post found", "near_miss": "singlegrain.com/?p=80539 '21 Grok Bot Use Cases I Run Every Week at My Agency' exists; per search summary it does not cover scanning followers for M&A"}
+}

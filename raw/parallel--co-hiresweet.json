@@ -1,0 +1,101 @@
+{
+ "seconds": 0.815,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.014359729617353352
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.983589626481946
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.9967877431301324
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.010674947480201884
+   }
+  },
+  "usage": {
+   "input_tokens": 3356,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://www.hiresweet.com/en/en/company",
+    "title": "HireSweet - Company",
+    "excerpts": [
+     "About\nHireSweet\nWho we are\nA team of 20 people split between Paris and San Francisco building a modern Talent Acquisition Software for recruiting teams who love data and efficiency.\nOur story\n2016\nHireSweet launchesand helps European companies findSoftware Engineers\n2017\nWe open Designer and Data Scientist positions\nWe raise $1.8M with the largest European VC firm\n2018\nWe launch ourcandidate-facing product\nWe open to Business positions (PM, Data Analyst, Sales, Customer Success, etc.)\n2021\nWe open our first office in the US\nOur first product: HireSweet Marketplace\nWe launch HireSweet Software\nThe story goes on!\n2016\n2017\n2020\n2022\n2024\nCreation date\nSelected and funded by Y Combinator\n100+ clients on HireSweet Software\nWe use HireSweet in conjunction with our ATS TeamTailor - automatic follow ups and easy analytics helped us double our reply rate in a few days!\nSandrine Laroche\nRecruiting Manager @ Lutessa\nWe compared closely with several competitors and picked HireSweet for their deep integration to our ATS (Ashby), awesome user experience and strongly personalized outreach sequences.\nHireSweet's customer support and transparency has also been 10/10!\nClement Russo\nSenior Tech Recruiter @ Convelio\nI went with them because of the advanced sequences (LinkedIn + Email) that make it so easy to engage in a highly personalized way from multiple channels at a time.\n1,200+\nCustomers since 2016\n40\nPeople in the team... and counting!\n2016\nCreation date\nTry for free\nOur Founders\nRobin\nCEO\nPaul\nCOO\nIsmael\nCTO\nInvestors"
+    ]
+   },
+   {
+    "url": "http://ycombinator.com/companies/hiresweet",
+    "title": "HireSweet: A talent acquisition software built for data-driven recruiting teams. | Y Combinator",
+    "excerpts": [
+     "HireSweet\nA talent acquisition software built for data-driven recruiting teams.\n[Winter 2020](/companies?batch=Winter 2020)\nActive\nRecruiting [HR Tech](/companies/industry/HR Tech) San Francisco\nCompany\nJobs 0\nhttp://www.hiresweet.com\nA talent acquisition software built for data-driven recruiting teams.\nActive Founders\nPaul Bachelier\nPaul Bachelier\nCo-Founder & CEO\nCEO HireSweet\nPaul Bachelier\nPaul Bachelier\nCo-Founder & CEO\nCEO HireSweet\nIsmael Belghiti\nIsmael Belghiti\nFounder\nIsmael Belghiti\nIsmael Belghiti\nFounder\nHireSweet\nHireSweet\nBatch: Winter 2020\nTeam Size: 27\nStatus: Active\nLocation: San Francisco\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.hiresweet.com/en/technology",
+    "title": "HireSweet - An AI-powered technology",
+    "excerpts": [
+     "Technology\nA transparent Talent Acquisition\nSoftware\nA single source of truth for your talent pool\nWe help you keep your top-of-funnel activity organized while syncing and refreshing data between all the sources you already use:\nLinkedIn\nCSV files\nSocial Media\nYour current ATS\nResumes\nWe make that Talent Pool searchable\nPreferred locations\nLondon\nDoesn't match criteria\n1\nAvailability\nMarch 2026\nSearch candidates\n**Our platform and algorithms are built with 'privacy by design' and fully comply with GDPR regulations.\n‍** If you’d like your data deleted or have security-related questions, visit our dedicated security page or contact us at security@hiresweet.com .\nTry for free\nSandrine Laroche\nHiring Manager @ Lutessa\nSince using HireSweet, I have fallen in love with sourcing again. We went from “pain, despair, frustration” to “pleasure, motivation, satisfaction, effectiveness.”\nMaxime Perrault\nTalent Acquisition Manager @ Meetic\nWe recruited 4 people with HireSweet Marketplace, including one in less than 24 days. HireSweet is one of our main sources every time we open a new position.\nAaron Friedman\nPartner & Co-Founder @ Pana Partners\n10 hires in under 12 months with HireSweet Marketplace: the best tool to grow your team as fast as your revenue. Really effective.\nMélisande Vialard\nHR manager @ Affluences\nWe use HireSweet Marketplace primarily for our research for senior engineers and we are always positively impressed by the response rate of the candidates contacted."
+    ]
+   },
+   {
+    "url": "https://get.hiresweet.com/",
+    "title": "HireSweet",
+    "excerpts": [
+     "A CRM built specifically for founders & recruiting teams. One click import, smart email sequences, on-demand sourcing. We have it all.\nStart your free trial\nAll your sourcing in one place\nImport all your leads in HireSweet and enroll them in personalized sequences in seconds. Invite your team so that they can send the occasional lead as well. Feeling overwhelmed? Let us do the heavy work and source leads for you.\nStart your free trial\napp profile\napp profile\napp profile\napp profile\napp profile\napp profile\nTrusted by 900+ top tech companies\nWe built deep integrations with your favorite ATS:\nGreenhouse\nLever\nRecruitee\nSmartRecruiters\nWorkable\nCompanies using HireSweet for candidate outreach see:\n0 days\nTime-to-hire\n0 %\nAverage reply rate via HireSweet\n0 %\nDelivery rate\nStart your free trial\nAlison Eastaway\nMickael Moyen-Pedone\nTalent Acquisition Manager @ Match Group\nHireSweet is a huge help with sourcing talent. Selected candidates are highly targeted and the tool is a real time saver for our recruiting team.\nRomain Lapeyre & Alex Plugaru\nCEO & CTO @ Gorgias\nWe've been using HireSweet since 2016 and hired 20 people with them (so far - we’re 80 now). They have been instrumental to our growth from $1M to $10M ARR. Looking forward to the next milestone together!\nPierre Valade\nCEO @ Jumbo Privacy, ex-CEO @ Sunrise Calendar\nHireSweet grows with us. Pre-Seed, HireSweet was super valuable to automate our recruiting work as founders. Post-Series A it’s still super useful to collaborate as a team. A great journey together!\nAlison Eastaway"
+    ]
+   },
+   {
+    "url": "https://www.hiresweet.com/",
+    "title": "Hiresweet ATS + CRM",
+    "excerpts": [
+     "302 Found\nopenresty"
+    ]
+   },
+   {
+    "url": "https://www.cbinsights.com/company/hiresweet",
+    "title": "HireSweet - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "excerpts": [
+     "* About Us\n* Overview\n* Our teams\n* Business Development\n* Engineering\n* Operations\n* Product\n* See all →\n* Open Jobs\nLoading...\nHireSweet company logo\nThe Mosaic Score is an algorithm that measures the overall financial health and market potential of private companies.\n-19 points in the past 30 days\nAbout HireSweet\nHireSweet is a tech company that provides ATS and CRM solutions for recruitment purposes. The company offers software that assists with sourcing, engagement, automation, nurturing, and analytics of recruitment efforts. HireSweet also has a marketplace for companies to connect with tech talents.\nIt was founded in 2016 and is based in Saint-Martin, France.\nHeadquarters Location\nImpasse de la Planchette 3\nSaint-Martin, 75003,\nFrance\nLoading...\nHireSweet's Products & Differentiators\nCRM\nProductivity tool for recruiters\nLoading...\nExpert Collections containing HireSweet\nConfinés mais recrutés : les start-up qui continuent à embaucher\nApr 16, 2020\nConfinés mais recrutés : les start-up qui continuent à embaucher Publié le 16 avril 2020 France Digitale a lancé avec la plateforme de recrutement HireSweet l’opération « Confinés… mais recrutés ».\nElle permet aux start-up à la recherche de candidats de trouver la perle rare. Le confinement n’empêche pas les embauches. C’est ce dont est convaincue l’association France Digitale . En partenariat avec le site de recrutement HireSweet , elle a lancé l’opération « Confinés… mais recrutés » .\n* Who are the investors of HireSweet?\nInvestors of HireSweet include Y Combinator, Yannis Yahiaoui, Kima Ventures, Yves Weisselberger, Global Founders Capital and 5 more.\n* Who are HireSweet's competitors?\nCompetitors of HireSweet include Ashby, Loxo, OfferZen, Crew, Covey and 7 more.\n* What products does HireSweet offer?"
+    ]
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/hiresweet",
+    "title": "HireSweet - Crunchbase Company Profile & Funding",
+    "excerpts": [
+     "Resources Advanced Search\nStart Free Trial Talk With Sales Pricing Log In\nLog In HireSweet Growth Score 53 CB Rank 66801 Heat Score 62\nSave Actions\nHireSweet allows Tech companies to recruit the best developers and regain control of their hiring process.\nFounded obfuscated\nobfuscation Private Seed Paris , Ile-de-France , France 11-50 www.hiresweet.com\nPersonal Branding Recruiting Staffing Agency\nHireSweet\nSection: Overview Actions\nOverview\nHireSweet\nTotal Funding obfuscated\nobfuscation\nGrowth Score 53 Heat Score 62 Unlock best-in-class private company insights with Crunchbase Pro\n* Photo of Paul Bachelier\nPaul Bachelier: Co-founder & CEO\nPast Role: HireSweet, Co-Founder and COO\n* Yannis Yahiaoui Logo\nYannis Yahiaoui: Investor\nPast Role: Adotmob, Co-Founder & Co-Chief Executive Officer ## Details\nLegal Name HireSweet Operating Status Active Company Type For-profit Founders Ismael Belghiti , Paul Bachelier , Robin Choy\nAbout the Company\nHireSweet allows Tech companies to recruit the best developers and regain control of their hiring process. HireSweet scans GitHub, Stack Overflow and other technical platforms to find the experts and potential engineers for their clients.\n41 HireSweet is actively using 41 technologies for its website, according to BuiltWith . These include Cloudflare , DNSSEC , and IPv6 .\nData source: Lists Featuring This Company\nLists Featuring This Company\nView All Sub-Organizations Frequently Asked Questions\nWhere is HireSweet 's headquarters? HireSweet is located in Paris , Ile-de-France , France . Who invested in HireSweet ? HireSweet has 8 investors including Y Combinator and Yves Weisselberger . When was the last funding round for HireSweet ? HireSweet closed its last funding round on obfuscated"
+    ]
+   },
+   {
+    "url": "https://www.zoominfo.com/c/hiresweet/398629852",
+    "title": "HireSweet - Overview, News & Similar companies | ZoomInfo.com",
+    "excerpts": [
+     "HireSweet\nHuman Resources Software · France · 11-50 Employees\nView Company Info for Free ## Overview\nHeadquarters\n1 Rue De Midori, Les Loges en Josas, Île...\nPhone Number\n+33 189169195\nWebsite\nwww.hiresweet.com\nRevenue\n$7.2 Million\nIndustry\nSell smarter with deeper company insights.\nHireSweet, which is part of Y Combinator's current class of startups, is trying to help companies find exactly these candidates that are perfect for a job but not actively looking.\nSee more top companies ## Frequently Asked Questions Regarding HireSweet\nWhat is HireSweet's official website? HireSweet's official"
+    ]
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/184860-55",
+    "title": "HireSweet 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "excerpts": [
+     "* Year Founded\n* 2016\n  Year Founded\n* Status\n* Private\n* Employees\n* 25\n  Employees\n* Latest Deal Type\n* Accelerator/​Inc\n* Latest Deal Amount\n* $150K\n* Investors\n* 10\nHireSweet General Information\nDescription\nDeveloper of an AI-based hiring platform designed to facilitate the recruitment of developers and designers for companies.\nThe company's platform leverages artificial intelligence to process unstructured data, such as profile descriptions, and categorizes developers depending on skills, projects, and adaptability, enabling firms to automate the hiring process and recruit the best"
+    ]
+   },
+   {
+    "url": "https://theorg.com/org/hiresweet",
+    "title": "HireSweet | The Org",
+    "excerpts": [
+     "Platform\nEnrich\nPricing\nLog in Sign up\nHireSweet logo\nHireSweet\n21 people · 0 jobs\nFollow\nGet access to highly-targeted passive candidates, and recruit them at the click of a button.\nIndustries\nInternet\nHeadquarters\nParis, France\nEmployees\n11-50\nLinks\nOrg chart Teams Offices\nUnverified\nOrg chart\nRobin Choy\nCEO & co-Founder 6\nRobin Choy\nCollapse\nIB\nIsmael Belghiti\nCo-founder & CTO 4\nMathieu Marseille\nCEO Hiresweet Marketplace 0\nTeams\nTalent Management\n* HQ\n  12 people · 0 jobs\n  CB\n  8\n* San Francisco\n  1 person · 0 jobs\n  Company\n  About Contact Blog\n  Business\n  Solutions Trust Pricing\n  Directory\n  Companies People\n  Features\n  Employer Branding Professional Networking Job Discovery\n  Social\n© 2026 Orgio, Inc.\nTerms Privacy Do not sell my info"
+    ]
+   }
+  ],
+  "decision_id": "decisions_1a7de3e102d106a194e032559325207e"
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "seconds": 1.123,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.9963099301277704
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.0034895638981724693
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.8854632889952673
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.010256305020308356
+   }
+  },
+  "usage": {
+   "input_tokens": 3660,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://www.ycombinator.com/companies/blixo/jobs",
+    "title": "Jobs at Blixo | Y Combinator",
+    "excerpts": [
+     "Blixo\nAccounts receivable automation to help companies get paid faster\nCompany\nJobs 0\nhttps://blixo.com\nJobs at Blixo\nNo jobs at Blixo are currently posted on the YC platform.\nBlixo\nBlixo\nFounded: 2020\nBatch: S21\nTeam Size: 2\nStatus: Active\nLocation: Miami, FL\nFounders\nDanilo Stern-Sapad\nDanilo Stern-Sapad\nTwitter account\nFounder\nDanilo Stern-Sapad\nDanilo Stern-Sapad\nTwitter account\nFounder\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "http://ycombinator.com/companies/blixo",
+    "title": "Blixo: Accounts receivable automation to help companies get paid faster  | Y Combinator",
+    "excerpts": [
+     "Blixo\nAccounts receivable automation to help companies get paid faster\n[Summer 2021](/companies?batch=Summer 2021)\nActive\nFintech SaaS Payments\nCompany\nJobs 0\nhttps://blixo.com\nAccounts receivable automation to help companies get paid faster\nBlixo is an all-in-one replacement for things like subscription management, invoicing, collections, and cash application software. Blixo improves conversion rates, increases average order size, drives subscriber loyalty, collects unpaid bills, speeds up cashflow, and is the single source of truth for reconciled real time revenue data.\nActive Founders\nDanilo Stern-Sapad\nDanilo Stern-Sapad\nTwitter account\nFounder\nLaunched several multimillion dollar businesses—one made hundreds of millions in revenue, one made millions in the first year alone and grew to tens of millions in revenue after two years, and another was acquired in less than one year.\nWas also part of the founding team of the most popular legal website on the Internet and created one of the most played online games in the world while still in high school, garnering over 40 million visitors per month.\nDanilo Stern-Sapad\nDanilo Stern-Sapad\nTwitter account\nFounder\nWas also part of the founding team of the most popular legal website on the Internet and created one of the most played online games in the world while still in high school, garnering over 40 million visitors per month.\nBlixo\nBlixo\nFounded: 2020\nBatch: Summer 2021\nTeam Size: 2\nStatus: Active\nLocation: Miami, FL\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://blixo.com/",
+    "title": "Blixo - Accounts Receivable Automation & Subscription Billing",
+    "excerpts": [
+     "blixo\nicon menu\nicon menu close\n* Features\n* Pricing\n* Support\n* Blog\n* Contact Sales\n* Log in\n* SIGN UP\nAutomate Your\nAccounts Receivables\nwith Blixo\nBlixo is an all-in-one replacement for things like subscription management, invoicing, collections, and cash application software.\nSIGN UP\nGet from invoice-to-payment faster and with less effort.\nE-commerce\nUse Your Favorite Software\nBlixo can integrate with your favorite accounting software like QuickBooks, Xero, Sage Intaact and NetSuite.\nWe also offer custom ERP integrations for Oracle, SAP, Microsoft Dynamics, etc.\nSIGN UP\nintegration-illustration\nblixo\n*\n*\n*\n*\nCompany\n* Partner Program\n* Privacy Policy\n* Terms of Use\n* Support\nFeatures\n* Subscriptions\n* Invoicing\n* Collections\n* Cash Application\n* Customer Portal\nIndustry\n* Construction\n* Manufacturing\n* Law Firms\n* Facilities Services\n* Wholesalers\n* Staffing & Recruiting\n* Creative Professionals\nSupport\n* Documentation\n* API Documentation\n* Blog\n  © 2023 Blixo Inc."
+    ]
+   },
+   {
+    "url": "https://staging.blixo.com/",
+    "title": "Blixo - Subscription Billing & Accounts Receivable Automation",
+    "excerpts": [
+     "SIGN UP FOR FREE\nNo credit card required, Solo plan is always free.\nTrusted by companies backed by logo y-combinator\nSign Up for Free Today"
+    ]
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/489077-56",
+    "title": "Blixo 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "excerpts": [
+     "Developer of cloud-based subscription billing management technology designed for automated accounts receivable. The company's platform manages subscriptions, invoicing, payments, collections, and reconciliation, enabling businesses to reduce manual accounting work and maintain consistent revenue operations.\nContact Information\nWebsite\nwww.blixo.com\nOwnership Status\nPrivately Held (backing)\nFinancing Status\nAccelerator/Incubator Backed\nCorporate Office\n* 11420 Santa Monica Boulevard\n* Suite 252031\n* Santa Monica, CA 90025\n* United States\n  \n  \n  \n  Primary Industry\n  Financial Software"
+    ]
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/blixo",
+    "title": "Blixo - Crunchbase Company Profile & Funding",
+    "excerpts": [
+     "Founded obfuscated\nobfuscation Private Pre-Seed Los Angeles , California , United States 1-10 www.blixo.com\nEnterprise Resource Planning (ERP) Financial Services Payments Software\nBlixo\nSection: Overview Actions\nOverview\nBlixo\nGrowth Score 84 Heat Score 64 Unlock best-in-class private company insights with Crunchbase Pro\n* Danilo Stern-Sapad Logo\nDanilo Stern-Sapad: CEO\nPast Role: FabFitFun, CTO ## Details\nLegal Name Blixo Inc. Operating Status Active Company Type For Profit Founders Danilo Stern-Sapad\nAbout the Company\nBlixo provides a platform that automatically charges customers using their saved payment information.\nHeadcount 1-10 Employee Profiles 1 Contacts 1 ## Employee Profiles\n* Danilo Stern-Sapad Logo\nDanilo Stern-Sapad CEO\nView All News Technology\nView Tech Report\n367\n42.25% in past month\nData source: ## IT Spend\n$141.5K This year, Blixo is projected to spend $141.5K on IT, according to Aberdeen .\nData source: ## Active Website Tech Count\n18 Blixo is actively using 18 technologies for its website, according to BuiltWith . These include DNSSEC , Google Cloud , and Google .\nData source: Lists Featuring This Company\nLists Featuring This Company\n2,183 Number of Organizations  • $30.7B Total Funding Amount  • 9,826 Number of Investors\nTrack\nCalifornia Payments Companies\n1,770 Number of Organizations  • $59.7B Total Funding Amount  • 3,482 Number of Investors\nTrack\nView All Sub-Organizations Frequently Asked Questions\nWhere is Blixo 's headquarters?\nBlixo is located in Los Angeles , California , United States . Who invested in Blixo ? Blixo is funded by Y Combinator . When was the last funding round for Blixo ? Blixo closed its last funding round on obfuscated\nobfuscation from a Pre-Seed round. Who are Blixo 's competitors?"
+    ]
+   },
+   {
+    "url": "https://blixo.ai/",
+    "title": "Blixo — deterministic conversation engine",
+    "excerpts": [
+     "Most agents ask one model to do everything — understand, decide, and act — inside a black box. PRISM splits the job, so the part that must be reliable never depends on a guess.\n\"{user message}\"\nlanguage\nlogic\nThe model · language\nInterprets what your customer means — phrasing, intent, context.\nThe code · logic\nAn agent, on rails it can't leave.\nBlixo gives the model genuine room to talk like a person — while code owns every decision that matters. Freedom within rails.\nWhere Blixo sits\nRigid script\npredictable · robotic · dead-ends\nBlixo\nUngoverned LLM\nflexible · fast · unpredictable\nThe agent is free to\nNo engineering, no integrations week. We onboard you in a day.\n[ 01 ]\nYou share\nYour knowledge base, calendar, tools, channels.\n~ 30 minutes\n[ 02 ]\nWe tune\nBlixo learns your tone and your booking rules.\n~ 18 hours\n[ 03 ]\nYou go live\nConnected to every channel, answering and booking 24/7.\nNow\n— Get started —\nFree through 2026. Live in 24 hours.\nFree through 2026\nFree for the rest of 2026\n* ✓ Website widget — fully free\n* ✓ Other channels (WhatsApp, Messenger, SMS, RCS, Telegram) — minimal monthly fee\n* ✓ Zero setup charge\n* ✓ Knowledge base + booking tools\n* ✓ Any language on request\n* ✓ Live in 24 hours, no engineering\n* ✓ No credit card required\nGet started — free →\nFree to use through the end of 2026 — zero setup, no card required. If we introduce paid plans or features in the future, we'll clearly explain the terms and pricing before anything changes for you.\nAn agent that answers and books — on rails it can't leave.\nGet started — free Talk to us\nblixo\nDeterministic conversation engine for any business.\n© 2026 Blixo\nEN SV"
+    ]
+   },
+   {
+    "url": "https://www.cbinsights.com/company/blixo",
+    "title": "Blixo - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "excerpts": [
+     "Blixo specializes in subscription billing and accounts receivable automation within the financial technology sector. The company provides services such as automated invoicing, subscription management, collections, and cash application processes that assist businesses in managing financial transactions.\nBlixo's solutions include tools for buy now, pay later options, automated payment reminders, and customizable customer portals. It was founded in 2020 and is based in Santa Monica, California.\nHeadquarters Location\nSanta Monica, California,\nUnited States\nLoading...\nLoading...\nExpert Collections containing Blixo\nExpert Collections are analyst-curated lists that highlight the companies you need to know in the most important technology spaces.\nBlixo is included in 2 Expert Collections, including Fintech .\nF\nFintech\n10,100 items\nCompanies and startups in this collection provide technology to streamline, improve, and transform financial services, products, and operations for individuals and businesses.\nP\nPayments\n* When was Blixo founded?\nBlixo was founded in 2020.\n* Where is Blixo's headquarters?\nBlixo's headquarters is located at Santa Monica.\n* What is Blixo's latest funding round?\nBlixo's latest funding round is Seed.\n* How much did Blixo raise?\nBlixo raised a total of $130K.\n* Who are the investors of Blixo?\nInvestors of Blixo include Y Combinator.\n* AI 100\n* Fintech 100\n* Digital Health 50\n* Tech Trends 2024\n* Generative AI Predictions\n* Unicorn Tracker\n* VC Glossary\n* Company List Applications\n* CB Insights Website Terms of Use\n* Privacy Policy\n* Do Not Sell My Info\n* Partnership\nCopyright 2026 CB Information Services, Inc. All rights reserved."
+    ]
+   },
+   {
+    "url": "https://tracxn.com/d/companies/blixo/__SyBWJqlk_a9Dcp3OnITOptscwXOBiSmrBpIQrWmIXS0",
+    "title": "Blixo - 2025 Company Profile, Team, Funding & Competitors - Tracxn",
+    "excerpts": [
+     "Blixo is a seed company based in Santa Monica (United States), founded in 2020. It operates as a Cloud-based subscription billing management solutions for freelancers, accountants, and professionals. Blixo has raised $125K in funding from Y Combinator . The company has 1776 active competitors, including 134 funded and 84 that have exited.\nIts top competitors include companies like SumUp , Vyapar and Nomba .\nCompany Details\nCloud-based subscription billing management solutions for freelancers, accountants, and professionals. It offers solutions for accounts receivable management, invoice"
+    ]
+   },
+   {
+    "url": "https://getlatka.com/companies/blixo.com",
+    "title": "Blixo Revenue, Valuation & Funding (2026)",
+    "excerpts": [
+     "description: Blixo SaaS company profile on GetLatka — revenue, ARR, valuation, funding rounds, customers, team size, and growth.. 2 employees Updated Sep 2, 2026. title: Blixo Company Profile (2026) image: https://getlatka.com/companies/blixo.com/opengraph-image.png\n<Blixo logo>\nBlixo\nMiami, Florida, United States\nblixo.com linkedIn\nSupply Chain Management SoftwareY Combinator\nFunding\n$0\nTeam · 2024\n2\nFounded\n2020\nBlixo Team Size (2026)\nShort-term, fast origination, supply chain financing for SEA\nLast updated Sep 2, 2026\nBlixo Revenue\nWe do not have information about Blixo 's revenue yet.\nBlixo Valuation, Funding Rounds\n{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"@id\":\"https://getlatka.com/companies/blixo.com\",\"url\":\"https://getlatka.com/companies/blixo.com\",\"name\":\"Blixo Company Profile (2026)\",\"description\":\"Blixo SaaS company profile on GetLatka — revenue, ARR, valuation, funding rounds, customers, team size, and growth.. 2 employees Updated Sep 2,\n2026.\",\"dateModified\":\"2026-09-02\",\"isPartOf\":{\"@type\":\"WebSite\",\"@id\":\"https://getlatka.com/#website\",\"name\":\"GetLatka\",\"url\":\"https://getlatka.com\"},\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https://getlatka.com/#organization\",\"name\":\"GetLatka\",\"url\":\"https://getlatka.com\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://storage.getlatka.com/images/\nlatka-logo.svg\"}},\"mainEntity\":{\"@id\":\"https://getlatka.com/companies/blixo.com#organization\"},\"speakable\":{\"@type\":\"SpeakableSpecification\",\"cssSelector\":[\"#company-speakable-headline\",\"#company-speakable-summary\"]}}\n{\"@context\":\"https://schema.org\",\"@type\":\"Dataset\",\"name\":\"Blixo SaaS Company Revenue Dataset\",\"description\":\"Structured SaaS company dataset for Blixo, including revenue, funding, valuation, team size, founder, industry, and customer metrics from"
+    ]
+   }
+  ],
+  "decision_id": "decisions_34b0e42bfb4c161cdd327475b634bb1b"
+ }
+}

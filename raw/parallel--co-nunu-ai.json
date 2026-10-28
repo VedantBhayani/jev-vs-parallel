@@ -1,0 +1,101 @@
+{
+ "seconds": 0.838,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.16526368530329116
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.970776126806942
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.992201080496156
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.003114790833739201
+   }
+  },
+  "usage": {
+   "input_tokens": 3951,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://nunu.ai",
+    "title": "nunu.ai — AI Agents for Automated Game & Software Testing",
+    "excerpts": [
+     "Get your results.\nMonitor outcomes in real time through powerful dashboards with detailed reports and insights.\n3\nEverything in one place.\nWith nunu.ai, you get all the game QA automation in one easy to use platform.\nCost Reduction\nBy automating the repetitive and tedious tasks, customers save up to 50% on manual work costs.\nget started talk to us\nResources\nHome Pricing Enterprise\nCase Studies\nStormforge Hogwarts Legacy Pokemon Emerald\nCompany\nBlog About Careers\nLegal\nPrivacy Policy Terms of Service Cookie Policy Cookie Settings\nContact\nteam@nunu.ai\n© 2026 Generai, Inc."
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/waveline",
+    "title": "nunu.ai: Building the first multimodal agents to play and test games. | Y Combinator",
+    "excerpts": [
+     "nunu.ai\nBuilding the first multimodal agents to play and test games.\n[Winter 2023](/companies?batch=Winter 2023)\nActive\nCompany\nJobs 0\nNews\nhttps://nunu.ai\nBuilding the first multimodal agents to play and test games.\nnunu.ai is building the first multimodal agent to test and play games. We infuse AI agents into the game development process, starting at QA all the way to player simulation.\nActive Founders\nJan Schnyder\nJan Schnyder\nTwitter account\nFounder\nAlways down for a coffee :)\nJan Schnyder\nJan Schnyder\nTwitter account\nFounder\nAlways down for a coffee :)\nAlso have a great interest in security and worked as a pentester.\nNicolas Muntwyler\nNicolas Muntwyler\nTwitter account\nFounder\nI do AI @ nunu.ai. Always down to chat :)\nNicolas Muntwyler\nNicolas Muntwyler\nTwitter account\nFounder\nI do AI @ nunu.ai. Always down to chat :)\nLatest News\nnunu.ai secures $6m to scale AI Agents for game QA\nMar 14, 2025\nnunu.ai has raised $2 million towards AI playtesters and QA with bot detection on the way\nAug 05, 2024\nCompany Launches\n🎮nunu.ai - AI agents to play and test games\nSee original launch post\nTLDR : nunu.ai is building the first multimodal agents to test and play games.\nThe Problem\nThe Solution\nWhy Now\nIn short: Large Multimodal Models. Here is why:\nInteractability: Studios can interact with our AI in real-time, altering tasks, and engaging in dialogue to gain deeper insights.\nOur Ask\n* If you know any game studio that benefits from our AI agents, please intro us.\n* We want to be seen, if you like our progress share it with people 🙂 Here is our launch tweet.\n  nunu.ai\n  nunu.ai\n  Founded: 2022\n  Batch: Winter 2023\n  Team Size: 5\n  Status: Active\n  X (Twitter) logo\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/nunu-ai",
+    "title": "nunu.ai: Building the first multimodal agents to play and test games. | Y Combinator",
+    "excerpts": [
+     "nunu.ai\nBuilding the first multimodal agents to play and test games.\nWinter 2023\nActive\nCompany\nJobs 0\nNews\nhttps://nunu.ai\nBuilding the first multimodal agents to play and test games.\nnunu.ai is building the first multimodal agent to test and play games. We infuse AI agents into the game development process, starting at QA all the way to player simulation.\nActive Founders\nJan Schnyder\nJan Schnyder\nTwitter account\nFounder\nAlways down for a coffee :)\nJan Schnyder\nJan Schnyder\nTwitter account\nFounder\nAlways down for a coffee :)\nKyrill Hux\nKyrill Hux\nTwitter account\nFounder\nco-founder @ nunu.ai, mostly digging through game engines at the moment. Also have a great interest in security and worked as a pentester.\nKyrill Hux\nKyrill Hux\nTwitter account\nFounder\nco-founder @ nunu.ai, mostly digging through game engines at the moment.\nnunu.ai has raised $2 million towards AI playtesters and QA with bot detection on the way\nAug 05, 2024\nCompany Launches\n🎮nunu.ai - AI agents to play and test games\nSee original launch post\nTLDR : nunu.ai is building the first multimodal agents to test and play games.\nAt nunu.ai , we've developed multimodal AI agents that revolutionize the way game studios approach these challenges. Our AI agents are designed to automate and enhance various aspects of game development, starting with quality assurance.\nOur Ask\n* If you know any game studio that benefits from our AI agents, please intro us.\n* We want to be seen, if you like our progress share it with people 🙂 Here is our launch tweet.\n  nunu.ai\n  nunu.ai\n  Founded: 2022\n  Batch: Winter 2023\n  Team Size: 5\n  Status: Active\n  Location: Switzerland\n  X (Twitter) logo\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/nunu-ai/jobs",
+    "title": "Jobs at nunu.ai | Y Combinator",
+    "excerpts": [
+     "nunu.ai\nBuilding the first multimodal agents to play and test games.\nCompany\nJobs 0\nhttps://nunu.ai\nJobs at nunu.ai\nNo jobs at nunu.ai are currently posted on the YC platform.\nnunu.ai\nnunu.ai\nFounded: 2022\nBatch: W23\nTeam Size: 5\nStatus: Active\nLocation: Switzerland\nX (Twitter) logo\nFounders\nKyrill Hux\nKyrill Hux\nTwitter account\nFounder\nKyrill Hux\nKyrill Hux\nTwitter account\nFounder\nNicolas Muntwyler\nNicolas Muntwyler\nTwitter account\nFounder\nNicolas Muntwyler"
+    ]
+   },
+   {
+    "url": "https://pitchbook.com:8443/profiles/company/589194-37",
+    "title": "nunu.ai 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "excerpts": [
+     "The company's platform utilizes vision-based agents that see and interact with the game like a human, reason about actions, and provide interpretable insights during gameplay, enabling the gaming industry with advanced development tools for real-time interaction, reporting on specific tasks, and interpretability of agent decisions, ultimately\naccelerating processes and extending to other applications like player simulation.\nContact Information\nWebsite\nwww.nunu.ai\nOwnership Status\nPrivately Held (backing)\nFinancing Status\nVenture Capital-Backed\nCorporate Office\n* 2261 Market Street\n* Suite 5106"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/launches/Jzd-nunu-ai-ai-agents-to-play-and-test-games",
+    "title": "Launch YC: 🎮nunu.ai - AI agents to play and test games | Y Combinator",
+    "excerpts": [
+     "12\n🎮nunu.ai - AI agents to play and test games\nBuilding the first multimodal AI agents to help create better games\nNicolas Muntwyler\nnunu.ai\nalmost 3 years ago\nEmbed\nhttps://nunu.ai\nTLDR : nunu.ai is building the first multimodal agents to test and play games. We infuse AI agents into the game development process, starting at QA all the way to player simulation.\nTrailer :\nThe Problem\nThe Solution\nAt nunu.ai , we've developed multimodal AI agents that revolutionize the way game studios approach these challenges. Our AI agents are designed to automate and enhance various aspects of game development, starting with quality assurance.\nThese agents are capable of playing games, reasoning, and adapting, all while providing valuable insights and feedback. With minimal adjustments, our AI can adapt to any game, offering interpretability and interactability unprecedented in the industry.\nWhy Now\nIn short: Large Multimodal Models. Here is why:\n1. Generalizability: Unlike other systems, our AI requires minimal retraining and can adapt to any game instantly.\n2. Interpretability: Our agents can explain their actions and decisions, similar to interacting with a human player. They're capable of generating detailed reports on their observations.\n3.\nInteractability: Studios can interact with our AI in real-time, altering tasks, and engaging in dialogue to gain deeper insights.\nOur Ask\n* If you know any game studio that benefits from our AI agents, please intro us.\n* We want to be seen, if you like our progress share it with people 🙂 Here is our launch tweet.\n  See All Launches ›\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.cbinsights.com/company/nunuai",
+    "title": "Nunu.ai - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "excerpts": [
+     "Nunu.ai provides AI solutions for the gaming industry, focusing on quality assurance and market research. The company offers AI agents that handle game testing, compliance checks, and market research tasks, requiring no coding or technical expertise. Nunu.ai's platform supports multi-platform testing.\nIt was founded in 2022 and is based in San Francisco, California.\nHeadquarters Location\n2261 Market Street Suite 5106\nSan Francisco, California, 94114,\nUnited States\nLoading...\nLoading...\nExpert Collections containing Nunu.ai\nI'm just not sure that they're all living in the same present.\nJan 22, 2026\nYapay zeka destekli 10 oyun geliştirme aracı\nOct 18, 2025\nEurope's Gaming Split: Consolidation Meets Venture Bets\nOct 16, 2025\nThe biggest European gaming deals in H1 2025\nApr 8, 2025\nSwiss startup Nunu.ai raises $6 million in a seed round to advance AI-powered game testing and robotics\nLearn more by requesting a demo\n* When was Nunu.ai founded?\nNunu.ai was founded in 2022.\n* Where is Nunu.ai's headquarters?\nNunu.ai's headquarters is located at 2261 Market Street, San Francisco.\n* What is Nunu.ai's latest funding round?\nNunu.ai's latest funding round is Seed VC.\n* How much did Nunu.ai raise?\nNunu.ai raised a total of $8.51M.\n* Who are the investors of Nunu.ai?\nInvestors of Nunu.ai include Y Combinator, A16z Speedrun, Boost VC, Tirta Ventures, New Renaissance Ventures and 9 more.\n* Who are Nunu.ai's competitors?\nCompetitors of Nunu.ai include QA.tech and 5 more.\nLoading...\n* AI 100\n* Fintech 100\n* Digital Health 50\n* Tech Trends 2024\n* Generative AI Predictions\n* Unicorn Tracker\n* VC Glossary\n* Company List Applications\n* CB Insights Website Terms of Use\n* Privacy Policy\n* Do Not Sell My Info\n* Partnership\nCopyright 2026 CB Information Services, Inc. All rights reserved."
+    ]
+   },
+   {
+    "url": "https://www.nunu.run/",
+    "title": "nunu — AI-native engineering company",
+    "excerpts": [
+     "AI Company OS · Live Build\nnunu\nEvery employee is an autonomous AI agent.\nThe world's first AI-native engineering company — and the platform that lets every organization build its own digital workforce.\nFollow along See architecture arrow_downward\nHello, I'm nunu. I'm here to help your team do amazing things.\n* Caring\n* Trusted\n* Intelligent\n* Growing\n  01 · The thesis\nToday: AI as freelancer.\nNunu: AI-native company.\nMost builders treat LLMs as individual gig workers answering isolated prompts. We treat them as long-horizon teammates who operate inside persistent institutional memory, explicit org charts, and self-governing review loops.\nStatus quo Fragile\nToday: AI as freelancer\nOne model · One prompt · One task\n* remove Writes isolated code, generates docs, reviews PRs in vacuum\n* close Zero identity, zero memory, zero org-level context\n* close No decision boundaries or accountability protocols\n  Missing piece: Organization\n  Paradigm shift\n  Nunu architecture Coworkers\nNunu: AI-native company\nAutonomous AI employees + Humans\nAgents currently shipping in production.\nShipping\nThese specialized autonomous units are executing daily internal and client operations inside nunu's proprietary company runtime.\nPulse\nInbox Triage & Route\nActive\nPath\nSprint Planning\nActive\nRidge\nCode Review\nActive\nNunu\nTeams Surface\nCore bus\nBillie\nFinance & Receipts\nActive\nFactory\nnunu is in concept and early construction — not shipping a self-serve commercial product yet. If the idea of an autonomous, AI-native engineering company resonates, leave a note. We'll share technical progress as the company takes shape.\nEmail address Stay in touch\nOr write directly to hello@nunu.run .\nRuntime status\nInternal Alpha v0.9.4"
+    ]
+   },
+   {
+    "url": "https://dealroom.co/companies/nunu-ai",
+    "title": "nunu.ai — venture-backed company profile | Dealroom",
+    "excerpts": [
+     "About nunu.ai\nnunu.ai is a company that has developed a platform for automated game quality assurance (QA) using artificial intelligence agents. These agents are designed to simulate human-like player interactions, performing end-to-end testing by analyzing visual information from the game.\nThe system provides real-time monitoring of test outcomes through dashboards with detailed reports and insights.\nThe company's technology is multimodal, meaning the AI agents can understand and interact with games in a way that is similar to humans. This allows them to identify bugs, assess game performance, and provide feedback to developers.\nThe business model appears to be a subscription-based service, with different pricing tiers available. The company is also focused on data security, pursuing SOC2 Type 2 compliance and offering features like SAML-based single sign-on for enterprise clients.\nMore Less + Source: Dealroom company data\nAt a glance\nStatus Operational\nFounded 2022\nHeadquarters Zurich, Switzerland\nEmployees 25\nOpen positions None listed\nDealroom signal 83.0 /100\nIndustry Gaming\nSector Consumer Services, Testing, Core AI, Generative AI, genAI Applications, AI Agents, YC W23, DT and LS, Swiss DT AI/ML\nTechnology Artificial Intelligence, Deep Tech\nBusiness model SaaS\nClient focus b2b\nLinks Website LinkedIn X\nnunu.ai website traffic\nLatest recorded traffic for nunu.ai is 6.5K monthly website visits, down 31.6% over the last three months. nunu.ai's team grew 25% over the past year.\nLatest monthly visits 6.5K 3-month web change -31.6% 1-year team growth +25%\nMonthly website visits Dec 2023–Jul 2026\nSimilar companies\nClosest operating peers by Dealroom taxonomy\nCompany identity and context are open; selected comparison metrics preview what is available on the platform."
+    ]
+   },
+   {
+    "url": "https://nunu.ai/about",
+    "title": "About | nunu.ai",
+    "excerpts": [
+     "nunu.ai is pioneering the frontier of artificial intelligence in gaming with the creation of the first multi-modal AI agents specifically designed to test and play any game.\nOur mission is to revolutionize the game experience and development process by integrating advanced AI from the initial stages of Quality Assurance (QA) to the complexities of live player simulation and cooperation. We aim to create agents that augment player experiences in virtual worlds.\nOperations Associate Marketing\nLives life to the soundtracks of Final Fantasy and Skyrim\nOur Backers.\nnunu.ai is proud to be supported by some of the best investors in the world.\nGet in touch.\nteam@nunu.ai\nResources\nHome Pricing Enterprise\nCase Studies\nStormforge Hogwarts Legacy Pokemon Emerald\nCompany\nBlog About Careers\nLegal\nPrivacy Policy Terms of Service Cookie Policy Cookie Settings\nContact\nteam@nunu.ai\n© 2026 Generai, Inc."
+    ]
+   }
+  ],
+  "decision_id": "decisions_15141780b270bf28f45a2029c51b9d06"
+ }
+}

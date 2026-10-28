@@ -1,0 +1,101 @@
+{
+ "seconds": 0.91,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.9994438719002289
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.5079837211839542
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.9697591622437958
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.9925935583102605
+   }
+  },
+  "usage": {
+   "input_tokens": 4541,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "http://www.confident-ai.com/",
+    "title": "Confident AI - The AI Quality Platform",
+    "excerpts": [
+     "Y Combinator company logo\nBacked by Y Combinator\nThe AI Quality Platform\nBy the creators of DeepEval, Confident AI enables engineers, QA teams, and product leaders to build reliable AI with best-in-class evals and observability.\nRequest a Demo Try Now For Free\nIllustration showing productivity and teamwork\nOPEN-SOURCE & TRUSTED BY TOP COMPANIES AROUND THE WORLD\nDo evals the right way.\nConfident AI provides an opinionated solution to curate dataset, align metrics, and automate LLM testing with tracing. Teams use it to safeguard AI systems to save hundreds of hours a week on fixing breaking changes, cut inference cost by 80% , and convince stakeholders that their AI is always better than the week before.\nMulti-data residency\nStore and process data in the United States of America (North Carolina) or the European Union (Frankfurt).\nRBAC and data masking\nRBAC and data masking\nOur flexible infrastructure allows data separation between projects, custom permissions control, and masking for LLM traces.\n99.9% uptime SLA\n99.9% uptime SLA"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/confident-ai",
+    "title": "Confident AI: Production Monitoring & Evals for AI Agents | Y Combinator",
+    "excerpts": [
+     "Confident AI\nProduction Monitoring & Evals for AI Agents\nWinter 2025\nActive\nDeveloper Tools Generative AI Open Source AI San Francisco\nCompany\nJobs 4\nhttps://confident-ai.com\nProduction Monitoring & Evals for AI Agents\nAI Researcher and CHI-published author, previously built NLP pipelines for fintech startup and researched self-driving cars/HCI during @ Princeton (ORFE'24 + CS).\nCompany Launches\nConfident AI: The Evals Platform for AI Quality & Observability\nSee original launch post\nTL;DR – Confident AI is a cloud-based evaluation platform to help teams build reliable AI products.\nIts evals are powered by DeepEval - an open-source LLM evaluation framework, which has over 12k stars, 3million monthly downloads, runs 2million evals per day, and is most commonly found in CI/CD pipelines of enterprises such as BCG, Astrazeneca, AXA, Microsoft.\nConfident AI allows engineering teams to iterate on their LLM app x10 faster by bringing best-in-class evals to traditional AI observability.\nTry Confident AI today (setup in 5 min)\nuploaded image\nThe Solution\nWe built DeepEval for engineers to create use-case-specific, deterministic LLM evaluation metrics, and when you're ready, Confident AI brings these evaluation results to the cloud for collaboration. This allows teams to collaborate on LLM app iteration — with no extra setup required.\nAny (new grads ok)\nApply Now ›\nFounding Open Source Growth Engineer\nSan Francisco, CA, US\n$140 - $200\n0.50% - 2.00%\nAny (new grads ok)\nApply Now ›\nConfident AI\nConfident AI\nFounded: 2024\nBatch: Winter 2025\nTeam Size: 7\nStatus: Active\nLocation: San Francisco\nPrimary Partner: Tom Blomfield\nX (Twitter) logo\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "http://ycombinator.com/companies/confident-ai/jobs",
+    "title": "Jobs at Confident AI | Y Combinator",
+    "excerpts": [
+     "Confident AI\nThe LLM Eval and Observability Platform for AI Quality\nCompany\nJobs 4\nhttps://confident-ai.com\nJobs at Confident AI\nFounding Infrastructure Engineer\nSan Francisco, CA, US / Remote\n$100K - $200K\n0.50% - 1.50%\n6+ years\nApply Now ›\nFounding Developer Advocate\nSan Francisco, CA, US\n$130 - $175\n0.50% - 1.50%\n3+ years\nApply Now ›\nFounding Head of Marketing\nSan Francisco, CA, US\n$130 - $176\n0.50% - 1.50%\n3+ years\nApply Now ›\nFounding Open-Source Growth Engineer\nWhy you should join Confident AI\nConfident AI is the leading LLM evaluation platform that helps teams evaluate, test, benchmark, optimize, monitor, and red-team LLM applications.\nPowered by DeepEval, the go-to LLM evaluation framework with over 600k monthly downloads, 5.3k GitHub stars, and over 40 million evaluations conducted, Confident AI is trusted by hundreds of companies from leading startups to international corporations.\nConfident AI\nConfident AI\nFounded: 2024\nBatch: W25\nTeam Size: 7\nStatus: Active\nLocation: San Francisco\nX (Twitter) logo\nFounders\nJeffrey Ip\nJeffrey Ip\nTwitter account\nCEO & Cofounder\nJeffrey Ip\nJeffrey Ip\nTwitter account\nCEO & Cofounder\nKritin Vongthongsri\nKritin Vongthongsri\nCo-Founder\nKritin Vongthongsri\nKritin Vongthongsri\nCo-Founder\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/confident-ai/jobs/kZO4bme-founding-open-source-growth-engineer",
+    "title": "Founding Open-Source Growth Engineer at Confident AI | Y Combinator",
+    "excerpts": [
+     "Confident AI\nOpen-Source Unit Testing for LLM Applications\nFounding Open-Source Growth Engineer\n$100K - $200K • 1.00% - 3.00% • San Francisco, CA, US / Remote\nJob type\nFull-time\nRole\nEngineering, Machine learning\nExperience\n3+ years\nVisa\nWill sponsor\nSkills\nPython, TypeScript\nConnect directly with founders of the best YC-funded startups.\nApply to role ›\nJeffrey Ip\nJeffrey Ip\nCEO & Cofounder\nAbout the role\nWhat is Confident AI?\nConfident AI an open-source company building 1) an open-source package called DeepEval to unit-test LLM applications such as chatbots, agents, and RAG pipelines, and 2) the cloud platform for DeepEval. It's like Next.JS and Vercel.\nThe founding team is a small group of exceptional engineers and researchers from top colleges and companies such as Google, Microsoft, and Princeton.\nOur Values and Morals\nThings we value:\n* No ghosting—respect others’ time and effort.\n* Doers, not yappers, function over form. This means we're ok with remote work as long as you deliver.\n* Be used by hundreds of thousands of open-source users, all the way from individual hobbyist to AI leaders at Fortune 500 companies.\n* Educate hundreds of thousands of people, that wouldn't otherwise know how to quality assure their LLM applications.\n* Be respected and appreciated by the community.\nBy joining us, you will:\nConfident AI is the leading LLM evaluation platform that helps teams evaluate, test, benchmark, optimize, monitor, and red-team LLM applications.\nPowered by DeepEval, the go-to LLM evaluation framework with over 600k monthly downloads, 5.3k GitHub stars, and over 40 million evaluations conducted, Confident AI is trusted by hundreds of companies from leading startups to international corporations.\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2025 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://pitchbook.com:8443/profiles/company/539829-37",
+    "title": "Confident AI 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "excerpts": [
+     "Developer of an evaluation platform designed to enable the monitoring and improvement of LLM (Large Language Model) applications in AI development.\nThe company offers advanced metrics, real-time feedback, and customizable dataset generation, enabling AI developers and organizations in the technology and research sectors to optimize their systems for accuracy, performance, and alignment with their goals.\nContact Information\nWebsite\nwww.confident-ai.com\nOwnership Status\nPrivately Held (backing)\nFinancing Status\nVenture Capital-Backed\nCorporate Office\n* 33rd 8th Street\n* San Francisco, CA 94103\n*"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/confident-ai/jobs/4OrG8Sb-founding-open-source-growth-engineer",
+    "title": "Founding Open-Source Growth Engineer at Confident AI | Y Combinator",
+    "excerpts": [
+     "Confident AI\nThe LLM Eval and Observability Platform for AI Quality\nFounding Open-Source Growth Engineer\n$100K - $200K • 0.49% - 1.50% • San Francisco, CA, US / Remote\nJob type\nFull-time\nRole\nEngineering, Machine learning\nExperience\n6+ years\nVisa\nWill sponsor\nSkills\nPython, Growth design, Marketing design\nConnect directly with founders of the best YC-funded startups.\nApply to role ›\nJeffrey Ip\nJeffrey Ip\nCEO & Cofounder\nJeffrey Ip\nJeffrey Ip\nCEO & Cofounder\nAbout the role\nWhat is Confident AI?\nWe’re building 1) an open-source package called DeepEval to unit-test LLM applications such as chatbots, agents, and RAG pipelines, and 2) the cloud platform for DeepEval.\nIt's like Next.JS and Vercel.\nThe founding team is a small group of exceptional engineers and researchers from top colleges and companies such as Google, Microsoft, and Princeton.\nOur Values and Morals\nThings we value:\nYour work will:\n* Be used by hundreds of thousands of open-source users, all the way from individual hobbyist to AI leaders at Fortune 500 companies to companies such as OpenAI and Google.\n* Educate hundreds of thousands of people, that wouldn't otherwise know how to quality assure their LLM applications.\nConfident AI is the leading LLM evaluation platform that helps teams evaluate, test, benchmark, optimize, monitor, and red-team LLM applications.\nPowered by DeepEval, the go-to LLM evaluation framework with over 600k monthly downloads, 5.3k GitHub stars, and over 40 million evaluations conducted, Confident AI is trusted by hundreds of companies from leading startups to international corporations.\nConfident AI\nConfident AI\nFounded: 2024\nBatch: W25\nTeam Size: 7\nStatus: Active\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/confident-ai/jobs/PETCNJ8-founding-gtm",
+    "title": "Founding GTM at Confident AI | Y Combinator",
+    "excerpts": [
+     "Confident AI\nThe LLM Eval and Observability Platform for AI Quality\nFounding GTM\n$150K - $200K • 1.00% - 2.00% • San Francisco, CA, US\nJob type\nFull-time\nRole\nMarketing\nExperience\nAny (new grads ok)\nVisa\nUS citizen/visa only\nConnect directly with founders of the best YC-funded startups.\nApply to role ›\nJeffrey Ip\nJeffrey Ip\nCEO\nJeffrey Ip\nJeffrey Ip\nCEO\nAbout the role\nOverview\nConfident AI is building the infrastructure that makes AI trustworthy. We help engineering and product teams evaluate, monitor, and improve the AI systems they ship to production.\nDeepEval, our open-source evaluation framework, has strong adoption among developers.\n* Experience in growth, demand generation, product marketing, founder-led sales, or a similarly full-stack GTM role at a B2B startup.\n* Experience marketing or selling to technical buyers, ideally in developer tools, infrastructure, AI, data, observability, security, or another technical product category.\n* Clear ownership: the founders own positioning, ICP, and strategy; you own execution and the metrics. No ambiguity about who drives what.\n* A seat at the table: direct access to the founding team and real input into positioning, product launches, and company strategy.\nAbout Confident AI\nConfident AI is the leading LLM evaluation platform that helps teams evaluate, test, benchmark, optimize, monitor, and red-team LLM applications.\nPowered by DeepEval, the go-to LLM evaluation framework with over 600k monthly downloads, 5.3k GitHub stars, and over 40 million evaluations conducted, Confident AI is trusted by hundreds of companies from leading startups to international corporations.\nConfident AI\nConfident AI\nFounded: 2024\nBatch: W25\nTeam Size: 7\nStatus: Active\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.cbinsights.com/company/confident-ai",
+    "title": "Confident AI - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "excerpts": [
+     "Confident AI is an AI quality platform that provides services including LLM evaluation, observability, red teaming, and governance for AI applications in various industries. The company serves sectors such as healthcare, insurance, and financial industries. It was founded in 2023 and is based in San Francisco, California.\nHeadquarters Location\n33rd 8th Street\nSan Francisco, California, 91403,\nUnited States\nLoading...\nESPs containing Confident AI\n85% of companies burned by an AI mistake are racing to cut the humans who might catch the next one\nAug 18, 2026\nFor most enterprises, the production quality checks and evaluation testing that would close that gap still aren't in place.\nMay 17, 2026\nEval engineering: The missing piece of agentic AI governance\nApr 18, 2025\nEx-Googler (YouTube), Microsoft AI (Office365).\nHow I raised Confident AI's $2.2M seed round in 5 days - Confident AI Confident AI Jeffrey Ip Cofounder @ Confident AI, creator of DeepEval & DeepTeam.\nLearn more by requesting a demo\nConfident AI Frequently Asked Questions (FAQ)\n* When was Confident AI founded?\nConfident AI was founded in 2023.\n* Where is Confident AI's headquarters?\nConfident AI's headquarters is located at 33rd 8th Street, San Francisco.\n* What is Confident AI's latest funding round?\nConfident AI's latest funding round is Seed VC.\n* How much did Confident AI raise?\nConfident AI raised a total of $2.2M.\nApollo Research serves frontier labs, multinational companies, governments, and foundations in relation to Artificial Intelligence governance, policy, and strategy. It was founded in 2023 and is based in London, United Kingdom.\nMI2.ai Logo\nMI2.ai"
+    ]
+   },
+   {
+    "url": "https://presentofai.com/spotlight/confident-ai.com",
+    "title": "Confident AI: LLM Evaluation and Observability Platform",
+    "excerpts": [
+     "Enterprise evaluation and observability platform for LLM applications powered by open-source DeepEval. Confident AI is a San Francisco-based developer infrastructure company creating evaluation and observability tooling for production generative artificial intelligence.\nFounded by former Google and Microsoft software engineer Jeffrey Ip and technical co-founder Kritin Vongthongsri, the company created DeepEval, an open-source LLM evaluation framework.\n* Who founded Confident AI?\n* Confident AI was founded by Jeffrey Ip, Kritin Vongthongsri, per public sources.\n* Where is Confident AI based?\n* Confident AI is based in the United States.\n* When was Confident AI founded?\n* Confident AI was founded in 2024.\n* How much funding has Confident AI raised?\nBy codifying evaluation into repeatable automated unit tests, Confident AI enables developers to score model outputs across faithfulness, answer relevancy, and context recall, catching regressions before code merges into production.\nThe product\nname=search_term_string\"}}]}\n{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Confident AI: LLM Evaluation and Observability Platform\",\"description\":\"Enterprise evaluation and observability platform for LLM applications powered by open-source DeepEval.\nBased in the United States.\",\"url\":\"https://presentofai.com/spotlight/confident-ai.com\",\"datePublished\":\"2026-10-01\",\"dateModified\":\"2026-10-26\",\"author\":{\"@id\":\"https://presentofai.com/#org\"},\"publisher\":{\"@id\":\"https://presentofai.com/#org\"},\"about\":{\"@type\":\"Organization\",\"name\":\"Confident AI\",\"url\":\"https://confident-ai.com\"}}\nConfident AI is a San Francisco-based developer infrastructure company creating evaluation and observability tooling for production generative artificial intelligence."
+    ]
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/confident-ai",
+    "title": "Confident AI - Crunchbase Company Profile & Funding",
+    "excerpts": [
+     "Resources Advanced Search\nStart Free Trial Talk With Sales Pricing Log In\nLog In Confident AI Growth Score 87 CB Rank 21290 Heat Score 79\nSave Actions\nConfident AI offers open-source unit testing solutions for applications utilizing large language models (LLMs).\nFounded obfuscated\nobfuscation Private Seed San Francisco , California , United States 11-50 confident-ai.com\nArtificial Intelligence (AI) Software\nConfident AI\nSection: Overview Actions\nOverview\nConfident AI\nTotal Funding obfuscated\nobfuscation\nGrowth Score 87 Heat Score 79 Unlock best-in-class private company insights with Crunchbase Pro\nConfident AI offers open-source unit testing solutions for applications utilizing large language models (LLMs).\nFounded obfuscated\nobfuscation Private Seed San Francisco , California , United States 11-50 confident-ai.com\nArtificial Intelligence (AI) Software ## Funding Rounds\nSeed obfuscated\nOBF in obfuscated\nobfuscation\nView 1 round ## Key People\n* Photo of Jeffrey Ip\n  Jeffrey Ip: CEO & Co-Founder ## Details\n  Legal Name Confident AI Inc. Operating Status Active Company Type For Profit Founders Jeffrey Ip , Kritin Vongthongsri\n  Contact Email dev@confident-ai.com Predictions & Insights\nGrowth Prediction\n* Search 6M+ private companies\nTry Pro Free People\nView Profiles & Contacts\nHeadcount 11-50 Employee Profiles 1 Contacts 2 ## Employee Profiles\n* Photo of Jeffrey Ip\nJeffrey Ip CEO & Co-Founder\nView All News\nLists Featuring This Company\nWhere is Confident AI 's headquarters? Confident AI is located in San Francisco , California , United States . Who invested in Confident AI ? Confident AI has 7 investors including Oliver Jung and Vermilion Cliffs Ventures . When was the last funding round for Confident AI ? Confident AI closed its last funding round on obfuscated"
+    ]
+   }
+  ],
+  "decision_id": "decisions_65363879a52fa56024963ffd57023217"
+ }
+}

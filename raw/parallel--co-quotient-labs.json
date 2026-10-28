@@ -1,0 +1,101 @@
+{
+ "seconds": 0.845,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.9997103768508824
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.004985322448777398
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.929452160964688
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.0037312541199268244
+   }
+  },
+  "usage": {
+   "input_tokens": 4494,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://www.ycombinator.com/companies/quotient-labs/jobs",
+    "title": "Jobs at Quotient Labs | Y Combinator",
+    "excerpts": [
+     "Quotient Labs\nUse Claude Code at 47% less cost in one line of installation.\nCompany\nJobs 0\nhttps://quotientlabs.com\nJobs at Quotient Labs\nNo jobs at Quotient Labs are currently posted on the YC platform.\nQuotient Labs\nQuotient Labs\nFounded: 2025\nBatch: W26\nTeam Size: 2\nStatus: Active\nLocation: San Francisco\nX (Twitter) logo\nFounders\nAndrew Kuik\nAndrew Kuik\nFounder\nAndrew Kuik\nAndrew Kuik\nFounder\nSaahil Sundaresan\nSaahil Sundaresan\nTwitter account\nFounder\nSaahil Sundaresan\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/quotient-labs",
+    "title": "Quotient Labs: Use Claude Code at 47% less cost in one line of installation. | Y Combinator",
+    "excerpts": [
+     "Quotient Labs\nUse Claude Code at 47% less cost in one line of installation.\nWinter 2026\nActive\nDeveloper Tools SaaS AI San Francisco\nCompany\nJobs 0\nhttps://quotientlabs.com\nUse Claude Code at 47% less cost in one line of installation.\nYou should only be paying frontier model prices for top-shelf reasoning. But 88% of your token bill is just tool I/O. Quotient Labs runs on top of Claude Code to reduce token spend, compress context, and optimize tool calls while preserving output quality. Same models, same workflow, no changes to how you work.\nFounder\nMaking coding agents cheaper @ Quotient Labs. Stanford CS; previously at AWS, Accenture Feel free to reach out for anything!\nCompany Launches\nQuotient Labs: Stop overpaying Claude for tokens you don't need\nSee original launch post\nTLDR : Tokenmaxxing is out. Tokenminning is in.\nQuotient Labs sits on top of Claude Code and reduces the amount of context you pay for—without changing your models, prompts, projects, or workflow. Across real, multi-step developer workflows, we’ve benchmarked 47% lower token cost with no measured quality loss. Get started today at https://www.quotientlabs.com/ .\nThe Problem\nYou’re overpaying Claude for tokens your agent never needed.\nFermat’s Last Token (our main product) sits on top of Claude Code and optimizes what enters and remains in your model’s context. We do this in four ways:\nBefore Quotient Labs, we’ve been at Stanford (BS+MS CS/AI), industry (Apple, AWS, Accenture) and in academia (with multiple publications).\nuploaded image\nQuotient Labs\nQuotient Labs\nFounded: 2025\nBatch: Winter 2026\nTeam Size: 2\nStatus: Active\nLocation: San Francisco\nPrimary Partner: Ankit Gupta\nX (Twitter) logo\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/founders/andrew-kuik",
+    "title": "Y Combinator",
+    "excerpts": [
+     "Andrew Kuik - Y Combinator Founder of Quotient Labs\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nAndrew Kuik, Founder of Quotient Labs\nAndrew Kuik\nW26\nFounder at Quotient Labs\nMaking coding agents cheaper @ Quotient Labs. Stanford CS; previously at AWS, Accenture Feel free to reach out for anything!\nFollow Andrew\nLinkedIn Connect on LinkedIn\nPreviously at\nAccenture\nAccenture\nAlumnus of\nStanford University\nStanford University\nQuotient Labs\nQuotient Labs\nUse Claude Code at 47% less cost in one line of installation.\nFounded: 2025\nBatch: W26\nTeam Size: 2\nStatus: Active\nLocation: San Francisco\nPrimary Partner: Ankit Gupta\nRelated Founders\nSaahil Sundaresan Saahil Sundaresan Founder at Quotient Labs\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.cbinsights.com/company/quotient-labs",
+    "title": "Quotient Labs - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "excerpts": [
+     "* About Us\n* Overview\n* Our teams\n* Business Development\n* Engineering\n* Operations\n* Product\n* See all →\n* Open Jobs\nLoading...\nQuotient Labs company logo\nQuotient Labs\nUnclaimed\nquotientlabs.com\n* Overview & Products\n* Financials\n* People\nFounded Year\n2025\nStage\nConvertible Note | Alive\nTotal Raised\n$500K\nLast Raised\n$500K | 10 mos ago\nAbout Quotient Labs\nQuotient Labs focuses on artificial intelligence (AI) code generation costs within the software development sector. The company offers a product named Fermat's Last Token, which integrates with Claude Code to reduce token spend and compress context while maintaining output quality.\nThis is achieved through semantic context pruning and optimized agent tools, designed to integrate into existing workflows without requiring changes from the user. It was founded in 2025 and is based in San Francisco, California.\nHeadquarters Location\nSan Francisco, California,\nUnited States\nLoading...\nLoading...\nQuotient Labs Frequently Asked Questions (FAQ)\n* When was Quotient Labs founded?\nQuotient Labs was founded in 2025.\n* Where is Quotient Labs's headquarters?\nQuotient Labs's headquarters is located at San Francisco.\n* What is Quotient Labs's latest funding round?\nQuotient Labs's latest funding round is Convertible Note.\n* How much did Quotient Labs raise?\nQuotient Labs raised a total of $500K.\n* AI 100\n* Fintech 100\n* Digital Health 50\n* Tech Trends 2024\n* Generative AI Predictions\n* Unicorn Tracker\n* VC Glossary\n* Company List Applications\n* CB Insights Website Terms of Use\n* Privacy Policy\n* Do Not Sell My Info\n* Partnership\nCopyright 2026 CB Information Services, Inc. All rights reserved."
+    ]
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/quotient-29b2",
+    "title": "Quotient - Crunchbase Company Profile & Funding",
+    "excerpts": [
+     "Resources Advanced Search\nStart Free Trial Talk With Sales Pricing Log In\nLog In Quotient Growth Score 86 CB Rank 34181 Heat Score 91\nSave Actions\nQuotient is an AI demand marketing platform designed to help teams create and manage marketing campaigns.\nFounded obfuscated\nobfuscation Private Seed Brooklyn , New York , United States 1-10 www.getquotient.ai\nArtificial Intelligence (AI) Content Marketing Marketing\nQuotient\nSection: Overview Actions\nOverview\nQuotient\nTotal Funding obfuscated\nobfuscation\nGrowth Score 86 Heat Score 91 Unlock best-in-class private company insights with Crunchbase Pro\nQuotient is an AI demand marketing platform designed to help teams create and manage marketing campaigns.\nFounded obfuscated\nobfuscation Private Seed Brooklyn , New York , United States 1-10 www.getquotient.ai\nArtificial Intelligence (AI) Content Marketing Marketing ## Funding Rounds\nSeed obfuscated\nOBF in obfuscated\nobfuscation\n9,748 Number of Organizations  • $168.2B Total Funding Amount  • 41,503 Number of Investors\nTrack\nBrooklyn Companies (Top 10K)\n10,000 Number of Organizations  • $19.9B Total Funding Amount  • 4,917 Number of Investors\nTrack\nView All Sub-Organizations Frequently Asked Questions\nWhere is Quotient 's headquarters?\nQuotient is located in Brooklyn , New York , United States . Who invested in Quotient ? Quotient is funded by boldstart ventures . When was the last funding round for Quotient ? Quotient closed its last funding round on obfuscated\nobfuscation from a Seed round. Who are Quotient 's competitors?"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/founders/saahil-sundaresan",
+    "title": "Y Combinator",
+    "excerpts": [
+     "Saahil Sundaresan - Y Combinator Founder of Quotient Labs\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nCompany logo pattern\nSaahil Sundaresan, Founder of Quotient Labs\nSaahil Sundaresan\nW26\nFounder at Quotient Labs\nMaking coding agents cheaper @ Quotient Labs | Stanford CS & Linguistics | formerly at Apple, Amazon Feel free to reach out for anything! saahil@quotientlabs.com\nFollow Saahil\n@imsaahilsangye @imsaahilsangye Follow on X LinkedIn Connect on LinkedIn\nPreviously at\nApple\nApple\nTechnical University of Munich\nTechnical University of Munich\nStanford Center for Clinical Research (SCCR)\nStanford Center for Clinical Research (SCCR)\nAlphaStar Academy\nAlphaStar Academy\nBoston Children's Hospital CHIP\nBoston Children's Hospital CHIP\nNASA\nNASA\nAlumnus of\nStanford University\nStanford University\nMountain View High School\nMountain View High School\nQuotient Labs\nQuotient Labs\nUse Claude Code at 47% less cost in one line of installation.\nFounded: 2025\nBatch: W26\nTeam Size: 2\nStatus: Active\nLocation: San Francisco\nPrimary Partner: Ankit Gupta\nRelated Founders\nAndrew Kuik Andrew Kuik Founder at Quotient Labs\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.cbinsights.com/company/quotient-labs/financials",
+    "title": "Quotient Labs Stock Price, Funding, Valuation, Revenue & Financial Statements",
+    "excerpts": [
+     "* About Us\n* Overview\n* Our teams\n* Business Development\n* Engineering\n* Operations\n* Product\n* See all →\n* Open Jobs\nLoading...\nQuotient Labs company logo\nQuotient Labs\nUnclaimed\nquotientlabs.com\n* Overview & Products\n* Financials\n* People\nTotal Raised\n$500K\nInvestors Count\n1\nFunding, Valuation & Revenue\n1 Fundings\nQuotient Labs has raised $500K over 1 rounds .\nQuotient Labs's latest funding round was a Convertible Note for $0.5M on January 1, 2026 .\n|Date |Round |Amount |Investors |Valuation\n* Valuations are submitted by companies, mined from state filings or news, provided by VentureSource, or based on a comparables valuation model. | Revenue | Sources\n* 1/1/2026 | Convertible Note | $0.5M | Y Combinator | $XXM | 0\nFY undefined |1 |\n* Date | 1/1/2026\n* Round | Convertible Note\n* Amount | $0.5M\n* Investors | Y Combinator\n* Valuation | $XXM\n* Revenue | 0\n* FY undefined\n* Sources | 1\nLearn more by requesting a demo\nStart free trial\nNew call-to-action\nQuotient Labs Investors\n1 Investors\nQuotient Labs has 1 investors . Y Combinator invested in Quotient Labs's Convertible Note funding round .\n* First funding | Last Funding | Investor | Rounds | Board Seats | Type | Location\n* 1/1/2026 | 1/1/2026 | Y Combinator | 1\nConvertible Note | |Incubator/Accelerator |California |\n* First funding | 1/1/2026\n* Last Funding | 1/1/2026\n* Investor | Y Combinator\n* Rounds | 1\n* Convertible Note\n* Board Seats |\n* Type | Incubator/Accelerator\n* AI 100\n* Fintech 100\n* Digital Health 50\n* Tech Trends 2024\n* Generative AI Predictions\n* Unicorn Tracker\n* VC Glossary\n* Company List Applications\n* CB Insights Website Terms of Use\n* Privacy Policy\n* Do Not Sell My Info\n* Partnership\nCopyright 2026 CB Information Services, Inc. All rights reserved."
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/launches/Ttw-quotient-labs-stop-overpaying-claude-for-tokens-you-don-t-need",
+    "title": "Launch YC: Quotient Labs: Stop overpaying Claude for tokens you don't need | Y Combinator",
+    "excerpts": [
+     "9\nQuotient Labs: Stop overpaying Claude for tokens you don't need\nWe cut your Claude Code costs by 47% in one line of install. Same models, same workflow, half the price.\nSaahil Sundaresan\nQuotient Labs\nabout 1 month ago\nEmbed\nhttps://quotientlabs.com\n#ai #saas #developer_tools\nTLDR : Tokenmaxxing is out. Tokenminning is in.\nQuotient Labs sits on top of Claude Code and reduces the amount of context you pay for—without changing your models, prompts, projects, or workflow. Across real, multi-step developer workflows, we’ve benchmarked 47% lower token cost with no measured quality loss. Get started today at https://www.quotientlabs.com/ .\nThe Problem\nCoding agents accumulate a lot of context.\nEvery file read, search result, test run, tool output, generated plan, and conversation turn gets added to the session. As the session grows, this history is repeatedly re-read (and re-billed) long after it has stopped being useful in its original form. The result?\nYou’re overpaying Claude for tokens your agent never needed.\nFermat’s Last Token (our main product) sits on top of Claude Code and optimizes what enters and remains in your model’s context. We do this in four ways:\nLive text compression that removes the information-sparse and irrelevant tokens in conversation turns before they ever compound in cost.\n4. Idle context optimization that compresses older conversation history as the prompt cache expires (this is more often than you think; only 5 minutes TTL) while preserving the freshest context verbatim.\nBefore Quotient Labs, we’ve been at Stanford (BS+MS CS/AI), industry (Apple, AWS, Accenture) and in academia (with multiple publications).\nuploaded image\nSee All Launches ›\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://indexed.vc/companies/quotient-labs",
+    "title": "Quotient Labs — Company Profile & Funding (2026) | Indexed.vc",
+    "excerpts": [
+     "Indexed logomark indexed .vc\nBrowse Discover Builder Rankings Pricing\nSearch... ⌘K Log in Sign up\n1. Indexed\n2. › Artificial Intelligence\n3. › Quotient Labs\nQuotient Labs\nFermat's Last Token\nSan Francisco, United States · Founded 2025\nSave\nShare\nArtificial Intelligence Developer Tools\nHeadquarters San Francisco, California\nEmployees 1–10\nFounded 2025\nWebsite quotientlabs.com\nAbout\nQuotient Labs runs on top of Claude Code to reduce token spend, compress context, and optimize tool calls while preserving output quality, without changing how you work. Benchmarked 47% less cost on real, multi-step developer workflows, with no quality loss.\nIts product, Fermat's Last Token, cuts Claude Code bills by 34-51% on average without changing your workflow, and was built by a team with backgrounds at Stanford, Apple, Amazon, and Accenture.\nSummary\nQuotient Labs is an Artificial Intelligence company based in San Francisco, United States, founded in 2025.\n* Top AI Startups in SF\n* Top SF Startups\n* Top Developer Tools Startups in SF\n* Top AI Companies\nYour company? Embed this profile\nAdd the live badge to your site — it stays current as yourfunding data updates.\nQuotient Labs on Indexed.vc\n<a href=\"https://indexed.vc/companies/quotient-labs\"><img src=\"https://indexed.vc/api/badge/company/quotient-labs\" alt=\"Quotient Labs on Indexed.vc\" width=\"260\" height=\"76\" /></a>\nCopy embed code\nIndexed logomark indexed .vc\nPrivate market intelligence for investors, founders, and sales teams.\nProduct\n* Browse\n* Discover\n* List Builder\n* Rankings"
+    ]
+   },
+   {
+    "url": "https://www.quotientlabs.com/enterprise",
+    "title": "Enterprise — Quotient Labs",
+    "excerpts": [
+     "Enterprise\nClaude Code optimization with enterprise data boundaries.\nAs perfect as 2 p−1 (2 p − 1) .\nFermat's Last Token is designed for individuals and small teams that want to reduce Claude Code costs without changing how they work.\nWe do not store your prompts, code, tool outputs, or agent traces. We retain only content-free operational data, such as token counts per request and compression statistics.\nHowever, Fermat's context optimization and prose compression temporarily route selected context through our cloud-hosted compression models.\nWe recognize that some organizations cannot permit source code or agent context to be processed outside their existing infrastructure, even when that data is not retained.\nLocal optimization\nIntroducing Mersenne\nMersenne brings Fermat's optimized agent tools and tool-output compression to enterprise environments while performing all Quotient optimization locally. Your prompts, code, tool outputs, and agent traces are never sent to Quotient Labs. Only content-free authentication, billing, token-count, and compression statistics leave your machine.\nYour requests still go to the model provider you have configured for Claude Code, such as Anthropic or Vertex AI. Mersenne does not introduce another cloud data processor into that path.\nFor organizations requiring a completely on-premises deployment, private infrastructure, or custom data-retention controls, we're more than happy to discuss further.\nTalk to us\nTo discuss access, deployment requirements, or an on-premises installation, contact us at founders@quotientlabs.com .\nQuotient Labs\nFermat's Last Token · v0.1.10\nsupport@quotientlabs.com\n© 2026 · San Francisco"
+    ]
+   }
+  ],
+  "decision_id": "decisions_268b9faf4fc5f8333f3cf08369eb1dd8"
+ }
+}

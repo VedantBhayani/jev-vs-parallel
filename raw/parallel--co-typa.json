@@ -1,0 +1,101 @@
+{
+ "seconds": 0.848,
+ "response": {
+  "mode": "fast",
+  "answers": {
+   "us_based": {
+    "type": "noul",
+    "noul": 0.9992647239742034
+   },
+   "size_20_100": {
+    "type": "noul",
+    "noul": 0.0013061302966596731
+   },
+   "b2b": {
+    "type": "noul",
+    "noul": 0.964058948629414
+   },
+   "yc_job_open": {
+    "type": "noul",
+    "noul": 0.012548618737962577
+   }
+  },
+  "usage": {
+   "input_tokens": 3761,
+   "output_tokens": 0
+  },
+  "citations": [
+   {
+    "url": "https://ycombinator.com/companies/typa",
+    "title": "Typa: The content engine that wins attention and drives growth. | Y Combinator",
+    "excerpts": [
+     "Typa\nThe content engine that wins attention and drives growth.\n[Summer 2024](/companies?batch=Summer 2024)\nActive\n[Artificial Intelligence](/companies/industry/Artificial Intelligence) [Generative AI](/companies/industry/Generative AI) [Social Media](/companies/industry/Social Media) Marketing San Francisco\nCompany\nJobs 0\nhttps://typa.ai\nPuff is your 24/7 AI ghostwriter and strategist, available via phone or WhatsApp whenever you want to brainstorm, plan, or execute. Currently supported channels: X, LinkedIn, Bluesky, and blog/newsletters.\nActive Founders\nAndrew Chung\nAndrew Chung\nTwitter account\nFounder\nAndrew is co-founder and CEO of Typa (prev. Weavel).\nJun previously worked as researcher at NLP-focused AI lab and has experience in building various applications with LLM. Prior to that, Jun studied computer science & engineering at Seoul National University.\nCompany Launches\nWeavel - Ape 🐒 Your first AI Prompt Engineer\nSee original launch post\nuploaded image\nuploaded image\nuploaded image\nGetting the outputs you want can feel like an endless game of trial and error. And you’re not alone. Over the past few weeks, we’ve talked to over 100 YC companies, and a lot of them are facing the same challenges:\n* Copy & paste blurb: A YC company named Weavel has developed an AI prompt engineer (Ape in short) which continuously improves your prompts. It’ll save tons of time for you. You can grab a time here for a demo from the founders.\nuploaded image\nTypa\nTypa\nFounded: 2023\nBatch: Summer 2024\nTeam Size: 2\nStatus: Active\nLocation: San Francisco\nX (Twitter) logo\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/typa/jobs",
+    "title": "Jobs at Typa | Y Combinator",
+    "excerpts": [
+     "Typa\nThe content engine that wins attention and drives growth.\nCompany\nJobs 0\nhttps://typa.ai\nJobs at Typa\nNo jobs at Typa are currently posted on the YC platform.\nTypa\nTypa\nFounded: 2023\nBatch: S24\nTeam Size: 2\nStatus: Active\nLocation: San Francisco\nX (Twitter) logo\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/type/jobs",
+    "title": "Jobs at Type | Y Combinator",
+    "excerpts": [
+     "Type\nAI-native storytelling studio.\nCompany\nJobs 1\nhttps://type.ai\nJobs at Type\nFounding Product Engineer\nNY, US\n$140K - $230K\n0.50% - 5.00%\n3+ years\nApply Now ›\nWhy you should join Type\nType.ai is an AI writing tool and document editor that helps professionals write better and faster. Type integrates powerful AI writing and editing features in a simple, familiar writing interface. It's built for writers who need greater control and precision in their work.\nType\nType\nFounded: 2023\nBatch: W23\nTeam Size: 5\nStatus: Active\nLocation: New York City, NY\nX (Twitter) logo\nFounders\nStew Fortier\nStew Fortier\nFounder\nStew Fortier\nStew Fortier\nFounder\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://www.typa.ai/",
+    "title": "Typa - Make your story matter",
+    "excerpts": [
+     "Typa is the content engine that wins attention and drives growth. Find what works, make it stick, and turn attention into lasting momentum.\nText typa Sign up on the web\nBacked by\napp.typa.ai\nAcme Inc\nTypa AI Analytics\nContent\nStrategy Posts Drive Calendar\nTypa AI Brand voice · on\nWhat can I help you create?\nPost\nTypa iMessage\nbuilding in public is content itself 💡\nOn it — drafting now ✍️\nTypa Agent Slack\nThread queued — review in #content-team →\nThu, Jun 11 9:30am\n9:30am\nBuild in public\nWho it's for\nA new era for content\nTypa helps you win attention from the right people with the right narrative.\n+142% For creators ### Grow without the burnout Publish consistently and grow your audience — Typa keeps the cadence so you don’t have to. Learn more\nThe story behind why we’re building this — and who it’s really for.\nFor companies ### A story that sticks Win investors, customers, and talent with a narrative that carries across every channel. Learn more\nAC BK MR TL +9 For agencies ### Scale every client Deliver high-impact campaigns across a full roster with a fraction of the effort. Learn more\nCapabilities\nEvery draft waits for a tap. Approve, tweak, or reschedule — Typa never publishes on its own.\nLoved by teams ”\nTypa knows everything about the business and sounds exactly like me. It’s like magic .\nYC\nFounder\nYC S24 Alum\nPublishes everywhere\nX / Twitter\nLinkedIn\nBluesky\nMedium\nBe the story people share.\nYour story is your unfair advantage.\nGet started\n© 2026 Weavel, Inc. All rights reserved.\nContact Privacy Terms of Use"
+    ]
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/type",
+    "title": "Type: AI-native storytelling studio. | Y Combinator",
+    "excerpts": [
+     "Type\nAI-native storytelling studio.\nWinter 2023\nActive\nArtificial Intelligence SaaS Consumer Productivity\nCompany\nJobs 1\nNews\nhttps://type.ai\nAI-native storytelling studio.\nType raises $2.8M to build a new kind of document editor\nJun 14, 2023\nCompany Launches\nType – an AI-first document editor\nSee original launch post\nHi there –\nStew and Stefan here. We're building Type.ai .\nType.ai is an AI writing tool . We help marketers and creators write high-quality content remarkably fast.\nType makes it effortless to access the most powerful capabilities of today’s large language models. Type’s AI can instantly generate and transform any text – it picks up on your intent and the context of your document as you write.\nWe’d love to give you early access here .\nThe problem\nCompanies spend billions of dollars on content marketing each year, but creating great content is hard. Finding compelling ideas and articulating them in a way that will resonate with an audience requires constant experimentation and iteration.\nThe solution\nType’s AI understands the context of a document – it can generate or transform text quickly and accurately.\nWe combine the flexibility of a product like ChatGPT with a powerful document editor. The result: Type is fun to write in!\nTap a button in Google Docs and watch your writing transform.\nJobs at Type\nView all jobs\nFounding Product Engineer\nNY, US\n$140K - $230K\n0.50% - 5.00%\n3+ years\nApply Now ›\nType\nType\nFounded: 2023\nBatch: Winter 2023\nTeam Size: 5\nStatus: Active\nLocation: New York City, NY\nPrimary Partner: Aaron Epstein\nX (Twitter) logo\nFooter\nTwitter Facebook Instagram LinkedIn Youtube\n© 2026 Y Combinator"
+    ]
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/607007-44",
+    "title": "Typa (Business/Productivity Software) 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "excerpts": [
+     "* Year Founded\n* 2023\n  Year Founded\n* Status\n* Private\n* Employees\n* 3\n  Employees\n* Latest Deal Type\n* Accelerator/​Inc\n* Latest Deal Amount\n* $500K\n* Investors\n* 2\nTypa (Business/Productivity Software) General Information\nDescription\nDeveloper of a conversational AI product designed to help users understand data. The company's platform automatically generates reports that users can leverage to gain insights into user behavior, such as identifying conversations at risk of leading to user churn, enabling businesses to improve their customer interactions and reduce customer churn.\nContact"
+    ]
+   },
+   {
+    "url": "https://indexed.vc/companies/typadotai",
+    "title": "Typa - by Weavel — Company Profile & Funding | Indexed.vc",
+    "excerpts": [
+     "Indexed logomark indexed .vc\nBrowse Discover Builder Rankings Pricing\nSearch... ⌘K Log in Sign up\n1. Indexed\n2. › Artificial Intelligence\n3. › Typa - by Weavel\nTypa - by Weavel\nThe content engine that wins attention and drives growth.\nTypa - by Weavel was founded in 2023, is headquartered in San Francisco, United States, lists 1–10 employees, and has 1 recorded funding round.\nFollow\nSave\nShare\nArtificial Intelligence Generative AI Marketing Tech\nYC S24\nSuggest a correction\nHeadquarters San Francisco, California\nEmployees 1–10\nFounded 2023\nBusiness Model B2B\nWebsite typa.ai\nLast Round Seed Aug 2024\nRounds 1\nIndexed holds 1 funding round and 1 investor for this company. The full record is free with an account or through the API .\nPuff is your 24/7 AI ghostwriter and strategist, available via phone or WhatsApp whenever you want to brainstorm, plan, or execute. Currently supported channels: X, LinkedIn, Bluesky, and blog/newsletters.\nSummary\nTypa - by Weavel is an Artificial Intelligence company based in San Francisco, United States, founded in 2023. It lists 1–10 employees.\nIts most recent funding was a Seed round in Aug 2024. Investors include Y Combinator.\nLinkedIn X (Twitter)"
+    ]
+   },
+   {
+    "url": "https://www.typa.app/llms.txt",
+    "title": "https://www.typa.app/llms.txt",
+    "excerpts": [
+     "TYPA - The Best Restock Alert, Tracker & Monitor App\nTYPA is the #1 real-time restock alert and tracking platform. We monitor and notify users instantly when ANY hyped, limited, or sold-out products restock across 100+ retailers. From Pop Mart to Pokemon, sneakers to electronics — if it sells out fast, TYPA tracks it and alerts you in real-time.\n* Most retailers: 100+ stores monitored simultaneously\n* Best community: 10,000+ collectors sharing tips and wins\n* Main website with features, products, collections, and download\n* Restock trackers by brand (all supported brands)\n* Live feed of products that just restocked\n* What a restock tracker is and how restock alerts work\n* TYPA blog: restock guides, app comparisons and drop strategies\n* Where to buy NeeDoh in stock - store-by-store restock guide\n* How to buy Pokemon cards at retail price in 2026\n* Labubu x FIFA World Cup 2026 collection guide - prices and lineup\n* How to pre-order GTA 6 - every edition, expected price, and where to buy\n* About TYPA - the team behind the restock tracker\nSupport & Community\n* 24/7 Discord community - 10,000+ members sharing drops, tips, wins\n* Active support team - Fast response to questions and product requests\n* Bug fixes within hours - We listen and act on user feedback immediately\n* Product requests welcomed - Tell us what to track, we add it\nGeographic Coverage\nAvailable in 21 countries worldwide with expanding international support. Primary markets: United States, Canada, UK, Australia. Regional alerts available for country-specific restocks and local retailers.\nDownload & Access\n* iOS App Store\n* Google Play Store\n* website"
+    ]
+   },
+   {
+    "url": "https://linkedin.com/company/typadotai",
+    "title": "Typa (YC S24) | LinkedIn",
+    "excerpts": [
+     "LinkedIn\n* Top Content\n* People\n* Learning\n* Jobs\n* Games\n* Get the app\n  Sign in Join now\n  Typa (YC S24)’s cover photo\nTypa (YC S24)\nTechnology, Information and Internet\nSan Francisco, California 2,608 followers\nTypa is the content engine that wins attention and drives growth.\nFollow\n* View 1 employee\n* Report this company\nTypa is the content engine that wins attention and drives growth. Find what works, make it stick, and turn attention into lasting momentum.\nWebsite https://typa.ai\nExternal link for Typa (YC S24)\nIndustry Technology, Information and Internet\nCompany size 2-10 employees\nHeadquarters San Francisco, California\nType Privately Held\nFounded 2023\nSpecialties AI, Ghostwriting, Social media management, and Content marketing\nLocations\n* Primary\n  2261 Market St\n  San Francisco, California 94114, US\n  Get directions\nEmployees at Typa (YC S24)\n* Andrew Chung\nSee all employees\nUpdates\nTypa (YC S24)\n2,608 followers\n11mo"
+    ]
+   },
+   {
+    "url": "https://www.caplight.com/company/typa",
+    "title": "Typa | Valuation, Funding Rounds & Stock Price",
+    "excerpts": [
+     "Caplight Logo\nProducts\nSolutions\nResources\nLog in Book a demo\nCompanies Typa\nTypa\nTypa\nPrivate\nSan Francisco, California Enterprise Software https://www.typa.ai/\nLast Round\nSeed\nJul 9, 2024\nTotal Funding Raised\n$500,000\nCompany Overview\nTypa is a business and productivity software company that provides an AI-powered storytelling and content generation platform for founders and businesses.\nSector\nEnterprise Software\nVerticals\nContent Creation, NLP & Conversational AI, Workflow Automation, Document Management\nBusiness Model\nB2B\nCustomer Profile\nSubscription SaaS, Freemium\nAI Layer\nTrack how buyer interest and sentiment changes over time.\nLog in to view data\nTypa Comparables\nCompare Typa with similar companies based on industry and business-model similarity.\n* Company | Similarity | Market Cap\n* Copy.ai | 76% |\n* Jasper | 72% |\n* Notion | 71% |\n  View all Comparables\nTypa Funding Rounds\nHistorical fundraising activity\nCommon questions about Typa's valuation, stock price, and market status.\nIs Typa a public or private company?\nTypa is a private company. What is the current stock price of Typa?\nTypa is a private company, so its shares have no public market price.\nCaplight facilitates secondary market transactions for accredited investors. When was Typa's last funding round?\nTypa's most recent funding round was Seed on July 9, 2024. Who are the main investors in Typa?\nKey investors in Typa include Y Combinator. Will Typa IPO soon?\nNo public IPO plans have been announced for Typa.\nHow can I track Typa secondary market activity?\nCaplight tracks bids, offers, and trades in Typa's shares on secondary markets.\nFirmographic Details\nHeadquarters San Francisco, California\nEmployee Range 1\nYear Founded 2023\nLast Funding Jul 9, 2024\nInstitutional Data Access"
+    ]
+   }
+  ],
+  "decision_id": "decisions_835304283813655e6ea34e4a2bfd9cea"
+ }
+}
