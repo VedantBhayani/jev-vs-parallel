@@ -35,6 +35,8 @@ Balanced accuracy, so always saying "no" scores 50%.
 - **The Dev Day case came back.** Given nearby OpenAI posts, Jev leaned "already published" (0.55) on a Dev Day post that doesn't exist, the same false hold Eric hit live. Parallel said 0.27. One case, not a rate.
 - **Route by question:** Jev for judging text you already have, Jev plus your own data for questions about yourself, Parallel only for public facts that change.
 
+**Where and how to use each, with cost per use case and API examples: [USE_CASES.md](USE_CASES.md).**
+
 ## Limits
 
 - Small sample: 230 company answers and 30 topic answers.
